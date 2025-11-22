@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="50mm"
+   viewBox="0 0 100 50"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:52.9167px;line-height:0;font-family:'Nanum Pen';-inkscape-font-specification:'Nanum Pen';fill:#d45500;stroke-width:0.264583"
+       x="2.9405975"
+       y="40.433155"
+       id="text1"><tspan
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Caveat Brush';-inkscape-font-specification:'Caveat Brush';fill:#ff6600;stroke-width:0.264583"
+         x="2.9405975"
+         y="40.433155">Pellu</tspan></text>
+    <path
+       style="fill:#ffffff;stroke-width:0.264583"
+       d="m 18.194926,31.427599 -5.329827,-5.329825 6.310025,4.288366 z"
+       id="path1" />
+    <path
+       style="fill:#ffffff;stroke-width:0.264583"
+       d="m 20.839914,31.356661 -5.329827,-5.329825 6.310025,4.288366 z"
+       id="path1-0" />
+    <path
+       style="fill:#ffffff;stroke-width:0.264583"
+       d="m 23.167884,31.158662 -5.329827,-5.329825 6.310025,4.288366 z"
+       id="path1-0-6" />
+    <path
+       style="fill:#ffffff;stroke-width:0.264583"
+       d="m 25.320957,31.114272 -5.329827,-5.329825 6.310025,4.288366 z"
+       id="path1-0-2" />
+    <path
+       style="fill:#ffffff;stroke-width:0.264583"
+       d="m 27.256498,31.05567 -5.329827,-5.329825 6.310025,4.288366 z"
+       id="path1-0-9" />
+  </g>
+</svg>

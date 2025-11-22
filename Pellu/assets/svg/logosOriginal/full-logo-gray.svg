@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="50mm"
+   viewBox="0 0 100 50"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="full-logo-gray.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.1594276"
+     inkscape:cx="183.15039"
+     inkscape:cy="119.93919"
+     inkscape:window-width="1600"
+     inkscape:window-height="749"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#333333;stroke-width:0.264583"
+       id="rect1"
+       width="102.18565"
+       height="52.563118"
+       x="-0.98019803"
+       y="-1.1027228"
+       inkscape:label="rect1" />
+    <text
+       xml:space="preserve"
+       style="font-size:52.9167px;line-height:0;font-family:'Nanum Pen';-inkscape-font-specification:'Nanum Pen';fill:#d45500;stroke-width:0.264583"
+       x="2.9405975"
+       y="40.433155"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Caveat Brush';-inkscape-font-specification:'Caveat Brush';fill:#ff6600;stroke-width:0.264583"
+         x="2.9405975"
+         y="40.433155">Pellu</tspan></text>
+    <path
+       style="fill:#333333;stroke-width:0.264583"
+       d="m 18.194926,31.427599 -5.329827,-5.329825 6.310025,4.288366 z"
+       id="path1" />
+    <path
+       style="fill:#333333;stroke-width:0.264583"
+       d="m 20.839914,31.356661 -5.329827,-5.329825 6.310025,4.288366 z"
+       id="path1-0" />
+    <path
+       style="fill:#333333;stroke-width:0.264583"
+       d="m 23.167884,31.158662 -5.329827,-5.329825 6.310025,4.288366 z"
+       id="path1-0-6" />
+    <path
+       style="fill:#333333;stroke-width:0.264583"
+       d="m 25.320957,31.114272 -5.329827,-5.329825 6.310025,4.288366 z"
+       id="path1-0-2" />
+    <path
+       style="fill:#333333;stroke-width:0.264583"
+       d="m 27.256498,31.05567 -5.329827,-5.329825 6.310025,4.288366 z"
+       id="path1-0-9" />
+  </g>
+</svg>

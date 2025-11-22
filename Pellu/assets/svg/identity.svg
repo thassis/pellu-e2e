@@ -1,0 +1,44 @@
+<svg width="400" height="250" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fundo verde da carteira -->
+  <rect x="0" y="0" width="400" height="250" fill="#e0f7cc" stroke="#004d00" stroke-width="1.5" />
+
+  <!-- Borda detalhada mais próxima -->
+  <rect x="5" y="5" width="390" height="240" fill="none" stroke="#004d00" stroke-width="3" />
+  <rect x="10" y="10" width="380" height="230" fill="none" stroke="#004d00" stroke-width="1.5" stroke-dasharray="5, 5" />
+
+  <!-- Seção para a foto, movida para baixo -->
+  <rect x="30" y="50" width="100" height="100" fill="none" stroke="#004d00" stroke-width="2" />
+
+  <!-- Imagem da pata de cachorro dentro da seção de foto -->
+  <!-- <image href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Paw_print.svg/1024px-Paw_print.svg.png" x="30" y="50" width="100" height="120" /> -->
+
+  <!-- Campo Nome com label mais escura e em negrito -->
+  <text x="140" y="67" font-family="Arial" font-size="16" fill="#002200" font-weight="bold">Nome:</text>
+  <rect x="200" y="50" width="170" height="25" fill="none" stroke="#004d00" stroke-width="1.5" />
+  <text x="210" y="68" font-family="Arial" font-size="14" fill="#004d00">Rex</text>
+
+  <!-- Campo Raça com label mais escura e em negrito -->
+  <text x="140" y="102" font-family="Arial" font-size="16" fill="#002200" font-weight="bold">Raça:</text>
+  <rect x="200" y="85" width="170" height="25" fill="none" stroke="#004d00" stroke-width="1.5" />
+  <text x="210" y="103" font-family="Arial" font-size="14" fill="#004d00">Labrador</text>
+
+  <!-- Campo Nascimento com label mais escura e em negrito -->
+  <text x="140" y="137" font-family="Arial" font-size="16" fill="#002200" font-weight="bold">Nascimento:</text>
+  <rect x="250" y="120" width="120" height="25" fill="none" stroke="#004d00" stroke-width="1.5" />
+  <text x="260" y="138" font-family="Arial" font-size="14" fill="#004d00">12/04/2018</text>
+
+  <!-- Campo Sexo com label mais escura e em negrito -->
+  <text x="140" y="172" font-family="Arial" font-size="16" fill="#002200" font-weight="bold">Sexo:</text>
+  <rect x="200" y="155" width="30" height="25" fill="none" stroke="#004d00" stroke-width="1.5" />
+  <text x="210" y="173" font-family="Arial" font-size="14" fill="#004d00">M</text>
+
+  <!-- Campo Porte com label mais escura e em negrito -->
+  <text x="240" y="172" font-family="Arial" font-size="16" fill="#002200" font-weight="bold">Porte:</text>
+  <rect x="290" y="155" width="80" height="25" fill="none" stroke="#004d00" stroke-width="1.5" />
+  <text x="300" y="173" font-family="Arial" font-size="14" fill="#004d00">Pequeno</text>
+
+  <!-- Campo Dono com label mais escura e em negrito -->
+  <text x="140" y="207" font-family="Arial" font-size="16" fill="#002200" font-weight="bold">Dono:</text>
+  <rect x="200" y="190" width="170" height="25" fill="none" stroke="#004d00" stroke-width="1.5" />
+  <text x="210" y="208" font-family="Arial" font-size="14" fill="#004d00">Carlos Silva</text>
+</svg>
