@@ -1,15 +1,15 @@
+import { BottomSheetFlatList } from "@gorhom/bottom-sheet";
 import React from "react";
 import { View } from "react-native";
-import Loading from "../loading/Loading";
-import styles from "./styles";
-import { BottomSheetFlatList } from "@gorhom/bottom-sheet";
-import Avatar from "../avatar/Avatar";
-import Text from "../text/Text";
-import { getStringDateFromId } from "../../utils/Date";
+import InputComment from "../../components/home/inputComment/InputComent";
+import useComments from "../../components/home/post/useComments";
 import { CommentType } from "../../types/comment.type";
-import InputComment from "../../navigator/stacks/home/homeScreen/components/inputComment/InputComent";
-import useComments from "../../navigator/stacks/home/homeScreen/components/post/useComments";
+import { getStringDateFromId } from "../../utils/Date";
+import Avatar from "../avatar/Avatar";
+import Loading from "../loading/Loading";
+import Text from "../text/Text";
 import { useBottomSheet } from "./BottomSheetContext";
+import styles from "./styles";
 
 type Props = {
   close: () => void;
@@ -51,8 +51,8 @@ const BottomSheetComments = ({ close }: Props) => {
         ) : (
           <BottomSheetFlatList
             data={comments}
-            keyExtractor={item => item._id.toString()}
-            renderItem={({ item }) => renderComment(item)}
+            keyExtractor={(item: any) => item._id.toString()}
+            renderItem={({ item }: { item: any }) => renderComment(item)}
             contentContainerStyle={{ backgroundColor: 'white' }}
             ListFooterComponent={() =>
               <View style={{ paddingBottom: 16 }}>

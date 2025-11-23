@@ -1,19 +1,27 @@
-import { useRouter } from "expo-router";
-import { Text, TouchableOpacity } from "react-native";
+import useSplash from '@/hooks/useSplash';
+import { Stack } from 'expo-router';
+import React from 'react';
+import { StyleSheet, View } from 'react-native';
+import LogoIcon from '../assets/svg/logo.icon';
 
-export default function Index() {
-  const { navigate } = useRouter();
+const SplashScreen = () => {
+  useSplash();
 
   return (
-    <TouchableOpacity
-      style={{
-        flex: 1,
-        justifyContent: "center",
-        alignItems: "center",
-      }}
-      onPress={() => navigate("/onboarding")}
-    >
-      <Text>Edit app/index.tsx to edit this screen.</Text>
-    </TouchableOpacity>
+    <View style={styles.container}>
+      <Stack screenOptions={{ headerShown: false }} />
+      <LogoIcon width={200} height={100} />
+    </View>
   );
-}
+};
+
+export default SplashScreen;
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: 'white',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+});

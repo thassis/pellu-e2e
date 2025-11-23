@@ -1,7 +1,6 @@
 import React from 'react';
-import {ActivityIndicator} from 'react-native-paper';
+import { ActivityIndicator, ActivityIndicatorProps } from 'react-native';
 import Colors from '../../utils/Colors';
-import {ActivityIndicatorProps} from 'react-native';
 
 type LoadingProps = ActivityIndicatorProps & {
   loading: boolean;
@@ -9,7 +8,7 @@ type LoadingProps = ActivityIndicatorProps & {
   color?: string;
 };
 
-const Loading = ({loading, center, color, ...props}: LoadingProps) => {
+const Loading = ({ loading, center, color, ...props }: LoadingProps) => {
   if (!loading) return null;
   return (
     <ActivityIndicator
@@ -18,7 +17,7 @@ const Loading = ({loading, center, color, ...props}: LoadingProps) => {
       style={[
         props.style,
         center
-          ? {flex: 1, justifyContent: 'center', alignItems: 'center'}
+          ? { flex: 1, justifyContent: 'center', alignItems: 'center' }
           : undefined,
       ]}
     />

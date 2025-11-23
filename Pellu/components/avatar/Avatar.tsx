@@ -1,8 +1,8 @@
+import FontAwesome from "@expo/vector-icons/FontAwesome";
 import React from 'react';
 import { ImageProps } from 'react-native';
-import styles from './styles';
 import ImageUri from '../imageUri/ImageUri';
-import FontAwesome from "@react-native-vector-icons/fontawesome";
+import styles from './styles';
 
 type ImageServerProps = Omit<ImageProps, 'width' | 'height'> & {
   pictureName: string;

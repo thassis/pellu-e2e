@@ -1,10 +1,10 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { View } from 'react-native';
 import { TextInput as TextInputP, TextInputProps } from 'react-native-paper';
-import styles from './styles';
-import Colors from '../../utils/Colors';
 import TextInputMask from 'react-native-text-input-mask';
+import Colors from '../../utils/Colors';
 import Text from '../text/Text';
+import styles from './styles';
 
 type Props = TextInputProps & {
   mask?: string;

@@ -1,13 +1,11 @@
 import Icon from '@expo/vector-icons/Ionicons';
 import { useRouter } from 'expo-router';
-import React, { useRef, useState } from 'react';
-import { Dimensions, FlatList, Image, NativeScrollEvent, NativeSyntheticEvent, StyleSheet, TouchableOpacity, View } from 'react-native';
+import React, { useEffect, useRef, useState } from 'react';
+import { Dimensions, Image, StyleSheet, TouchableOpacity, View } from 'react-native';
 import { OnboardingStorage } from '../asyncStorage/onboarding.storage';
 import LogoHeader from '../components/logoHeader.tsx/LogoHeader';
 import Text from '../components/text/Text';
 import Colors from '../utils/Colors';
-
-const { width } = Dimensions.get('window');
 
 const slides = [
   {
@@ -32,52 +30,113 @@ const slides = [
 
 const OnboardingScreen = () => {
   const { replace } = useRouter();
-  const flatListRef = useRef<FlatList>(null);
   const [currentIndex, setCurrentIndex] = useState(0);
+  const [isDragging, setIsDragging] = useState(false);
+  const [startX, setStartX] = useState(0);
+  const [currentTranslate, setCurrentTranslate] = useState(0);
+  const [prevTranslate, setPrevTranslate] = useState(0);
+  const containerRef = useRef<View>(null);
+
+  const getContainerWidth = () => {
+    if (typeof window !== 'undefined') {
+      return window.innerWidth;
+    }
+    return Dimensions.get('window').width;
+  };
 
   const handleNext = () => {
     if (currentIndex < slides.length - 1) {
-      flatListRef.current?.scrollToIndex({ index: currentIndex + 1, animated: true });
       setCurrentIndex(currentIndex + 1);
-    } else if (currentIndex === slides.length - 1) {
+    } else {
       goHome();
     }
-  };
-
-  const handleScrollEnd = (event: NativeSyntheticEvent<NativeScrollEvent>) => {
-    const index = Math.round(event.nativeEvent.contentOffset.x / width);
-    if (index === slides.length - 1) {
-      goHome();
-      return;
-    }
-    setCurrentIndex(index);
   };
 
   const goHome = () => {
     OnboardingStorage.set();
-    replace('/home');
+    replace('/(tabs)/home');
   };
+
+  useEffect(() => {
+    const width = getContainerWidth();
+    const newTranslate = -currentIndex * width;
+    setPrevTranslate(newTranslate);
+    setCurrentTranslate(newTranslate);
+  }, [currentIndex]);
+
+  const handleMouseDown = (e: any) => {
+    setIsDragging(true);
+    setStartX(e.clientX || e.touches?.[0]?.clientX || 0);
+  };
+
+  const handleMouseMove = (e: any) => {
+    if (!isDragging) return;
+    const currentX = e.clientX || e.touches?.[0]?.clientX || 0;
+    const diff = currentX - startX;
+    setCurrentTranslate(prevTranslate + diff);
+  };
+
+  const handleMouseUp = () => {
+    setIsDragging(false);
+    const width = getContainerWidth();
+    const movedBy = currentTranslate - prevTranslate;
+
+    if (movedBy < -width / 4 && currentIndex < slides.length - 1) {
+      setCurrentIndex(currentIndex + 1);
+    } else if (movedBy > width / 4 && currentIndex > 0) {
+      setCurrentIndex(currentIndex - 1);
+    } else {
+      setCurrentTranslate(prevTranslate);
+    }
+  };
+
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+
+    const handleGlobalMouseMove = (e: MouseEvent) => handleMouseMove(e);
+    const handleGlobalMouseUp = () => handleMouseUp();
+
+    if (isDragging) {
+      window.addEventListener('mousemove', handleGlobalMouseMove);
+      window.addEventListener('mouseup', handleGlobalMouseUp);
+    }
+
+    return () => {
+      window.removeEventListener('mousemove', handleGlobalMouseMove);
+      window.removeEventListener('mouseup', handleGlobalMouseUp);
+    };
+  }, [isDragging, startX, currentTranslate, prevTranslate, currentIndex]);
 
   return (
     <View style={styles.container}>
       <LogoHeader />
       <View style={styles.body}>
-        <FlatList
-          ref={flatListRef}
-          data={slides}
-          horizontal
-          pagingEnabled
-          showsHorizontalScrollIndicator={false}
-          keyExtractor={(item) => item.id}
-          onMomentumScrollEnd={handleScrollEnd}
-          renderItem={({ item }) => (
-            <View style={styles.slide}>
-              <Image source={item.image} style={styles.image} />
-              <Text style={styles.text}>{item.text}</Text>
-              <Text style={styles.message}>{item.message}</Text>
-            </View>
-          )}
-        />
+        <View
+          ref={containerRef}
+          style={styles.carouselContainer}
+          onStartShouldSetResponder={() => true}
+          onResponderStart={handleMouseDown}
+          onResponderMove={handleMouseMove}
+          onResponderRelease={handleMouseUp}
+        >
+          <View
+            style={[
+              styles.slidesWrapper,
+              {
+                transform: [{ translateX: currentTranslate }],
+                transition: isDragging ? 'none' : 'transform 0.3s ease-out'
+              } as any
+            ]}
+          >
+            {slides.map((slide, index) => (
+              <View key={slide.id} style={styles.slide}>
+                <Image source={slide.image} style={styles.image} />
+                <Text style={styles.text}>{slide.text}</Text>
+                <Text style={styles.message}>{slide.message}</Text>
+              </View>
+            ))}
+          </View>
+        </View>
 
         <View style={styles.indicatorContainer}>
           {slides.map((_, index) => (
@@ -90,7 +149,7 @@ const OnboardingScreen = () => {
             <Text style={styles.buttonText}>Pular</Text>
           </TouchableOpacity>
           <TouchableOpacity onPress={handleNext}>
-            <Icon name="arrow-forward-circle" size={36} color={Colors.secondary} />
+            <Icon name="arrow-forward-circle" size={36} color={Colors.secondary} testID='arrow-forward-circle' />
           </TouchableOpacity>
         </View>
       </View>
@@ -110,14 +169,24 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     backgroundColor: '#fff',
   },
+  carouselContainer: {
+    flex: 1,
+    width: '100%',
+    overflow: 'hidden',
+  },
+  slidesWrapper: {
+    flexDirection: 'row',
+    height: '100%',
+  },
   image: {
-    width: width - 50,
-    height: width - 50,
+    width: Dimensions.get('window').width - 50,
+    height: Dimensions.get('window').width - 50,
     resizeMode: 'contain',
   },
   slide: {
-    width: width,
+    width: Dimensions.get('window').width,
     alignItems: 'center',
+    justifyContent: 'center',
   },
   text: {
     marginTop: 20,

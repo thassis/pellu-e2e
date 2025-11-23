@@ -1,10 +1,10 @@
+import MaterialCommunityIcons from "@expo/vector-icons/MaterialCommunityIcons";
 import React from 'react';
 import { FlatList, TouchableOpacity, View } from 'react-native';
-import Text from '../text/Text';
-import MaterialCommunityIcons from "@react-native-vector-icons/material-design-icons";
-import styles from './styles';
 import Colors from '../../utils/Colors';
 import Loading from '../loading/Loading';
+import Text from '../text/Text';
+import styles from './styles';
 
 type ListButtonProps = {
   title: string;

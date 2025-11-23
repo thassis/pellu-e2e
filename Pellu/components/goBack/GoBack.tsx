@@ -1,9 +1,8 @@
+import MaterialCommunityIcons from "@expo/vector-icons/MaterialCommunityIcons";
+import { useRouter } from "expo-router";
 import React from 'react';
 import { StyleSheet, TouchableOpacity, View } from 'react-native';
-import MaterialCommunityIcons from "@react-native-vector-icons/material-design-icons";
-import Text from '../text/Text';
 import Colors from '../../utils/Colors';
-import { useNavigate } from '../../navigator/useNavigate';
 
 type GoBackProps = {
   onPress?: () => void;
@@ -11,12 +10,12 @@ type GoBackProps = {
 };
 
 const GoBack = ({ onPress, withBackground }: GoBackProps) => {
-  const { goBack } = useNavigate();
+  const { back } = useRouter();
   return (
     <View style={withBackground ? styles.absolute : undefined}>
       <TouchableOpacity
         style={styles.container}
-        onPress={() => (onPress ? onPress() : goBack())}>
+        onPress={() => (onPress ? onPress() : back())}>
         {withBackground ? (
           <View style={styles.background}>
             <MaterialCommunityIcons

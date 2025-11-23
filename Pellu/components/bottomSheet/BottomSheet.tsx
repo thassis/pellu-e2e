@@ -1,11 +1,11 @@
+import BottomSheetG, { BottomSheetBackdrop } from '@gorhom/bottom-sheet';
 import React, { useEffect, useRef } from 'react';
 import { BackHandler, View } from 'react-native';
-import styles from './styles';
 import Text from '../text/Text';
-import BottomSheetG, { BottomSheetBackdrop } from '@gorhom/bottom-sheet';
-import { useBottomSheet } from './BottomSheetContext';
 import BottomSheetComments from './BottomSheetComments';
+import { useBottomSheet } from './BottomSheetContext';
 import BottomSheetPetFilter from './BottomSheetPetFilter';
+import styles from './styles';
 
 const BottomSheet = () => {
   const { visible, title, type, closeSheet } = useBottomSheet();
@@ -76,7 +76,7 @@ const BottomSheet = () => {
             {title}
           </Text>
         </View>
-        {renderContent()}
+        {/* {renderContent()} */}
       </View>
     </BottomSheetG>
   );

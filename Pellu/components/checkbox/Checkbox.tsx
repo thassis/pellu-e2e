@@ -1,8 +1,8 @@
+import { Checkbox as CB } from 'expo-checkbox';
 import React from 'react';
 import { StyleSheet, TouchableOpacity } from 'react-native';
-import Text from '../text/Text';
-import CB from '@react-native-community/checkbox';
 import Colors from '../../utils/Colors';
+import Text from '../text/Text';
 
 type Props = {
   checked: boolean;

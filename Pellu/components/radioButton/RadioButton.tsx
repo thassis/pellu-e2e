@@ -1,8 +1,8 @@
+import { Checkbox } from 'expo-checkbox';
 import React from "react";
 import { StyleSheet, TouchableOpacity } from "react-native";
-import Text from "../text/Text";
 import Colors from "../../utils/Colors";
-import { RadioButton as RB } from "react-native-paper";
+import Text from "../text/Text";
 
 type Props = {
   value: boolean;
@@ -10,15 +10,13 @@ type Props = {
   label: string;
 }
 
-const RadioButton = ({value, onChange, label}: Props) => {
+const RadioButton = ({ value, onChange, label }: Props) => {
   return (
     <TouchableOpacity onPress={() => onChange()} style={styles.radio}>
-      <RB
-        value={String(value)}
+      <Checkbox
+        value={value}
         color={Colors.primary}
-        status={value ? 'checked' : 'unchecked'}
-        onPress={() => onChange()}
-        uncheckedColor='black'
+        onChange={() => onChange()}
       />
       <Text type="h1">{label}</Text>
     </TouchableOpacity>

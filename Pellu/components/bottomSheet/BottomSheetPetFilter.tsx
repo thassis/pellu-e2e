@@ -1,17 +1,17 @@
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import { Alert, StyleSheet, View } from "react-native";
-import { useBottomSheet } from "./BottomSheetContext";
+import { KeyboardAwareScrollView } from "react-native-keyboard-aware-scroll-view";
+import { OngApi } from "../../apis/ong.api";
+import SearchBarView from "../../components/home/searchBarView/SearchBarView";
 import { PetType } from "../../types/offer.type";
+import { IOng } from "../../types/ong.type";
+import { getLocation } from "../../utils/Location";
+import Loading from "../loading/Loading";
 import PrimaryButton from "../primaryButton/PrimaryButton";
 import Text from "../text/Text";
-import SearchBarView from "../../navigator/stacks/home/homeScreen/components/searchBarView/SearchBarView";
-import { OngApi } from "../../apis/ong.api";
-import { getLocation } from "../../utils/Location";
-import { IOng } from "../../types/ong.type";
-import Loading from "../loading/Loading";
+import { useBottomSheet } from "./BottomSheetContext";
 import OngTypeFilter from "./components/ongTypeFilter/ongTypeFilter";
 import PetTypeFilter from "./components/petTypeFilter/petTypeFilter";
-import { KeyboardAwareScrollView } from "react-native-keyboard-aware-scroll-view";
 
 type Props = {
   isVisible: boolean;

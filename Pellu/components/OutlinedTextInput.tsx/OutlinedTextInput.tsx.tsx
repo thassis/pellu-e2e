@@ -1,9 +1,8 @@
 import React from 'react';
-import {TextInput, View} from 'react-native';
-import {TextInputProps} from 'react-native-paper';
+import { TextInput, TextInputProps, View } from 'react-native';
 import styles from './styles';
 
-const OutlinedTextInput = ({right, ...props}: TextInputProps) => {
+const OutlinedTextInput = ({ right, ...props }: TextInputProps & { right?: React.ReactNode }) => {
   return (
     <View style={styles.view}>
       <TextInput {...props} style={[styles.container, styles.input, props.style]} />

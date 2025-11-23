@@ -1,6 +1,5 @@
 import React, { createContext, ReactNode, useContext, useState } from "react";
 import { PetType } from "../../types/offer.type";
-import { IOng } from "../../types/ong.type";
 
 type BottomSheetType = 'comments' | 'pet-filter';
 

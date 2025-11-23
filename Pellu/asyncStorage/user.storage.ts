@@ -1,8 +1,34 @@
-import * as Keychain from 'react-native-keychain';
-import { initAxiosJwtToken } from '../apis/axios';
+// import * as Keychain from 'react-native-keychain';
 import { IUserAuthenticated } from '../types/user.type';
 import { OnboardingStorage } from './onboarding.storage';
-import AsyncStorage from '@react-native-async-storage/async-storage';
+
+const USER_COOKIE = 'user';
+
+const cookieGet = (name: string): string => {
+  if (typeof document === 'undefined') return '';
+  const cookies = document.cookie ? document.cookie.split('; ') : [];
+  const match = cookies.find((row) => row.startsWith(name + '='));
+  if (!match) return '';
+  const value = match.split('=').slice(1).join('=');
+  try {
+    return decodeURIComponent(value);
+  } catch {
+    return value;
+  }
+};
+
+const cookieSet = (name: string, value: string, days = 365) => {
+  if (typeof document === 'undefined') return;
+  const expires = new Date(Date.now() + days * 864e5).toUTCString();
+  const cookie = `${name}=${encodeURIComponent(value)}; expires=${expires}; path=/`;
+  document.cookie = cookie;
+};
+
+const cookieRemove = (name: string) => {
+  if (typeof document === 'undefined') return;
+  // set expire in the past
+  document.cookie = `${name}=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/`;
+};
 
 export const UserStorage = {
   user: undefined as IUserAuthenticated | undefined,
@@ -11,23 +37,23 @@ export const UserStorage = {
       return UserStorage.user;
     }
     try {
-      const credentials = await Keychain.getGenericPassword();
-      if (credentials) {
-        UserStorage.user = JSON.parse(credentials.password);
-        return UserStorage.user;
-      }
+      const raw = cookieGet(USER_COOKIE);
+      if (!raw) return undefined;
+      UserStorage.user = JSON.parse(raw) as IUserAuthenticated;
+      return UserStorage.user;
     } catch (e) {
-      console.log("Error retrieving user:", e);
+      // keep it silent; return undefined on parse error
+      console.log('Error retrieving user from cookie:', e);
+      return undefined;
     }
-    return undefined;
   },
   set: async (user: IUserAuthenticated) => {
     try {
-      await Keychain.setGenericPassword('user', JSON.stringify(user));
+      cookieSet(USER_COOKIE, JSON.stringify(user));
       UserStorage.user = user;
-      initAxiosJwtToken();
+      // initAxiosJwtToken();
     } catch (e) {
-      console.log("Error saving user:", e);
+      console.log('Error saving user to cookie:', e);
     }
   },
   updatePicture: async (picture: string) => {
@@ -36,21 +62,21 @@ export const UserStorage = {
     }
     try {
       UserStorage.user.picture = picture;
-      await Keychain.setGenericPassword('user', JSON.stringify(UserStorage.user));
+      cookieSet(USER_COOKIE, JSON.stringify(UserStorage.user));
     } catch (e) {
-      console.log("Error updating picture:", e);
+      console.log('Error updating picture in cookie:', e);
     }
   },
   clear: async () => {
     try {
-      await Keychain.resetGenericPassword();
+      cookieRemove(USER_COOKIE);
       UserStorage.user = undefined;
 
+      // Preserve onboarding state (kept from original behavior).
       const onboarding = await OnboardingStorage.get();
-      AsyncStorage.clear();
       await OnboardingStorage.set(onboarding);
     } catch (e) {
-      console.log("Error clearing user:", e);
+      console.log('Error clearing user:', e);
     }
   },
 };

@@ -1,10 +1,9 @@
-import React, { useState } from 'react';
-import { Image, ImageProps, Dimensions } from 'react-native';
-import MaterialCommunityIcons from "@react-native-vector-icons/material-design-icons";
-import FontAwesome from "@react-native-vector-icons/ionicons";
-import { env } from '../../../env';
+import FontAwesome from "@expo/vector-icons/Ionicons";
+import MaterialCommunityIcons from "@expo/vector-icons/MaterialCommunityIcons";
+import React, { JSX, useState } from 'react';
+import { Dimensions, Image, ImageProps } from 'react-native';
+import { env } from '../../env';
 import { SizeType } from '../../types/utils.type';
-import Colors from '../../utils/Colors';
 
 const { width: fullWidth } = Dimensions.get('window');
 type ImageUriProps = Omit<ImageProps, 'width' | 'height'> & {
