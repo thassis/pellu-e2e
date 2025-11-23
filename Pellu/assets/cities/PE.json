@@ -1,0 +1,1297 @@
+[
+  {
+    "state": "PE",
+    "ibge": 2600054,
+    "city": "Abreu e Lima",
+    "latitude": -7.90072,
+    "longitude": -34.8984
+  },
+  {
+    "state": "PE",
+    "ibge": 2600104,
+    "city": "Afogados da Ingazeira",
+    "latitude": -7.74312,
+    "longitude": -37.631
+  },
+  {
+    "state": "PE",
+    "ibge": 2600203,
+    "city": "Afrânio",
+    "latitude": -8.51136,
+    "longitude": -41.0095
+  },
+  {
+    "state": "PE",
+    "ibge": 2600302,
+    "city": "Agrestina",
+    "latitude": -8.45966,
+    "longitude": -35.9447
+  },
+  {
+    "state": "PE",
+    "ibge": 2600401,
+    "city": "Água Preta",
+    "latitude": -8.70609,
+    "longitude": -35.5263
+  },
+  {
+    "state": "PE",
+    "ibge": 2600500,
+    "city": "Águas Belas",
+    "latitude": -9.11125,
+    "longitude": -37.1226
+  },
+  {
+    "state": "PE",
+    "ibge": 2600609,
+    "city": "Alagoinha",
+    "latitude": -8.4665,
+    "longitude": -36.7788
+  },
+  {
+    "state": "PE",
+    "ibge": 2600708,
+    "city": "Aliança",
+    "latitude": -7.60398,
+    "longitude": -35.2227
+  },
+  {
+    "state": "PE",
+    "ibge": 2600807,
+    "city": "Altinho",
+    "latitude": -8.48482,
+    "longitude": -36.0644
+  },
+  {
+    "state": "PE",
+    "ibge": 2600906,
+    "city": "Amaraji",
+    "latitude": -8.37691,
+    "longitude": -35.4501
+  },
+  {
+    "state": "PE",
+    "ibge": 2601003,
+    "city": "Angelim",
+    "latitude": -8.88429,
+    "longitude": -36.2902
+  },
+  {
+    "state": "PE",
+    "ibge": 2601052,
+    "city": "Araçoiaba",
+    "latitude": -7.78391,
+    "longitude": -35.0809
+  },
+  {
+    "state": "PE",
+    "ibge": 2601102,
+    "city": "Araripina",
+    "latitude": -7.57073,
+    "longitude": -40.494
+  },
+  {
+    "state": "PE",
+    "ibge": 2601201,
+    "city": "Arcoverde",
+    "latitude": -8.41519,
+    "longitude": -37.0577
+  },
+  {
+    "state": "PE",
+    "ibge": 2601300,
+    "city": "Barra de Guabiraba",
+    "latitude": -8.42075,
+    "longitude": -35.6585
+  },
+  {
+    "state": "PE",
+    "ibge": 2601409,
+    "city": "Barreiros",
+    "latitude": -8.81605,
+    "longitude": -35.1832
+  },
+  {
+    "state": "PE",
+    "ibge": 2601508,
+    "city": "Belém de Maria",
+    "latitude": -8.62504,
+    "longitude": -35.8335
+  },
+  {
+    "state": "PE",
+    "ibge": 2601607,
+    "city": "Belém do São Francisco",
+    "latitude": -8.75046,
+    "longitude": -38.9623
+  },
+  {
+    "state": "PE",
+    "ibge": 2601706,
+    "city": "Belo Jardim",
+    "latitude": -8.3313,
+    "longitude": -36.4258
+  },
+  {
+    "state": "PE",
+    "ibge": 2601805,
+    "city": "Betânia",
+    "latitude": -8.26787,
+    "longitude": -38.0345
+  },
+  {
+    "state": "PE",
+    "ibge": 2601904,
+    "city": "Bezerros",
+    "latitude": -8.2328,
+    "longitude": -35.796
+  },
+  {
+    "state": "PE",
+    "ibge": 2602001,
+    "city": "Bodocó",
+    "latitude": -7.77759,
+    "longitude": -39.9338
+  },
+  {
+    "state": "PE",
+    "ibge": 2602100,
+    "city": "Bom Conselho",
+    "latitude": -9.16919,
+    "longitude": -36.6857
+  },
+  {
+    "state": "PE",
+    "ibge": 2602209,
+    "city": "Bom Jardim",
+    "latitude": -7.79695,
+    "longitude": -35.5784
+  },
+  {
+    "state": "PE",
+    "ibge": 2602308,
+    "city": "Bonito",
+    "latitude": -8.47163,
+    "longitude": -35.7292
+  },
+  {
+    "state": "PE",
+    "ibge": 2602407,
+    "city": "Brejão",
+    "latitude": -9.02915,
+    "longitude": -36.566
+  },
+  {
+    "state": "PE",
+    "ibge": 2602506,
+    "city": "Brejinho",
+    "latitude": -7.34694,
+    "longitude": -37.2865
+  },
+  {
+    "state": "PE",
+    "ibge": 2602605,
+    "city": "Brejo da Madre de Deus",
+    "latitude": -8.14933,
+    "longitude": -36.3741
+  },
+  {
+    "state": "PE",
+    "ibge": 2602704,
+    "city": "Buenos Aires",
+    "latitude": -7.72449,
+    "longitude": -35.3182
+  },
+  {
+    "state": "PE",
+    "ibge": 2602803,
+    "city": "Buíque",
+    "latitude": -8.61954,
+    "longitude": -37.1606
+  },
+  {
+    "state": "PE",
+    "ibge": 2602902,
+    "city": "Cabo de Santo Agostinho",
+    "latitude": -8.28218,
+    "longitude": -35.0253
+  },
+  {
+    "state": "PE",
+    "ibge": 2603009,
+    "city": "Cabrobó",
+    "latitude": -8.50548,
+    "longitude": -39.3094
+  },
+  {
+    "state": "PE",
+    "ibge": 2603108,
+    "city": "Cachoeirinha",
+    "latitude": -8.48668,
+    "longitude": -36.2402
+  },
+  {
+    "state": "PE",
+    "ibge": 2603207,
+    "city": "Caetés",
+    "latitude": -8.7803,
+    "longitude": -36.6268
+  },
+  {
+    "state": "PE",
+    "ibge": 2603306,
+    "city": "Calçado",
+    "latitude": -8.73108,
+    "longitude": -36.3366
+  },
+  {
+    "state": "PE",
+    "ibge": 2603405,
+    "city": "Calumbi",
+    "latitude": -7.93551,
+    "longitude": -38.1482
+  },
+  {
+    "state": "PE",
+    "ibge": 2603454,
+    "city": "Camaragibe",
+    "latitude": -8.02351,
+    "longitude": -34.9782
+  },
+  {
+    "state": "PE",
+    "ibge": 2603504,
+    "city": "Camocim de São Félix",
+    "latitude": -8.35865,
+    "longitude": -35.7653
+  },
+  {
+    "state": "PE",
+    "ibge": 2603603,
+    "city": "Camutanga",
+    "latitude": -7.40545,
+    "longitude": -35.2664
+  },
+  {
+    "state": "PE",
+    "ibge": 2603702,
+    "city": "Canhotinho",
+    "latitude": -8.87652,
+    "longitude": -36.1979
+  },
+  {
+    "state": "PE",
+    "ibge": 2603801,
+    "city": "Capoeiras",
+    "latitude": -8.73423,
+    "longitude": -36.6306
+  },
+  {
+    "state": "PE",
+    "ibge": 2603900,
+    "city": "Carnaíba",
+    "latitude": -7.79342,
+    "longitude": -37.7946
+  },
+  {
+    "state": "PE",
+    "ibge": 2603926,
+    "city": "Carnaubeira da Penha",
+    "latitude": -8.31799,
+    "longitude": -38.7512
+  },
+  {
+    "state": "PE",
+    "ibge": 2604007,
+    "city": "Carpina",
+    "latitude": -7.84566,
+    "longitude": -35.2514
+  },
+  {
+    "state": "PE",
+    "ibge": 2604106,
+    "city": "Caruaru",
+    "latitude": -8.28455,
+    "longitude": -35.9699
+  },
+  {
+    "state": "PE",
+    "ibge": 2604155,
+    "city": "Casinhas",
+    "latitude": -7.74084,
+    "longitude": -35.7206
+  },
+  {
+    "state": "PE",
+    "ibge": 2604205,
+    "city": "Catende",
+    "latitude": -8.67509,
+    "longitude": -35.7024
+  },
+  {
+    "state": "PE",
+    "ibge": 2604304,
+    "city": "Cedro",
+    "latitude": -7.71179,
+    "longitude": -39.2367
+  },
+  {
+    "state": "PE",
+    "ibge": 2604403,
+    "city": "Chã de Alegria",
+    "latitude": -8.00679,
+    "longitude": -35.204
+  },
+  {
+    "state": "PE",
+    "ibge": 2604502,
+    "city": "Chã Grande",
+    "latitude": -8.23827,
+    "longitude": -35.4571
+  },
+  {
+    "state": "PE",
+    "ibge": 2604601,
+    "city": "Condado",
+    "latitude": -7.58787,
+    "longitude": -35.0999
+  },
+  {
+    "state": "PE",
+    "ibge": 2604700,
+    "city": "Correntes",
+    "latitude": -9.12117,
+    "longitude": -36.3244
+  },
+  {
+    "state": "PE",
+    "ibge": 2604809,
+    "city": "Cortês",
+    "latitude": -8.47443,
+    "longitude": -35.5468
+  },
+  {
+    "state": "PE",
+    "ibge": 2604908,
+    "city": "Cumaru",
+    "latitude": -8.00827,
+    "longitude": -35.6957
+  },
+  {
+    "state": "PE",
+    "ibge": 2605004,
+    "city": "Cupira",
+    "latitude": -8.62432,
+    "longitude": -35.9518
+  },
+  {
+    "state": "PE",
+    "ibge": 2605103,
+    "city": "Custódia",
+    "latitude": -8.08546,
+    "longitude": -37.6443
+  },
+  {
+    "state": "PE",
+    "ibge": 2605152,
+    "city": "Dormentes",
+    "latitude": -8.44116,
+    "longitude": -40.7662
+  },
+  {
+    "state": "PE",
+    "ibge": 2605202,
+    "city": "Escada",
+    "latitude": -8.35672,
+    "longitude": -35.2241
+  },
+  {
+    "state": "PE",
+    "ibge": 2605301,
+    "city": "Exu",
+    "latitude": -7.50364,
+    "longitude": -39.7238
+  },
+  {
+    "state": "PE",
+    "ibge": 2605400,
+    "city": "Feira Nova",
+    "latitude": -7.94704,
+    "longitude": -35.3801
+  },
+  {
+    "state": "PE",
+    "ibge": 2605459,
+    "city": "Fernando de Noronha",
+    "latitude": -3.8396,
+    "longitude": -32.4107
+  },
+  {
+    "state": "PE",
+    "ibge": 2605509,
+    "city": "Ferreiros",
+    "latitude": -7.44666,
+    "longitude": -35.2373
+  },
+  {
+    "state": "PE",
+    "ibge": 2605608,
+    "city": "Flores",
+    "latitude": -7.85842,
+    "longitude": -37.9715
+  },
+  {
+    "state": "PE",
+    "ibge": 2605707,
+    "city": "Floresta",
+    "latitude": -8.60307,
+    "longitude": -38.5687
+  },
+  {
+    "state": "PE",
+    "ibge": 2605806,
+    "city": "Frei Miguelinho",
+    "latitude": -7.93918,
+    "longitude": -35.9113
+  },
+  {
+    "state": "PE",
+    "ibge": 2605905,
+    "city": "Gameleira",
+    "latitude": -8.5798,
+    "longitude": -35.3846
+  },
+  {
+    "state": "PE",
+    "ibge": 2606002,
+    "city": "Garanhuns",
+    "latitude": -8.88243,
+    "longitude": -36.4966
+  },
+  {
+    "state": "PE",
+    "ibge": 2606101,
+    "city": "Glória do Goitá",
+    "latitude": -8.00568,
+    "longitude": -35.2904
+  },
+  {
+    "state": "PE",
+    "ibge": 2606200,
+    "city": "Goiana",
+    "latitude": -7.5606,
+    "longitude": -34.9959
+  },
+  {
+    "state": "PE",
+    "ibge": 2606309,
+    "city": "Granito",
+    "latitude": -7.70711,
+    "longitude": -39.615
+  },
+  {
+    "state": "PE",
+    "ibge": 2606408,
+    "city": "Gravatá",
+    "latitude": -8.21118,
+    "longitude": -35.5675
+  },
+  {
+    "state": "PE",
+    "ibge": 2606507,
+    "city": "Iati",
+    "latitude": -9.04559,
+    "longitude": -36.8498
+  },
+  {
+    "state": "PE",
+    "ibge": 2606606,
+    "city": "Ibimirim",
+    "latitude": -8.54026,
+    "longitude": -37.7032
+  },
+  {
+    "state": "PE",
+    "ibge": 2606705,
+    "city": "Ibirajuba",
+    "latitude": -8.57633,
+    "longitude": -36.1812
+  },
+  {
+    "state": "PE",
+    "ibge": 2606804,
+    "city": "Igarassu",
+    "latitude": -7.82881,
+    "longitude": -34.9013
+  },
+  {
+    "state": "PE",
+    "ibge": 2606903,
+    "city": "Iguaracy",
+    "latitude": -7.83222,
+    "longitude": -37.5082
+  },
+  {
+    "state": "PE",
+    "ibge": 2607604,
+    "city": "Ilha de Itamaracá",
+    "latitude": -7.74766,
+    "longitude": -34.8303
+  },
+  {
+    "state": "PE",
+    "ibge": 2607000,
+    "city": "Inajá",
+    "latitude": -8.90206,
+    "longitude": -37.8351
+  },
+  {
+    "state": "PE",
+    "ibge": 2607109,
+    "city": "Ingazeira",
+    "latitude": -7.66909,
+    "longitude": -37.4576
+  },
+  {
+    "state": "PE",
+    "ibge": 2607208,
+    "city": "Ipojuca",
+    "latitude": -8.39303,
+    "longitude": -35.0609
+  },
+  {
+    "state": "PE",
+    "ibge": 2607307,
+    "city": "Ipubi",
+    "latitude": -7.64505,
+    "longitude": -40.1476
+  },
+  {
+    "state": "PE",
+    "ibge": 2607406,
+    "city": "Itacuruba",
+    "latitude": -8.82231,
+    "longitude": -38.6975
+  },
+  {
+    "state": "PE",
+    "ibge": 2607505,
+    "city": "Itaíba",
+    "latitude": -8.94569,
+    "longitude": -37.4173
+  },
+  {
+    "state": "PE",
+    "ibge": 2607653,
+    "city": "Itambé",
+    "latitude": -7.41403,
+    "longitude": -35.0963
+  },
+  {
+    "state": "PE",
+    "ibge": 2607703,
+    "city": "Itapetim",
+    "latitude": -7.37178,
+    "longitude": -37.1863
+  },
+  {
+    "state": "PE",
+    "ibge": 2607752,
+    "city": "Itapissuma",
+    "latitude": -7.76798,
+    "longitude": -34.8971
+  },
+  {
+    "state": "PE",
+    "ibge": 2607802,
+    "city": "Itaquitinga",
+    "latitude": -7.66373,
+    "longitude": -35.1002
+  },
+  {
+    "state": "PE",
+    "ibge": 2607901,
+    "city": "Jaboatão dos Guararapes",
+    "latitude": -8.11298,
+    "longitude": -35.015
+  },
+  {
+    "state": "PE",
+    "ibge": 2607950,
+    "city": "Jaqueira",
+    "latitude": -8.72618,
+    "longitude": -35.7942
+  },
+  {
+    "state": "PE",
+    "ibge": 2608008,
+    "city": "Jataúba",
+    "latitude": -7.97668,
+    "longitude": -36.4943
+  },
+  {
+    "state": "PE",
+    "ibge": 2608057,
+    "city": "Jatobá",
+    "latitude": -9.17476,
+    "longitude": -38.2607
+  },
+  {
+    "state": "PE",
+    "ibge": 2608107,
+    "city": "João Alfredo",
+    "latitude": -7.86565,
+    "longitude": -35.5787
+  },
+  {
+    "state": "PE",
+    "ibge": 2608206,
+    "city": "Joaquim Nabuco",
+    "latitude": -8.62281,
+    "longitude": -35.5288
+  },
+  {
+    "state": "PE",
+    "ibge": 2608255,
+    "city": "Jucati",
+    "latitude": -8.70195,
+    "longitude": -36.4871
+  },
+  {
+    "state": "PE",
+    "ibge": 2608305,
+    "city": "Jupi",
+    "latitude": -8.70904,
+    "longitude": -36.4126
+  },
+  {
+    "state": "PE",
+    "ibge": 2608404,
+    "city": "Jurema",
+    "latitude": -8.70714,
+    "longitude": -36.1347
+  },
+  {
+    "state": "PE",
+    "ibge": 2608503,
+    "city": "Lagoa de Itaenga",
+    "latitude": -7.93005,
+    "longitude": -35.2874
+  },
+  {
+    "state": "PE",
+    "ibge": 2608453,
+    "city": "Lagoa do Carro",
+    "latitude": -7.84383,
+    "longitude": -35.3108
+  },
+  {
+    "state": "PE",
+    "ibge": 2608602,
+    "city": "Lagoa do Ouro",
+    "latitude": -9.12567,
+    "longitude": -36.4584
+  },
+  {
+    "state": "PE",
+    "ibge": 2608701,
+    "city": "Lagoa dos Gatos",
+    "latitude": -8.6602,
+    "longitude": -35.904
+  },
+  {
+    "state": "PE",
+    "ibge": 2608750,
+    "city": "Lagoa Grande",
+    "latitude": -8.99452,
+    "longitude": -40.2767
+  },
+  {
+    "state": "PE",
+    "ibge": 2608800,
+    "city": "Lajedo",
+    "latitude": -8.65791,
+    "longitude": -36.3293
+  },
+  {
+    "state": "PE",
+    "ibge": 2608909,
+    "city": "Limoeiro",
+    "latitude": -7.8726,
+    "longitude": -35.4402
+  },
+  {
+    "state": "PE",
+    "ibge": 2609006,
+    "city": "Macaparana",
+    "latitude": -7.55564,
+    "longitude": -35.4425
+  },
+  {
+    "state": "PE",
+    "ibge": 2609105,
+    "city": "Machados",
+    "latitude": -7.68827,
+    "longitude": -35.5114
+  },
+  {
+    "state": "PE",
+    "ibge": 2609154,
+    "city": "Manari",
+    "latitude": -8.9649,
+    "longitude": -37.6313
+  },
+  {
+    "state": "PE",
+    "ibge": 2609204,
+    "city": "Maraial",
+    "latitude": -8.79062,
+    "longitude": -35.8266
+  },
+  {
+    "state": "PE",
+    "ibge": 2609303,
+    "city": "Mirandiba",
+    "latitude": -8.12113,
+    "longitude": -38.7388
+  },
+  {
+    "state": "PE",
+    "ibge": 2614303,
+    "city": "Moreilândia",
+    "latitude": -7.61931,
+    "longitude": -39.546
+  },
+  {
+    "state": "PE",
+    "ibge": 2609402,
+    "city": "Moreno",
+    "latitude": -8.10871,
+    "longitude": -35.0835
+  },
+  {
+    "state": "PE",
+    "ibge": 2609501,
+    "city": "Nazaré da Mata",
+    "latitude": -7.74149,
+    "longitude": -35.2193
+  },
+  {
+    "state": "PE",
+    "ibge": 2609600,
+    "city": "Olinda",
+    "latitude": -8.01017,
+    "longitude": -34.8545
+  },
+  {
+    "state": "PE",
+    "ibge": 2609709,
+    "city": "Orobó",
+    "latitude": -7.74553,
+    "longitude": -35.5956
+  },
+  {
+    "state": "PE",
+    "ibge": 2609808,
+    "city": "Orocó",
+    "latitude": -8.61026,
+    "longitude": -39.6026
+  },
+  {
+    "state": "PE",
+    "ibge": 2609907,
+    "city": "Ouricuri",
+    "latitude": -7.87918,
+    "longitude": -40.08
+  },
+  {
+    "state": "PE",
+    "ibge": 2610004,
+    "city": "Palmares",
+    "latitude": -8.68423,
+    "longitude": -35.589
+  },
+  {
+    "state": "PE",
+    "ibge": 2610103,
+    "city": "Palmeirina",
+    "latitude": -9.0109,
+    "longitude": -36.3242
+  },
+  {
+    "state": "PE",
+    "ibge": 2610202,
+    "city": "Panelas",
+    "latitude": -8.66121,
+    "longitude": -36.0125
+  },
+  {
+    "state": "PE",
+    "ibge": 2610301,
+    "city": "Paranatama",
+    "latitude": -8.91875,
+    "longitude": -36.6549
+  },
+  {
+    "state": "PE",
+    "ibge": 2610400,
+    "city": "Parnamirim",
+    "latitude": -8.08729,
+    "longitude": -39.5795
+  },
+  {
+    "state": "PE",
+    "ibge": 2610509,
+    "city": "Passira",
+    "latitude": -7.9971,
+    "longitude": -35.5813
+  },
+  {
+    "state": "PE",
+    "ibge": 2610608,
+    "city": "Paudalho",
+    "latitude": -7.90287,
+    "longitude": -35.1716
+  },
+  {
+    "state": "PE",
+    "ibge": 2610707,
+    "city": "Paulista",
+    "latitude": -7.93401,
+    "longitude": -34.8684
+  },
+  {
+    "state": "PE",
+    "ibge": 2610806,
+    "city": "Pedra",
+    "latitude": -8.49641,
+    "longitude": -36.94
+  },
+  {
+    "state": "PE",
+    "ibge": 2610905,
+    "city": "Pesqueira",
+    "latitude": -8.35797,
+    "longitude": -36.6978
+  },
+  {
+    "state": "PE",
+    "ibge": 2611002,
+    "city": "Petrolândia",
+    "latitude": -9.06863,
+    "longitude": -38.3027
+  },
+  {
+    "state": "PE",
+    "ibge": 2611101,
+    "city": "Petrolina",
+    "latitude": -9.38866,
+    "longitude": -40.5027
+  },
+  {
+    "state": "PE",
+    "ibge": 2611200,
+    "city": "Poção",
+    "latitude": -8.18726,
+    "longitude": -36.7111
+  },
+  {
+    "state": "PE",
+    "ibge": 2611309,
+    "city": "Pombos",
+    "latitude": -8.13982,
+    "longitude": -35.3967
+  },
+  {
+    "state": "PE",
+    "ibge": 2611408,
+    "city": "Primavera",
+    "latitude": -8.32999,
+    "longitude": -35.3544
+  },
+  {
+    "state": "PE",
+    "ibge": 2611507,
+    "city": "Quipapá",
+    "latitude": -8.81175,
+    "longitude": -36.0137
+  },
+  {
+    "state": "PE",
+    "ibge": 2611533,
+    "city": "Quixaba",
+    "latitude": -7.70734,
+    "longitude": -37.8446
+  },
+  {
+    "state": "PE",
+    "ibge": 2611606,
+    "city": "Recife",
+    "latitude": -8.04666,
+    "longitude": -34.8771
+  },
+  {
+    "state": "PE",
+    "ibge": 2611705,
+    "city": "Riacho das Almas",
+    "latitude": -8.13742,
+    "longitude": -35.8648
+  },
+  {
+    "state": "PE",
+    "ibge": 2611804,
+    "city": "Ribeirão",
+    "latitude": -8.50957,
+    "longitude": -35.3698
+  },
+  {
+    "state": "PE",
+    "ibge": 2611903,
+    "city": "Rio Formoso",
+    "latitude": -8.6592,
+    "longitude": -35.1532
+  },
+  {
+    "state": "PE",
+    "ibge": 2612000,
+    "city": "Sairé",
+    "latitude": -8.32864,
+    "longitude": -35.6967
+  },
+  {
+    "state": "PE",
+    "ibge": 2612109,
+    "city": "Salgadinho",
+    "latitude": -7.9269,
+    "longitude": -35.6503
+  },
+  {
+    "state": "PE",
+    "ibge": 2612208,
+    "city": "Salgueiro",
+    "latitude": -8.07373,
+    "longitude": -39.1247
+  },
+  {
+    "state": "PE",
+    "ibge": 2612307,
+    "city": "Saloá",
+    "latitude": -8.9723,
+    "longitude": -36.691
+  },
+  {
+    "state": "PE",
+    "ibge": 2612406,
+    "city": "Sanharó",
+    "latitude": -8.36097,
+    "longitude": -36.5696
+  },
+  {
+    "state": "PE",
+    "ibge": 2612455,
+    "city": "Santa Cruz",
+    "latitude": -8.24153,
+    "longitude": -40.3434
+  },
+  {
+    "state": "PE",
+    "ibge": 2612471,
+    "city": "Santa Cruz da Baixa Verde",
+    "latitude": -7.81339,
+    "longitude": -38.1476
+  },
+  {
+    "state": "PE",
+    "ibge": 2612505,
+    "city": "Santa Cruz do Capibaribe",
+    "latitude": -7.94802,
+    "longitude": -36.2061
+  },
+  {
+    "state": "PE",
+    "ibge": 2612554,
+    "city": "Santa Filomena",
+    "latitude": -8.16688,
+    "longitude": -40.6079
+  },
+  {
+    "state": "PE",
+    "ibge": 2612604,
+    "city": "Santa Maria da Boa Vista",
+    "latitude": -8.79766,
+    "longitude": -39.8241
+  },
+  {
+    "state": "PE",
+    "ibge": 2612703,
+    "city": "Santa Maria do Cambucá",
+    "latitude": -7.83676,
+    "longitude": -35.8941
+  },
+  {
+    "state": "PE",
+    "ibge": 2612802,
+    "city": "Santa Terezinha",
+    "latitude": -7.37696,
+    "longitude": -37.4787
+  },
+  {
+    "state": "PE",
+    "ibge": 2612901,
+    "city": "São Benedito do Sul",
+    "latitude": -8.8166,
+    "longitude": -35.9453
+  },
+  {
+    "state": "PE",
+    "ibge": 2613008,
+    "city": "São Bento do Una",
+    "latitude": -8.52637,
+    "longitude": -36.4465
+  },
+  {
+    "state": "PE",
+    "ibge": 2613107,
+    "city": "São Caetano",
+    "latitude": -8.33763,
+    "longitude": -36.2869
+  },
+  {
+    "state": "PE",
+    "ibge": 2613206,
+    "city": "São João",
+    "latitude": -8.87576,
+    "longitude": -36.3653
+  },
+  {
+    "state": "PE",
+    "ibge": 2613305,
+    "city": "São Joaquim do Monte",
+    "latitude": -8.43196,
+    "longitude": -35.8035
+  },
+  {
+    "state": "PE",
+    "ibge": 2613404,
+    "city": "São José da Coroa Grande",
+    "latitude": -8.88937,
+    "longitude": -35.1515
+  },
+  {
+    "state": "PE",
+    "ibge": 2613503,
+    "city": "São José do Belmonte",
+    "latitude": -7.85723,
+    "longitude": -38.7577
+  },
+  {
+    "state": "PE",
+    "ibge": 2613602,
+    "city": "São José do Egito",
+    "latitude": -7.46945,
+    "longitude": -37.274
+  },
+  {
+    "state": "PE",
+    "ibge": 2613701,
+    "city": "São Lourenço da Mata",
+    "latitude": -8.00684,
+    "longitude": -35.0124
+  },
+  {
+    "state": "PE",
+    "ibge": 2613800,
+    "city": "São Vicente Ferrer",
+    "latitude": -7.58969,
+    "longitude": -35.4808
+  },
+  {
+    "state": "PE",
+    "ibge": 2613909,
+    "city": "Serra Talhada",
+    "latitude": -7.98178,
+    "longitude": -38.289
+  },
+  {
+    "state": "PE",
+    "ibge": 2614006,
+    "city": "Serrita",
+    "latitude": -7.94041,
+    "longitude": -39.2951
+  },
+  {
+    "state": "PE",
+    "ibge": 2614105,
+    "city": "Sertânia",
+    "latitude": -8.06847,
+    "longitude": -37.2684
+  },
+  {
+    "state": "PE",
+    "ibge": 2614204,
+    "city": "Sirinhaém",
+    "latitude": -8.58778,
+    "longitude": -35.1126
+  },
+  {
+    "state": "PE",
+    "ibge": 2614402,
+    "city": "Solidão",
+    "latitude": -7.59472,
+    "longitude": -37.6445
+  },
+  {
+    "state": "PE",
+    "ibge": 2614501,
+    "city": "Surubim",
+    "latitude": -7.84746,
+    "longitude": -35.7481
+  },
+  {
+    "state": "PE",
+    "ibge": 2614600,
+    "city": "Tabira",
+    "latitude": -7.58366,
+    "longitude": -37.5377
+  },
+  {
+    "state": "PE",
+    "ibge": 2614709,
+    "city": "Tacaimbó",
+    "latitude": -8.30867,
+    "longitude": -36.3
+  },
+  {
+    "state": "PE",
+    "ibge": 2614808,
+    "city": "Tacaratu",
+    "latitude": -9.09798,
+    "longitude": -38.1504
+  },
+  {
+    "state": "PE",
+    "ibge": 2614857,
+    "city": "Tamandaré",
+    "latitude": -8.75665,
+    "longitude": -35.1033
+  },
+  {
+    "state": "PE",
+    "ibge": 2615003,
+    "city": "Taquaritinga do Norte",
+    "latitude": -7.89446,
+    "longitude": -36.0423
+  },
+  {
+    "state": "PE",
+    "ibge": 2615102,
+    "city": "Terezinha",
+    "latitude": -9.05621,
+    "longitude": -36.6272
+  },
+  {
+    "state": "PE",
+    "ibge": 2615201,
+    "city": "Terra Nova",
+    "latitude": -8.22244,
+    "longitude": -39.3825
+  },
+  {
+    "state": "PE",
+    "ibge": 2615300,
+    "city": "Timbaúba",
+    "latitude": -7.50484,
+    "longitude": -35.3119
+  },
+  {
+    "state": "PE",
+    "ibge": 2615409,
+    "city": "Toritama",
+    "latitude": -8.00955,
+    "longitude": -36.0637
+  },
+  {
+    "state": "PE",
+    "ibge": 2615508,
+    "city": "Tracunhaém",
+    "latitude": -7.80228,
+    "longitude": -35.2314
+  },
+  {
+    "state": "PE",
+    "ibge": 2615607,
+    "city": "Trindade",
+    "latitude": -7.759,
+    "longitude": -40.2647
+  },
+  {
+    "state": "PE",
+    "ibge": 2615706,
+    "city": "Triunfo",
+    "latitude": -7.83272,
+    "longitude": -38.0978
+  },
+  {
+    "state": "PE",
+    "ibge": 2615805,
+    "city": "Tupanatinga",
+    "latitude": -8.74798,
+    "longitude": -37.3445
+  },
+  {
+    "state": "PE",
+    "ibge": 2615904,
+    "city": "Tuparetama",
+    "latitude": -7.6003,
+    "longitude": -37.3165
+  },
+  {
+    "state": "PE",
+    "ibge": 2616001,
+    "city": "Venturosa",
+    "latitude": -8.57885,
+    "longitude": -36.8742
+  },
+  {
+    "state": "PE",
+    "ibge": 2616100,
+    "city": "Verdejante",
+    "latitude": -7.92235,
+    "longitude": -38.9701
+  },
+  {
+    "state": "PE",
+    "ibge": 2616183,
+    "city": "Vertente do Lério",
+    "latitude": -7.77084,
+    "longitude": -35.8491
+  },
+  {
+    "state": "PE",
+    "ibge": 2616209,
+    "city": "Vertentes",
+    "latitude": -7.90158,
+    "longitude": -35.9681
+  },
+  {
+    "state": "PE",
+    "ibge": 2616308,
+    "city": "Vicência",
+    "latitude": -7.65655,
+    "longitude": -35.3139
+  },
+  {
+    "state": "PE",
+    "ibge": 2616407,
+    "city": "Vitória de Santo Antão",
+    "latitude": -8.12819,
+    "longitude": -35.2976
+  },
+  {
+    "state": "PE",
+    "ibge": 2616506,
+    "city": "Xexéu",
+    "latitude": -8.8046,
+    "longitude": -35.6212
+  }
+]

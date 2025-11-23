@@ -1,0 +1,2921 @@
+[
+  {
+    "state": "BA",
+    "ibge": 2900108,
+    "city": "Abaíra",
+    "latitude": -13.2488,
+    "longitude": -41.6619
+  },
+  {
+    "state": "BA",
+    "ibge": 2900207,
+    "city": "Abaré",
+    "latitude": -8.72073,
+    "longitude": -39.1162
+  },
+  {
+    "state": "BA",
+    "ibge": 2900306,
+    "city": "Acajutiba",
+    "latitude": -11.6575,
+    "longitude": -38.0197
+  },
+  {
+    "state": "BA",
+    "ibge": 2900355,
+    "city": "Adustina",
+    "latitude": -10.5437,
+    "longitude": -38.1113
+  },
+  {
+    "state": "BA",
+    "ibge": 2900405,
+    "city": "Água Fria",
+    "latitude": -11.8618,
+    "longitude": -38.7639
+  },
+  {
+    "state": "BA",
+    "ibge": 2900603,
+    "city": "Aiquara",
+    "latitude": -14.1269,
+    "longitude": -39.8937
+  },
+  {
+    "state": "BA",
+    "ibge": 2900702,
+    "city": "Alagoinhas",
+    "latitude": -12.1335,
+    "longitude": -38.4208
+  },
+  {
+    "state": "BA",
+    "ibge": 2900801,
+    "city": "Alcobaça",
+    "latitude": -17.5195,
+    "longitude": -39.2036
+  },
+  {
+    "state": "BA",
+    "ibge": 2900900,
+    "city": "Almadina",
+    "latitude": -14.7089,
+    "longitude": -39.6415
+  },
+  {
+    "state": "BA",
+    "ibge": 2901007,
+    "city": "Amargosa",
+    "latitude": -13.0215,
+    "longitude": -39.602
+  },
+  {
+    "state": "BA",
+    "ibge": 2901106,
+    "city": "Amélia Rodrigues",
+    "latitude": -12.3914,
+    "longitude": -38.7563
+  },
+  {
+    "state": "BA",
+    "ibge": 2901155,
+    "city": "América Dourada",
+    "latitude": -11.4429,
+    "longitude": -41.439
+  },
+  {
+    "state": "BA",
+    "ibge": 2901205,
+    "city": "Anagé",
+    "latitude": -14.6151,
+    "longitude": -41.1356
+  },
+  {
+    "state": "BA",
+    "ibge": 2901304,
+    "city": "Andaraí",
+    "latitude": -12.8049,
+    "longitude": -41.3297
+  },
+  {
+    "state": "BA",
+    "ibge": 2901353,
+    "city": "Andorinha",
+    "latitude": -10.3482,
+    "longitude": -39.8391
+  },
+  {
+    "state": "BA",
+    "ibge": 2901403,
+    "city": "Angical",
+    "latitude": -12.0063,
+    "longitude": -44.7003
+  },
+  {
+    "state": "BA",
+    "ibge": 2901502,
+    "city": "Anguera",
+    "latitude": -12.1462,
+    "longitude": -39.2462
+  },
+  {
+    "state": "BA",
+    "ibge": 2901601,
+    "city": "Antas",
+    "latitude": -10.3856,
+    "longitude": -38.3401
+  },
+  {
+    "state": "BA",
+    "ibge": 2901700,
+    "city": "Antônio Cardoso",
+    "latitude": -12.4335,
+    "longitude": -39.1176
+  },
+  {
+    "state": "BA",
+    "ibge": 2901809,
+    "city": "Antônio Gonçalves",
+    "latitude": -10.5767,
+    "longitude": -40.2785
+  },
+  {
+    "state": "BA",
+    "ibge": 2901908,
+    "city": "Aporá",
+    "latitude": -11.6577,
+    "longitude": -38.0814
+  },
+  {
+    "state": "BA",
+    "ibge": 2901957,
+    "city": "Apuarema",
+    "latitude": -13.8542,
+    "longitude": -39.7501
+  },
+  {
+    "state": "BA",
+    "ibge": 2902054,
+    "city": "Araças",
+    "latitude": -12.22,
+    "longitude": -38.2027
+  },
+  {
+    "state": "BA",
+    "ibge": 2902005,
+    "city": "Aracatu",
+    "latitude": -14.428,
+    "longitude": -41.4648
+  },
+  {
+    "state": "BA",
+    "ibge": 2902104,
+    "city": "Araci",
+    "latitude": -11.3253,
+    "longitude": -38.9584
+  },
+  {
+    "state": "BA",
+    "ibge": 2902203,
+    "city": "Aramari",
+    "latitude": -12.0884,
+    "longitude": -38.4969
+  },
+  {
+    "state": "BA",
+    "ibge": 2902252,
+    "city": "Arataca",
+    "latitude": -15.2651,
+    "longitude": -39.419
+  },
+  {
+    "state": "BA",
+    "ibge": 2902302,
+    "city": "Aratuípe",
+    "latitude": -13.0716,
+    "longitude": -39.0038
+  },
+  {
+    "state": "BA",
+    "ibge": 2902401,
+    "city": "Aurelino Leal",
+    "latitude": -14.321,
+    "longitude": -39.329
+  },
+  {
+    "state": "BA",
+    "ibge": 2902500,
+    "city": "Baianópolis",
+    "latitude": -12.3016,
+    "longitude": -44.5388
+  },
+  {
+    "state": "BA",
+    "ibge": 2902609,
+    "city": "Baixa Grande",
+    "latitude": -11.9519,
+    "longitude": -40.169
+  },
+  {
+    "state": "BA",
+    "ibge": 2902658,
+    "city": "Banzaê",
+    "latitude": -10.5788,
+    "longitude": -38.6212
+  },
+  {
+    "state": "BA",
+    "ibge": 2902708,
+    "city": "Barra",
+    "latitude": -11.0859,
+    "longitude": -43.1459
+  },
+  {
+    "state": "BA",
+    "ibge": 2902807,
+    "city": "Barra da Estiva",
+    "latitude": -13.6237,
+    "longitude": -41.3347
+  },
+  {
+    "state": "BA",
+    "ibge": 2902906,
+    "city": "Barra do Choça",
+    "latitude": -14.8654,
+    "longitude": -40.5791
+  },
+  {
+    "state": "BA",
+    "ibge": 2903003,
+    "city": "Barra do Mendes",
+    "latitude": -11.81,
+    "longitude": -42.059
+  },
+  {
+    "state": "BA",
+    "ibge": 2903102,
+    "city": "Barra do Rocha",
+    "latitude": -14.2,
+    "longitude": -39.5991
+  },
+  {
+    "state": "BA",
+    "ibge": 2903201,
+    "city": "Barreiras",
+    "latitude": -12.1439,
+    "longitude": -44.9968
+  },
+  {
+    "state": "BA",
+    "ibge": 2903235,
+    "city": "Barro Alto",
+    "latitude": -11.7605,
+    "longitude": -41.9054
+  },
+  {
+    "state": "BA",
+    "ibge": 2903300,
+    "city": "Barro Preto",
+    "latitude": -14.7948,
+    "longitude": -39.476
+  },
+  {
+    "state": "BA",
+    "ibge": 2903276,
+    "city": "Barrocas",
+    "latitude": -11.5272,
+    "longitude": -39.0776
+  },
+  {
+    "state": "BA",
+    "ibge": 2903409,
+    "city": "Belmonte",
+    "latitude": -15.8608,
+    "longitude": -38.8758
+  },
+  {
+    "state": "BA",
+    "ibge": 2903508,
+    "city": "Belo Campo",
+    "latitude": -15.0334,
+    "longitude": -41.2652
+  },
+  {
+    "state": "BA",
+    "ibge": 2903607,
+    "city": "Biritinga",
+    "latitude": -11.6072,
+    "longitude": -38.8051
+  },
+  {
+    "state": "BA",
+    "ibge": 2903706,
+    "city": "Boa Nova",
+    "latitude": -14.3598,
+    "longitude": -40.2064
+  },
+  {
+    "state": "BA",
+    "ibge": 2903805,
+    "city": "Boa Vista do Tupim",
+    "latitude": -12.6498,
+    "longitude": -40.6064
+  },
+  {
+    "state": "BA",
+    "ibge": 2903904,
+    "city": "Bom Jesus da Lapa",
+    "latitude": -13.2506,
+    "longitude": -43.4108
+  },
+  {
+    "state": "BA",
+    "ibge": 2903953,
+    "city": "Bom Jesus da Serra",
+    "latitude": -14.3663,
+    "longitude": -40.5126
+  },
+  {
+    "state": "BA",
+    "ibge": 2904001,
+    "city": "Boninal",
+    "latitude": -12.7069,
+    "longitude": -41.8286
+  },
+  {
+    "state": "BA",
+    "ibge": 2904050,
+    "city": "Bonito",
+    "latitude": -11.9668,
+    "longitude": -41.2647
+  },
+  {
+    "state": "BA",
+    "ibge": 2904100,
+    "city": "Boquira",
+    "latitude": -12.8205,
+    "longitude": -42.7324
+  },
+  {
+    "state": "BA",
+    "ibge": 2904209,
+    "city": "Botuporã",
+    "latitude": -13.3772,
+    "longitude": -42.5163
+  },
+  {
+    "state": "BA",
+    "ibge": 2904308,
+    "city": "Brejões",
+    "latitude": -13.1039,
+    "longitude": -39.7988
+  },
+  {
+    "state": "BA",
+    "ibge": 2904407,
+    "city": "Brejolândia",
+    "latitude": -12.4815,
+    "longitude": -43.9679
+  },
+  {
+    "state": "BA",
+    "ibge": 2904506,
+    "city": "Brotas de Macaúbas",
+    "latitude": -11.9915,
+    "longitude": -42.6326
+  },
+  {
+    "state": "BA",
+    "ibge": 2904605,
+    "city": "Brumado",
+    "latitude": -14.2021,
+    "longitude": -41.6696
+  },
+  {
+    "state": "BA",
+    "ibge": 2904704,
+    "city": "Buerarema",
+    "latitude": -14.9595,
+    "longitude": -39.3028
+  },
+  {
+    "state": "BA",
+    "ibge": 2904753,
+    "city": "Buritirama",
+    "latitude": -10.7171,
+    "longitude": -43.6302
+  },
+  {
+    "state": "BA",
+    "ibge": 2904803,
+    "city": "Caatiba",
+    "latitude": -14.9699,
+    "longitude": -40.4092
+  },
+  {
+    "state": "BA",
+    "ibge": 2904852,
+    "city": "Cabaceiras do Paraguaçu",
+    "latitude": -12.5317,
+    "longitude": -39.1902
+  },
+  {
+    "state": "BA",
+    "ibge": 2904902,
+    "city": "Cachoeira",
+    "latitude": -12.5994,
+    "longitude": -38.9587
+  },
+  {
+    "state": "BA",
+    "ibge": 2905008,
+    "city": "Caculé",
+    "latitude": -14.5003,
+    "longitude": -42.2229
+  },
+  {
+    "state": "BA",
+    "ibge": 2905107,
+    "city": "Caém",
+    "latitude": -11.0677,
+    "longitude": -40.432
+  },
+  {
+    "state": "BA",
+    "ibge": 2905156,
+    "city": "Caetanos",
+    "latitude": -14.3347,
+    "longitude": -40.9175
+  },
+  {
+    "state": "BA",
+    "ibge": 2905206,
+    "city": "Caetité",
+    "latitude": -14.0684,
+    "longitude": -42.4861
+  },
+  {
+    "state": "BA",
+    "ibge": 2905305,
+    "city": "Cafarnaum",
+    "latitude": -11.6914,
+    "longitude": -41.4688
+  },
+  {
+    "state": "BA",
+    "ibge": 2905404,
+    "city": "Cairu",
+    "latitude": -13.4904,
+    "longitude": -39.0465
+  },
+  {
+    "state": "BA",
+    "ibge": 2905503,
+    "city": "Caldeirão Grande",
+    "latitude": -11.0208,
+    "longitude": -40.2956
+  },
+  {
+    "state": "BA",
+    "ibge": 2905602,
+    "city": "Camacan",
+    "latitude": -15.4142,
+    "longitude": -39.4919
+  },
+  {
+    "state": "BA",
+    "ibge": 2905701,
+    "city": "Camaçari",
+    "latitude": -12.6996,
+    "longitude": -38.3263
+  },
+  {
+    "state": "BA",
+    "ibge": 2905800,
+    "city": "Camamu",
+    "latitude": -13.9398,
+    "longitude": -39.1071
+  },
+  {
+    "state": "BA",
+    "ibge": 2905909,
+    "city": "Campo Alegre de Lourdes",
+    "latitude": -9.52221,
+    "longitude": -43.0126
+  },
+  {
+    "state": "BA",
+    "ibge": 2906006,
+    "city": "Campo Formoso",
+    "latitude": -10.5105,
+    "longitude": -40.32
+  },
+  {
+    "state": "BA",
+    "ibge": 2906105,
+    "city": "Canápolis",
+    "latitude": -13.0725,
+    "longitude": -44.201
+  },
+  {
+    "state": "BA",
+    "ibge": 2906204,
+    "city": "Canarana",
+    "latitude": -11.6858,
+    "longitude": -41.7677
+  },
+  {
+    "state": "BA",
+    "ibge": 2906303,
+    "city": "Canavieiras",
+    "latitude": -15.6722,
+    "longitude": -38.9536
+  },
+  {
+    "state": "BA",
+    "ibge": 2906402,
+    "city": "Candeal",
+    "latitude": -11.8049,
+    "longitude": -39.1203
+  },
+  {
+    "state": "BA",
+    "ibge": 2906501,
+    "city": "Candeias",
+    "latitude": -12.6716,
+    "longitude": -38.5472
+  },
+  {
+    "state": "BA",
+    "ibge": 2906600,
+    "city": "Candiba",
+    "latitude": -14.4097,
+    "longitude": -42.8667
+  },
+  {
+    "state": "BA",
+    "ibge": 2906709,
+    "city": "Cândido Sales",
+    "latitude": -15.4993,
+    "longitude": -41.2414
+  },
+  {
+    "state": "BA",
+    "ibge": 2906808,
+    "city": "Cansanção",
+    "latitude": -10.6647,
+    "longitude": -39.4944
+  },
+  {
+    "state": "BA",
+    "ibge": 2906824,
+    "city": "Canudos",
+    "latitude": -9.90014,
+    "longitude": -39.1471
+  },
+  {
+    "state": "BA",
+    "ibge": 2906857,
+    "city": "Capela do Alto Alegre",
+    "latitude": -11.6658,
+    "longitude": -39.8349
+  },
+  {
+    "state": "BA",
+    "ibge": 2906873,
+    "city": "Capim Grosso",
+    "latitude": -11.3797,
+    "longitude": -40.0089
+  },
+  {
+    "state": "BA",
+    "ibge": 2906899,
+    "city": "Caraíbas",
+    "latitude": -14.7177,
+    "longitude": -41.2603
+  },
+  {
+    "state": "BA",
+    "ibge": 2906907,
+    "city": "Caravelas",
+    "latitude": -17.7268,
+    "longitude": -39.2597
+  },
+  {
+    "state": "BA",
+    "ibge": 2907004,
+    "city": "Cardeal da Silva",
+    "latitude": -11.9472,
+    "longitude": -37.9469
+  },
+  {
+    "state": "BA",
+    "ibge": 2907103,
+    "city": "Carinhanha",
+    "latitude": -14.2985,
+    "longitude": -43.7724
+  },
+  {
+    "state": "BA",
+    "ibge": 2907202,
+    "city": "Casa Nova",
+    "latitude": -9.16408,
+    "longitude": -40.974
+  },
+  {
+    "state": "BA",
+    "ibge": 2907301,
+    "city": "Castro Alves",
+    "latitude": -12.7579,
+    "longitude": -39.4248
+  },
+  {
+    "state": "BA",
+    "ibge": 2907400,
+    "city": "Catolândia",
+    "latitude": -12.31,
+    "longitude": -44.8648
+  },
+  {
+    "state": "BA",
+    "ibge": 2907509,
+    "city": "Catu",
+    "latitude": -12.3513,
+    "longitude": -38.3791
+  },
+  {
+    "state": "BA",
+    "ibge": 2907558,
+    "city": "Caturama",
+    "latitude": -13.3239,
+    "longitude": -42.2904
+  },
+  {
+    "state": "BA",
+    "ibge": 2907608,
+    "city": "Central",
+    "latitude": -11.1376,
+    "longitude": -42.1116
+  },
+  {
+    "state": "BA",
+    "ibge": 2907707,
+    "city": "Chorrochó",
+    "latitude": -8.9695,
+    "longitude": -39.0979
+  },
+  {
+    "state": "BA",
+    "ibge": 2907806,
+    "city": "Cícero Dantas",
+    "latitude": -10.5897,
+    "longitude": -38.3794
+  },
+  {
+    "state": "BA",
+    "ibge": 2907905,
+    "city": "Cipó",
+    "latitude": -11.1032,
+    "longitude": -38.5179
+  },
+  {
+    "state": "BA",
+    "ibge": 2908002,
+    "city": "Coaraci",
+    "latitude": -14.637,
+    "longitude": -39.5556
+  },
+  {
+    "state": "BA",
+    "ibge": 2908101,
+    "city": "Cocos",
+    "latitude": -14.1814,
+    "longitude": -44.5352
+  },
+  {
+    "state": "BA",
+    "ibge": 2908200,
+    "city": "Conceição da Feira",
+    "latitude": -12.5078,
+    "longitude": -38.9978
+  },
+  {
+    "state": "BA",
+    "ibge": 2908309,
+    "city": "Conceição do Almeida",
+    "latitude": -12.7836,
+    "longitude": -39.1715
+  },
+  {
+    "state": "BA",
+    "ibge": 2908408,
+    "city": "Conceição do Coité",
+    "latitude": -11.56,
+    "longitude": -39.2808
+  },
+  {
+    "state": "BA",
+    "ibge": 2908507,
+    "city": "Conceição do Jacuípe",
+    "latitude": -12.3268,
+    "longitude": -38.7684
+  },
+  {
+    "state": "BA",
+    "ibge": 2908606,
+    "city": "Conde",
+    "latitude": -11.8179,
+    "longitude": -37.6131
+  },
+  {
+    "state": "BA",
+    "ibge": 2908705,
+    "city": "Condeúba",
+    "latitude": -14.9022,
+    "longitude": -41.9718
+  },
+  {
+    "state": "BA",
+    "ibge": 2908804,
+    "city": "Contendas do Sincorá",
+    "latitude": -13.7537,
+    "longitude": -41.048
+  },
+  {
+    "state": "BA",
+    "ibge": 2908903,
+    "city": "Coração de Maria",
+    "latitude": -12.2333,
+    "longitude": -38.7487
+  },
+  {
+    "state": "BA",
+    "ibge": 2909000,
+    "city": "Cordeiros",
+    "latitude": -15.0356,
+    "longitude": -41.9308
+  },
+  {
+    "state": "BA",
+    "ibge": 2909109,
+    "city": "Coribe",
+    "latitude": -13.8232,
+    "longitude": -44.4586
+  },
+  {
+    "state": "BA",
+    "ibge": 2909208,
+    "city": "Coronel João Sá",
+    "latitude": -10.2847,
+    "longitude": -37.9198
+  },
+  {
+    "state": "BA",
+    "ibge": 2909307,
+    "city": "Correntina",
+    "latitude": -13.3477,
+    "longitude": -44.6333
+  },
+  {
+    "state": "BA",
+    "ibge": 2909406,
+    "city": "Cotegipe",
+    "latitude": -12.0228,
+    "longitude": -44.2566
+  },
+  {
+    "state": "BA",
+    "ibge": 2909505,
+    "city": "Cravolândia",
+    "latitude": -13.3531,
+    "longitude": -39.8031
+  },
+  {
+    "state": "BA",
+    "ibge": 2909604,
+    "city": "Crisópolis",
+    "latitude": -11.5059,
+    "longitude": -38.1515
+  },
+  {
+    "state": "BA",
+    "ibge": 2909703,
+    "city": "Cristópolis",
+    "latitude": -12.2249,
+    "longitude": -44.4214
+  },
+  {
+    "state": "BA",
+    "ibge": 2909802,
+    "city": "Cruz das Almas",
+    "latitude": -12.6675,
+    "longitude": -39.1008
+  },
+  {
+    "state": "BA",
+    "ibge": 2909901,
+    "city": "Curaçá",
+    "latitude": -8.98458,
+    "longitude": -39.8997
+  },
+  {
+    "state": "BA",
+    "ibge": 2910008,
+    "city": "Dário Meira",
+    "latitude": -14.4229,
+    "longitude": -39.9031
+  },
+  {
+    "state": "BA",
+    "ibge": 2910057,
+    "city": "Dias d'Ávila",
+    "latitude": -12.6187,
+    "longitude": -38.2926
+  },
+  {
+    "state": "BA",
+    "ibge": 2910107,
+    "city": "Dom Basílio",
+    "latitude": -13.7565,
+    "longitude": -41.7677
+  },
+  {
+    "state": "BA",
+    "ibge": 2910206,
+    "city": "Dom Macedo Costa",
+    "latitude": -12.9016,
+    "longitude": -39.1923
+  },
+  {
+    "state": "BA",
+    "ibge": 2910305,
+    "city": "Elísio Medrado",
+    "latitude": -12.9417,
+    "longitude": -39.5191
+  },
+  {
+    "state": "BA",
+    "ibge": 2910404,
+    "city": "Encruzilhada",
+    "latitude": -15.5302,
+    "longitude": -40.9124
+  },
+  {
+    "state": "BA",
+    "ibge": 2910503,
+    "city": "Entre Rios",
+    "latitude": -11.9392,
+    "longitude": -38.0871
+  },
+  {
+    "state": "BA",
+    "ibge": 2900504,
+    "city": "Érico Cardoso",
+    "latitude": -13.4215,
+    "longitude": -42.1352
+  },
+  {
+    "state": "BA",
+    "ibge": 2910602,
+    "city": "Esplanada",
+    "latitude": -11.7942,
+    "longitude": -37.9432
+  },
+  {
+    "state": "BA",
+    "ibge": 2910701,
+    "city": "Euclides da Cunha",
+    "latitude": -10.5078,
+    "longitude": -39.0153
+  },
+  {
+    "state": "BA",
+    "ibge": 2910727,
+    "city": "Eunápolis",
+    "latitude": -16.3715,
+    "longitude": -39.5821
+  },
+  {
+    "state": "BA",
+    "ibge": 2910750,
+    "city": "Fátima",
+    "latitude": -10.616,
+    "longitude": -38.2239
+  },
+  {
+    "state": "BA",
+    "ibge": 2910776,
+    "city": "Feira da Mata",
+    "latitude": -14.2044,
+    "longitude": -44.2744
+  },
+  {
+    "state": "BA",
+    "ibge": 2910800,
+    "city": "Feira de Santana",
+    "latitude": -12.2664,
+    "longitude": -38.9663
+  },
+  {
+    "state": "BA",
+    "ibge": 2910859,
+    "city": "Filadélfia",
+    "latitude": -10.7405,
+    "longitude": -40.1437
+  },
+  {
+    "state": "BA",
+    "ibge": 2910909,
+    "city": "Firmino Alves",
+    "latitude": -14.9823,
+    "longitude": -39.9269
+  },
+  {
+    "state": "BA",
+    "ibge": 2911006,
+    "city": "Floresta Azul",
+    "latitude": -14.8629,
+    "longitude": -39.6579
+  },
+  {
+    "state": "BA",
+    "ibge": 2911105,
+    "city": "Formosa do Rio Preto",
+    "latitude": -11.0328,
+    "longitude": -45.193
+  },
+  {
+    "state": "BA",
+    "ibge": 2911204,
+    "city": "Gandu",
+    "latitude": -13.7441,
+    "longitude": -39.4747
+  },
+  {
+    "state": "BA",
+    "ibge": 2911253,
+    "city": "Gavião",
+    "latitude": -11.4688,
+    "longitude": -39.7757
+  },
+  {
+    "state": "BA",
+    "ibge": 2911303,
+    "city": "Gentio do Ouro",
+    "latitude": -11.4342,
+    "longitude": -42.5077
+  },
+  {
+    "state": "BA",
+    "ibge": 2911402,
+    "city": "Glória",
+    "latitude": -9.34382,
+    "longitude": -38.2544
+  },
+  {
+    "state": "BA",
+    "ibge": 2911501,
+    "city": "Gongogi",
+    "latitude": -14.3195,
+    "longitude": -39.469
+  },
+  {
+    "state": "BA",
+    "ibge": 2911600,
+    "city": "Governador Mangabeira",
+    "latitude": -12.5994,
+    "longitude": -39.0412
+  },
+  {
+    "state": "BA",
+    "ibge": 2911659,
+    "city": "Guajeru",
+    "latitude": -14.5467,
+    "longitude": -41.9381
+  },
+  {
+    "state": "BA",
+    "ibge": 2911709,
+    "city": "Guanambi",
+    "latitude": -14.2231,
+    "longitude": -42.7799
+  },
+  {
+    "state": "BA",
+    "ibge": 2911808,
+    "city": "Guaratinga",
+    "latitude": -16.5833,
+    "longitude": -39.7847
+  },
+  {
+    "state": "BA",
+    "ibge": 2911857,
+    "city": "Heliópolis",
+    "latitude": -10.6825,
+    "longitude": -38.2907
+  },
+  {
+    "state": "BA",
+    "ibge": 2911907,
+    "city": "Iaçu",
+    "latitude": -12.7666,
+    "longitude": -40.2056
+  },
+  {
+    "state": "BA",
+    "ibge": 2912004,
+    "city": "Ibiassucê",
+    "latitude": -14.2711,
+    "longitude": -42.257
+  },
+  {
+    "state": "BA",
+    "ibge": 2912103,
+    "city": "Ibicaraí",
+    "latitude": -14.8579,
+    "longitude": -39.5914
+  },
+  {
+    "state": "BA",
+    "ibge": 2912202,
+    "city": "Ibicoara",
+    "latitude": -13.4059,
+    "longitude": -41.284
+  },
+  {
+    "state": "BA",
+    "ibge": 2912301,
+    "city": "Ibicuí",
+    "latitude": -14.845,
+    "longitude": -39.9879
+  },
+  {
+    "state": "BA",
+    "ibge": 2912400,
+    "city": "Ibipeba",
+    "latitude": -11.6438,
+    "longitude": -42.0195
+  },
+  {
+    "state": "BA",
+    "ibge": 2912509,
+    "city": "Ibipitanga",
+    "latitude": -12.8804,
+    "longitude": -42.4856
+  },
+  {
+    "state": "BA",
+    "ibge": 2912608,
+    "city": "Ibiquera",
+    "latitude": -12.6444,
+    "longitude": -40.9338
+  },
+  {
+    "state": "BA",
+    "ibge": 2912707,
+    "city": "Ibirapitanga",
+    "latitude": -14.1649,
+    "longitude": -39.3787
+  },
+  {
+    "state": "BA",
+    "ibge": 2912806,
+    "city": "Ibirapuã",
+    "latitude": -17.6832,
+    "longitude": -40.1129
+  },
+  {
+    "state": "BA",
+    "ibge": 2912905,
+    "city": "Ibirataia",
+    "latitude": -14.0643,
+    "longitude": -39.6459
+  },
+  {
+    "state": "BA",
+    "ibge": 2913002,
+    "city": "Ibitiara",
+    "latitude": -12.6502,
+    "longitude": -42.2179
+  },
+  {
+    "state": "BA",
+    "ibge": 2913101,
+    "city": "Ibititá",
+    "latitude": -11.5414,
+    "longitude": -41.9748
+  },
+  {
+    "state": "BA",
+    "ibge": 2913200,
+    "city": "Ibotirama",
+    "latitude": -12.1779,
+    "longitude": -43.2167
+  },
+  {
+    "state": "BA",
+    "ibge": 2913309,
+    "city": "Ichu",
+    "latitude": -11.7431,
+    "longitude": -39.1905
+  },
+  {
+    "state": "BA",
+    "ibge": 2913408,
+    "city": "Igaporã",
+    "latitude": -13.774,
+    "longitude": -42.7155
+  },
+  {
+    "state": "BA",
+    "ibge": 2913457,
+    "city": "Igrapiúna",
+    "latitude": -13.8295,
+    "longitude": -39.1361
+  },
+  {
+    "state": "BA",
+    "ibge": 2913507,
+    "city": "Iguaí",
+    "latitude": -14.7528,
+    "longitude": -40.0894
+  },
+  {
+    "state": "BA",
+    "ibge": 2913606,
+    "city": "Ilhéus",
+    "latitude": -14.793,
+    "longitude": -39.046
+  },
+  {
+    "state": "BA",
+    "ibge": 2913705,
+    "city": "Inhambupe",
+    "latitude": -11.781,
+    "longitude": -38.355
+  },
+  {
+    "state": "BA",
+    "ibge": 2913804,
+    "city": "Ipecaetá",
+    "latitude": -12.3028,
+    "longitude": -39.3069
+  },
+  {
+    "state": "BA",
+    "ibge": 2913903,
+    "city": "Ipiaú",
+    "latitude": -14.1226,
+    "longitude": -39.7353
+  },
+  {
+    "state": "BA",
+    "ibge": 2914000,
+    "city": "Ipirá",
+    "latitude": -12.1561,
+    "longitude": -39.7359
+  },
+  {
+    "state": "BA",
+    "ibge": 2914109,
+    "city": "Ipupiara",
+    "latitude": -11.8219,
+    "longitude": -42.6179
+  },
+  {
+    "state": "BA",
+    "ibge": 2914208,
+    "city": "Irajuba",
+    "latitude": -13.2563,
+    "longitude": -40.0848
+  },
+  {
+    "state": "BA",
+    "ibge": 2914307,
+    "city": "Iramaia",
+    "latitude": -13.2902,
+    "longitude": -40.9595
+  },
+  {
+    "state": "BA",
+    "ibge": 2914406,
+    "city": "Iraquara",
+    "latitude": -12.2429,
+    "longitude": -41.6155
+  },
+  {
+    "state": "BA",
+    "ibge": 2914505,
+    "city": "Irará",
+    "latitude": -12.0504,
+    "longitude": -38.7631
+  },
+  {
+    "state": "BA",
+    "ibge": 2914604,
+    "city": "Irecê",
+    "latitude": -11.3033,
+    "longitude": -41.8535
+  },
+  {
+    "state": "BA",
+    "ibge": 2914653,
+    "city": "Itabela",
+    "latitude": -16.5732,
+    "longitude": -39.5593
+  },
+  {
+    "state": "BA",
+    "ibge": 2914703,
+    "city": "Itaberaba",
+    "latitude": -12.5242,
+    "longitude": -40.3059
+  },
+  {
+    "state": "BA",
+    "ibge": 2914802,
+    "city": "Itabuna",
+    "latitude": -14.7876,
+    "longitude": -39.2781
+  },
+  {
+    "state": "BA",
+    "ibge": 2914901,
+    "city": "Itacaré",
+    "latitude": -14.2784,
+    "longitude": -38.9959
+  },
+  {
+    "state": "BA",
+    "ibge": 2915007,
+    "city": "Itaeté",
+    "latitude": -12.9831,
+    "longitude": -40.9677
+  },
+  {
+    "state": "BA",
+    "ibge": 2915106,
+    "city": "Itagi",
+    "latitude": -14.1615,
+    "longitude": -40.0131
+  },
+  {
+    "state": "BA",
+    "ibge": 2915205,
+    "city": "Itagibá",
+    "latitude": -14.2782,
+    "longitude": -39.8449
+  },
+  {
+    "state": "BA",
+    "ibge": 2915304,
+    "city": "Itagimirim",
+    "latitude": -16.0819,
+    "longitude": -39.6133
+  },
+  {
+    "state": "BA",
+    "ibge": 2915353,
+    "city": "Itaguaçu da Bahia",
+    "latitude": -11.0147,
+    "longitude": -42.3997
+  },
+  {
+    "state": "BA",
+    "ibge": 2915403,
+    "city": "Itaju do Colônia",
+    "latitude": -15.1366,
+    "longitude": -39.7283
+  },
+  {
+    "state": "BA",
+    "ibge": 2915502,
+    "city": "Itajuípe",
+    "latitude": -14.6788,
+    "longitude": -39.3698
+  },
+  {
+    "state": "BA",
+    "ibge": 2915601,
+    "city": "Itamaraju",
+    "latitude": -17.0378,
+    "longitude": -39.5386
+  },
+  {
+    "state": "BA",
+    "ibge": 2915700,
+    "city": "Itamari",
+    "latitude": -13.7782,
+    "longitude": -39.683
+  },
+  {
+    "state": "BA",
+    "ibge": 2915809,
+    "city": "Itambé",
+    "latitude": -15.2429,
+    "longitude": -40.63
+  },
+  {
+    "state": "BA",
+    "ibge": 2915908,
+    "city": "Itanagra",
+    "latitude": -12.2614,
+    "longitude": -38.0436
+  },
+  {
+    "state": "BA",
+    "ibge": 2916005,
+    "city": "Itanhém",
+    "latitude": -17.1642,
+    "longitude": -40.3321
+  },
+  {
+    "state": "BA",
+    "ibge": 2916104,
+    "city": "Itaparica",
+    "latitude": -12.8932,
+    "longitude": -38.68
+  },
+  {
+    "state": "BA",
+    "ibge": 2916203,
+    "city": "Itapé",
+    "latitude": -14.8876,
+    "longitude": -39.4239
+  },
+  {
+    "state": "BA",
+    "ibge": 2916302,
+    "city": "Itapebi",
+    "latitude": -15.9551,
+    "longitude": -39.5329
+  },
+  {
+    "state": "BA",
+    "ibge": 2916401,
+    "city": "Itapetinga",
+    "latitude": -15.2475,
+    "longitude": -40.2482
+  },
+  {
+    "state": "BA",
+    "ibge": 2916500,
+    "city": "Itapicuru",
+    "latitude": -11.3088,
+    "longitude": -38.2262
+  },
+  {
+    "state": "BA",
+    "ibge": 2916609,
+    "city": "Itapitanga",
+    "latitude": -14.4139,
+    "longitude": -39.5657
+  },
+  {
+    "state": "BA",
+    "ibge": 2916708,
+    "city": "Itaquara",
+    "latitude": -13.4459,
+    "longitude": -39.9378
+  },
+  {
+    "state": "BA",
+    "ibge": 2916807,
+    "city": "Itarantim",
+    "latitude": -15.6528,
+    "longitude": -40.065
+  },
+  {
+    "state": "BA",
+    "ibge": 2916856,
+    "city": "Itatim",
+    "latitude": -12.7099,
+    "longitude": -39.6952
+  },
+  {
+    "state": "BA",
+    "ibge": 2916906,
+    "city": "Itiruçu",
+    "latitude": -13.529,
+    "longitude": -40.1472
+  },
+  {
+    "state": "BA",
+    "ibge": 2917003,
+    "city": "Itiúba",
+    "latitude": -10.6948,
+    "longitude": -39.8446
+  },
+  {
+    "state": "BA",
+    "ibge": 2917102,
+    "city": "Itororó",
+    "latitude": -15.11,
+    "longitude": -40.0684
+  },
+  {
+    "state": "BA",
+    "ibge": 2917201,
+    "city": "Ituaçu",
+    "latitude": -13.8107,
+    "longitude": -41.3003
+  },
+  {
+    "state": "BA",
+    "ibge": 2917300,
+    "city": "Ituberá",
+    "latitude": -13.7249,
+    "longitude": -39.1481
+  },
+  {
+    "state": "BA",
+    "ibge": 2917334,
+    "city": "Iuiú",
+    "latitude": -14.4054,
+    "longitude": -43.5595
+  },
+  {
+    "state": "BA",
+    "ibge": 2917359,
+    "city": "Jaborandi",
+    "latitude": -13.6071,
+    "longitude": -44.4255
+  },
+  {
+    "state": "BA",
+    "ibge": 2917409,
+    "city": "Jacaraci",
+    "latitude": -14.8541,
+    "longitude": -42.4329
+  },
+  {
+    "state": "BA",
+    "ibge": 2917508,
+    "city": "Jacobina",
+    "latitude": -11.1812,
+    "longitude": -40.5117
+  },
+  {
+    "state": "BA",
+    "ibge": 2917607,
+    "city": "Jaguaquara",
+    "latitude": -13.5248,
+    "longitude": -39.964
+  },
+  {
+    "state": "BA",
+    "ibge": 2917706,
+    "city": "Jaguarari",
+    "latitude": -10.2569,
+    "longitude": -40.1999
+  },
+  {
+    "state": "BA",
+    "ibge": 2917805,
+    "city": "Jaguaripe",
+    "latitude": -13.1109,
+    "longitude": -38.8939
+  },
+  {
+    "state": "BA",
+    "ibge": 2917904,
+    "city": "Jandaíra",
+    "latitude": -11.5616,
+    "longitude": -37.7853
+  },
+  {
+    "state": "BA",
+    "ibge": 2918001,
+    "city": "Jequié",
+    "latitude": -13.8509,
+    "longitude": -40.0877
+  },
+  {
+    "state": "BA",
+    "ibge": 2918100,
+    "city": "Jeremoabo",
+    "latitude": -10.0685,
+    "longitude": -38.3471
+  },
+  {
+    "state": "BA",
+    "ibge": 2918209,
+    "city": "Jiquiriçá",
+    "latitude": -13.2621,
+    "longitude": -39.5737
+  },
+  {
+    "state": "BA",
+    "ibge": 2918308,
+    "city": "Jitaúna",
+    "latitude": -14.0131,
+    "longitude": -39.8969
+  },
+  {
+    "state": "BA",
+    "ibge": 2918357,
+    "city": "João Dourado",
+    "latitude": -11.3486,
+    "longitude": -41.6548
+  },
+  {
+    "state": "BA",
+    "ibge": 2918407,
+    "city": "Juazeiro",
+    "latitude": -9.41622,
+    "longitude": -40.5033
+  },
+  {
+    "state": "BA",
+    "ibge": 2918456,
+    "city": "Jucuruçu",
+    "latitude": -16.8488,
+    "longitude": -40.1641
+  },
+  {
+    "state": "BA",
+    "ibge": 2918506,
+    "city": "Jussara",
+    "latitude": -11.0431,
+    "longitude": -41.9702
+  },
+  {
+    "state": "BA",
+    "ibge": 2918555,
+    "city": "Jussari",
+    "latitude": -15.192,
+    "longitude": -39.491
+  },
+  {
+    "state": "BA",
+    "ibge": 2918605,
+    "city": "Jussiape",
+    "latitude": -13.5155,
+    "longitude": -41.5882
+  },
+  {
+    "state": "BA",
+    "ibge": 2918704,
+    "city": "Lafaiete Coutinho",
+    "latitude": -13.6541,
+    "longitude": -40.2119
+  },
+  {
+    "state": "BA",
+    "ibge": 2918753,
+    "city": "Lagoa Real",
+    "latitude": -14.0334,
+    "longitude": -42.1328
+  },
+  {
+    "state": "BA",
+    "ibge": 2918803,
+    "city": "Laje",
+    "latitude": -13.1673,
+    "longitude": -39.4213
+  },
+  {
+    "state": "BA",
+    "ibge": 2918902,
+    "city": "Lajedão",
+    "latitude": -17.6056,
+    "longitude": -40.3383
+  },
+  {
+    "state": "BA",
+    "ibge": 2919009,
+    "city": "Lajedinho",
+    "latitude": -12.3529,
+    "longitude": -40.9048
+  },
+  {
+    "state": "BA",
+    "ibge": 2919058,
+    "city": "Lajedo do Tabocal",
+    "latitude": -13.4663,
+    "longitude": -40.2204
+  },
+  {
+    "state": "BA",
+    "ibge": 2919108,
+    "city": "Lamarão",
+    "latitude": -11.773,
+    "longitude": -38.887
+  },
+  {
+    "state": "BA",
+    "ibge": 2919157,
+    "city": "Lapão",
+    "latitude": -11.3851,
+    "longitude": -41.8286
+  },
+  {
+    "state": "BA",
+    "ibge": 2919207,
+    "city": "Lauro de Freitas",
+    "latitude": -12.8978,
+    "longitude": -38.321
+  },
+  {
+    "state": "BA",
+    "ibge": 2919306,
+    "city": "Lençóis",
+    "latitude": -12.5616,
+    "longitude": -41.3928
+  },
+  {
+    "state": "BA",
+    "ibge": 2919405,
+    "city": "Licínio de Almeida",
+    "latitude": -14.6842,
+    "longitude": -42.5095
+  },
+  {
+    "state": "BA",
+    "ibge": 2919504,
+    "city": "Livramento de Nossa Senhora",
+    "latitude": -13.6369,
+    "longitude": -41.8432
+  },
+  {
+    "state": "BA",
+    "ibge": 2919553,
+    "city": "Luís Eduardo Magalhães",
+    "latitude": -12.0956,
+    "longitude": -45.7866
+  },
+  {
+    "state": "BA",
+    "ibge": 2919603,
+    "city": "Macajuba",
+    "latitude": -12.1326,
+    "longitude": -40.3571
+  },
+  {
+    "state": "BA",
+    "ibge": 2919702,
+    "city": "Macarani",
+    "latitude": -15.5646,
+    "longitude": -40.4209
+  },
+  {
+    "state": "BA",
+    "ibge": 2919801,
+    "city": "Macaúbas",
+    "latitude": -13.0186,
+    "longitude": -42.6945
+  },
+  {
+    "state": "BA",
+    "ibge": 2919900,
+    "city": "Macururé",
+    "latitude": -9.16226,
+    "longitude": -39.0518
+  },
+  {
+    "state": "BA",
+    "ibge": 2919926,
+    "city": "Madre de Deus",
+    "latitude": -12.7446,
+    "longitude": -38.6153
+  },
+  {
+    "state": "BA",
+    "ibge": 2919959,
+    "city": "Maetinga",
+    "latitude": -14.6623,
+    "longitude": -41.4915
+  },
+  {
+    "state": "BA",
+    "ibge": 2920007,
+    "city": "Maiquinique",
+    "latitude": -15.624,
+    "longitude": -40.2587
+  },
+  {
+    "state": "BA",
+    "ibge": 2920106,
+    "city": "Mairi",
+    "latitude": -11.7107,
+    "longitude": -40.1437
+  },
+  {
+    "state": "BA",
+    "ibge": 2920205,
+    "city": "Malhada",
+    "latitude": -14.3371,
+    "longitude": -43.7686
+  },
+  {
+    "state": "BA",
+    "ibge": 2920304,
+    "city": "Malhada de Pedras",
+    "latitude": -14.3847,
+    "longitude": -41.8842
+  },
+  {
+    "state": "BA",
+    "ibge": 2920403,
+    "city": "Manoel Vitorino",
+    "latitude": -14.1476,
+    "longitude": -40.2399
+  },
+  {
+    "state": "BA",
+    "ibge": 2920452,
+    "city": "Mansidão",
+    "latitude": -10.7227,
+    "longitude": -44.0428
+  },
+  {
+    "state": "BA",
+    "ibge": 2920502,
+    "city": "Maracás",
+    "latitude": -13.4355,
+    "longitude": -40.4323
+  },
+  {
+    "state": "BA",
+    "ibge": 2920601,
+    "city": "Maragogipe",
+    "latitude": -12.776,
+    "longitude": -38.9175
+  },
+  {
+    "state": "BA",
+    "ibge": 2920700,
+    "city": "Maraú",
+    "latitude": -14.1035,
+    "longitude": -39.0137
+  },
+  {
+    "state": "BA",
+    "ibge": 2920809,
+    "city": "Marcionílio Souza",
+    "latitude": -13.0064,
+    "longitude": -40.5295
+  },
+  {
+    "state": "BA",
+    "ibge": 2920908,
+    "city": "Mascote",
+    "latitude": -15.5542,
+    "longitude": -39.3016
+  },
+  {
+    "state": "BA",
+    "ibge": 2921005,
+    "city": "Mata de São João",
+    "latitude": -12.5307,
+    "longitude": -38.3009
+  },
+  {
+    "state": "BA",
+    "ibge": 2921054,
+    "city": "Matina",
+    "latitude": -13.9109,
+    "longitude": -42.8439
+  },
+  {
+    "state": "BA",
+    "ibge": 2921104,
+    "city": "Medeiros Neto",
+    "latitude": -17.3707,
+    "longitude": -40.2238
+  },
+  {
+    "state": "BA",
+    "ibge": 2921203,
+    "city": "Miguel Calmon",
+    "latitude": -11.4299,
+    "longitude": -40.6031
+  },
+  {
+    "state": "BA",
+    "ibge": 2921302,
+    "city": "Milagres",
+    "latitude": -12.8646,
+    "longitude": -39.8611
+  },
+  {
+    "state": "BA",
+    "ibge": 2921401,
+    "city": "Mirangaba",
+    "latitude": -10.961,
+    "longitude": -40.574
+  },
+  {
+    "state": "BA",
+    "ibge": 2921450,
+    "city": "Mirante",
+    "latitude": -14.2385,
+    "longitude": -40.7718
+  },
+  {
+    "state": "BA",
+    "ibge": 2921500,
+    "city": "Monte Santo",
+    "latitude": -10.4374,
+    "longitude": -39.3321
+  },
+  {
+    "state": "BA",
+    "ibge": 2921609,
+    "city": "Morpará",
+    "latitude": -11.5569,
+    "longitude": -43.2766
+  },
+  {
+    "state": "BA",
+    "ibge": 2921708,
+    "city": "Morro do Chapéu",
+    "latitude": -11.5488,
+    "longitude": -41.1565
+  },
+  {
+    "state": "BA",
+    "ibge": 2921807,
+    "city": "Mortugaba",
+    "latitude": -15.0225,
+    "longitude": -42.3727
+  },
+  {
+    "state": "BA",
+    "ibge": 2921906,
+    "city": "Mucugê",
+    "latitude": -13.0053,
+    "longitude": -41.3703
+  },
+  {
+    "state": "BA",
+    "ibge": 2922003,
+    "city": "Mucuri",
+    "latitude": -18.0754,
+    "longitude": -39.5565
+  },
+  {
+    "state": "BA",
+    "ibge": 2922052,
+    "city": "Mulungu do Morro",
+    "latitude": -11.9648,
+    "longitude": -41.6374
+  },
+  {
+    "state": "BA",
+    "ibge": 2922102,
+    "city": "Mundo Novo",
+    "latitude": -11.8541,
+    "longitude": -40.4714
+  },
+  {
+    "state": "BA",
+    "ibge": 2922201,
+    "city": "Muniz Ferreira",
+    "latitude": -13.0092,
+    "longitude": -39.1092
+  },
+  {
+    "state": "BA",
+    "ibge": 2922250,
+    "city": "Muquém de São Francisco",
+    "latitude": -12.065,
+    "longitude": -43.5497
+  },
+  {
+    "state": "BA",
+    "ibge": 2922300,
+    "city": "Muritiba",
+    "latitude": -12.6329,
+    "longitude": -38.9921
+  },
+  {
+    "state": "BA",
+    "ibge": 2922409,
+    "city": "Mutuípe",
+    "latitude": -13.2284,
+    "longitude": -39.5044
+  },
+  {
+    "state": "BA",
+    "ibge": 2922508,
+    "city": "Nazaré",
+    "latitude": -13.0235,
+    "longitude": -39.0108
+  },
+  {
+    "state": "BA",
+    "ibge": 2922607,
+    "city": "Nilo Peçanha",
+    "latitude": -13.604,
+    "longitude": -39.1091
+  },
+  {
+    "state": "BA",
+    "ibge": 2922656,
+    "city": "Nordestina",
+    "latitude": -10.8192,
+    "longitude": -39.4297
+  },
+  {
+    "state": "BA",
+    "ibge": 2922706,
+    "city": "Nova Canaã",
+    "latitude": -14.7912,
+    "longitude": -40.1458
+  },
+  {
+    "state": "BA",
+    "ibge": 2922730,
+    "city": "Nova Fátima",
+    "latitude": -11.6031,
+    "longitude": -39.6302
+  },
+  {
+    "state": "BA",
+    "ibge": 2922755,
+    "city": "Nova Ibiá",
+    "latitude": -13.812,
+    "longitude": -39.6182
+  },
+  {
+    "state": "BA",
+    "ibge": 2922805,
+    "city": "Nova Itarana",
+    "latitude": -13.0241,
+    "longitude": -40.0653
+  },
+  {
+    "state": "BA",
+    "ibge": 2922854,
+    "city": "Nova Redenção",
+    "latitude": -12.815,
+    "longitude": -41.0748
+  },
+  {
+    "state": "BA",
+    "ibge": 2922904,
+    "city": "Nova Soure",
+    "latitude": -11.2329,
+    "longitude": -38.4871
+  },
+  {
+    "state": "BA",
+    "ibge": 2923001,
+    "city": "Nova Viçosa",
+    "latitude": -17.8926,
+    "longitude": -39.3743
+  },
+  {
+    "state": "BA",
+    "ibge": 2923035,
+    "city": "Novo Horizonte",
+    "latitude": -12.8083,
+    "longitude": -42.1682
+  },
+  {
+    "state": "BA",
+    "ibge": 2923050,
+    "city": "Novo Triunfo",
+    "latitude": -10.3182,
+    "longitude": -38.4014
+  },
+  {
+    "state": "BA",
+    "ibge": 2923100,
+    "city": "Olindina",
+    "latitude": -11.3497,
+    "longitude": -38.3379
+  },
+  {
+    "state": "BA",
+    "ibge": 2923209,
+    "city": "Oliveira dos Brejinhos",
+    "latitude": -12.3132,
+    "longitude": -42.8969
+  },
+  {
+    "state": "BA",
+    "ibge": 2923308,
+    "city": "Ouriçangas",
+    "latitude": -12.0175,
+    "longitude": -38.6166
+  },
+  {
+    "state": "BA",
+    "ibge": 2923357,
+    "city": "Ourolândia",
+    "latitude": -10.9578,
+    "longitude": -41.0756
+  },
+  {
+    "state": "BA",
+    "ibge": 2923407,
+    "city": "Palmas de Monte Alto",
+    "latitude": -14.2676,
+    "longitude": -43.1609
+  },
+  {
+    "state": "BA",
+    "ibge": 2923506,
+    "city": "Palmeiras",
+    "latitude": -12.5059,
+    "longitude": -41.5809
+  },
+  {
+    "state": "BA",
+    "ibge": 2923605,
+    "city": "Paramirim",
+    "latitude": -13.4388,
+    "longitude": -42.2395
+  },
+  {
+    "state": "BA",
+    "ibge": 2923704,
+    "city": "Paratinga",
+    "latitude": -12.687,
+    "longitude": -43.1798
+  },
+  {
+    "state": "BA",
+    "ibge": 2923803,
+    "city": "Paripiranga",
+    "latitude": -10.6859,
+    "longitude": -37.8626
+  },
+  {
+    "state": "BA",
+    "ibge": 2923902,
+    "city": "Pau Brasil",
+    "latitude": -15.4572,
+    "longitude": -39.6458
+  },
+  {
+    "state": "BA",
+    "ibge": 2924009,
+    "city": "Paulo Afonso",
+    "latitude": -9.3983,
+    "longitude": -38.2216
+  },
+  {
+    "state": "BA",
+    "ibge": 2924058,
+    "city": "Pé de Serra",
+    "latitude": -11.8313,
+    "longitude": -39.611
+  },
+  {
+    "state": "BA",
+    "ibge": 2924108,
+    "city": "Pedrão",
+    "latitude": -12.1491,
+    "longitude": -38.6487
+  },
+  {
+    "state": "BA",
+    "ibge": 2924207,
+    "city": "Pedro Alexandre",
+    "latitude": -10.012,
+    "longitude": -37.8932
+  },
+  {
+    "state": "BA",
+    "ibge": 2924306,
+    "city": "Piatã",
+    "latitude": -13.1465,
+    "longitude": -41.7702
+  },
+  {
+    "state": "BA",
+    "ibge": 2924405,
+    "city": "Pilão Arcado",
+    "latitude": -10.0051,
+    "longitude": -42.4936
+  },
+  {
+    "state": "BA",
+    "ibge": 2924504,
+    "city": "Pindaí",
+    "latitude": -14.4921,
+    "longitude": -42.686
+  },
+  {
+    "state": "BA",
+    "ibge": 2924603,
+    "city": "Pindobaçu",
+    "latitude": -10.7433,
+    "longitude": -40.3675
+  },
+  {
+    "state": "BA",
+    "ibge": 2924652,
+    "city": "Pintadas",
+    "latitude": -11.8117,
+    "longitude": -39.9009
+  },
+  {
+    "state": "BA",
+    "ibge": 2924678,
+    "city": "Piraí do Norte",
+    "latitude": -13.759,
+    "longitude": -39.3836
+  },
+  {
+    "state": "BA",
+    "ibge": 2924702,
+    "city": "Piripá",
+    "latitude": -14.9444,
+    "longitude": -41.7168
+  },
+  {
+    "state": "BA",
+    "ibge": 2924801,
+    "city": "Piritiba",
+    "latitude": -11.73,
+    "longitude": -40.5587
+  },
+  {
+    "state": "BA",
+    "ibge": 2924900,
+    "city": "Planaltino",
+    "latitude": -13.2618,
+    "longitude": -40.3695
+  },
+  {
+    "state": "BA",
+    "ibge": 2925006,
+    "city": "Planalto",
+    "latitude": -14.6654,
+    "longitude": -40.4718
+  },
+  {
+    "state": "BA",
+    "ibge": 2925105,
+    "city": "Poções",
+    "latitude": -14.5234,
+    "longitude": -40.3634
+  },
+  {
+    "state": "BA",
+    "ibge": 2925204,
+    "city": "Pojuca",
+    "latitude": -12.4303,
+    "longitude": -38.3374
+  },
+  {
+    "state": "BA",
+    "ibge": 2925253,
+    "city": "Ponto Novo",
+    "latitude": -10.8653,
+    "longitude": -40.1311
+  },
+  {
+    "state": "BA",
+    "ibge": 2925303,
+    "city": "Porto Seguro",
+    "latitude": -16.4435,
+    "longitude": -39.0643
+  },
+  {
+    "state": "BA",
+    "ibge": 2925402,
+    "city": "Potiraguá",
+    "latitude": -15.5943,
+    "longitude": -39.8638
+  },
+  {
+    "state": "BA",
+    "ibge": 2925501,
+    "city": "Prado",
+    "latitude": -17.3364,
+    "longitude": -39.2227
+  },
+  {
+    "state": "BA",
+    "ibge": 2925600,
+    "city": "Presidente Dutra",
+    "latitude": -11.2923,
+    "longitude": -41.9843
+  },
+  {
+    "state": "BA",
+    "ibge": 2925709,
+    "city": "Presidente Jânio Quadros",
+    "latitude": -14.6885,
+    "longitude": -41.6798
+  },
+  {
+    "state": "BA",
+    "ibge": 2925758,
+    "city": "Presidente Tancredo Neves",
+    "latitude": -13.4471,
+    "longitude": -39.4203
+  },
+  {
+    "state": "BA",
+    "ibge": 2925808,
+    "city": "Queimadas",
+    "latitude": -10.9736,
+    "longitude": -39.6293
+  },
+  {
+    "state": "BA",
+    "ibge": 2925907,
+    "city": "Quijingue",
+    "latitude": -10.7505,
+    "longitude": -39.2137
+  },
+  {
+    "state": "BA",
+    "ibge": 2925931,
+    "city": "Quixabeira",
+    "latitude": -11.4031,
+    "longitude": -40.12
+  },
+  {
+    "state": "BA",
+    "ibge": 2925956,
+    "city": "Rafael Jambeiro",
+    "latitude": -12.4053,
+    "longitude": -39.5007
+  },
+  {
+    "state": "BA",
+    "ibge": 2926004,
+    "city": "Remanso",
+    "latitude": -9.61944,
+    "longitude": -42.0848
+  },
+  {
+    "state": "BA",
+    "ibge": 2926103,
+    "city": "Retirolândia",
+    "latitude": -11.4832,
+    "longitude": -39.4234
+  },
+  {
+    "state": "BA",
+    "ibge": 2926202,
+    "city": "Riachão das Neves",
+    "latitude": -11.7508,
+    "longitude": -44.9143
+  },
+  {
+    "state": "BA",
+    "ibge": 2926301,
+    "city": "Riachão do Jacuípe",
+    "latitude": -11.8067,
+    "longitude": -39.3818
+  },
+  {
+    "state": "BA",
+    "ibge": 2926400,
+    "city": "Riacho de Santana",
+    "latitude": -13.6059,
+    "longitude": -42.9397
+  },
+  {
+    "state": "BA",
+    "ibge": 2926509,
+    "city": "Ribeira do Amparo",
+    "latitude": -11.0421,
+    "longitude": -38.4242
+  },
+  {
+    "state": "BA",
+    "ibge": 2926608,
+    "city": "Ribeira do Pombal",
+    "latitude": -10.8373,
+    "longitude": -38.5382
+  },
+  {
+    "state": "BA",
+    "ibge": 2926657,
+    "city": "Ribeirão do Largo",
+    "latitude": -15.4508,
+    "longitude": -40.7441
+  },
+  {
+    "state": "BA",
+    "ibge": 2926707,
+    "city": "Rio de Contas",
+    "latitude": -13.5852,
+    "longitude": -41.8048
+  },
+  {
+    "state": "BA",
+    "ibge": 2926806,
+    "city": "Rio do Antônio",
+    "latitude": -14.4071,
+    "longitude": -42.0721
+  },
+  {
+    "state": "BA",
+    "ibge": 2926905,
+    "city": "Rio do Pires",
+    "latitude": -13.1185,
+    "longitude": -42.2902
+  },
+  {
+    "state": "BA",
+    "ibge": 2927002,
+    "city": "Rio Real",
+    "latitude": -11.4814,
+    "longitude": -37.9332
+  },
+  {
+    "state": "BA",
+    "ibge": 2927101,
+    "city": "Rodelas",
+    "latitude": -8.85021,
+    "longitude": -38.78
+  },
+  {
+    "state": "BA",
+    "ibge": 2927200,
+    "city": "Ruy Barbosa",
+    "latitude": -12.2816,
+    "longitude": -40.4931
+  },
+  {
+    "state": "BA",
+    "ibge": 2927309,
+    "city": "Salinas da Margarida",
+    "latitude": -12.873,
+    "longitude": -38.7562
+  },
+  {
+    "state": "BA",
+    "ibge": 2927408,
+    "city": "Salvador",
+    "latitude": -12.9718,
+    "longitude": -38.5011
+  },
+  {
+    "state": "BA",
+    "ibge": 2927507,
+    "city": "Santa Bárbara",
+    "latitude": -11.9515,
+    "longitude": -38.9681
+  },
+  {
+    "state": "BA",
+    "ibge": 2927606,
+    "city": "Santa Brígida",
+    "latitude": -9.73227,
+    "longitude": -38.1209
+  },
+  {
+    "state": "BA",
+    "ibge": 2927705,
+    "city": "Santa Cruz Cabrália",
+    "latitude": -16.2825,
+    "longitude": -39.0295
+  },
+  {
+    "state": "BA",
+    "ibge": 2927804,
+    "city": "Santa Cruz da Vitória",
+    "latitude": -14.964,
+    "longitude": -39.8115
+  },
+  {
+    "state": "BA",
+    "ibge": 2927903,
+    "city": "Santa Inês",
+    "latitude": -13.2793,
+    "longitude": -39.814
+  },
+  {
+    "state": "BA",
+    "ibge": 2928059,
+    "city": "Santa Luzia",
+    "latitude": -15.4342,
+    "longitude": -39.3287
+  },
+  {
+    "state": "BA",
+    "ibge": 2928109,
+    "city": "Santa Maria da Vitória",
+    "latitude": -13.3859,
+    "longitude": -44.2011
+  },
+  {
+    "state": "BA",
+    "ibge": 2928406,
+    "city": "Santa Rita de Cássia",
+    "latitude": -11.0063,
+    "longitude": -44.5255
+  },
+  {
+    "state": "BA",
+    "ibge": 2928505,
+    "city": "Santa Teresinha",
+    "latitude": -12.7697,
+    "longitude": -39.5215
+  },
+  {
+    "state": "BA",
+    "ibge": 2928000,
+    "city": "Santaluz",
+    "latitude": -11.2508,
+    "longitude": -39.375
+  },
+  {
+    "state": "BA",
+    "ibge": 2928208,
+    "city": "Santana",
+    "latitude": -12.9792,
+    "longitude": -44.0506
+  },
+  {
+    "state": "BA",
+    "ibge": 2928307,
+    "city": "Santanópolis",
+    "latitude": -12.0311,
+    "longitude": -38.8694
+  },
+  {
+    "state": "BA",
+    "ibge": 2928604,
+    "city": "Santo Amaro",
+    "latitude": -12.5472,
+    "longitude": -38.7137
+  },
+  {
+    "state": "BA",
+    "ibge": 2928703,
+    "city": "Santo Antônio de Jesus",
+    "latitude": -12.9614,
+    "longitude": -39.2584
+  },
+  {
+    "state": "BA",
+    "ibge": 2928802,
+    "city": "Santo Estêvão",
+    "latitude": -12.428,
+    "longitude": -39.2505
+  },
+  {
+    "state": "BA",
+    "ibge": 2928901,
+    "city": "São Desidério",
+    "latitude": -12.3572,
+    "longitude": -44.9769
+  },
+  {
+    "state": "BA",
+    "ibge": 2928950,
+    "city": "São Domingos",
+    "latitude": -11.4649,
+    "longitude": -39.5268
+  },
+  {
+    "state": "BA",
+    "ibge": 2929107,
+    "city": "São Felipe",
+    "latitude": -12.8394,
+    "longitude": -39.0893
+  },
+  {
+    "state": "BA",
+    "ibge": 2929008,
+    "city": "São Félix",
+    "latitude": -12.6104,
+    "longitude": -38.9727
+  },
+  {
+    "state": "BA",
+    "ibge": 2929057,
+    "city": "São Félix do Coribe",
+    "latitude": -13.4019,
+    "longitude": -44.1837
+  },
+  {
+    "state": "BA",
+    "ibge": 2929206,
+    "city": "São Francisco do Conde",
+    "latitude": -12.6183,
+    "longitude": -38.6786
+  },
+  {
+    "state": "BA",
+    "ibge": 2929255,
+    "city": "São Gabriel",
+    "latitude": -11.2175,
+    "longitude": -41.8843
+  },
+  {
+    "state": "BA",
+    "ibge": 2929305,
+    "city": "São Gonçalo dos Campos",
+    "latitude": -12.4331,
+    "longitude": -38.9663
+  },
+  {
+    "state": "BA",
+    "ibge": 2929354,
+    "city": "São José da Vitória",
+    "latitude": -15.0787,
+    "longitude": -39.3437
+  },
+  {
+    "state": "BA",
+    "ibge": 2929370,
+    "city": "São José do Jacuípe",
+    "latitude": -11.4137,
+    "longitude": -39.8669
+  },
+  {
+    "state": "BA",
+    "ibge": 2929404,
+    "city": "São Miguel das Matas",
+    "latitude": -13.0434,
+    "longitude": -39.4578
+  },
+  {
+    "state": "BA",
+    "ibge": 2929503,
+    "city": "São Sebastião do Passé",
+    "latitude": -12.5123,
+    "longitude": -38.4905
+  },
+  {
+    "state": "BA",
+    "ibge": 2929602,
+    "city": "Sapeaçu",
+    "latitude": -12.7208,
+    "longitude": -39.1824
+  },
+  {
+    "state": "BA",
+    "ibge": 2929701,
+    "city": "Sátiro Dias",
+    "latitude": -11.5929,
+    "longitude": -38.5938
+  },
+  {
+    "state": "BA",
+    "ibge": 2929750,
+    "city": "Saubara",
+    "latitude": -12.7387,
+    "longitude": -38.7625
+  },
+  {
+    "state": "BA",
+    "ibge": 2929800,
+    "city": "Saúde",
+    "latitude": -10.9428,
+    "longitude": -40.4155
+  },
+  {
+    "state": "BA",
+    "ibge": 2929909,
+    "city": "Seabra",
+    "latitude": -12.4169,
+    "longitude": -41.7722
+  },
+  {
+    "state": "BA",
+    "ibge": 2930006,
+    "city": "Sebastião Laranjeiras",
+    "latitude": -14.571,
+    "longitude": -42.9434
+  },
+  {
+    "state": "BA",
+    "ibge": 2930105,
+    "city": "Senhor do Bonfim",
+    "latitude": -10.4594,
+    "longitude": -40.1865
+  },
+  {
+    "state": "BA",
+    "ibge": 2930204,
+    "city": "Sento Sé",
+    "latitude": -9.74138,
+    "longitude": -41.8786
+  },
+  {
+    "state": "BA",
+    "ibge": 2930154,
+    "city": "Serra do Ramalho",
+    "latitude": -13.5659,
+    "longitude": -43.5929
+  },
+  {
+    "state": "BA",
+    "ibge": 2930303,
+    "city": "Serra Dourada",
+    "latitude": -12.759,
+    "longitude": -43.9504
+  },
+  {
+    "state": "BA",
+    "ibge": 2930402,
+    "city": "Serra Preta",
+    "latitude": -12.156,
+    "longitude": -39.3305
+  },
+  {
+    "state": "BA",
+    "ibge": 2930501,
+    "city": "Serrinha",
+    "latitude": -11.6584,
+    "longitude": -39.01
+  },
+  {
+    "state": "BA",
+    "ibge": 2930600,
+    "city": "Serrolândia",
+    "latitude": -11.4085,
+    "longitude": -40.2983
+  },
+  {
+    "state": "BA",
+    "ibge": 2930709,
+    "city": "Simões Filho",
+    "latitude": -12.7866,
+    "longitude": -38.4029
+  },
+  {
+    "state": "BA",
+    "ibge": 2930758,
+    "city": "Sítio do Mato",
+    "latitude": -13.0801,
+    "longitude": -43.4689
+  },
+  {
+    "state": "BA",
+    "ibge": 2930766,
+    "city": "Sítio do Quinto",
+    "latitude": -10.3545,
+    "longitude": -38.2213
+  },
+  {
+    "state": "BA",
+    "ibge": 2930774,
+    "city": "Sobradinho",
+    "latitude": -9.45024,
+    "longitude": -40.8145
+  },
+  {
+    "state": "BA",
+    "ibge": 2930808,
+    "city": "Souto Soares",
+    "latitude": -12.088,
+    "longitude": -41.6427
+  },
+  {
+    "state": "BA",
+    "ibge": 2930907,
+    "city": "Tabocas do Brejo Velho",
+    "latitude": -12.7026,
+    "longitude": -44.0075
+  },
+  {
+    "state": "BA",
+    "ibge": 2931004,
+    "city": "Tanhaçu",
+    "latitude": -14.0197,
+    "longitude": -41.2473
+  },
+  {
+    "state": "BA",
+    "ibge": 2931053,
+    "city": "Tanque Novo",
+    "latitude": -13.5485,
+    "longitude": -42.4934
+  },
+  {
+    "state": "BA",
+    "ibge": 2931103,
+    "city": "Tanquinho",
+    "latitude": -11.968,
+    "longitude": -39.1033
+  },
+  {
+    "state": "BA",
+    "ibge": 2931202,
+    "city": "Taperoá",
+    "latitude": -13.5321,
+    "longitude": -39.1009
+  },
+  {
+    "state": "BA",
+    "ibge": 2931301,
+    "city": "Tapiramutá",
+    "latitude": -11.8475,
+    "longitude": -40.7927
+  },
+  {
+    "state": "BA",
+    "ibge": 2931350,
+    "city": "Teixeira de Freitas",
+    "latitude": -17.5399,
+    "longitude": -39.74
+  },
+  {
+    "state": "BA",
+    "ibge": 2931400,
+    "city": "Teodoro Sampaio",
+    "latitude": -12.295,
+    "longitude": -38.6347
+  },
+  {
+    "state": "BA",
+    "ibge": 2931509,
+    "city": "Teofilândia",
+    "latitude": -11.4827,
+    "longitude": -38.9913
+  },
+  {
+    "state": "BA",
+    "ibge": 2931608,
+    "city": "Teolândia",
+    "latitude": -13.5896,
+    "longitude": -39.484
+  },
+  {
+    "state": "BA",
+    "ibge": 2931707,
+    "city": "Terra Nova",
+    "latitude": -12.3888,
+    "longitude": -38.6238
+  },
+  {
+    "state": "BA",
+    "ibge": 2931806,
+    "city": "Tremedal",
+    "latitude": -14.9736,
+    "longitude": -41.4142
+  },
+  {
+    "state": "BA",
+    "ibge": 2931905,
+    "city": "Tucano",
+    "latitude": -10.9584,
+    "longitude": -38.7894
+  },
+  {
+    "state": "BA",
+    "ibge": 2932002,
+    "city": "Uauá",
+    "latitude": -9.83325,
+    "longitude": -39.4794
+  },
+  {
+    "state": "BA",
+    "ibge": 2932101,
+    "city": "Ubaíra",
+    "latitude": -13.2714,
+    "longitude": -39.666
+  },
+  {
+    "state": "BA",
+    "ibge": 2932200,
+    "city": "Ubaitaba",
+    "latitude": -14.303,
+    "longitude": -39.3222
+  },
+  {
+    "state": "BA",
+    "ibge": 2932309,
+    "city": "Ubatã",
+    "latitude": -14.2063,
+    "longitude": -39.5207
+  },
+  {
+    "state": "BA",
+    "ibge": 2932408,
+    "city": "Uibaí",
+    "latitude": -11.3394,
+    "longitude": -42.1354
+  },
+  {
+    "state": "BA",
+    "ibge": 2932457,
+    "city": "Umburanas",
+    "latitude": -10.7339,
+    "longitude": -41.3234
+  },
+  {
+    "state": "BA",
+    "ibge": 2932507,
+    "city": "Una",
+    "latitude": -15.2791,
+    "longitude": -39.0765
+  },
+  {
+    "state": "BA",
+    "ibge": 2932606,
+    "city": "Urandi",
+    "latitude": -14.7678,
+    "longitude": -42.6498
+  },
+  {
+    "state": "BA",
+    "ibge": 2932705,
+    "city": "Uruçuca",
+    "latitude": -14.5963,
+    "longitude": -39.2851
+  },
+  {
+    "state": "BA",
+    "ibge": 2932804,
+    "city": "Utinga",
+    "latitude": -12.0783,
+    "longitude": -41.0954
+  },
+  {
+    "state": "BA",
+    "ibge": 2932903,
+    "city": "Valença",
+    "latitude": -13.3669,
+    "longitude": -39.073
+  },
+  {
+    "state": "BA",
+    "ibge": 2933000,
+    "city": "Valente",
+    "latitude": -11.4062,
+    "longitude": -39.457
+  },
+  {
+    "state": "BA",
+    "ibge": 2933059,
+    "city": "Várzea da Roça",
+    "latitude": -11.6005,
+    "longitude": -40.1328
+  },
+  {
+    "state": "BA",
+    "ibge": 2933109,
+    "city": "Várzea do Poço",
+    "latitude": -11.5273,
+    "longitude": -40.3149
+  },
+  {
+    "state": "BA",
+    "ibge": 2933158,
+    "city": "Várzea Nova",
+    "latitude": -11.2557,
+    "longitude": -40.9432
+  },
+  {
+    "state": "BA",
+    "ibge": 2933174,
+    "city": "Varzedo",
+    "latitude": -12.9672,
+    "longitude": -39.3919
+  },
+  {
+    "state": "BA",
+    "ibge": 2933208,
+    "city": "Vera Cruz",
+    "latitude": -12.9568,
+    "longitude": -38.6153
+  },
+  {
+    "state": "BA",
+    "ibge": 2933257,
+    "city": "Vereda",
+    "latitude": -17.2183,
+    "longitude": -40.0974
+  },
+  {
+    "state": "BA",
+    "ibge": 2933307,
+    "city": "Vitória da Conquista",
+    "latitude": -14.8615,
+    "longitude": -40.8442
+  },
+  {
+    "state": "BA",
+    "ibge": 2933406,
+    "city": "Wagner",
+    "latitude": -12.2819,
+    "longitude": -41.1715
+  },
+  {
+    "state": "BA",
+    "ibge": 2933455,
+    "city": "Wanderley",
+    "latitude": -12.1144,
+    "longitude": -43.8958
+  },
+  {
+    "state": "BA",
+    "ibge": 2933505,
+    "city": "Wenceslau Guimarães",
+    "latitude": -13.6908,
+    "longitude": -39.4762
+  },
+  {
+    "state": "BA",
+    "ibge": 2933604,
+    "city": "Xique-Xique",
+    "latitude": -10.823,
+    "longitude": -42.7245
+  }
+]

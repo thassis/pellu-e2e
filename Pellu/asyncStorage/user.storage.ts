@@ -1,33 +1,36 @@
 // import * as Keychain from 'react-native-keychain';
+import { initAxiosJwtToken } from '@/apis/axios';
 import { IUserAuthenticated } from '../types/user.type';
 import { OnboardingStorage } from './onboarding.storage';
 
-const USER_COOKIE = 'user';
+const USER_STORAGE_KEY = 'user';
 
-const cookieGet = (name: string): string => {
-  if (typeof document === 'undefined') return '';
-  const cookies = document.cookie ? document.cookie.split('; ') : [];
-  const match = cookies.find((row) => row.startsWith(name + '='));
-  if (!match) return '';
-  const value = match.split('=').slice(1).join('=');
+const storageGet = (key: string): string | null => {
+  if (typeof window === 'undefined' || !window.localStorage) return null;
   try {
-    return decodeURIComponent(value);
-  } catch {
-    return value;
+    return localStorage.getItem(key);
+  } catch (e) {
+    console.log('Error accessing localStorage:', e);
+    return null;
   }
 };
 
-const cookieSet = (name: string, value: string, days = 365) => {
-  if (typeof document === 'undefined') return;
-  const expires = new Date(Date.now() + days * 864e5).toUTCString();
-  const cookie = `${name}=${encodeURIComponent(value)}; expires=${expires}; path=/`;
-  document.cookie = cookie;
+const storageSet = (key: string, value: string) => {
+  if (typeof window === 'undefined' || !window.localStorage) return;
+  try {
+    localStorage.setItem(key, value);
+  } catch (e) {
+    console.log('Error writing to localStorage:', e);
+  }
 };
 
-const cookieRemove = (name: string) => {
-  if (typeof document === 'undefined') return;
-  // set expire in the past
-  document.cookie = `${name}=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/`;
+const storageRemove = (key: string) => {
+  if (typeof window === 'undefined' || !window.localStorage) return;
+  try {
+    localStorage.removeItem(key);
+  } catch (e) {
+    console.log('Error removing from localStorage:', e);
+  }
 };
 
 export const UserStorage = {
@@ -37,23 +40,23 @@ export const UserStorage = {
       return UserStorage.user;
     }
     try {
-      const raw = cookieGet(USER_COOKIE);
+      const raw = storageGet(USER_STORAGE_KEY);
       if (!raw) return undefined;
       UserStorage.user = JSON.parse(raw) as IUserAuthenticated;
       return UserStorage.user;
     } catch (e) {
       // keep it silent; return undefined on parse error
-      console.log('Error retrieving user from cookie:', e);
+      console.log('Error retrieving user from localStorage:', e);
       return undefined;
     }
   },
   set: async (user: IUserAuthenticated) => {
     try {
-      cookieSet(USER_COOKIE, JSON.stringify(user));
+      storageSet(USER_STORAGE_KEY, JSON.stringify(user));
       UserStorage.user = user;
-      // initAxiosJwtToken();
+      initAxiosJwtToken();
     } catch (e) {
-      console.log('Error saving user to cookie:', e);
+      console.log('Error saving user to localStorage:', e);
     }
   },
   updatePicture: async (picture: string) => {
@@ -62,14 +65,14 @@ export const UserStorage = {
     }
     try {
       UserStorage.user.picture = picture;
-      cookieSet(USER_COOKIE, JSON.stringify(UserStorage.user));
+      storageSet(USER_STORAGE_KEY, JSON.stringify(UserStorage.user));
     } catch (e) {
-      console.log('Error updating picture in cookie:', e);
+      console.log('Error updating picture in localStorage:', e);
     }
   },
   clear: async () => {
     try {
-      cookieRemove(USER_COOKIE);
+      storageRemove(USER_STORAGE_KEY);
       UserStorage.user = undefined;
 
       // Preserve onboarding state (kept from original behavior).

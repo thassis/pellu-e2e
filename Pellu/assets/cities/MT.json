@@ -1,0 +1,989 @@
+[
+  {
+    "state": "MT",
+    "ibge": 5100102,
+    "city": "Acorizal",
+    "latitude": -15.194,
+    "longitude": -56.3632
+  },
+  {
+    "state": "MT",
+    "ibge": 5100201,
+    "city": "Água Boa",
+    "latitude": -14.051,
+    "longitude": -52.1601
+  },
+  {
+    "state": "MT",
+    "ibge": 5100250,
+    "city": "Alta Floresta",
+    "latitude": -9.86674,
+    "longitude": -56.0867
+  },
+  {
+    "state": "MT",
+    "ibge": 5100300,
+    "city": "Alto Araguaia",
+    "latitude": -17.3153,
+    "longitude": -53.2181
+  },
+  {
+    "state": "MT",
+    "ibge": 5100359,
+    "city": "Alto Boa Vista",
+    "latitude": -11.6732,
+    "longitude": -51.3883
+  },
+  {
+    "state": "MT",
+    "ibge": 5100409,
+    "city": "Alto Garças",
+    "latitude": -16.9462,
+    "longitude": -53.5272
+  },
+  {
+    "state": "MT",
+    "ibge": 5100508,
+    "city": "Alto Paraguai",
+    "latitude": -14.5137,
+    "longitude": -56.4776
+  },
+  {
+    "state": "MT",
+    "ibge": 5100607,
+    "city": "Alto Taquari",
+    "latitude": -17.8241,
+    "longitude": -53.2792
+  },
+  {
+    "state": "MT",
+    "ibge": 5100805,
+    "city": "Apiacás",
+    "latitude": -9.53981,
+    "longitude": -57.4587
+  },
+  {
+    "state": "MT",
+    "ibge": 5101001,
+    "city": "Araguaiana",
+    "latitude": -15.7291,
+    "longitude": -51.8341
+  },
+  {
+    "state": "MT",
+    "ibge": 5101209,
+    "city": "Araguainha",
+    "latitude": -16.857,
+    "longitude": -53.0318
+  },
+  {
+    "state": "MT",
+    "ibge": 5101258,
+    "city": "Araputanga",
+    "latitude": -15.4641,
+    "longitude": -58.3425
+  },
+  {
+    "state": "MT",
+    "ibge": 5101308,
+    "city": "Arenápolis",
+    "latitude": -14.4472,
+    "longitude": -56.8437
+  },
+  {
+    "state": "MT",
+    "ibge": 5101407,
+    "city": "Aripuanã",
+    "latitude": -10.1723,
+    "longitude": -59.4568
+  },
+  {
+    "state": "MT",
+    "ibge": 5101605,
+    "city": "Barão de Melgaço",
+    "latitude": -16.2067,
+    "longitude": -55.9623
+  },
+  {
+    "state": "MT",
+    "ibge": 5101704,
+    "city": "Barra do Bugres",
+    "latitude": -15.0702,
+    "longitude": -57.1878
+  },
+  {
+    "state": "MT",
+    "ibge": 5101803,
+    "city": "Barra do Garças",
+    "latitude": -15.8804,
+    "longitude": -52.264
+  },
+  {
+    "state": "MT",
+    "ibge": 5101852,
+    "city": "Bom Jesus do Araguaia",
+    "latitude": -12.1706,
+    "longitude": -51.5032
+  },
+  {
+    "state": "MT",
+    "ibge": 5101902,
+    "city": "Brasnorte",
+    "latitude": -12.1474,
+    "longitude": -57.9833
+  },
+  {
+    "state": "MT",
+    "ibge": 5102504,
+    "city": "Cáceres",
+    "latitude": -16.0764,
+    "longitude": -57.6818
+  },
+  {
+    "state": "MT",
+    "ibge": 5102603,
+    "city": "Campinápolis",
+    "latitude": -14.5162,
+    "longitude": -52.893
+  },
+  {
+    "state": "MT",
+    "ibge": 5102637,
+    "city": "Campo Novo do Parecis",
+    "latitude": -13.6587,
+    "longitude": -57.8907
+  },
+  {
+    "state": "MT",
+    "ibge": 5102678,
+    "city": "Campo Verde",
+    "latitude": -15.545,
+    "longitude": -55.1626
+  },
+  {
+    "state": "MT",
+    "ibge": 5102686,
+    "city": "Campos de Júlio",
+    "latitude": -13.7242,
+    "longitude": -59.2858
+  },
+  {
+    "state": "MT",
+    "ibge": 5102694,
+    "city": "Canabrava do Norte",
+    "latitude": -11.0556,
+    "longitude": -51.8209
+  },
+  {
+    "state": "MT",
+    "ibge": 5102702,
+    "city": "Canarana",
+    "latitude": -13.5515,
+    "longitude": -52.2705
+  },
+  {
+    "state": "MT",
+    "ibge": 5102793,
+    "city": "Carlinda",
+    "latitude": -9.94912,
+    "longitude": -55.8417
+  },
+  {
+    "state": "MT",
+    "ibge": 5102850,
+    "city": "Castanheira",
+    "latitude": -11.1251,
+    "longitude": -58.6081
+  },
+  {
+    "state": "MT",
+    "ibge": 5103007,
+    "city": "Chapada dos Guimarães",
+    "latitude": -15.4643,
+    "longitude": -55.7499
+  },
+  {
+    "state": "MT",
+    "ibge": 5103056,
+    "city": "Cláudia",
+    "latitude": -11.5075,
+    "longitude": -54.8835
+  },
+  {
+    "state": "MT",
+    "ibge": 5103106,
+    "city": "Cocalinho",
+    "latitude": -14.3903,
+    "longitude": -51.0001
+  },
+  {
+    "state": "MT",
+    "ibge": 5103205,
+    "city": "Colíder",
+    "latitude": -10.8135,
+    "longitude": -55.461
+  },
+  {
+    "state": "MT",
+    "ibge": 5103254,
+    "city": "Colniza",
+    "latitude": -9.46121,
+    "longitude": -59.2252
+  },
+  {
+    "state": "MT",
+    "ibge": 5103304,
+    "city": "Comodoro",
+    "latitude": -13.6614,
+    "longitude": -59.7848
+  },
+  {
+    "state": "MT",
+    "ibge": 5103353,
+    "city": "Confresa",
+    "latitude": -10.6437,
+    "longitude": -51.5699
+  },
+  {
+    "state": "MT",
+    "ibge": 5103361,
+    "city": "Conquista D'Oeste",
+    "latitude": -14.5381,
+    "longitude": -59.5444
+  },
+  {
+    "state": "MT",
+    "ibge": 5103379,
+    "city": "Cotriguaçu",
+    "latitude": -9.85656,
+    "longitude": -58.4192
+  },
+  {
+    "state": "MT",
+    "ibge": 5103403,
+    "city": "Cuiabá",
+    "latitude": -15.601,
+    "longitude": -56.0974
+  },
+  {
+    "state": "MT",
+    "ibge": 5103437,
+    "city": "Curvelândia",
+    "latitude": -15.6084,
+    "longitude": -57.9133
+  },
+  {
+    "state": "MT",
+    "ibge": 5103452,
+    "city": "Denise",
+    "latitude": -14.7324,
+    "longitude": -57.0583
+  },
+  {
+    "state": "MT",
+    "ibge": 5103502,
+    "city": "Diamantino",
+    "latitude": -14.4037,
+    "longitude": -56.4366
+  },
+  {
+    "state": "MT",
+    "ibge": 5103601,
+    "city": "Dom Aquino",
+    "latitude": -15.8099,
+    "longitude": -54.9223
+  },
+  {
+    "state": "MT",
+    "ibge": 5103700,
+    "city": "Feliz Natal",
+    "latitude": -12.385,
+    "longitude": -54.9227
+  },
+  {
+    "state": "MT",
+    "ibge": 5103809,
+    "city": "Figueirópolis D'Oeste",
+    "latitude": -15.4439,
+    "longitude": -58.7391
+  },
+  {
+    "state": "MT",
+    "ibge": 5103858,
+    "city": "Gaúcha do Norte",
+    "latitude": -13.2443,
+    "longitude": -53.0809
+  },
+  {
+    "state": "MT",
+    "ibge": 5103908,
+    "city": "General Carneiro",
+    "latitude": -15.7094,
+    "longitude": -52.7574
+  },
+  {
+    "state": "MT",
+    "ibge": 5103957,
+    "city": "Glória D'Oeste",
+    "latitude": -15.768,
+    "longitude": -58.3108
+  },
+  {
+    "state": "MT",
+    "ibge": 5104104,
+    "city": "Guarantã do Norte",
+    "latitude": -9.96218,
+    "longitude": -54.9121
+  },
+  {
+    "state": "MT",
+    "ibge": 5104203,
+    "city": "Guiratinga",
+    "latitude": -16.346,
+    "longitude": -53.7575
+  },
+  {
+    "state": "MT",
+    "ibge": 5104500,
+    "city": "Indiavaí",
+    "latitude": -15.4921,
+    "longitude": -58.5802
+  },
+  {
+    "state": "MT",
+    "ibge": 5104526,
+    "city": "Ipiranga do Norte",
+    "latitude": -12.2408,
+    "longitude": -56.1531
+  },
+  {
+    "state": "MT",
+    "ibge": 5104542,
+    "city": "Itanhangá",
+    "latitude": -12.2259,
+    "longitude": -56.6463
+  },
+  {
+    "state": "MT",
+    "ibge": 5104559,
+    "city": "Itaúba",
+    "latitude": -11.0614,
+    "longitude": -55.2766
+  },
+  {
+    "state": "MT",
+    "ibge": 5104609,
+    "city": "Itiquira",
+    "latitude": -17.2147,
+    "longitude": -54.1422
+  },
+  {
+    "state": "MT",
+    "ibge": 5104807,
+    "city": "Jaciara",
+    "latitude": -15.9548,
+    "longitude": -54.9733
+  },
+  {
+    "state": "MT",
+    "ibge": 5104906,
+    "city": "Jangada",
+    "latitude": -15.235,
+    "longitude": -56.4917
+  },
+  {
+    "state": "MT",
+    "ibge": 5105002,
+    "city": "Jauru",
+    "latitude": -15.3342,
+    "longitude": -58.8723
+  },
+  {
+    "state": "MT",
+    "ibge": 5105101,
+    "city": "Juara",
+    "latitude": -11.2639,
+    "longitude": -57.5244
+  },
+  {
+    "state": "MT",
+    "ibge": 5105150,
+    "city": "Juína",
+    "latitude": -11.3728,
+    "longitude": -58.7483
+  },
+  {
+    "state": "MT",
+    "ibge": 5105176,
+    "city": "Juruena",
+    "latitude": -10.3178,
+    "longitude": -58.3592
+  },
+  {
+    "state": "MT",
+    "ibge": 5105200,
+    "city": "Juscimeira",
+    "latitude": -16.0633,
+    "longitude": -54.8859
+  },
+  {
+    "state": "MT",
+    "ibge": 5105234,
+    "city": "Lambari D'Oeste",
+    "latitude": -15.3188,
+    "longitude": -58.0046
+  },
+  {
+    "state": "MT",
+    "ibge": 5105259,
+    "city": "Lucas do Rio Verde",
+    "latitude": -13.0588,
+    "longitude": -55.9042
+  },
+  {
+    "state": "MT",
+    "ibge": 5105309,
+    "city": "Luciara",
+    "latitude": -11.2219,
+    "longitude": -50.6676
+  },
+  {
+    "state": "MT",
+    "ibge": 5105580,
+    "city": "Marcelândia",
+    "latitude": -11.0463,
+    "longitude": -54.4377
+  },
+  {
+    "state": "MT",
+    "ibge": 5105606,
+    "city": "Matupá",
+    "latitude": -10.1821,
+    "longitude": -54.9467
+  },
+  {
+    "state": "MT",
+    "ibge": 5105622,
+    "city": "Mirassol d'Oeste",
+    "latitude": -15.6759,
+    "longitude": -58.0951
+  },
+  {
+    "state": "MT",
+    "ibge": 5105903,
+    "city": "Nobres",
+    "latitude": -14.7192,
+    "longitude": -56.3284
+  },
+  {
+    "state": "MT",
+    "ibge": 5106000,
+    "city": "Nortelândia",
+    "latitude": -14.454,
+    "longitude": -56.7945
+  },
+  {
+    "state": "MT",
+    "ibge": 5106109,
+    "city": "Nossa Senhora do Livramento",
+    "latitude": -15.772,
+    "longitude": -56.3432
+  },
+  {
+    "state": "MT",
+    "ibge": 5106158,
+    "city": "Nova Bandeirantes",
+    "latitude": -9.84977,
+    "longitude": -57.8139
+  },
+  {
+    "state": "MT",
+    "ibge": 5106208,
+    "city": "Nova Brasilândia",
+    "latitude": -14.9612,
+    "longitude": -54.9685
+  },
+  {
+    "state": "MT",
+    "ibge": 5106216,
+    "city": "Nova Canaã do Norte",
+    "latitude": -10.558,
+    "longitude": -55.953
+  },
+  {
+    "state": "MT",
+    "ibge": 5108808,
+    "city": "Nova Guarita",
+    "latitude": -10.312,
+    "longitude": -55.4061
+  },
+  {
+    "state": "MT",
+    "ibge": 5106182,
+    "city": "Nova Lacerda",
+    "latitude": -14.4727,
+    "longitude": -59.6001
+  },
+  {
+    "state": "MT",
+    "ibge": 5108857,
+    "city": "Nova Marilândia",
+    "latitude": -14.3568,
+    "longitude": -56.9696
+  },
+  {
+    "state": "MT",
+    "ibge": 5108907,
+    "city": "Nova Maringá",
+    "latitude": -13.0136,
+    "longitude": -57.0908
+  },
+  {
+    "state": "MT",
+    "ibge": 5108956,
+    "city": "Nova Monte Verde",
+    "latitude": -9.99998,
+    "longitude": -57.5261
+  },
+  {
+    "state": "MT",
+    "ibge": 5106224,
+    "city": "Nova Mutum",
+    "latitude": -13.8374,
+    "longitude": -56.0743
+  },
+  {
+    "state": "MT",
+    "ibge": 5106174,
+    "city": "Nova Nazaré",
+    "latitude": -13.9486,
+    "longitude": -51.8002
+  },
+  {
+    "state": "MT",
+    "ibge": 5106232,
+    "city": "Nova Olímpia",
+    "latitude": -14.7889,
+    "longitude": -57.2886
+  },
+  {
+    "state": "MT",
+    "ibge": 5106190,
+    "city": "Nova Santa Helena",
+    "latitude": -10.8651,
+    "longitude": -55.1872
+  },
+  {
+    "state": "MT",
+    "ibge": 5106240,
+    "city": "Nova Ubiratã",
+    "latitude": -12.9834,
+    "longitude": -55.2556
+  },
+  {
+    "state": "MT",
+    "ibge": 5106257,
+    "city": "Nova Xavantina",
+    "latitude": -14.6771,
+    "longitude": -52.3502
+  },
+  {
+    "state": "MT",
+    "ibge": 5106273,
+    "city": "Novo Horizonte do Norte",
+    "latitude": -11.4089,
+    "longitude": -57.3488
+  },
+  {
+    "state": "MT",
+    "ibge": 5106265,
+    "city": "Novo Mundo",
+    "latitude": -9.95616,
+    "longitude": -55.2029
+  },
+  {
+    "state": "MT",
+    "ibge": 5106315,
+    "city": "Novo Santo Antônio",
+    "latitude": -12.2875,
+    "longitude": -50.9686
+  },
+  {
+    "state": "MT",
+    "ibge": 5106281,
+    "city": "Novo São Joaquim",
+    "latitude": -14.9054,
+    "longitude": -53.0194
+  },
+  {
+    "state": "MT",
+    "ibge": 5106299,
+    "city": "Paranaíta",
+    "latitude": -9.65835,
+    "longitude": -56.4786
+  },
+  {
+    "state": "MT",
+    "ibge": 5106307,
+    "city": "Paranatinga",
+    "latitude": -14.4265,
+    "longitude": -54.0524
+  },
+  {
+    "state": "MT",
+    "ibge": 5106372,
+    "city": "Pedra Preta",
+    "latitude": -16.6245,
+    "longitude": -54.4722
+  },
+  {
+    "state": "MT",
+    "ibge": 5106422,
+    "city": "Peixoto de Azevedo",
+    "latitude": -10.2262,
+    "longitude": -54.9794
+  },
+  {
+    "state": "MT",
+    "ibge": 5106455,
+    "city": "Planalto da Serra",
+    "latitude": -14.6518,
+    "longitude": -54.7819
+  },
+  {
+    "state": "MT",
+    "ibge": 5106505,
+    "city": "Poconé",
+    "latitude": -16.266,
+    "longitude": -56.6261
+  },
+  {
+    "state": "MT",
+    "ibge": 5106653,
+    "city": "Pontal do Araguaia",
+    "latitude": -15.9274,
+    "longitude": -52.3273
+  },
+  {
+    "state": "MT",
+    "ibge": 5106703,
+    "city": "Ponte Branca",
+    "latitude": -16.7584,
+    "longitude": -52.8369
+  },
+  {
+    "state": "MT",
+    "ibge": 5106752,
+    "city": "Pontes e Lacerda",
+    "latitude": -15.2219,
+    "longitude": -59.3435
+  },
+  {
+    "state": "MT",
+    "ibge": 5106778,
+    "city": "Porto Alegre do Norte",
+    "latitude": -10.8761,
+    "longitude": -51.6357
+  },
+  {
+    "state": "MT",
+    "ibge": 5106802,
+    "city": "Porto dos Gaúchos",
+    "latitude": -11.533,
+    "longitude": -57.4132
+  },
+  {
+    "state": "MT",
+    "ibge": 5106828,
+    "city": "Porto Esperidião",
+    "latitude": -15.857,
+    "longitude": -58.4619
+  },
+  {
+    "state": "MT",
+    "ibge": 5106851,
+    "city": "Porto Estrela",
+    "latitude": -15.3235,
+    "longitude": -57.2204
+  },
+  {
+    "state": "MT",
+    "ibge": 5107008,
+    "city": "Poxoréu",
+    "latitude": -15.8299,
+    "longitude": -54.4208
+  },
+  {
+    "state": "MT",
+    "ibge": 5107040,
+    "city": "Primavera do Leste",
+    "latitude": -15.544,
+    "longitude": -54.2811
+  },
+  {
+    "state": "MT",
+    "ibge": 5107065,
+    "city": "Querência",
+    "latitude": -12.6093,
+    "longitude": -52.1821
+  },
+  {
+    "state": "MT",
+    "ibge": 5107156,
+    "city": "Reserva do Cabaçal",
+    "latitude": -15.0743,
+    "longitude": -58.4585
+  },
+  {
+    "state": "MT",
+    "ibge": 5107180,
+    "city": "Ribeirão Cascalheira",
+    "latitude": -12.9367,
+    "longitude": -51.8244
+  },
+  {
+    "state": "MT",
+    "ibge": 5107198,
+    "city": "Ribeirãozinho",
+    "latitude": -16.4856,
+    "longitude": -52.6924
+  },
+  {
+    "state": "MT",
+    "ibge": 5107206,
+    "city": "Rio Branco",
+    "latitude": -15.2483,
+    "longitude": -58.1259
+  },
+  {
+    "state": "MT",
+    "ibge": 5107578,
+    "city": "Rondolândia",
+    "latitude": -10.8376,
+    "longitude": -61.4697
+  },
+  {
+    "state": "MT",
+    "ibge": 5107602,
+    "city": "Rondonópolis",
+    "latitude": -16.4673,
+    "longitude": -54.6372
+  },
+  {
+    "state": "MT",
+    "ibge": 5107701,
+    "city": "Rosário Oeste",
+    "latitude": -14.8259,
+    "longitude": -56.4236
+  },
+  {
+    "state": "MT",
+    "ibge": 5107750,
+    "city": "Salto do Céu",
+    "latitude": -15.1303,
+    "longitude": -58.1317
+  },
+  {
+    "state": "MT",
+    "ibge": 5107248,
+    "city": "Santa Carmem",
+    "latitude": -11.9125,
+    "longitude": -55.2263
+  },
+  {
+    "state": "MT",
+    "ibge": 5107743,
+    "city": "Santa Cruz do Xingu",
+    "latitude": -10.1532,
+    "longitude": -52.3953
+  },
+  {
+    "state": "MT",
+    "ibge": 5107768,
+    "city": "Santa Rita do Trivelato",
+    "latitude": -13.8146,
+    "longitude": -55.2706
+  },
+  {
+    "state": "MT",
+    "ibge": 5107776,
+    "city": "Santa Terezinha",
+    "latitude": -10.4704,
+    "longitude": -50.514
+  },
+  {
+    "state": "MT",
+    "ibge": 5107263,
+    "city": "Santo Afonso",
+    "latitude": -14.4945,
+    "longitude": -57.0091
+  },
+  {
+    "state": "MT",
+    "ibge": 5107792,
+    "city": "Santo Antônio do Leste",
+    "latitude": -14.805,
+    "longitude": -53.6075
+  },
+  {
+    "state": "MT",
+    "ibge": 5107800,
+    "city": "Santo Antônio do Leverger",
+    "latitude": -15.8632,
+    "longitude": -56.0788
+  },
+  {
+    "state": "MT",
+    "ibge": 5107859,
+    "city": "São Félix do Araguaia",
+    "latitude": -11.615,
+    "longitude": -50.6706
+  },
+  {
+    "state": "MT",
+    "ibge": 5107297,
+    "city": "São José do Povo",
+    "latitude": -16.4549,
+    "longitude": -54.2487
+  },
+  {
+    "state": "MT",
+    "ibge": 5107305,
+    "city": "São José do Rio Claro",
+    "latitude": -13.4398,
+    "longitude": -56.7218
+  },
+  {
+    "state": "MT",
+    "ibge": 5107354,
+    "city": "São José do Xingu",
+    "latitude": -10.7982,
+    "longitude": -52.7486
+  },
+  {
+    "state": "MT",
+    "ibge": 5107107,
+    "city": "São José dos Quatro Marcos",
+    "latitude": -15.6276,
+    "longitude": -58.1772
+  },
+  {
+    "state": "MT",
+    "ibge": 5107404,
+    "city": "São Pedro da Cipa",
+    "latitude": -16.0109,
+    "longitude": -54.9176
+  },
+  {
+    "state": "MT",
+    "ibge": 5107875,
+    "city": "Sapezal",
+    "latitude": -12.9892,
+    "longitude": -58.7645
+  },
+  {
+    "state": "MT",
+    "ibge": 5107883,
+    "city": "Serra Nova Dourada",
+    "latitude": -12.0896,
+    "longitude": -51.4025
+  },
+  {
+    "state": "MT",
+    "ibge": 5107909,
+    "city": "Sinop",
+    "latitude": -11.8604,
+    "longitude": -55.5091
+  },
+  {
+    "state": "MT",
+    "ibge": 5107925,
+    "city": "Sorriso",
+    "latitude": -12.5425,
+    "longitude": -55.7211
+  },
+  {
+    "state": "MT",
+    "ibge": 5107941,
+    "city": "Tabaporã",
+    "latitude": -11.3007,
+    "longitude": -56.8312
+  },
+  {
+    "state": "MT",
+    "ibge": 5107958,
+    "city": "Tangará da Serra",
+    "latitude": -14.6229,
+    "longitude": -57.4933
+  },
+  {
+    "state": "MT",
+    "ibge": 5108006,
+    "city": "Tapurah",
+    "latitude": -12.695,
+    "longitude": -56.5178
+  },
+  {
+    "state": "MT",
+    "ibge": 5108055,
+    "city": "Terra Nova do Norte",
+    "latitude": -10.517,
+    "longitude": -55.231
+  },
+  {
+    "state": "MT",
+    "ibge": 5108105,
+    "city": "Tesouro",
+    "latitude": -16.0809,
+    "longitude": -53.559
+  },
+  {
+    "state": "MT",
+    "ibge": 5108204,
+    "city": "Torixoréu",
+    "latitude": -16.2006,
+    "longitude": -52.5571
+  },
+  {
+    "state": "MT",
+    "ibge": 5108303,
+    "city": "União do Sul",
+    "latitude": -11.5308,
+    "longitude": -54.3616
+  },
+  {
+    "state": "MT",
+    "ibge": 5108352,
+    "city": "Vale de São Domingos",
+    "latitude": -15.286,
+    "longitude": -59.0683
+  },
+  {
+    "state": "MT",
+    "ibge": 5108402,
+    "city": "Várzea Grande",
+    "latitude": -15.6458,
+    "longitude": -56.1322
+  },
+  {
+    "state": "MT",
+    "ibge": 5108501,
+    "city": "Vera",
+    "latitude": -12.3017,
+    "longitude": -55.3045
+  },
+  {
+    "state": "MT",
+    "ibge": 5105507,
+    "city": "Vila Bela da Santíssima Trindade",
+    "latitude": -15.0068,
+    "longitude": -59.9504
+  },
+  {
+    "state": "MT",
+    "ibge": 5108600,
+    "city": "Vila Rica",
+    "latitude": -10.0137,
+    "longitude": -51.1186
+  }
+]

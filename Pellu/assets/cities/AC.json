@@ -1,0 +1,156 @@
+[
+  {
+    "state": "AC",
+    "ibge": 1200013,
+    "city": "Acrelândia",
+    "latitude": -9.82581,
+    "longitude": -66.8972
+  },
+  {
+    "state": "AC",
+    "ibge": 1200054,
+    "city": "Assis Brasil",
+    "latitude": -10.9298,
+    "longitude": -69.5738
+  },
+  {
+    "state": "AC",
+    "ibge": 1200104,
+    "city": "Brasiléia",
+    "latitude": -10.995,
+    "longitude": -68.7497
+  },
+  {
+    "state": "AC",
+    "ibge": 1200138,
+    "city": "Bujari",
+    "latitude": -9.81528,
+    "longitude": -67.955
+  },
+  {
+    "state": "AC",
+    "ibge": 1200179,
+    "city": "Capixaba",
+    "latitude": -10.566,
+    "longitude": -67.686
+  },
+  {
+    "state": "AC",
+    "ibge": 1200203,
+    "city": "Cruzeiro do Sul",
+    "latitude": -7.62762,
+    "longitude": -72.6756
+  },
+  {
+    "state": "AC",
+    "ibge": 1200252,
+    "city": "Epitaciolândia",
+    "latitude": -11.0188,
+    "longitude": -68.7341
+  },
+  {
+    "state": "AC",
+    "ibge": 1200302,
+    "city": "Feijó",
+    "latitude": -8.17054,
+    "longitude": -70.351
+  },
+  {
+    "state": "AC",
+    "ibge": 1200328,
+    "city": "Jordão",
+    "latitude": -9.1908,
+    "longitude": -71.9503
+  },
+  {
+    "state": "AC",
+    "ibge": 1200336,
+    "city": "Mâncio Lima",
+    "latitude": -7.61657,
+    "longitude": -72.8997
+  },
+  {
+    "state": "AC",
+    "ibge": 1200344,
+    "city": "Manoel Urbano",
+    "latitude": -8.83291,
+    "longitude": -69.2679
+  },
+  {
+    "state": "AC",
+    "ibge": 1200351,
+    "city": "Marechal Thaumaturgo",
+    "latitude": -8.93898,
+    "longitude": -72.7997
+  },
+  {
+    "state": "AC",
+    "ibge": 1200385,
+    "city": "Plácido de Castro",
+    "latitude": -10.2806,
+    "longitude": -67.1371
+  },
+  {
+    "state": "AC",
+    "ibge": 1200807,
+    "city": "Porto Acre",
+    "latitude": -9.58138,
+    "longitude": -67.5478
+  },
+  {
+    "state": "AC",
+    "ibge": 1200393,
+    "city": "Porto Walter",
+    "latitude": -8.26323,
+    "longitude": -72.7537
+  },
+  {
+    "state": "AC",
+    "ibge": 1200401,
+    "city": "Rio Branco",
+    "latitude": -9.97499,
+    "longitude": -67.8243
+  },
+  {
+    "state": "AC",
+    "ibge": 1200427,
+    "city": "Rodrigues Alves",
+    "latitude": -7.73864,
+    "longitude": -72.661
+  },
+  {
+    "state": "AC",
+    "ibge": 1200435,
+    "city": "Santa Rosa do Purus",
+    "latitude": -9.44652,
+    "longitude": -70.4902
+  },
+  {
+    "state": "AC",
+    "ibge": 1200500,
+    "city": "Sena Madureira",
+    "latitude": -9.06596,
+    "longitude": -68.6571
+  },
+  {
+    "state": "AC",
+    "ibge": 1200450,
+    "city": "Senador Guiomard",
+    "latitude": -10.1497,
+    "longitude": -67.7362
+  },
+  {
+    "state": "AC",
+    "ibge": 1200609,
+    "city": "Tarauacá",
+    "latitude": -8.15697,
+    "longitude": -70.7722
+  },
+  {
+    "state": "AC",
+    "ibge": 1200708,
+    "city": "Xapuri",
+    "latitude": -10.6516,
+    "longitude": -68.4969
+  }
+]

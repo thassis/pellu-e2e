@@ -1,4 +1,5 @@
-import { Alert, Linking, Platform } from 'react-native';
+import { Linking, Platform } from 'react-native';
+import { showAlert } from './Alert';
 
 export const Link = {
   openMap: async (address: string, city: string, zipCode: string) => {
@@ -20,7 +21,7 @@ export const Link = {
       await Linking.openURL(url);
     } catch (error) {
       console.error('Erro ao abrir o WhatsApp:', error);
-      Alert.alert('Erro', 'Não foi possível abrir o WhatsApp.');
+      showAlert('Erro', 'Não foi possível abrir o WhatsApp.');
     }
   },
 };

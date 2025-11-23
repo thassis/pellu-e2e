@@ -1,0 +1,2795 @@
+[
+  {
+    "state": "PR",
+    "ibge": 4100103,
+    "city": "Abatiá",
+    "latitude": -23.3049,
+    "longitude": -50.3133
+  },
+  {
+    "state": "PR",
+    "ibge": 4100202,
+    "city": "Adrianópolis",
+    "latitude": -24.6606,
+    "longitude": -48.9922
+  },
+  {
+    "state": "PR",
+    "ibge": 4100301,
+    "city": "Agudos do Sul",
+    "latitude": -25.9899,
+    "longitude": -49.3343
+  },
+  {
+    "state": "PR",
+    "ibge": 4100400,
+    "city": "Almirante Tamandaré",
+    "latitude": -25.3188,
+    "longitude": -49.3037
+  },
+  {
+    "state": "PR",
+    "ibge": 4100459,
+    "city": "Altamira do Paraná",
+    "latitude": -24.7983,
+    "longitude": -52.7128
+  },
+  {
+    "state": "PR",
+    "ibge": 4128625,
+    "city": "Alto Paraíso",
+    "latitude": -26.1146,
+    "longitude": -52.7469
+  },
+  {
+    "state": "PR",
+    "ibge": 4100608,
+    "city": "Alto Paraná",
+    "latitude": -23.1312,
+    "longitude": -52.3189
+  },
+  {
+    "state": "PR",
+    "ibge": 4100707,
+    "city": "Alto Piquiri",
+    "latitude": -24.0224,
+    "longitude": -53.44
+  },
+  {
+    "state": "PR",
+    "ibge": 4100509,
+    "city": "Altônia",
+    "latitude": -23.8759,
+    "longitude": -53.8958
+  },
+  {
+    "state": "PR",
+    "ibge": 4100806,
+    "city": "Alvorada do Sul",
+    "latitude": -22.7813,
+    "longitude": -51.2297
+  },
+  {
+    "state": "PR",
+    "ibge": 4100905,
+    "city": "Amaporã",
+    "latitude": -23.0943,
+    "longitude": -52.7866
+  },
+  {
+    "state": "PR",
+    "ibge": 4101002,
+    "city": "Ampére",
+    "latitude": -25.9168,
+    "longitude": -53.4686
+  },
+  {
+    "state": "PR",
+    "ibge": 4101051,
+    "city": "Anahy",
+    "latitude": -24.6449,
+    "longitude": -53.1332
+  },
+  {
+    "state": "PR",
+    "ibge": 4101101,
+    "city": "Andirá",
+    "latitude": -23.0533,
+    "longitude": -50.2304
+  },
+  {
+    "state": "PR",
+    "ibge": 4101150,
+    "city": "Ângulo",
+    "latitude": -23.1946,
+    "longitude": -51.9154
+  },
+  {
+    "state": "PR",
+    "ibge": 4101200,
+    "city": "Antonina",
+    "latitude": -25.4386,
+    "longitude": -48.7191
+  },
+  {
+    "state": "PR",
+    "ibge": 4101309,
+    "city": "Antônio Olinto",
+    "latitude": -25.9804,
+    "longitude": -50.1972
+  },
+  {
+    "state": "PR",
+    "ibge": 4101408,
+    "city": "Apucarana",
+    "latitude": -23.55,
+    "longitude": -51.4635
+  },
+  {
+    "state": "PR",
+    "ibge": 4101507,
+    "city": "Arapongas",
+    "latitude": -23.4153,
+    "longitude": -51.4259
+  },
+  {
+    "state": "PR",
+    "ibge": 4101606,
+    "city": "Arapoti",
+    "latitude": -24.1548,
+    "longitude": -49.8285
+  },
+  {
+    "state": "PR",
+    "ibge": 4101655,
+    "city": "Arapuã",
+    "latitude": -24.3132,
+    "longitude": -51.7856
+  },
+  {
+    "state": "PR",
+    "ibge": 4101705,
+    "city": "Araruna",
+    "latitude": -23.9315,
+    "longitude": -52.5021
+  },
+  {
+    "state": "PR",
+    "ibge": 4101804,
+    "city": "Araucária",
+    "latitude": -25.5859,
+    "longitude": -49.4047
+  },
+  {
+    "state": "PR",
+    "ibge": 4101853,
+    "city": "Ariranha do Ivaí",
+    "latitude": -24.3857,
+    "longitude": -51.5839
+  },
+  {
+    "state": "PR",
+    "ibge": 4101903,
+    "city": "Assaí",
+    "latitude": -23.3697,
+    "longitude": -50.8459
+  },
+  {
+    "state": "PR",
+    "ibge": 4102000,
+    "city": "Assis Chateaubriand",
+    "latitude": -24.4168,
+    "longitude": -53.5213
+  },
+  {
+    "state": "PR",
+    "ibge": 4102109,
+    "city": "Astorga",
+    "latitude": -23.2318,
+    "longitude": -51.6668
+  },
+  {
+    "state": "PR",
+    "ibge": 4102208,
+    "city": "Atalaia",
+    "latitude": -23.1517,
+    "longitude": -52.0551
+  },
+  {
+    "state": "PR",
+    "ibge": 4102307,
+    "city": "Balsa Nova",
+    "latitude": -25.5804,
+    "longitude": -49.6291
+  },
+  {
+    "state": "PR",
+    "ibge": 4102406,
+    "city": "Bandeirantes",
+    "latitude": -23.1078,
+    "longitude": -50.3704
+  },
+  {
+    "state": "PR",
+    "ibge": 4102505,
+    "city": "Barbosa Ferraz",
+    "latitude": -24.0334,
+    "longitude": -52.004
+  },
+  {
+    "state": "PR",
+    "ibge": 4102703,
+    "city": "Barra do Jacaré",
+    "latitude": -23.116,
+    "longitude": -50.1842
+  },
+  {
+    "state": "PR",
+    "ibge": 4102604,
+    "city": "Barracão",
+    "latitude": -26.2502,
+    "longitude": -53.6324
+  },
+  {
+    "state": "PR",
+    "ibge": 4102752,
+    "city": "Bela Vista da Caroba",
+    "latitude": -25.8842,
+    "longitude": -53.6725
+  },
+  {
+    "state": "PR",
+    "ibge": 4102802,
+    "city": "Bela Vista do Paraíso",
+    "latitude": -22.9937,
+    "longitude": -51.1927
+  },
+  {
+    "state": "PR",
+    "ibge": 4102901,
+    "city": "Bituruna",
+    "latitude": -26.1607,
+    "longitude": -51.5518
+  },
+  {
+    "state": "PR",
+    "ibge": 4103008,
+    "city": "Boa Esperança",
+    "latitude": -24.2467,
+    "longitude": -52.7876
+  },
+  {
+    "state": "PR",
+    "ibge": 4103024,
+    "city": "Boa Esperança do Iguaçu",
+    "latitude": -25.6324,
+    "longitude": -53.2108
+  },
+  {
+    "state": "PR",
+    "ibge": 4103040,
+    "city": "Boa Ventura de São Roque",
+    "latitude": -24.8688,
+    "longitude": -51.6276
+  },
+  {
+    "state": "PR",
+    "ibge": 4103057,
+    "city": "Boa Vista da Aparecida",
+    "latitude": -25.4308,
+    "longitude": -53.4117
+  },
+  {
+    "state": "PR",
+    "ibge": 4103107,
+    "city": "Bocaiúva do Sul",
+    "latitude": -25.2066,
+    "longitude": -49.1141
+  },
+  {
+    "state": "PR",
+    "ibge": 4103156,
+    "city": "Bom Jesus do Sul",
+    "latitude": -26.1958,
+    "longitude": -53.5955
+  },
+  {
+    "state": "PR",
+    "ibge": 4103206,
+    "city": "Bom Sucesso",
+    "latitude": -23.7063,
+    "longitude": -51.7671
+  },
+  {
+    "state": "PR",
+    "ibge": 4103222,
+    "city": "Bom Sucesso do Sul",
+    "latitude": -26.0731,
+    "longitude": -52.8353
+  },
+  {
+    "state": "PR",
+    "ibge": 4103305,
+    "city": "Borrazópolis",
+    "latitude": -23.9366,
+    "longitude": -51.5875
+  },
+  {
+    "state": "PR",
+    "ibge": 4103354,
+    "city": "Braganey",
+    "latitude": -24.8173,
+    "longitude": -53.1218
+  },
+  {
+    "state": "PR",
+    "ibge": 4103370,
+    "city": "Brasilândia do Sul",
+    "latitude": -24.1978,
+    "longitude": -53.5275
+  },
+  {
+    "state": "PR",
+    "ibge": 4103404,
+    "city": "Cafeara",
+    "latitude": -22.789,
+    "longitude": -51.7142
+  },
+  {
+    "state": "PR",
+    "ibge": 4103453,
+    "city": "Cafelândia",
+    "latitude": -24.6189,
+    "longitude": -53.3207
+  },
+  {
+    "state": "PR",
+    "ibge": 4103479,
+    "city": "Cafezal do Sul",
+    "latitude": -23.9005,
+    "longitude": -53.5124
+  },
+  {
+    "state": "PR",
+    "ibge": 4103503,
+    "city": "Califórnia",
+    "latitude": -23.6566,
+    "longitude": -51.3574
+  },
+  {
+    "state": "PR",
+    "ibge": 4103602,
+    "city": "Cambará",
+    "latitude": -23.0423,
+    "longitude": -50.0753
+  },
+  {
+    "state": "PR",
+    "ibge": 4103701,
+    "city": "Cambé",
+    "latitude": -23.2766,
+    "longitude": -51.2798
+  },
+  {
+    "state": "PR",
+    "ibge": 4103800,
+    "city": "Cambira",
+    "latitude": -23.589,
+    "longitude": -51.5792
+  },
+  {
+    "state": "PR",
+    "ibge": 4103909,
+    "city": "Campina da Lagoa",
+    "latitude": -24.5893,
+    "longitude": -52.7976
+  },
+  {
+    "state": "PR",
+    "ibge": 4103958,
+    "city": "Campina do Simão",
+    "latitude": -25.0802,
+    "longitude": -51.8237
+  },
+  {
+    "state": "PR",
+    "ibge": 4104006,
+    "city": "Campina Grande do Sul",
+    "latitude": -25.3044,
+    "longitude": -49.0551
+  },
+  {
+    "state": "PR",
+    "ibge": 4104055,
+    "city": "Campo Bonito",
+    "latitude": -25.0294,
+    "longitude": -52.9939
+  },
+  {
+    "state": "PR",
+    "ibge": 4104105,
+    "city": "Campo do Tenente",
+    "latitude": -25.98,
+    "longitude": -49.6844
+  },
+  {
+    "state": "PR",
+    "ibge": 4104204,
+    "city": "Campo Largo",
+    "latitude": -25.4525,
+    "longitude": -49.529
+  },
+  {
+    "state": "PR",
+    "ibge": 4104253,
+    "city": "Campo Magro",
+    "latitude": -25.3687,
+    "longitude": -49.4501
+  },
+  {
+    "state": "PR",
+    "ibge": 4104303,
+    "city": "Campo Mourão",
+    "latitude": -24.0463,
+    "longitude": -52.378
+  },
+  {
+    "state": "PR",
+    "ibge": 4104402,
+    "city": "Cândido de Abreu",
+    "latitude": -24.5649,
+    "longitude": -51.3372
+  },
+  {
+    "state": "PR",
+    "ibge": 4104428,
+    "city": "Candói",
+    "latitude": -25.5758,
+    "longitude": -52.0409
+  },
+  {
+    "state": "PR",
+    "ibge": 4104451,
+    "city": "Cantagalo",
+    "latitude": -25.3734,
+    "longitude": -52.1198
+  },
+  {
+    "state": "PR",
+    "ibge": 4104501,
+    "city": "Capanema",
+    "latitude": -25.6691,
+    "longitude": -53.8055
+  },
+  {
+    "state": "PR",
+    "ibge": 4104600,
+    "city": "Capitão Leônidas Marques",
+    "latitude": -25.4816,
+    "longitude": -53.6112
+  },
+  {
+    "state": "PR",
+    "ibge": 4104659,
+    "city": "Carambeí",
+    "latitude": -24.9152,
+    "longitude": -50.0986
+  },
+  {
+    "state": "PR",
+    "ibge": 4104709,
+    "city": "Carlópolis",
+    "latitude": -23.4269,
+    "longitude": -49.7235
+  },
+  {
+    "state": "PR",
+    "ibge": 4104808,
+    "city": "Cascavel",
+    "latitude": -24.9573,
+    "longitude": -53.459
+  },
+  {
+    "state": "PR",
+    "ibge": 4104907,
+    "city": "Castro",
+    "latitude": -24.7891,
+    "longitude": -50.0108
+  },
+  {
+    "state": "PR",
+    "ibge": 4105003,
+    "city": "Catanduvas",
+    "latitude": -25.2044,
+    "longitude": -53.1548
+  },
+  {
+    "state": "PR",
+    "ibge": 4105102,
+    "city": "Centenário do Sul",
+    "latitude": -22.8188,
+    "longitude": -51.5973
+  },
+  {
+    "state": "PR",
+    "ibge": 4105201,
+    "city": "Cerro Azul",
+    "latitude": -26.0891,
+    "longitude": -52.8691
+  },
+  {
+    "state": "PR",
+    "ibge": 4105300,
+    "city": "Céu Azul",
+    "latitude": -25.1489,
+    "longitude": -53.8415
+  },
+  {
+    "state": "PR",
+    "ibge": 4105409,
+    "city": "Chopinzinho",
+    "latitude": -25.8515,
+    "longitude": -52.5173
+  },
+  {
+    "state": "PR",
+    "ibge": 4105508,
+    "city": "Cianorte",
+    "latitude": -23.6599,
+    "longitude": -52.6054
+  },
+  {
+    "state": "PR",
+    "ibge": 4105607,
+    "city": "Cidade Gaúcha",
+    "latitude": -23.3772,
+    "longitude": -52.9436
+  },
+  {
+    "state": "PR",
+    "ibge": 4105706,
+    "city": "Clevelândia",
+    "latitude": -26.4043,
+    "longitude": -52.3508
+  },
+  {
+    "state": "PR",
+    "ibge": 4105805,
+    "city": "Colombo",
+    "latitude": -25.2925,
+    "longitude": -49.2262
+  },
+  {
+    "state": "PR",
+    "ibge": 4105904,
+    "city": "Colorado",
+    "latitude": -22.8374,
+    "longitude": -51.9743
+  },
+  {
+    "state": "PR",
+    "ibge": 4106001,
+    "city": "Congonhinhas",
+    "latitude": -23.5493,
+    "longitude": -50.5569
+  },
+  {
+    "state": "PR",
+    "ibge": 4106100,
+    "city": "Conselheiro Mairinck",
+    "latitude": -23.623,
+    "longitude": -50.1707
+  },
+  {
+    "state": "PR",
+    "ibge": 4106209,
+    "city": "Contenda",
+    "latitude": -25.6788,
+    "longitude": -49.535
+  },
+  {
+    "state": "PR",
+    "ibge": 4106308,
+    "city": "Corbélia",
+    "latitude": -24.7971,
+    "longitude": -53.3006
+  },
+  {
+    "state": "PR",
+    "ibge": 4106407,
+    "city": "Cornélio Procópio",
+    "latitude": -23.1829,
+    "longitude": -50.6498
+  },
+  {
+    "state": "PR",
+    "ibge": 4106456,
+    "city": "Coronel Domingos Soares",
+    "latitude": -26.2277,
+    "longitude": -52.0356
+  },
+  {
+    "state": "PR",
+    "ibge": 4106506,
+    "city": "Coronel Vivida",
+    "latitude": -25.9767,
+    "longitude": -52.5641
+  },
+  {
+    "state": "PR",
+    "ibge": 4106555,
+    "city": "Corumbataí do Sul",
+    "latitude": -24.101,
+    "longitude": -52.1177
+  },
+  {
+    "state": "PR",
+    "ibge": 4106803,
+    "city": "Cruz Machado",
+    "latitude": -26.0166,
+    "longitude": -51.343
+  },
+  {
+    "state": "PR",
+    "ibge": 4106571,
+    "city": "Cruzeiro do Iguaçu",
+    "latitude": -25.6192,
+    "longitude": -53.1285
+  },
+  {
+    "state": "PR",
+    "ibge": 4106605,
+    "city": "Cruzeiro do Oeste",
+    "latitude": -23.7799,
+    "longitude": -53.0774
+  },
+  {
+    "state": "PR",
+    "ibge": 4106704,
+    "city": "Cruzeiro do Sul",
+    "latitude": -22.9624,
+    "longitude": -52.1622
+  },
+  {
+    "state": "PR",
+    "ibge": 4106852,
+    "city": "Cruzmaltina",
+    "latitude": -24.0132,
+    "longitude": -51.4563
+  },
+  {
+    "state": "PR",
+    "ibge": 4106902,
+    "city": "Curitiba",
+    "latitude": -25.4195,
+    "longitude": -49.2646
+  },
+  {
+    "state": "PR",
+    "ibge": 4107009,
+    "city": "Curiúva",
+    "latitude": -24.0362,
+    "longitude": -50.4576
+  },
+  {
+    "state": "PR",
+    "ibge": 4107157,
+    "city": "Diamante D'Oeste",
+    "latitude": -24.9419,
+    "longitude": -54.1052
+  },
+  {
+    "state": "PR",
+    "ibge": 4107108,
+    "city": "Diamante do Norte",
+    "latitude": -22.655,
+    "longitude": -52.8617
+  },
+  {
+    "state": "PR",
+    "ibge": 4107124,
+    "city": "Diamante do Sul",
+    "latitude": -25.035,
+    "longitude": -52.6768
+  },
+  {
+    "state": "PR",
+    "ibge": 4107207,
+    "city": "Dois Vizinhos",
+    "latitude": -25.7407,
+    "longitude": -53.057
+  },
+  {
+    "state": "PR",
+    "ibge": 4107256,
+    "city": "Douradina",
+    "latitude": -23.3807,
+    "longitude": -53.2918
+  },
+  {
+    "state": "PR",
+    "ibge": 4107306,
+    "city": "Doutor Camargo",
+    "latitude": -23.5582,
+    "longitude": -52.2178
+  },
+  {
+    "state": "PR",
+    "ibge": 4128633,
+    "city": "Doutor Ulysses",
+    "latitude": -24.5665,
+    "longitude": -49.4219
+  },
+  {
+    "state": "PR",
+    "ibge": 4107405,
+    "city": "Enéas Marques",
+    "latitude": -25.9445,
+    "longitude": -53.1659
+  },
+  {
+    "state": "PR",
+    "ibge": 4107504,
+    "city": "Engenheiro Beltrão",
+    "latitude": -23.797,
+    "longitude": -52.2659
+  },
+  {
+    "state": "PR",
+    "ibge": 4107538,
+    "city": "Entre Rios do Oeste",
+    "latitude": -24.7042,
+    "longitude": -54.2385
+  },
+  {
+    "state": "PR",
+    "ibge": 4107520,
+    "city": "Esperança Nova",
+    "latitude": -23.7238,
+    "longitude": -53.811
+  },
+  {
+    "state": "PR",
+    "ibge": 4107546,
+    "city": "Espigão Alto do Iguaçu",
+    "latitude": -25.4216,
+    "longitude": -52.8348
+  },
+  {
+    "state": "PR",
+    "ibge": 4107553,
+    "city": "Farol",
+    "latitude": -24.0958,
+    "longitude": -52.6217
+  },
+  {
+    "state": "PR",
+    "ibge": 4107603,
+    "city": "Faxinal",
+    "latitude": -24.0077,
+    "longitude": -51.3227
+  },
+  {
+    "state": "PR",
+    "ibge": 4107652,
+    "city": "Fazenda Rio Grande",
+    "latitude": -25.6624,
+    "longitude": -49.3073
+  },
+  {
+    "state": "PR",
+    "ibge": 4107702,
+    "city": "Fênix",
+    "latitude": -23.9135,
+    "longitude": -51.9805
+  },
+  {
+    "state": "PR",
+    "ibge": 4107736,
+    "city": "Fernandes Pinheiro",
+    "latitude": -25.4107,
+    "longitude": -50.5456
+  },
+  {
+    "state": "PR",
+    "ibge": 4107751,
+    "city": "Figueira",
+    "latitude": -23.8455,
+    "longitude": -50.4031
+  },
+  {
+    "state": "PR",
+    "ibge": 4107850,
+    "city": "Flor da Serra do Sul",
+    "latitude": -26.2523,
+    "longitude": -53.3092
+  },
+  {
+    "state": "PR",
+    "ibge": 4107801,
+    "city": "Floraí",
+    "latitude": -23.3178,
+    "longitude": -52.3029
+  },
+  {
+    "state": "PR",
+    "ibge": 4107900,
+    "city": "Floresta",
+    "latitude": -23.6031,
+    "longitude": -52.0807
+  },
+  {
+    "state": "PR",
+    "ibge": 4108007,
+    "city": "Florestópolis",
+    "latitude": -22.8623,
+    "longitude": -51.3882
+  },
+  {
+    "state": "PR",
+    "ibge": 4108106,
+    "city": "Flórida",
+    "latitude": -23.0847,
+    "longitude": -51.9546
+  },
+  {
+    "state": "PR",
+    "ibge": 4108205,
+    "city": "Formosa do Oeste",
+    "latitude": -24.2951,
+    "longitude": -53.3114
+  },
+  {
+    "state": "PR",
+    "ibge": 4108304,
+    "city": "Foz do Iguaçu",
+    "latitude": -25.5427,
+    "longitude": -54.5827
+  },
+  {
+    "state": "PR",
+    "ibge": 4108452,
+    "city": "Foz do Jordão",
+    "latitude": -25.7371,
+    "longitude": -52.1188
+  },
+  {
+    "state": "PR",
+    "ibge": 4108320,
+    "city": "Francisco Alves",
+    "latitude": -24.0667,
+    "longitude": -53.8461
+  },
+  {
+    "state": "PR",
+    "ibge": 4108403,
+    "city": "Francisco Beltrão",
+    "latitude": -26.0817,
+    "longitude": -53.0535
+  },
+  {
+    "state": "PR",
+    "ibge": 4108502,
+    "city": "General Carneiro",
+    "latitude": -26.425,
+    "longitude": -51.3172
+  },
+  {
+    "state": "PR",
+    "ibge": 4108551,
+    "city": "Godoy Moreira",
+    "latitude": -24.173,
+    "longitude": -51.9246
+  },
+  {
+    "state": "PR",
+    "ibge": 4108601,
+    "city": "Goioerê",
+    "latitude": -24.1835,
+    "longitude": -53.0248
+  },
+  {
+    "state": "PR",
+    "ibge": 4108650,
+    "city": "Goioxim",
+    "latitude": -25.1927,
+    "longitude": -51.9911
+  },
+  {
+    "state": "PR",
+    "ibge": 4108700,
+    "city": "Grandes Rios",
+    "latitude": -24.1466,
+    "longitude": -51.5094
+  },
+  {
+    "state": "PR",
+    "ibge": 4108809,
+    "city": "Guaíra",
+    "latitude": -24.085,
+    "longitude": -54.2573
+  },
+  {
+    "state": "PR",
+    "ibge": 4108908,
+    "city": "Guairaçá",
+    "latitude": -22.932,
+    "longitude": -52.6906
+  },
+  {
+    "state": "PR",
+    "ibge": 4108957,
+    "city": "Guamiranga",
+    "latitude": -25.1912,
+    "longitude": -50.8021
+  },
+  {
+    "state": "PR",
+    "ibge": 4109005,
+    "city": "Guapirama",
+    "latitude": -23.5203,
+    "longitude": -50.0407
+  },
+  {
+    "state": "PR",
+    "ibge": 4109104,
+    "city": "Guaporema",
+    "latitude": -23.3402,
+    "longitude": -52.7786
+  },
+  {
+    "state": "PR",
+    "ibge": 4109203,
+    "city": "Guaraci",
+    "latitude": -22.9694,
+    "longitude": -51.6504
+  },
+  {
+    "state": "PR",
+    "ibge": 4109302,
+    "city": "Guaraniaçu",
+    "latitude": -25.0968,
+    "longitude": -52.8755
+  },
+  {
+    "state": "PR",
+    "ibge": 4109401,
+    "city": "Guarapuava",
+    "latitude": -25.3902,
+    "longitude": -51.4623
+  },
+  {
+    "state": "PR",
+    "ibge": 4109500,
+    "city": "Guaraqueçaba",
+    "latitude": -25.3071,
+    "longitude": -48.3204
+  },
+  {
+    "state": "PR",
+    "ibge": 4109609,
+    "city": "Guaratuba",
+    "latitude": -25.8817,
+    "longitude": -48.5752
+  },
+  {
+    "state": "PR",
+    "ibge": 4109658,
+    "city": "Honório Serpa",
+    "latitude": -26.139,
+    "longitude": -52.3848
+  },
+  {
+    "state": "PR",
+    "ibge": 4109708,
+    "city": "Ibaiti",
+    "latitude": -23.8478,
+    "longitude": -50.1932
+  },
+  {
+    "state": "PR",
+    "ibge": 4109757,
+    "city": "Ibema",
+    "latitude": -25.1193,
+    "longitude": -53.0072
+  },
+  {
+    "state": "PR",
+    "ibge": 4109807,
+    "city": "Ibiporã",
+    "latitude": -23.2659,
+    "longitude": -51.0522
+  },
+  {
+    "state": "PR",
+    "ibge": 4109906,
+    "city": "Icaraíma",
+    "latitude": -23.3944,
+    "longitude": -53.615
+  },
+  {
+    "state": "PR",
+    "ibge": 4110003,
+    "city": "Iguaraçu",
+    "latitude": -23.1949,
+    "longitude": -51.8256
+  },
+  {
+    "state": "PR",
+    "ibge": 4110052,
+    "city": "Iguatu",
+    "latitude": -24.7153,
+    "longitude": -53.0827
+  },
+  {
+    "state": "PR",
+    "ibge": 4110078,
+    "city": "Imbaú",
+    "latitude": -24.448,
+    "longitude": -50.7533
+  },
+  {
+    "state": "PR",
+    "ibge": 4110102,
+    "city": "Imbituva",
+    "latitude": -25.2285,
+    "longitude": -50.5989
+  },
+  {
+    "state": "PR",
+    "ibge": 4110201,
+    "city": "Inácio Martins",
+    "latitude": -25.5704,
+    "longitude": -51.0769
+  },
+  {
+    "state": "PR",
+    "ibge": 4110300,
+    "city": "Inajá",
+    "latitude": -22.7509,
+    "longitude": -52.1995
+  },
+  {
+    "state": "PR",
+    "ibge": 4110409,
+    "city": "Indianópolis",
+    "latitude": -23.4762,
+    "longitude": -52.6989
+  },
+  {
+    "state": "PR",
+    "ibge": 4110508,
+    "city": "Ipiranga",
+    "latitude": -25.0238,
+    "longitude": -50.5794
+  },
+  {
+    "state": "PR",
+    "ibge": 4110607,
+    "city": "Iporã",
+    "latitude": -24.0083,
+    "longitude": -53.706
+  },
+  {
+    "state": "PR",
+    "ibge": 4110656,
+    "city": "Iracema do Oeste",
+    "latitude": -24.4262,
+    "longitude": -53.3528
+  },
+  {
+    "state": "PR",
+    "ibge": 4110706,
+    "city": "Irati",
+    "latitude": -25.4697,
+    "longitude": -50.6493
+  },
+  {
+    "state": "PR",
+    "ibge": 4110805,
+    "city": "Iretama",
+    "latitude": -24.4253,
+    "longitude": -52.1012
+  },
+  {
+    "state": "PR",
+    "ibge": 4110904,
+    "city": "Itaguajé",
+    "latitude": -22.6183,
+    "longitude": -51.9674
+  },
+  {
+    "state": "PR",
+    "ibge": 4110953,
+    "city": "Itaipulândia",
+    "latitude": -25.1366,
+    "longitude": -54.3001
+  },
+  {
+    "state": "PR",
+    "ibge": 4111001,
+    "city": "Itambaracá",
+    "latitude": -23.0181,
+    "longitude": -50.4097
+  },
+  {
+    "state": "PR",
+    "ibge": 4111100,
+    "city": "Itambé",
+    "latitude": -23.6601,
+    "longitude": -51.9912
+  },
+  {
+    "state": "PR",
+    "ibge": 4111209,
+    "city": "Itapejara d'Oeste",
+    "latitude": -25.9619,
+    "longitude": -52.8152
+  },
+  {
+    "state": "PR",
+    "ibge": 4111258,
+    "city": "Itaperuçu",
+    "latitude": -25.2193,
+    "longitude": -49.3454
+  },
+  {
+    "state": "PR",
+    "ibge": 4111308,
+    "city": "Itaúna do Sul",
+    "latitude": -22.7289,
+    "longitude": -52.8874
+  },
+  {
+    "state": "PR",
+    "ibge": 4111407,
+    "city": "Ivaí",
+    "latitude": -25.0067,
+    "longitude": -50.857
+  },
+  {
+    "state": "PR",
+    "ibge": 4111506,
+    "city": "Ivaiporã",
+    "latitude": -24.2485,
+    "longitude": -51.6754
+  },
+  {
+    "state": "PR",
+    "ibge": 4111555,
+    "city": "Ivaté",
+    "latitude": -23.4072,
+    "longitude": -53.3687
+  },
+  {
+    "state": "PR",
+    "ibge": 4111605,
+    "city": "Ivatuba",
+    "latitude": -23.6187,
+    "longitude": -52.2203
+  },
+  {
+    "state": "PR",
+    "ibge": 4111704,
+    "city": "Jaboti",
+    "latitude": -23.7435,
+    "longitude": -50.0729
+  },
+  {
+    "state": "PR",
+    "ibge": 4111803,
+    "city": "Jacarezinho",
+    "latitude": -23.1591,
+    "longitude": -49.9739
+  },
+  {
+    "state": "PR",
+    "ibge": 4111902,
+    "city": "Jaguapitã",
+    "latitude": -23.1104,
+    "longitude": -51.5342
+  },
+  {
+    "state": "PR",
+    "ibge": 4112009,
+    "city": "Jaguariaíva",
+    "latitude": -24.2439,
+    "longitude": -49.7066
+  },
+  {
+    "state": "PR",
+    "ibge": 4112108,
+    "city": "Jandaia do Sul",
+    "latitude": -23.6011,
+    "longitude": -51.6448
+  },
+  {
+    "state": "PR",
+    "ibge": 4112207,
+    "city": "Janiópolis",
+    "latitude": -24.1401,
+    "longitude": -52.7784
+  },
+  {
+    "state": "PR",
+    "ibge": 4112306,
+    "city": "Japira",
+    "latitude": -23.8142,
+    "longitude": -50.1422
+  },
+  {
+    "state": "PR",
+    "ibge": 4112405,
+    "city": "Japurá",
+    "latitude": -23.4693,
+    "longitude": -52.5557
+  },
+  {
+    "state": "PR",
+    "ibge": 4112504,
+    "city": "Jardim Alegre",
+    "latitude": -24.1809,
+    "longitude": -51.6902
+  },
+  {
+    "state": "PR",
+    "ibge": 4112603,
+    "city": "Jardim Olinda",
+    "latitude": -22.5523,
+    "longitude": -52.0503
+  },
+  {
+    "state": "PR",
+    "ibge": 4112702,
+    "city": "Jataizinho",
+    "latitude": -23.2578,
+    "longitude": -50.9777
+  },
+  {
+    "state": "PR",
+    "ibge": 4112751,
+    "city": "Jesuítas",
+    "latitude": -24.3839,
+    "longitude": -53.3849
+  },
+  {
+    "state": "PR",
+    "ibge": 4112801,
+    "city": "Joaquim Távora",
+    "latitude": -23.4987,
+    "longitude": -49.909
+  },
+  {
+    "state": "PR",
+    "ibge": 4112900,
+    "city": "Jundiaí do Sul",
+    "latitude": -23.4357,
+    "longitude": -50.2496
+  },
+  {
+    "state": "PR",
+    "ibge": 4112959,
+    "city": "Juranda",
+    "latitude": -24.4209,
+    "longitude": -52.8413
+  },
+  {
+    "state": "PR",
+    "ibge": 4113007,
+    "city": "Jussara",
+    "latitude": -23.6219,
+    "longitude": -52.4693
+  },
+  {
+    "state": "PR",
+    "ibge": 4113106,
+    "city": "Kaloré",
+    "latitude": -23.8188,
+    "longitude": -51.6687
+  },
+  {
+    "state": "PR",
+    "ibge": 4113205,
+    "city": "Lapa",
+    "latitude": -25.7671,
+    "longitude": -49.7168
+  },
+  {
+    "state": "PR",
+    "ibge": 4113254,
+    "city": "Laranjal",
+    "latitude": -24.8862,
+    "longitude": -52.47
+  },
+  {
+    "state": "PR",
+    "ibge": 4113304,
+    "city": "Laranjeiras do Sul",
+    "latitude": -25.4077,
+    "longitude": -52.4109
+  },
+  {
+    "state": "PR",
+    "ibge": 4113403,
+    "city": "Leópolis",
+    "latitude": -23.0818,
+    "longitude": -50.7511
+  },
+  {
+    "state": "PR",
+    "ibge": 4113429,
+    "city": "Lidianópolis",
+    "latitude": -24.11,
+    "longitude": -51.6506
+  },
+  {
+    "state": "PR",
+    "ibge": 4113452,
+    "city": "Lindoeste",
+    "latitude": -25.2596,
+    "longitude": -53.5733
+  },
+  {
+    "state": "PR",
+    "ibge": 4113502,
+    "city": "Loanda",
+    "latitude": -22.9232,
+    "longitude": -53.1362
+  },
+  {
+    "state": "PR",
+    "ibge": 4113601,
+    "city": "Lobato",
+    "latitude": -23.0058,
+    "longitude": -51.9524
+  },
+  {
+    "state": "PR",
+    "ibge": 4113700,
+    "city": "Londrina",
+    "latitude": -23.304,
+    "longitude": -51.1691
+  },
+  {
+    "state": "PR",
+    "ibge": 4113734,
+    "city": "Luiziana",
+    "latitude": -24.2853,
+    "longitude": -52.269
+  },
+  {
+    "state": "PR",
+    "ibge": 4113759,
+    "city": "Lunardelli",
+    "latitude": -24.0821,
+    "longitude": -51.7368
+  },
+  {
+    "state": "PR",
+    "ibge": 4113809,
+    "city": "Lupionópolis",
+    "latitude": -22.755,
+    "longitude": -51.6601
+  },
+  {
+    "state": "PR",
+    "ibge": 4113908,
+    "city": "Mallet",
+    "latitude": -25.8806,
+    "longitude": -50.8173
+  },
+  {
+    "state": "PR",
+    "ibge": 4114005,
+    "city": "Mamborê",
+    "latitude": -24.317,
+    "longitude": -52.5271
+  },
+  {
+    "state": "PR",
+    "ibge": 4114104,
+    "city": "Mandaguaçu",
+    "latitude": -23.3458,
+    "longitude": -52.0944
+  },
+  {
+    "state": "PR",
+    "ibge": 4114203,
+    "city": "Mandaguari",
+    "latitude": -23.5446,
+    "longitude": -51.671
+  },
+  {
+    "state": "PR",
+    "ibge": 4114302,
+    "city": "Mandirituba",
+    "latitude": -25.777,
+    "longitude": -49.3282
+  },
+  {
+    "state": "PR",
+    "ibge": 4114351,
+    "city": "Manfrinópolis",
+    "latitude": -26.1441,
+    "longitude": -53.3113
+  },
+  {
+    "state": "PR",
+    "ibge": 4114401,
+    "city": "Mangueirinha",
+    "latitude": -25.9421,
+    "longitude": -52.1743
+  },
+  {
+    "state": "PR",
+    "ibge": 4114500,
+    "city": "Manoel Ribas",
+    "latitude": -24.5144,
+    "longitude": -51.6658
+  },
+  {
+    "state": "PR",
+    "ibge": 4114609,
+    "city": "Marechal Cândido Rondon",
+    "latitude": -24.557,
+    "longitude": -54.0571
+  },
+  {
+    "state": "PR",
+    "ibge": 4114708,
+    "city": "Maria Helena",
+    "latitude": -23.6158,
+    "longitude": -53.2053
+  },
+  {
+    "state": "PR",
+    "ibge": 4114807,
+    "city": "Marialva",
+    "latitude": -23.4843,
+    "longitude": -51.7928
+  },
+  {
+    "state": "PR",
+    "ibge": 4114906,
+    "city": "Marilândia do Sul",
+    "latitude": -23.7425,
+    "longitude": -51.3137
+  },
+  {
+    "state": "PR",
+    "ibge": 4115002,
+    "city": "Marilena",
+    "latitude": -22.7336,
+    "longitude": -53.0402
+  },
+  {
+    "state": "PR",
+    "ibge": 4115101,
+    "city": "Mariluz",
+    "latitude": -24.0089,
+    "longitude": -53.1432
+  },
+  {
+    "state": "PR",
+    "ibge": 4115200,
+    "city": "Maringá",
+    "latitude": -23.4205,
+    "longitude": -51.9333
+  },
+  {
+    "state": "PR",
+    "ibge": 4115309,
+    "city": "Mariópolis",
+    "latitude": -26.355,
+    "longitude": -52.5532
+  },
+  {
+    "state": "PR",
+    "ibge": 4115358,
+    "city": "Maripá",
+    "latitude": -24.42,
+    "longitude": -53.8286
+  },
+  {
+    "state": "PR",
+    "ibge": 4115408,
+    "city": "Marmeleiro",
+    "latitude": -26.1472,
+    "longitude": -53.0267
+  },
+  {
+    "state": "PR",
+    "ibge": 4115457,
+    "city": "Marquinho",
+    "latitude": -25.112,
+    "longitude": -52.2497
+  },
+  {
+    "state": "PR",
+    "ibge": 4115507,
+    "city": "Marumbi",
+    "latitude": -23.7058,
+    "longitude": -51.6404
+  },
+  {
+    "state": "PR",
+    "ibge": 4115606,
+    "city": "Matelândia",
+    "latitude": -25.2496,
+    "longitude": -53.9935
+  },
+  {
+    "state": "PR",
+    "ibge": 4115705,
+    "city": "Matinhos",
+    "latitude": -25.8237,
+    "longitude": -48.549
+  },
+  {
+    "state": "PR",
+    "ibge": 4115739,
+    "city": "Mato Rico",
+    "latitude": -24.6995,
+    "longitude": -52.1454
+  },
+  {
+    "state": "PR",
+    "ibge": 4115754,
+    "city": "Mauá da Serra",
+    "latitude": -23.8988,
+    "longitude": -51.2277
+  },
+  {
+    "state": "PR",
+    "ibge": 4115804,
+    "city": "Medianeira",
+    "latitude": -25.2977,
+    "longitude": -54.0943
+  },
+  {
+    "state": "PR",
+    "ibge": 4115853,
+    "city": "Mercedes",
+    "latitude": -24.4538,
+    "longitude": -54.1618
+  },
+  {
+    "state": "PR",
+    "ibge": 4115903,
+    "city": "Mirador",
+    "latitude": -23.255,
+    "longitude": -52.7761
+  },
+  {
+    "state": "PR",
+    "ibge": 4116000,
+    "city": "Miraselva",
+    "latitude": -22.9657,
+    "longitude": -51.4846
+  },
+  {
+    "state": "PR",
+    "ibge": 4116059,
+    "city": "Missal",
+    "latitude": -25.0919,
+    "longitude": -54.2477
+  },
+  {
+    "state": "PR",
+    "ibge": 4116109,
+    "city": "Moreira Sales",
+    "latitude": -24.0509,
+    "longitude": -53.0102
+  },
+  {
+    "state": "PR",
+    "ibge": 4116208,
+    "city": "Morretes",
+    "latitude": -25.4744,
+    "longitude": -48.8345
+  },
+  {
+    "state": "PR",
+    "ibge": 4116307,
+    "city": "Munhoz de Melo",
+    "latitude": -23.1487,
+    "longitude": -51.7737
+  },
+  {
+    "state": "PR",
+    "ibge": 4116406,
+    "city": "Nossa Senhora das Graças",
+    "latitude": -22.9129,
+    "longitude": -51.7978
+  },
+  {
+    "state": "PR",
+    "ibge": 4116505,
+    "city": "Nova Aliança do Ivaí",
+    "latitude": -23.1763,
+    "longitude": -52.6032
+  },
+  {
+    "state": "PR",
+    "ibge": 4116604,
+    "city": "Nova América da Colina",
+    "latitude": -23.3308,
+    "longitude": -50.7168
+  },
+  {
+    "state": "PR",
+    "ibge": 4116703,
+    "city": "Nova Aurora",
+    "latitude": -24.5289,
+    "longitude": -53.2575
+  },
+  {
+    "state": "PR",
+    "ibge": 4116802,
+    "city": "Nova Cantu",
+    "latitude": -24.6723,
+    "longitude": -52.5661
+  },
+  {
+    "state": "PR",
+    "ibge": 4116901,
+    "city": "Nova Esperança",
+    "latitude": -23.182,
+    "longitude": -52.2031
+  },
+  {
+    "state": "PR",
+    "ibge": 4116950,
+    "city": "Nova Esperança do Sudoeste",
+    "latitude": -25.9004,
+    "longitude": -53.2618
+  },
+  {
+    "state": "PR",
+    "ibge": 4117008,
+    "city": "Nova Fátima",
+    "latitude": -23.4324,
+    "longitude": -50.5665
+  },
+  {
+    "state": "PR",
+    "ibge": 4117057,
+    "city": "Nova Laranjeiras",
+    "latitude": -25.3054,
+    "longitude": -52.5447
+  },
+  {
+    "state": "PR",
+    "ibge": 4117107,
+    "city": "Nova Londrina",
+    "latitude": -22.7639,
+    "longitude": -52.9868
+  },
+  {
+    "state": "PR",
+    "ibge": 4117206,
+    "city": "Nova Olímpia",
+    "latitude": -23.4703,
+    "longitude": -53.0898
+  },
+  {
+    "state": "PR",
+    "ibge": 4117255,
+    "city": "Nova Prata do Iguaçu",
+    "latitude": -25.6309,
+    "longitude": -53.3469
+  },
+  {
+    "state": "PR",
+    "ibge": 4117214,
+    "city": "Nova Santa Bárbara",
+    "latitude": -23.5865,
+    "longitude": -50.7598
+  },
+  {
+    "state": "PR",
+    "ibge": 4117222,
+    "city": "Nova Santa Rosa",
+    "latitude": -24.4693,
+    "longitude": -53.9552
+  },
+  {
+    "state": "PR",
+    "ibge": 4117271,
+    "city": "Nova Tebas",
+    "latitude": -24.438,
+    "longitude": -51.9454
+  },
+  {
+    "state": "PR",
+    "ibge": 4117297,
+    "city": "Novo Itacolomi",
+    "latitude": -23.7631,
+    "longitude": -51.5079
+  },
+  {
+    "state": "PR",
+    "ibge": 4117305,
+    "city": "Ortigueira",
+    "latitude": -24.2058,
+    "longitude": -50.9185
+  },
+  {
+    "state": "PR",
+    "ibge": 4117404,
+    "city": "Ourizona",
+    "latitude": -23.4053,
+    "longitude": -52.1964
+  },
+  {
+    "state": "PR",
+    "ibge": 4117453,
+    "city": "Ouro Verde do Oeste",
+    "latitude": -24.7933,
+    "longitude": -53.9043
+  },
+  {
+    "state": "PR",
+    "ibge": 4117503,
+    "city": "Paiçandu",
+    "latitude": -23.4555,
+    "longitude": -52.046
+  },
+  {
+    "state": "PR",
+    "ibge": 4117602,
+    "city": "Palmas",
+    "latitude": -26.4839,
+    "longitude": -51.9888
+  },
+  {
+    "state": "PR",
+    "ibge": 4117701,
+    "city": "Palmeira",
+    "latitude": -25.4257,
+    "longitude": -50.007
+  },
+  {
+    "state": "PR",
+    "ibge": 4117800,
+    "city": "Palmital",
+    "latitude": -24.8853,
+    "longitude": -52.2029
+  },
+  {
+    "state": "PR",
+    "ibge": 4117909,
+    "city": "Palotina",
+    "latitude": -24.2868,
+    "longitude": -53.8404
+  },
+  {
+    "state": "PR",
+    "ibge": 4118006,
+    "city": "Paraíso do Norte",
+    "latitude": -23.2824,
+    "longitude": -52.6054
+  },
+  {
+    "state": "PR",
+    "ibge": 4118105,
+    "city": "Paranacity",
+    "latitude": -22.9297,
+    "longitude": -52.1549
+  },
+  {
+    "state": "PR",
+    "ibge": 4118204,
+    "city": "Paranaguá",
+    "latitude": -25.5161,
+    "longitude": -48.5225
+  },
+  {
+    "state": "PR",
+    "ibge": 4118303,
+    "city": "Paranapoema",
+    "latitude": -22.6412,
+    "longitude": -52.0905
+  },
+  {
+    "state": "PR",
+    "ibge": 4118402,
+    "city": "Paranavaí",
+    "latitude": -23.0816,
+    "longitude": -52.4617
+  },
+  {
+    "state": "PR",
+    "ibge": 4118451,
+    "city": "Pato Bragado",
+    "latitude": -24.6271,
+    "longitude": -54.2265
+  },
+  {
+    "state": "PR",
+    "ibge": 4118501,
+    "city": "Pato Branco",
+    "latitude": -26.2292,
+    "longitude": -52.6706
+  },
+  {
+    "state": "PR",
+    "ibge": 4118600,
+    "city": "Paula Freitas",
+    "latitude": -26.2105,
+    "longitude": -50.931
+  },
+  {
+    "state": "PR",
+    "ibge": 4118709,
+    "city": "Paulo Frontin",
+    "latitude": -26.0466,
+    "longitude": -50.8304
+  },
+  {
+    "state": "PR",
+    "ibge": 4118808,
+    "city": "Peabiru",
+    "latitude": -23.914,
+    "longitude": -52.3431
+  },
+  {
+    "state": "PR",
+    "ibge": 4118857,
+    "city": "Perobal",
+    "latitude": -23.8949,
+    "longitude": -53.4098
+  },
+  {
+    "state": "PR",
+    "ibge": 4118907,
+    "city": "Pérola",
+    "latitude": -23.8039,
+    "longitude": -53.6834
+  },
+  {
+    "state": "PR",
+    "ibge": 4119004,
+    "city": "Pérola d'Oeste",
+    "latitude": -25.8278,
+    "longitude": -53.7433
+  },
+  {
+    "state": "PR",
+    "ibge": 4119103,
+    "city": "Piên",
+    "latitude": -26.0965,
+    "longitude": -49.4336
+  },
+  {
+    "state": "PR",
+    "ibge": 4119152,
+    "city": "Pinhais",
+    "latitude": -25.4429,
+    "longitude": -49.1927
+  },
+  {
+    "state": "PR",
+    "ibge": 4119251,
+    "city": "Pinhal de São Bento",
+    "latitude": -26.0324,
+    "longitude": -53.482
+  },
+  {
+    "state": "PR",
+    "ibge": 4119202,
+    "city": "Pinhalão",
+    "latitude": -23.7982,
+    "longitude": -50.0536
+  },
+  {
+    "state": "PR",
+    "ibge": 4119301,
+    "city": "Pinhão",
+    "latitude": -25.6944,
+    "longitude": -51.6536
+  },
+  {
+    "state": "PR",
+    "ibge": 4119400,
+    "city": "Piraí do Sul",
+    "latitude": -24.5306,
+    "longitude": -49.9433
+  },
+  {
+    "state": "PR",
+    "ibge": 4119509,
+    "city": "Piraquara",
+    "latitude": -25.4422,
+    "longitude": -49.0624
+  },
+  {
+    "state": "PR",
+    "ibge": 4119608,
+    "city": "Pitanga",
+    "latitude": -24.7588,
+    "longitude": -51.7596
+  },
+  {
+    "state": "PR",
+    "ibge": 4119657,
+    "city": "Pitangueiras",
+    "latitude": -23.2281,
+    "longitude": -51.5873
+  },
+  {
+    "state": "PR",
+    "ibge": 4119707,
+    "city": "Planaltina do Paraná",
+    "latitude": -23.0101,
+    "longitude": -52.9162
+  },
+  {
+    "state": "PR",
+    "ibge": 4119806,
+    "city": "Planalto",
+    "latitude": -25.7211,
+    "longitude": -53.7642
+  },
+  {
+    "state": "PR",
+    "ibge": 4119905,
+    "city": "Ponta Grossa",
+    "latitude": -25.0916,
+    "longitude": -50.1668
+  },
+  {
+    "state": "PR",
+    "ibge": 4119954,
+    "city": "Pontal do Paraná",
+    "latitude": -25.6735,
+    "longitude": -48.5111
+  },
+  {
+    "state": "PR",
+    "ibge": 4120002,
+    "city": "Porecatu",
+    "latitude": -22.7537,
+    "longitude": -51.3795
+  },
+  {
+    "state": "PR",
+    "ibge": 4120101,
+    "city": "Porto Amazonas",
+    "latitude": -25.54,
+    "longitude": -49.8946
+  },
+  {
+    "state": "PR",
+    "ibge": 4120150,
+    "city": "Porto Barreiro",
+    "latitude": -25.5477,
+    "longitude": -52.4067
+  },
+  {
+    "state": "PR",
+    "ibge": 4120200,
+    "city": "Porto Rico",
+    "latitude": -22.7747,
+    "longitude": -53.2677
+  },
+  {
+    "state": "PR",
+    "ibge": 4120309,
+    "city": "Porto Vitória",
+    "latitude": -26.1674,
+    "longitude": -51.231
+  },
+  {
+    "state": "PR",
+    "ibge": 4120333,
+    "city": "Prado Ferreira",
+    "latitude": -23.0357,
+    "longitude": -51.4429
+  },
+  {
+    "state": "PR",
+    "ibge": 4120358,
+    "city": "Pranchita",
+    "latitude": -26.0209,
+    "longitude": -53.7397
+  },
+  {
+    "state": "PR",
+    "ibge": 4120408,
+    "city": "Presidente Castelo Branco",
+    "latitude": -23.2782,
+    "longitude": -52.1536
+  },
+  {
+    "state": "PR",
+    "ibge": 4120507,
+    "city": "Primeiro de Maio",
+    "latitude": -22.8517,
+    "longitude": -51.0293
+  },
+  {
+    "state": "PR",
+    "ibge": 4120606,
+    "city": "Prudentópolis",
+    "latitude": -25.2111,
+    "longitude": -50.9754
+  },
+  {
+    "state": "PR",
+    "ibge": 4120655,
+    "city": "Quarto Centenário",
+    "latitude": -24.2775,
+    "longitude": -53.0759
+  },
+  {
+    "state": "PR",
+    "ibge": 4120705,
+    "city": "Quatiguá",
+    "latitude": -23.5671,
+    "longitude": -49.916
+  },
+  {
+    "state": "PR",
+    "ibge": 4120804,
+    "city": "Quatro Barras",
+    "latitude": -25.3673,
+    "longitude": -49.0763
+  },
+  {
+    "state": "PR",
+    "ibge": 4120853,
+    "city": "Quatro Pontes",
+    "latitude": -24.5752,
+    "longitude": -53.9759
+  },
+  {
+    "state": "PR",
+    "ibge": 4120903,
+    "city": "Quedas do Iguaçu",
+    "latitude": -25.4492,
+    "longitude": -52.9102
+  },
+  {
+    "state": "PR",
+    "ibge": 4121000,
+    "city": "Querência do Norte",
+    "latitude": -23.0838,
+    "longitude": -53.483
+  },
+  {
+    "state": "PR",
+    "ibge": 4121109,
+    "city": "Quinta do Sol",
+    "latitude": -23.8533,
+    "longitude": -52.1309
+  },
+  {
+    "state": "PR",
+    "ibge": 4121208,
+    "city": "Quitandinha",
+    "latitude": -25.8734,
+    "longitude": -49.4973
+  },
+  {
+    "state": "PR",
+    "ibge": 4121257,
+    "city": "Ramilândia",
+    "latitude": -25.1195,
+    "longitude": -54.023
+  },
+  {
+    "state": "PR",
+    "ibge": 4121307,
+    "city": "Rancho Alegre",
+    "latitude": -23.0676,
+    "longitude": -50.9145
+  },
+  {
+    "state": "PR",
+    "ibge": 4121356,
+    "city": "Rancho Alegre D'Oeste",
+    "latitude": -24.3065,
+    "longitude": -52.9552
+  },
+  {
+    "state": "PR",
+    "ibge": 4121406,
+    "city": "Realeza",
+    "latitude": -25.7711,
+    "longitude": -53.526
+  },
+  {
+    "state": "PR",
+    "ibge": 4121505,
+    "city": "Rebouças",
+    "latitude": -25.6232,
+    "longitude": -50.6877
+  },
+  {
+    "state": "PR",
+    "ibge": 4121604,
+    "city": "Renascença",
+    "latitude": -26.1588,
+    "longitude": -52.9703
+  },
+  {
+    "state": "PR",
+    "ibge": 4121703,
+    "city": "Reserva",
+    "latitude": -24.6492,
+    "longitude": -50.8466
+  },
+  {
+    "state": "PR",
+    "ibge": 4121752,
+    "city": "Reserva do Iguaçu",
+    "latitude": -25.8319,
+    "longitude": -52.0272
+  },
+  {
+    "state": "PR",
+    "ibge": 4121802,
+    "city": "Ribeirão Claro",
+    "latitude": -23.1941,
+    "longitude": -49.7597
+  },
+  {
+    "state": "PR",
+    "ibge": 4121901,
+    "city": "Ribeirão do Pinhal",
+    "latitude": -23.4091,
+    "longitude": -50.3601
+  },
+  {
+    "state": "PR",
+    "ibge": 4122008,
+    "city": "Rio Azul",
+    "latitude": -25.7306,
+    "longitude": -50.7985
+  },
+  {
+    "state": "PR",
+    "ibge": 4122107,
+    "city": "Rio Bom",
+    "latitude": -23.7606,
+    "longitude": -51.4122
+  },
+  {
+    "state": "PR",
+    "ibge": 4122156,
+    "city": "Rio Bonito do Iguaçu",
+    "latitude": -25.4874,
+    "longitude": -52.5292
+  },
+  {
+    "state": "PR",
+    "ibge": 4122172,
+    "city": "Rio Branco do Ivaí",
+    "latitude": -24.3244,
+    "longitude": -51.3187
+  },
+  {
+    "state": "PR",
+    "ibge": 4122206,
+    "city": "Rio Branco do Sul",
+    "latitude": -25.1892,
+    "longitude": -49.3115
+  },
+  {
+    "state": "PR",
+    "ibge": 4122305,
+    "city": "Rio Negro",
+    "latitude": -26.095,
+    "longitude": -49.7982
+  },
+  {
+    "state": "PR",
+    "ibge": 4122404,
+    "city": "Rolândia",
+    "latitude": -23.3101,
+    "longitude": -51.3659
+  },
+  {
+    "state": "PR",
+    "ibge": 4122503,
+    "city": "Roncador",
+    "latitude": -24.5958,
+    "longitude": -52.2716
+  },
+  {
+    "state": "PR",
+    "ibge": 4122602,
+    "city": "Rondon",
+    "latitude": -23.412,
+    "longitude": -52.7659
+  },
+  {
+    "state": "PR",
+    "ibge": 4122651,
+    "city": "Rosário do Ivaí",
+    "latitude": -24.2682,
+    "longitude": -51.272
+  },
+  {
+    "state": "PR",
+    "ibge": 4122701,
+    "city": "Sabáudia",
+    "latitude": -23.3155,
+    "longitude": -51.555
+  },
+  {
+    "state": "PR",
+    "ibge": 4122800,
+    "city": "Salgado Filho",
+    "latitude": -26.1777,
+    "longitude": -53.3631
+  },
+  {
+    "state": "PR",
+    "ibge": 4122909,
+    "city": "Salto do Itararé",
+    "latitude": -23.6074,
+    "longitude": -49.6354
+  },
+  {
+    "state": "PR",
+    "ibge": 4123006,
+    "city": "Salto do Lontra",
+    "latitude": -25.7813,
+    "longitude": -53.3135
+  },
+  {
+    "state": "PR",
+    "ibge": 4123105,
+    "city": "Santa Amélia",
+    "latitude": -23.2654,
+    "longitude": -50.4288
+  },
+  {
+    "state": "PR",
+    "ibge": 4123204,
+    "city": "Santa Cecília do Pavão",
+    "latitude": -23.5201,
+    "longitude": -50.7835
+  },
+  {
+    "state": "PR",
+    "ibge": 4123303,
+    "city": "Santa Cruz de Monte Castelo",
+    "latitude": -22.9582,
+    "longitude": -53.2949
+  },
+  {
+    "state": "PR",
+    "ibge": 4123402,
+    "city": "Santa Fé",
+    "latitude": -23.04,
+    "longitude": -51.808
+  },
+  {
+    "state": "PR",
+    "ibge": 4123501,
+    "city": "Santa Helena",
+    "latitude": -24.8585,
+    "longitude": -54.336
+  },
+  {
+    "state": "PR",
+    "ibge": 4123600,
+    "city": "Santa Inês",
+    "latitude": -22.6376,
+    "longitude": -51.9024
+  },
+  {
+    "state": "PR",
+    "ibge": 4123709,
+    "city": "Santa Isabel do Ivaí",
+    "latitude": -23.0025,
+    "longitude": -53.1989
+  },
+  {
+    "state": "PR",
+    "ibge": 4123808,
+    "city": "Santa Izabel do Oeste",
+    "latitude": -25.8217,
+    "longitude": -53.4801
+  },
+  {
+    "state": "PR",
+    "ibge": 4123824,
+    "city": "Santa Lúcia",
+    "latitude": -25.4104,
+    "longitude": -53.5638
+  },
+  {
+    "state": "PR",
+    "ibge": 4123857,
+    "city": "Santa Maria do Oeste",
+    "latitude": -24.9377,
+    "longitude": -51.8696
+  },
+  {
+    "state": "PR",
+    "ibge": 4123907,
+    "city": "Santa Mariana",
+    "latitude": -23.1465,
+    "longitude": -50.5167
+  },
+  {
+    "state": "PR",
+    "ibge": 4123956,
+    "city": "Santa Mônica",
+    "latitude": -23.108,
+    "longitude": -53.1103
+  },
+  {
+    "state": "PR",
+    "ibge": 4124020,
+    "city": "Santa Tereza do Oeste",
+    "latitude": -25.0543,
+    "longitude": -53.6274
+  },
+  {
+    "state": "PR",
+    "ibge": 4124053,
+    "city": "Santa Terezinha de Itaipu",
+    "latitude": -25.4391,
+    "longitude": -54.402
+  },
+  {
+    "state": "PR",
+    "ibge": 4124004,
+    "city": "Santana do Itararé",
+    "latitude": -23.7587,
+    "longitude": -49.6293
+  },
+  {
+    "state": "PR",
+    "ibge": 4124103,
+    "city": "Santo Antônio da Platina",
+    "latitude": -23.2959,
+    "longitude": -50.0815
+  },
+  {
+    "state": "PR",
+    "ibge": 4124202,
+    "city": "Santo Antônio do Caiuá",
+    "latitude": -22.7351,
+    "longitude": -52.344
+  },
+  {
+    "state": "PR",
+    "ibge": 4124301,
+    "city": "Santo Antônio do Paraíso",
+    "latitude": -23.4969,
+    "longitude": -50.6455
+  },
+  {
+    "state": "PR",
+    "ibge": 4124400,
+    "city": "Santo Antônio do Sudoeste",
+    "latitude": -26.0737,
+    "longitude": -53.7251
+  },
+  {
+    "state": "PR",
+    "ibge": 4124509,
+    "city": "Santo Inácio",
+    "latitude": -22.6957,
+    "longitude": -51.7969
+  },
+  {
+    "state": "PR",
+    "ibge": 4124608,
+    "city": "São Carlos do Ivaí",
+    "latitude": -23.3158,
+    "longitude": -52.4761
+  },
+  {
+    "state": "PR",
+    "ibge": 4124707,
+    "city": "São Jerônimo da Serra",
+    "latitude": -23.7218,
+    "longitude": -50.7475
+  },
+  {
+    "state": "PR",
+    "ibge": 4124806,
+    "city": "São João",
+    "latitude": -25.8214,
+    "longitude": -52.7252
+  },
+  {
+    "state": "PR",
+    "ibge": 4124905,
+    "city": "São João do Caiuá",
+    "latitude": -22.8535,
+    "longitude": -52.3411
+  },
+  {
+    "state": "PR",
+    "ibge": 4125001,
+    "city": "São João do Ivaí",
+    "latitude": -23.9833,
+    "longitude": -51.8215
+  },
+  {
+    "state": "PR",
+    "ibge": 4125100,
+    "city": "São João do Triunfo",
+    "latitude": -25.683,
+    "longitude": -50.2949
+  },
+  {
+    "state": "PR",
+    "ibge": 4125209,
+    "city": "São Jorge d'Oeste",
+    "latitude": -25.7085,
+    "longitude": -52.9204
+  },
+  {
+    "state": "PR",
+    "ibge": 4125308,
+    "city": "São Jorge do Ivaí",
+    "latitude": -23.4336,
+    "longitude": -52.2929
+  },
+  {
+    "state": "PR",
+    "ibge": 4125357,
+    "city": "São Jorge do Patrocínio",
+    "latitude": -23.7647,
+    "longitude": -53.8823
+  },
+  {
+    "state": "PR",
+    "ibge": 4125407,
+    "city": "São José da Boa Vista",
+    "latitude": -23.9122,
+    "longitude": -49.6577
+  },
+  {
+    "state": "PR",
+    "ibge": 4125456,
+    "city": "São José das Palmeiras",
+    "latitude": -24.8369,
+    "longitude": -54.0572
+  },
+  {
+    "state": "PR",
+    "ibge": 4125506,
+    "city": "São José dos Pinhais",
+    "latitude": -25.5313,
+    "longitude": -49.2031
+  },
+  {
+    "state": "PR",
+    "ibge": 4125555,
+    "city": "São Manoel do Paraná",
+    "latitude": -23.3941,
+    "longitude": -52.6454
+  },
+  {
+    "state": "PR",
+    "ibge": 4125605,
+    "city": "São Mateus do Sul",
+    "latitude": -25.8677,
+    "longitude": -50.384
+  },
+  {
+    "state": "PR",
+    "ibge": 4125704,
+    "city": "São Miguel do Iguaçu",
+    "latitude": -25.3492,
+    "longitude": -54.2405
+  },
+  {
+    "state": "PR",
+    "ibge": 4125753,
+    "city": "São Pedro do Iguaçu",
+    "latitude": -24.9373,
+    "longitude": -53.8521
+  },
+  {
+    "state": "PR",
+    "ibge": 4125803,
+    "city": "São Pedro do Ivaí",
+    "latitude": -23.8634,
+    "longitude": -51.8568
+  },
+  {
+    "state": "PR",
+    "ibge": 4125902,
+    "city": "São Pedro do Paraná",
+    "latitude": -22.8239,
+    "longitude": -53.2241
+  },
+  {
+    "state": "PR",
+    "ibge": 4126009,
+    "city": "São Sebastião da Amoreira",
+    "latitude": -23.4656,
+    "longitude": -50.7625
+  },
+  {
+    "state": "PR",
+    "ibge": 4126108,
+    "city": "São Tomé",
+    "latitude": -23.5349,
+    "longitude": -52.5901
+  },
+  {
+    "state": "PR",
+    "ibge": 4126207,
+    "city": "Sapopema",
+    "latitude": -23.9078,
+    "longitude": -50.5801
+  },
+  {
+    "state": "PR",
+    "ibge": 4126256,
+    "city": "Sarandi",
+    "latitude": -23.4441,
+    "longitude": -51.876
+  },
+  {
+    "state": "PR",
+    "ibge": 4126272,
+    "city": "Saudade do Iguaçu",
+    "latitude": -25.6917,
+    "longitude": -52.6184
+  },
+  {
+    "state": "PR",
+    "ibge": 4126306,
+    "city": "Sengés",
+    "latitude": -24.1129,
+    "longitude": -49.4616
+  },
+  {
+    "state": "PR",
+    "ibge": 4126355,
+    "city": "Serranópolis do Iguaçu",
+    "latitude": -25.3799,
+    "longitude": -54.0518
+  },
+  {
+    "state": "PR",
+    "ibge": 4126405,
+    "city": "Sertaneja",
+    "latitude": -23.0361,
+    "longitude": -50.8317
+  },
+  {
+    "state": "PR",
+    "ibge": 4126504,
+    "city": "Sertanópolis",
+    "latitude": -23.0571,
+    "longitude": -51.0399
+  },
+  {
+    "state": "PR",
+    "ibge": 4126603,
+    "city": "Siqueira Campos",
+    "latitude": -23.6875,
+    "longitude": -49.8304
+  },
+  {
+    "state": "PR",
+    "ibge": 4126652,
+    "city": "Sulina",
+    "latitude": -25.7066,
+    "longitude": -52.7299
+  },
+  {
+    "state": "PR",
+    "ibge": 4126678,
+    "city": "Tamarana",
+    "latitude": -23.7204,
+    "longitude": -51.0991
+  },
+  {
+    "state": "PR",
+    "ibge": 4126702,
+    "city": "Tamboara",
+    "latitude": -23.2036,
+    "longitude": -52.4743
+  },
+  {
+    "state": "PR",
+    "ibge": 4126801,
+    "city": "Tapejara",
+    "latitude": -23.7315,
+    "longitude": -52.8735
+  },
+  {
+    "state": "PR",
+    "ibge": 4126900,
+    "city": "Tapira",
+    "latitude": -23.3193,
+    "longitude": -53.0684
+  },
+  {
+    "state": "PR",
+    "ibge": 4127007,
+    "city": "Teixeira Soares",
+    "latitude": -25.3701,
+    "longitude": -50.4571
+  },
+  {
+    "state": "PR",
+    "ibge": 4127106,
+    "city": "Telêmaco Borba",
+    "latitude": -24.3245,
+    "longitude": -50.6176
+  },
+  {
+    "state": "PR",
+    "ibge": 4127205,
+    "city": "Terra Boa",
+    "latitude": -23.7683,
+    "longitude": -52.447
+  },
+  {
+    "state": "PR",
+    "ibge": 4127304,
+    "city": "Terra Rica",
+    "latitude": -22.7111,
+    "longitude": -52.6188
+  },
+  {
+    "state": "PR",
+    "ibge": 4127403,
+    "city": "Terra Roxa",
+    "latitude": -24.1575,
+    "longitude": -54.0988
+  },
+  {
+    "state": "PR",
+    "ibge": 4127502,
+    "city": "Tibagi",
+    "latitude": -24.5153,
+    "longitude": -50.4176
+  },
+  {
+    "state": "PR",
+    "ibge": 4127601,
+    "city": "Tijucas do Sul",
+    "latitude": -25.9311,
+    "longitude": -49.195
+  },
+  {
+    "state": "PR",
+    "ibge": 4127700,
+    "city": "Toledo",
+    "latitude": -24.7246,
+    "longitude": -53.7412
+  },
+  {
+    "state": "PR",
+    "ibge": 4127809,
+    "city": "Tomazina",
+    "latitude": -23.7796,
+    "longitude": -49.9499
+  },
+  {
+    "state": "PR",
+    "ibge": 4127858,
+    "city": "Três Barras do Paraná",
+    "latitude": -25.4185,
+    "longitude": -53.1833
+  },
+  {
+    "state": "PR",
+    "ibge": 4127882,
+    "city": "Tunas do Paraná",
+    "latitude": -24.9731,
+    "longitude": -49.0879
+  },
+  {
+    "state": "PR",
+    "ibge": 4127908,
+    "city": "Tuneiras do Oeste",
+    "latitude": -23.8648,
+    "longitude": -52.8769
+  },
+  {
+    "state": "PR",
+    "ibge": 4127957,
+    "city": "Tupãssi",
+    "latitude": -24.5879,
+    "longitude": -53.5105
+  },
+  {
+    "state": "PR",
+    "ibge": 4127965,
+    "city": "Turvo",
+    "latitude": -25.0437,
+    "longitude": -51.5282
+  },
+  {
+    "state": "PR",
+    "ibge": 4128005,
+    "city": "Ubiratã",
+    "latitude": -24.5393,
+    "longitude": -52.9865
+  },
+  {
+    "state": "PR",
+    "ibge": 4128104,
+    "city": "Umuarama",
+    "latitude": -23.7656,
+    "longitude": -53.3201
+  },
+  {
+    "state": "PR",
+    "ibge": 4128203,
+    "city": "União da Vitória",
+    "latitude": -26.2273,
+    "longitude": -51.0873
+  },
+  {
+    "state": "PR",
+    "ibge": 4128302,
+    "city": "Uniflor",
+    "latitude": -23.0868,
+    "longitude": -52.1573
+  },
+  {
+    "state": "PR",
+    "ibge": 4128401,
+    "city": "Uraí",
+    "latitude": -23.2,
+    "longitude": -50.7939
+  },
+  {
+    "state": "PR",
+    "ibge": 4128534,
+    "city": "Ventania",
+    "latitude": -24.2458,
+    "longitude": -50.2376
+  },
+  {
+    "state": "PR",
+    "ibge": 4128559,
+    "city": "Vera Cruz do Oeste",
+    "latitude": -25.0577,
+    "longitude": -53.8771
+  },
+  {
+    "state": "PR",
+    "ibge": 4128609,
+    "city": "Verê",
+    "latitude": -25.8772,
+    "longitude": -52.9051
+  },
+  {
+    "state": "PR",
+    "ibge": 4128658,
+    "city": "Virmond",
+    "latitude": -25.3829,
+    "longitude": -52.1987
+  },
+  {
+    "state": "PR",
+    "ibge": 4128708,
+    "city": "Vitorino",
+    "latitude": -26.2683,
+    "longitude": -52.7843
+  },
+  {
+    "state": "PR",
+    "ibge": 4128500,
+    "city": "Wenceslau Braz",
+    "latitude": -23.8742,
+    "longitude": -49.8032
+  },
+  {
+    "state": "PR",
+    "ibge": 4128807,
+    "city": "Xambrê",
+    "latitude": -23.7364,
+    "longitude": -53.4884
+  }
+]

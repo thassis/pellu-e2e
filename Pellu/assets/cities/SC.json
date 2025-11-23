@@ -1,0 +1,2067 @@
+[
+  {
+    "state": "SC",
+    "ibge": 4200051,
+    "city": "Abdon Batista",
+    "latitude": -27.6126,
+    "longitude": -51.0233
+  },
+  {
+    "state": "SC",
+    "ibge": 4200101,
+    "city": "Abelardo Luz",
+    "latitude": -26.5716,
+    "longitude": -52.3229
+  },
+  {
+    "state": "SC",
+    "ibge": 4200200,
+    "city": "Agrolândia",
+    "latitude": -27.4087,
+    "longitude": -49.822
+  },
+  {
+    "state": "SC",
+    "ibge": 4200309,
+    "city": "Agronômica",
+    "latitude": -27.2662,
+    "longitude": -49.708
+  },
+  {
+    "state": "SC",
+    "ibge": 4200408,
+    "city": "Água Doce",
+    "latitude": -26.9985,
+    "longitude": -51.5528
+  },
+  {
+    "state": "SC",
+    "ibge": 4200507,
+    "city": "Águas de Chapecó",
+    "latitude": -27.0754,
+    "longitude": -52.9808
+  },
+  {
+    "state": "SC",
+    "ibge": 4200556,
+    "city": "Águas Frias",
+    "latitude": -26.8794,
+    "longitude": -52.8568
+  },
+  {
+    "state": "SC",
+    "ibge": 4200606,
+    "city": "Águas Mornas",
+    "latitude": -27.6963,
+    "longitude": -48.8243
+  },
+  {
+    "state": "SC",
+    "ibge": 4200705,
+    "city": "Alfredo Wagner",
+    "latitude": -27.7001,
+    "longitude": -49.3273
+  },
+  {
+    "state": "SC",
+    "ibge": 4200754,
+    "city": "Alto Bela Vista",
+    "latitude": -27.4333,
+    "longitude": -51.9044
+  },
+  {
+    "state": "SC",
+    "ibge": 4200804,
+    "city": "Anchieta",
+    "latitude": -26.5382,
+    "longitude": -53.3319
+  },
+  {
+    "state": "SC",
+    "ibge": 4200903,
+    "city": "Angelina",
+    "latitude": -27.5704,
+    "longitude": -48.9879
+  },
+  {
+    "state": "SC",
+    "ibge": 4201000,
+    "city": "Anita Garibaldi",
+    "latitude": -27.6897,
+    "longitude": -51.1271
+  },
+  {
+    "state": "SC",
+    "ibge": 4201109,
+    "city": "Anitápolis",
+    "latitude": -27.9012,
+    "longitude": -49.1316
+  },
+  {
+    "state": "SC",
+    "ibge": 4201208,
+    "city": "Antônio Carlos",
+    "latitude": -27.5191,
+    "longitude": -48.766
+  },
+  {
+    "state": "SC",
+    "ibge": 4201257,
+    "city": "Apiúna",
+    "latitude": -27.0375,
+    "longitude": -49.3885
+  },
+  {
+    "state": "SC",
+    "ibge": 4201273,
+    "city": "Arabutã",
+    "latitude": -27.1587,
+    "longitude": -52.1423
+  },
+  {
+    "state": "SC",
+    "ibge": 4201307,
+    "city": "Araquari",
+    "latitude": -26.3754,
+    "longitude": -48.7188
+  },
+  {
+    "state": "SC",
+    "ibge": 4201406,
+    "city": "Araranguá",
+    "latitude": -28.9356,
+    "longitude": -49.4918
+  },
+  {
+    "state": "SC",
+    "ibge": 4201505,
+    "city": "Armazém",
+    "latitude": -28.2448,
+    "longitude": -49.0215
+  },
+  {
+    "state": "SC",
+    "ibge": 4201604,
+    "city": "Arroio Trinta",
+    "latitude": -26.9257,
+    "longitude": -51.3407
+  },
+  {
+    "state": "SC",
+    "ibge": 4201653,
+    "city": "Arvoredo",
+    "latitude": -27.0748,
+    "longitude": -52.4543
+  },
+  {
+    "state": "SC",
+    "ibge": 4201703,
+    "city": "Ascurra",
+    "latitude": -26.9548,
+    "longitude": -49.3783
+  },
+  {
+    "state": "SC",
+    "ibge": 4201802,
+    "city": "Atalanta",
+    "latitude": -27.4219,
+    "longitude": -49.7789
+  },
+  {
+    "state": "SC",
+    "ibge": 4201901,
+    "city": "Aurora",
+    "latitude": -27.3098,
+    "longitude": -49.6295
+  },
+  {
+    "state": "SC",
+    "ibge": 4201950,
+    "city": "Balneário Arroio do Silva",
+    "latitude": -28.9806,
+    "longitude": -49.4237
+  },
+  {
+    "state": "SC",
+    "ibge": 4202057,
+    "city": "Balneário Barra do Sul",
+    "latitude": -26.4597,
+    "longitude": -48.6123
+  },
+  {
+    "state": "SC",
+    "ibge": 4202008,
+    "city": "Balneário Camboriú",
+    "latitude": -26.9926,
+    "longitude": -48.6352
+  },
+  {
+    "state": "SC",
+    "ibge": 4202073,
+    "city": "Balneário Gaivota",
+    "latitude": -29.1527,
+    "longitude": -49.5841
+  },
+  {
+    "state": "SC",
+    "ibge": 4212809,
+    "city": "Balneário Piçarras",
+    "latitude": -26.7639,
+    "longitude": -48.6717
+  },
+  {
+    "state": "SC",
+    "ibge": 4220000,
+    "city": "Balneário Rincão",
+    "latitude": -28.8314,
+    "longitude": -49.2352
+  },
+  {
+    "state": "SC",
+    "ibge": 4202081,
+    "city": "Bandeirante",
+    "latitude": -26.7705,
+    "longitude": -53.6413
+  },
+  {
+    "state": "SC",
+    "ibge": 4202099,
+    "city": "Barra Bonita",
+    "latitude": -26.654,
+    "longitude": -53.44
+  },
+  {
+    "state": "SC",
+    "ibge": 4202107,
+    "city": "Barra Velha",
+    "latitude": -26.637,
+    "longitude": -48.6933
+  },
+  {
+    "state": "SC",
+    "ibge": 4202131,
+    "city": "Bela Vista do Toldo",
+    "latitude": -26.2746,
+    "longitude": -50.4664
+  },
+  {
+    "state": "SC",
+    "ibge": 4202156,
+    "city": "Belmonte",
+    "latitude": -26.843,
+    "longitude": -53.5758
+  },
+  {
+    "state": "SC",
+    "ibge": 4202206,
+    "city": "Benedito Novo",
+    "latitude": -26.781,
+    "longitude": -49.3593
+  },
+  {
+    "state": "SC",
+    "ibge": 4202305,
+    "city": "Biguaçu",
+    "latitude": -27.496,
+    "longitude": -48.6598
+  },
+  {
+    "state": "SC",
+    "ibge": 4202404,
+    "city": "Blumenau",
+    "latitude": -26.9155,
+    "longitude": -49.0709
+  },
+  {
+    "state": "SC",
+    "ibge": 4202438,
+    "city": "Bocaina do Sul",
+    "latitude": -27.7455,
+    "longitude": -49.9423
+  },
+  {
+    "state": "SC",
+    "ibge": 4202503,
+    "city": "Bom Jardim da Serra",
+    "latitude": -28.3377,
+    "longitude": -49.6373
+  },
+  {
+    "state": "SC",
+    "ibge": 4202537,
+    "city": "Bom Jesus",
+    "latitude": -26.7326,
+    "longitude": -52.3919
+  },
+  {
+    "state": "SC",
+    "ibge": 4202578,
+    "city": "Bom Jesus do Oeste",
+    "latitude": -26.6927,
+    "longitude": -53.0967
+  },
+  {
+    "state": "SC",
+    "ibge": 4202602,
+    "city": "Bom Retiro",
+    "latitude": -27.799,
+    "longitude": -49.487
+  },
+  {
+    "state": "SC",
+    "ibge": 4202453,
+    "city": "Bombinhas",
+    "latitude": -27.1382,
+    "longitude": -48.5146
+  },
+  {
+    "state": "SC",
+    "ibge": 4202701,
+    "city": "Botuverá",
+    "latitude": -27.2007,
+    "longitude": -49.0689
+  },
+  {
+    "state": "SC",
+    "ibge": 4202800,
+    "city": "Braço do Norte",
+    "latitude": -28.2681,
+    "longitude": -49.1701
+  },
+  {
+    "state": "SC",
+    "ibge": 4202859,
+    "city": "Braço do Trombudo",
+    "latitude": -27.3586,
+    "longitude": -49.8821
+  },
+  {
+    "state": "SC",
+    "ibge": 4202875,
+    "city": "Brunópolis",
+    "latitude": -27.3058,
+    "longitude": -50.8684
+  },
+  {
+    "state": "SC",
+    "ibge": 4202909,
+    "city": "Brusque",
+    "latitude": -27.0977,
+    "longitude": -48.9107
+  },
+  {
+    "state": "SC",
+    "ibge": 4203006,
+    "city": "Caçador",
+    "latitude": -26.7757,
+    "longitude": -51.012
+  },
+  {
+    "state": "SC",
+    "ibge": 4203105,
+    "city": "Caibi",
+    "latitude": -27.0741,
+    "longitude": -53.2458
+  },
+  {
+    "state": "SC",
+    "ibge": 4203154,
+    "city": "Calmon",
+    "latitude": -26.5942,
+    "longitude": -51.095
+  },
+  {
+    "state": "SC",
+    "ibge": 4203204,
+    "city": "Camboriú",
+    "latitude": -27.0241,
+    "longitude": -48.6503
+  },
+  {
+    "state": "SC",
+    "ibge": 4203303,
+    "city": "Campo Alegre",
+    "latitude": -26.195,
+    "longitude": -49.2676
+  },
+  {
+    "state": "SC",
+    "ibge": 4203402,
+    "city": "Campo Belo do Sul",
+    "latitude": -27.8975,
+    "longitude": -50.7595
+  },
+  {
+    "state": "SC",
+    "ibge": 4203501,
+    "city": "Campo Erê",
+    "latitude": -26.3931,
+    "longitude": -53.0856
+  },
+  {
+    "state": "SC",
+    "ibge": 4203600,
+    "city": "Campos Novos",
+    "latitude": -27.4002,
+    "longitude": -51.2276
+  },
+  {
+    "state": "SC",
+    "ibge": 4203709,
+    "city": "Canelinha",
+    "latitude": -27.2616,
+    "longitude": -48.7658
+  },
+  {
+    "state": "SC",
+    "ibge": 4203808,
+    "city": "Canoinhas",
+    "latitude": -26.1766,
+    "longitude": -50.395
+  },
+  {
+    "state": "SC",
+    "ibge": 4203253,
+    "city": "Capão Alto",
+    "latitude": -27.9389,
+    "longitude": -50.5098
+  },
+  {
+    "state": "SC",
+    "ibge": 4203907,
+    "city": "Capinzal",
+    "latitude": -27.3473,
+    "longitude": -51.6057
+  },
+  {
+    "state": "SC",
+    "ibge": 4203956,
+    "city": "Capivari de Baixo",
+    "latitude": -28.4498,
+    "longitude": -48.9631
+  },
+  {
+    "state": "SC",
+    "ibge": 4204004,
+    "city": "Catanduvas",
+    "latitude": -27.069,
+    "longitude": -51.6602
+  },
+  {
+    "state": "SC",
+    "ibge": 4204103,
+    "city": "Caxambu do Sul",
+    "latitude": -27.1624,
+    "longitude": -52.8807
+  },
+  {
+    "state": "SC",
+    "ibge": 4204152,
+    "city": "Celso Ramos",
+    "latitude": -27.6327,
+    "longitude": -51.335
+  },
+  {
+    "state": "SC",
+    "ibge": 4204178,
+    "city": "Cerro Negro",
+    "latitude": -27.7942,
+    "longitude": -50.8673
+  },
+  {
+    "state": "SC",
+    "ibge": 4204194,
+    "city": "Chapadão do Lageado",
+    "latitude": -27.5905,
+    "longitude": -49.5539
+  },
+  {
+    "state": "SC",
+    "ibge": 4204202,
+    "city": "Chapecó",
+    "latitude": -27.1004,
+    "longitude": -52.6152
+  },
+  {
+    "state": "SC",
+    "ibge": 4204251,
+    "city": "Cocal do Sul",
+    "latitude": -28.5986,
+    "longitude": -49.3335
+  },
+  {
+    "state": "SC",
+    "ibge": 4204301,
+    "city": "Concórdia",
+    "latitude": -27.2335,
+    "longitude": -52.026
+  },
+  {
+    "state": "SC",
+    "ibge": 4204350,
+    "city": "Cordilheira Alta",
+    "latitude": -26.9844,
+    "longitude": -52.6056
+  },
+  {
+    "state": "SC",
+    "ibge": 4204400,
+    "city": "Coronel Freitas",
+    "latitude": -26.9057,
+    "longitude": -52.7011
+  },
+  {
+    "state": "SC",
+    "ibge": 4204459,
+    "city": "Coronel Martins",
+    "latitude": -26.511,
+    "longitude": -52.6694
+  },
+  {
+    "state": "SC",
+    "ibge": 4204558,
+    "city": "Correia Pinto",
+    "latitude": -27.5877,
+    "longitude": -50.3614
+  },
+  {
+    "state": "SC",
+    "ibge": 4204509,
+    "city": "Corupá",
+    "latitude": -26.4246,
+    "longitude": -49.246
+  },
+  {
+    "state": "SC",
+    "ibge": 4204608,
+    "city": "Criciúma",
+    "latitude": -28.6723,
+    "longitude": -49.3729
+  },
+  {
+    "state": "SC",
+    "ibge": 4204707,
+    "city": "Cunha Porã",
+    "latitude": -26.895,
+    "longitude": -53.1662
+  },
+  {
+    "state": "SC",
+    "ibge": 4204756,
+    "city": "Cunhataí",
+    "latitude": -26.9709,
+    "longitude": -53.0895
+  },
+  {
+    "state": "SC",
+    "ibge": 4204806,
+    "city": "Curitibanos",
+    "latitude": -27.2824,
+    "longitude": -50.5816
+  },
+  {
+    "state": "SC",
+    "ibge": 4204905,
+    "city": "Descanso",
+    "latitude": -26.827,
+    "longitude": -53.5034
+  },
+  {
+    "state": "SC",
+    "ibge": 4205001,
+    "city": "Dionísio Cerqueira",
+    "latitude": -26.2648,
+    "longitude": -53.6351
+  },
+  {
+    "state": "SC",
+    "ibge": 4205100,
+    "city": "Dona Emma",
+    "latitude": -26.981,
+    "longitude": -49.7261
+  },
+  {
+    "state": "SC",
+    "ibge": 4205159,
+    "city": "Doutor Pedrinho",
+    "latitude": -26.7174,
+    "longitude": -49.4795
+  },
+  {
+    "state": "SC",
+    "ibge": 4205175,
+    "city": "Entre Rios",
+    "latitude": -26.7225,
+    "longitude": -52.5585
+  },
+  {
+    "state": "SC",
+    "ibge": 4205191,
+    "city": "Ermo",
+    "latitude": -28.9869,
+    "longitude": -49.643
+  },
+  {
+    "state": "SC",
+    "ibge": 4205209,
+    "city": "Erval Velho",
+    "latitude": -27.2743,
+    "longitude": -51.443
+  },
+  {
+    "state": "SC",
+    "ibge": 4205308,
+    "city": "Faxinal dos Guedes",
+    "latitude": -26.8451,
+    "longitude": -52.2596
+  },
+  {
+    "state": "SC",
+    "ibge": 4205357,
+    "city": "Flor do Sertão",
+    "latitude": -26.7811,
+    "longitude": -53.3505
+  },
+  {
+    "state": "SC",
+    "ibge": 4205407,
+    "city": "Florianópolis",
+    "latitude": -27.5945,
+    "longitude": -48.5477
+  },
+  {
+    "state": "SC",
+    "ibge": 4205431,
+    "city": "Formosa do Sul",
+    "latitude": -26.6453,
+    "longitude": -52.7946
+  },
+  {
+    "state": "SC",
+    "ibge": 4205456,
+    "city": "Forquilhinha",
+    "latitude": -28.7454,
+    "longitude": -49.4785
+  },
+  {
+    "state": "SC",
+    "ibge": 4205506,
+    "city": "Fraiburgo",
+    "latitude": -27.0233,
+    "longitude": -50.92
+  },
+  {
+    "state": "SC",
+    "ibge": 4205555,
+    "city": "Frei Rogério",
+    "latitude": -27.175,
+    "longitude": -50.8076
+  },
+  {
+    "state": "SC",
+    "ibge": 4205605,
+    "city": "Galvão",
+    "latitude": -26.4549,
+    "longitude": -52.6875
+  },
+  {
+    "state": "SC",
+    "ibge": 4205704,
+    "city": "Garopaba",
+    "latitude": -28.0275,
+    "longitude": -48.6192
+  },
+  {
+    "state": "SC",
+    "ibge": 4205803,
+    "city": "Garuva",
+    "latitude": -26.0292,
+    "longitude": -48.852
+  },
+  {
+    "state": "SC",
+    "ibge": 4205902,
+    "city": "Gaspar",
+    "latitude": -26.9336,
+    "longitude": -48.9534
+  },
+  {
+    "state": "SC",
+    "ibge": 4206009,
+    "city": "Governador Celso Ramos",
+    "latitude": -27.3172,
+    "longitude": -48.5576
+  },
+  {
+    "state": "SC",
+    "ibge": 4206108,
+    "city": "Grão Pará",
+    "latitude": -28.1809,
+    "longitude": -49.2252
+  },
+  {
+    "state": "SC",
+    "ibge": 4206207,
+    "city": "Gravatal",
+    "latitude": -28.3208,
+    "longitude": -49.0427
+  },
+  {
+    "state": "SC",
+    "ibge": 4206306,
+    "city": "Guabiruba",
+    "latitude": -27.0808,
+    "longitude": -48.9804
+  },
+  {
+    "state": "SC",
+    "ibge": 4206405,
+    "city": "Guaraciaba",
+    "latitude": -26.6042,
+    "longitude": -53.5243
+  },
+  {
+    "state": "SC",
+    "ibge": 4206504,
+    "city": "Guaramirim",
+    "latitude": -26.4688,
+    "longitude": -49.0026
+  },
+  {
+    "state": "SC",
+    "ibge": 4206603,
+    "city": "Guarujá do Sul",
+    "latitude": -26.3858,
+    "longitude": -53.5296
+  },
+  {
+    "state": "SC",
+    "ibge": 4206652,
+    "city": "Guatambú",
+    "latitude": -27.1341,
+    "longitude": -52.7887
+  },
+  {
+    "state": "SC",
+    "ibge": 4206702,
+    "city": "Herval d'Oeste",
+    "latitude": -27.1903,
+    "longitude": -51.4917
+  },
+  {
+    "state": "SC",
+    "ibge": 4206751,
+    "city": "Ibiam",
+    "latitude": -27.1847,
+    "longitude": -51.2352
+  },
+  {
+    "state": "SC",
+    "ibge": 4206801,
+    "city": "Ibicaré",
+    "latitude": -27.0881,
+    "longitude": -51.3681
+  },
+  {
+    "state": "SC",
+    "ibge": 4206900,
+    "city": "Ibirama",
+    "latitude": -27.0547,
+    "longitude": -49.5193
+  },
+  {
+    "state": "SC",
+    "ibge": 4207007,
+    "city": "Içara",
+    "latitude": -28.7132,
+    "longitude": -49.3087
+  },
+  {
+    "state": "SC",
+    "ibge": 4207106,
+    "city": "Ilhota",
+    "latitude": -26.9023,
+    "longitude": -48.8251
+  },
+  {
+    "state": "SC",
+    "ibge": 4207205,
+    "city": "Imaruí",
+    "latitude": -28.3339,
+    "longitude": -48.817
+  },
+  {
+    "state": "SC",
+    "ibge": 4207304,
+    "city": "Imbituba",
+    "latitude": -28.2284,
+    "longitude": -48.6659
+  },
+  {
+    "state": "SC",
+    "ibge": 4207403,
+    "city": "Imbuia",
+    "latitude": -27.4908,
+    "longitude": -49.4218
+  },
+  {
+    "state": "SC",
+    "ibge": 4207502,
+    "city": "Indaial",
+    "latitude": -26.8992,
+    "longitude": -49.2354
+  },
+  {
+    "state": "SC",
+    "ibge": 4207577,
+    "city": "Iomerê",
+    "latitude": -27.0019,
+    "longitude": -51.2442
+  },
+  {
+    "state": "SC",
+    "ibge": 4207601,
+    "city": "Ipira",
+    "latitude": -27.4038,
+    "longitude": -51.7758
+  },
+  {
+    "state": "SC",
+    "ibge": 4207650,
+    "city": "Iporã do Oeste",
+    "latitude": -26.9854,
+    "longitude": -53.5355
+  },
+  {
+    "state": "SC",
+    "ibge": 4207684,
+    "city": "Ipuaçu",
+    "latitude": -26.635,
+    "longitude": -52.4556
+  },
+  {
+    "state": "SC",
+    "ibge": 4207700,
+    "city": "Ipumirim",
+    "latitude": -27.0772,
+    "longitude": -52.1289
+  },
+  {
+    "state": "SC",
+    "ibge": 4207759,
+    "city": "Iraceminha",
+    "latitude": -26.8215,
+    "longitude": -53.2767
+  },
+  {
+    "state": "SC",
+    "ibge": 4207809,
+    "city": "Irani",
+    "latitude": -27.0287,
+    "longitude": -51.9012
+  },
+  {
+    "state": "SC",
+    "ibge": 4207858,
+    "city": "Irati",
+    "latitude": -26.6539,
+    "longitude": -52.8955
+  },
+  {
+    "state": "SC",
+    "ibge": 4207908,
+    "city": "Irineópolis",
+    "latitude": -26.242,
+    "longitude": -50.7957
+  },
+  {
+    "state": "SC",
+    "ibge": 4208005,
+    "city": "Itá",
+    "latitude": -27.2907,
+    "longitude": -52.3212
+  },
+  {
+    "state": "SC",
+    "ibge": 4208104,
+    "city": "Itaiópolis",
+    "latitude": -26.339,
+    "longitude": -49.9092
+  },
+  {
+    "state": "SC",
+    "ibge": 4208203,
+    "city": "Itajaí",
+    "latitude": -26.9101,
+    "longitude": -48.6705
+  },
+  {
+    "state": "SC",
+    "ibge": 4208302,
+    "city": "Itapema",
+    "latitude": -27.0861,
+    "longitude": -48.616
+  },
+  {
+    "state": "SC",
+    "ibge": 4208401,
+    "city": "Itapiranga",
+    "latitude": -27.1659,
+    "longitude": -53.7166
+  },
+  {
+    "state": "SC",
+    "ibge": 4208450,
+    "city": "Itapoá",
+    "latitude": -26.1158,
+    "longitude": -48.6182
+  },
+  {
+    "state": "SC",
+    "ibge": 4208500,
+    "city": "Ituporanga",
+    "latitude": -27.4101,
+    "longitude": -49.5963
+  },
+  {
+    "state": "SC",
+    "ibge": 4208609,
+    "city": "Jaborá",
+    "latitude": -27.1782,
+    "longitude": -51.7279
+  },
+  {
+    "state": "SC",
+    "ibge": 4208708,
+    "city": "Jacinto Machado",
+    "latitude": -28.9961,
+    "longitude": -49.7623
+  },
+  {
+    "state": "SC",
+    "ibge": 4208807,
+    "city": "Jaguaruna",
+    "latitude": -28.6146,
+    "longitude": -49.0296
+  },
+  {
+    "state": "SC",
+    "ibge": 4208906,
+    "city": "Jaraguá do Sul",
+    "latitude": -26.4851,
+    "longitude": -49.0713
+  },
+  {
+    "state": "SC",
+    "ibge": 4208955,
+    "city": "Jardinópolis",
+    "latitude": -26.7191,
+    "longitude": -52.8625
+  },
+  {
+    "state": "SC",
+    "ibge": 4209003,
+    "city": "Joaçaba",
+    "latitude": -27.1721,
+    "longitude": -51.5108
+  },
+  {
+    "state": "SC",
+    "ibge": 4209102,
+    "city": "Joinville",
+    "latitude": -26.3045,
+    "longitude": -48.8487
+  },
+  {
+    "state": "SC",
+    "ibge": 4209151,
+    "city": "José Boiteux",
+    "latitude": -26.9566,
+    "longitude": -49.6286
+  },
+  {
+    "state": "SC",
+    "ibge": 4209177,
+    "city": "Jupiá",
+    "latitude": -26.395,
+    "longitude": -52.7298
+  },
+  {
+    "state": "SC",
+    "ibge": 4209201,
+    "city": "Lacerdópolis",
+    "latitude": -27.2579,
+    "longitude": -51.5577
+  },
+  {
+    "state": "SC",
+    "ibge": 4209300,
+    "city": "Lages",
+    "latitude": -27.815,
+    "longitude": -50.3259
+  },
+  {
+    "state": "SC",
+    "ibge": 4209409,
+    "city": "Laguna",
+    "latitude": -28.4843,
+    "longitude": -48.7772
+  },
+  {
+    "state": "SC",
+    "ibge": 4209458,
+    "city": "Lajeado Grande",
+    "latitude": -26.8576,
+    "longitude": -52.5648
+  },
+  {
+    "state": "SC",
+    "ibge": 4209508,
+    "city": "Laurentino",
+    "latitude": -27.2173,
+    "longitude": -49.7331
+  },
+  {
+    "state": "SC",
+    "ibge": 4209607,
+    "city": "Lauro Muller",
+    "latitude": -28.3859,
+    "longitude": -49.4035
+  },
+  {
+    "state": "SC",
+    "ibge": 4209706,
+    "city": "Lebon Régis",
+    "latitude": -26.928,
+    "longitude": -50.6921
+  },
+  {
+    "state": "SC",
+    "ibge": 4209805,
+    "city": "Leoberto Leal",
+    "latitude": -27.5081,
+    "longitude": -49.2789
+  },
+  {
+    "state": "SC",
+    "ibge": 4209854,
+    "city": "Lindóia do Sul",
+    "latitude": -27.0545,
+    "longitude": -52.069
+  },
+  {
+    "state": "SC",
+    "ibge": 4209904,
+    "city": "Lontras",
+    "latitude": -27.1684,
+    "longitude": -49.535
+  },
+  {
+    "state": "SC",
+    "ibge": 4210001,
+    "city": "Luiz Alves",
+    "latitude": -26.7151,
+    "longitude": -48.9322
+  },
+  {
+    "state": "SC",
+    "ibge": 4210035,
+    "city": "Luzerna",
+    "latitude": -27.1304,
+    "longitude": -51.4682
+  },
+  {
+    "state": "SC",
+    "ibge": 4210050,
+    "city": "Macieira",
+    "latitude": -26.8552,
+    "longitude": -51.3705
+  },
+  {
+    "state": "SC",
+    "ibge": 4210100,
+    "city": "Mafra",
+    "latitude": -26.1159,
+    "longitude": -49.8086
+  },
+  {
+    "state": "SC",
+    "ibge": 4210209,
+    "city": "Major Gercino",
+    "latitude": -27.4192,
+    "longitude": -48.9488
+  },
+  {
+    "state": "SC",
+    "ibge": 4210308,
+    "city": "Major Vieira",
+    "latitude": -26.3709,
+    "longitude": -50.3266
+  },
+  {
+    "state": "SC",
+    "ibge": 4210407,
+    "city": "Maracajá",
+    "latitude": -28.8463,
+    "longitude": -49.4605
+  },
+  {
+    "state": "SC",
+    "ibge": 4210506,
+    "city": "Maravilha",
+    "latitude": -26.7665,
+    "longitude": -53.1737
+  },
+  {
+    "state": "SC",
+    "ibge": 4210555,
+    "city": "Marema",
+    "latitude": -26.8024,
+    "longitude": -52.6264
+  },
+  {
+    "state": "SC",
+    "ibge": 4210605,
+    "city": "Massaranduba",
+    "latitude": -26.6109,
+    "longitude": -49.0054
+  },
+  {
+    "state": "SC",
+    "ibge": 4210704,
+    "city": "Matos Costa",
+    "latitude": -26.4709,
+    "longitude": -51.1501
+  },
+  {
+    "state": "SC",
+    "ibge": 4210803,
+    "city": "Meleiro",
+    "latitude": -28.8244,
+    "longitude": -49.6378
+  },
+  {
+    "state": "SC",
+    "ibge": 4210852,
+    "city": "Mirim Doce",
+    "latitude": -27.197,
+    "longitude": -50.0786
+  },
+  {
+    "state": "SC",
+    "ibge": 4210902,
+    "city": "Modelo",
+    "latitude": -26.7729,
+    "longitude": -53.04
+  },
+  {
+    "state": "SC",
+    "ibge": 4211009,
+    "city": "Mondaí",
+    "latitude": -27.1008,
+    "longitude": -53.4032
+  },
+  {
+    "state": "SC",
+    "ibge": 4211058,
+    "city": "Monte Carlo",
+    "latitude": -27.2239,
+    "longitude": -50.9808
+  },
+  {
+    "state": "SC",
+    "ibge": 4211108,
+    "city": "Monte Castelo",
+    "latitude": -26.461,
+    "longitude": -50.2327
+  },
+  {
+    "state": "SC",
+    "ibge": 4211207,
+    "city": "Morro da Fumaça",
+    "latitude": -28.6511,
+    "longitude": -49.2169
+  },
+  {
+    "state": "SC",
+    "ibge": 4211256,
+    "city": "Morro Grande",
+    "latitude": -28.8006,
+    "longitude": -49.7214
+  },
+  {
+    "state": "SC",
+    "ibge": 4211306,
+    "city": "Navegantes",
+    "latitude": -26.8943,
+    "longitude": -48.6546
+  },
+  {
+    "state": "SC",
+    "ibge": 4211405,
+    "city": "Nova Erechim",
+    "latitude": -26.8982,
+    "longitude": -52.9066
+  },
+  {
+    "state": "SC",
+    "ibge": 4211454,
+    "city": "Nova Itaberaba",
+    "latitude": -26.9428,
+    "longitude": -52.8141
+  },
+  {
+    "state": "SC",
+    "ibge": 4211504,
+    "city": "Nova Trento",
+    "latitude": -27.278,
+    "longitude": -48.9298
+  },
+  {
+    "state": "SC",
+    "ibge": 4211603,
+    "city": "Nova Veneza",
+    "latitude": -28.6338,
+    "longitude": -49.5055
+  },
+  {
+    "state": "SC",
+    "ibge": 4211652,
+    "city": "Novo Horizonte",
+    "latitude": -26.4442,
+    "longitude": -52.8281
+  },
+  {
+    "state": "SC",
+    "ibge": 4211702,
+    "city": "Orleans",
+    "latitude": -28.3487,
+    "longitude": -49.2986
+  },
+  {
+    "state": "SC",
+    "ibge": 4211751,
+    "city": "Otacílio Costa",
+    "latitude": -27.4789,
+    "longitude": -50.1231
+  },
+  {
+    "state": "SC",
+    "ibge": 4211801,
+    "city": "Ouro",
+    "latitude": -27.3379,
+    "longitude": -51.6194
+  },
+  {
+    "state": "SC",
+    "ibge": 4211850,
+    "city": "Ouro Verde",
+    "latitude": -26.692,
+    "longitude": -52.3108
+  },
+  {
+    "state": "SC",
+    "ibge": 4211876,
+    "city": "Paial",
+    "latitude": -27.2541,
+    "longitude": -52.4975
+  },
+  {
+    "state": "SC",
+    "ibge": 4211892,
+    "city": "Painel",
+    "latitude": -27.9234,
+    "longitude": -50.0972
+  },
+  {
+    "state": "SC",
+    "ibge": 4211900,
+    "city": "Palhoça",
+    "latitude": -27.6455,
+    "longitude": -48.6697
+  },
+  {
+    "state": "SC",
+    "ibge": 4212007,
+    "city": "Palma Sola",
+    "latitude": -26.3471,
+    "longitude": -53.2771
+  },
+  {
+    "state": "SC",
+    "ibge": 4212056,
+    "city": "Palmeira",
+    "latitude": -27.583,
+    "longitude": -50.1577
+  },
+  {
+    "state": "SC",
+    "ibge": 4212106,
+    "city": "Palmitos",
+    "latitude": -27.0702,
+    "longitude": -53.1586
+  },
+  {
+    "state": "SC",
+    "ibge": 4212205,
+    "city": "Papanduva",
+    "latitude": -26.3777,
+    "longitude": -50.1419
+  },
+  {
+    "state": "SC",
+    "ibge": 4212239,
+    "city": "Paraíso",
+    "latitude": -26.62,
+    "longitude": -53.6716
+  },
+  {
+    "state": "SC",
+    "ibge": 4212254,
+    "city": "Passo de Torres",
+    "latitude": -29.3099,
+    "longitude": -49.722
+  },
+  {
+    "state": "SC",
+    "ibge": 4212270,
+    "city": "Passos Maia",
+    "latitude": -26.7829,
+    "longitude": -52.0568
+  },
+  {
+    "state": "SC",
+    "ibge": 4212304,
+    "city": "Paulo Lopes",
+    "latitude": -27.9607,
+    "longitude": -48.6864
+  },
+  {
+    "state": "SC",
+    "ibge": 4212403,
+    "city": "Pedras Grandes",
+    "latitude": -28.4339,
+    "longitude": -49.1949
+  },
+  {
+    "state": "SC",
+    "ibge": 4212502,
+    "city": "Penha",
+    "latitude": -26.7754,
+    "longitude": -48.6465
+  },
+  {
+    "state": "SC",
+    "ibge": 4212601,
+    "city": "Peritiba",
+    "latitude": -27.3754,
+    "longitude": -51.9018
+  },
+  {
+    "state": "SC",
+    "ibge": 4212650,
+    "city": "Pescaria Brava",
+    "latitude": -28.3966,
+    "longitude": -48.8864
+  },
+  {
+    "state": "SC",
+    "ibge": 4212700,
+    "city": "Petrolândia",
+    "latitude": -27.5346,
+    "longitude": -49.6937
+  },
+  {
+    "state": "SC",
+    "ibge": 4212908,
+    "city": "Pinhalzinho",
+    "latitude": -26.8495,
+    "longitude": -52.9913
+  },
+  {
+    "state": "SC",
+    "ibge": 4213005,
+    "city": "Pinheiro Preto",
+    "latitude": -27.0483,
+    "longitude": -51.2243
+  },
+  {
+    "state": "SC",
+    "ibge": 4213104,
+    "city": "Piratuba",
+    "latitude": -27.4242,
+    "longitude": -51.7668
+  },
+  {
+    "state": "SC",
+    "ibge": 4213153,
+    "city": "Planalto Alegre",
+    "latitude": -27.0704,
+    "longitude": -52.867
+  },
+  {
+    "state": "SC",
+    "ibge": 4213203,
+    "city": "Pomerode",
+    "latitude": -26.7384,
+    "longitude": -49.1785
+  },
+  {
+    "state": "SC",
+    "ibge": 4213302,
+    "city": "Ponte Alta",
+    "latitude": -27.4835,
+    "longitude": -50.3764
+  },
+  {
+    "state": "SC",
+    "ibge": 4213351,
+    "city": "Ponte Alta do Norte",
+    "latitude": -27.1591,
+    "longitude": -50.4659
+  },
+  {
+    "state": "SC",
+    "ibge": 4213401,
+    "city": "Ponte Serrada",
+    "latitude": -26.8733,
+    "longitude": -52.0112
+  },
+  {
+    "state": "SC",
+    "ibge": 4213500,
+    "city": "Porto Belo",
+    "latitude": -27.1586,
+    "longitude": -48.5469
+  },
+  {
+    "state": "SC",
+    "ibge": 4213609,
+    "city": "Porto União",
+    "latitude": -26.2451,
+    "longitude": -51.0759
+  },
+  {
+    "state": "SC",
+    "ibge": 4213708,
+    "city": "Pouso Redondo",
+    "latitude": -27.2567,
+    "longitude": -49.9301
+  },
+  {
+    "state": "SC",
+    "ibge": 4213807,
+    "city": "Praia Grande",
+    "latitude": -29.1918,
+    "longitude": -49.9525
+  },
+  {
+    "state": "SC",
+    "ibge": 4213906,
+    "city": "Presidente Castello Branco",
+    "latitude": -27.2218,
+    "longitude": -51.8089
+  },
+  {
+    "state": "SC",
+    "ibge": 4214003,
+    "city": "Presidente Getúlio",
+    "latitude": -27.0474,
+    "longitude": -49.6246
+  },
+  {
+    "state": "SC",
+    "ibge": 4214102,
+    "city": "Presidente Nereu",
+    "latitude": -27.2768,
+    "longitude": -49.3889
+  },
+  {
+    "state": "SC",
+    "ibge": 4214151,
+    "city": "Princesa",
+    "latitude": -26.4441,
+    "longitude": -53.5994
+  },
+  {
+    "state": "SC",
+    "ibge": 4214201,
+    "city": "Quilombo",
+    "latitude": -26.7264,
+    "longitude": -52.724
+  },
+  {
+    "state": "SC",
+    "ibge": 4214300,
+    "city": "Rancho Queimado",
+    "latitude": -27.6727,
+    "longitude": -49.0191
+  },
+  {
+    "state": "SC",
+    "ibge": 4214409,
+    "city": "Rio das Antas",
+    "latitude": -26.8946,
+    "longitude": -51.0674
+  },
+  {
+    "state": "SC",
+    "ibge": 4214508,
+    "city": "Rio do Campo",
+    "latitude": -26.9452,
+    "longitude": -50.136
+  },
+  {
+    "state": "SC",
+    "ibge": 4214607,
+    "city": "Rio do Oeste",
+    "latitude": -27.1952,
+    "longitude": -49.7989
+  },
+  {
+    "state": "SC",
+    "ibge": 4214805,
+    "city": "Rio do Sul",
+    "latitude": -27.2156,
+    "longitude": -49.643
+  },
+  {
+    "state": "SC",
+    "ibge": 4214706,
+    "city": "Rio dos Cedros",
+    "latitude": -26.7398,
+    "longitude": -49.2718
+  },
+  {
+    "state": "SC",
+    "ibge": 4214904,
+    "city": "Rio Fortuna",
+    "latitude": -28.1244,
+    "longitude": -49.1068
+  },
+  {
+    "state": "SC",
+    "ibge": 4215000,
+    "city": "Rio Negrinho",
+    "latitude": -26.2591,
+    "longitude": -49.5177
+  },
+  {
+    "state": "SC",
+    "ibge": 4215059,
+    "city": "Rio Rufino",
+    "latitude": -27.8592,
+    "longitude": -49.7754
+  },
+  {
+    "state": "SC",
+    "ibge": 4215075,
+    "city": "Riqueza",
+    "latitude": -27.0653,
+    "longitude": -53.3265
+  },
+  {
+    "state": "SC",
+    "ibge": 4215109,
+    "city": "Rodeio",
+    "latitude": -26.9243,
+    "longitude": -49.3649
+  },
+  {
+    "state": "SC",
+    "ibge": 4215208,
+    "city": "Romelândia",
+    "latitude": -26.6809,
+    "longitude": -53.3172
+  },
+  {
+    "state": "SC",
+    "ibge": 4215307,
+    "city": "Salete",
+    "latitude": -26.9798,
+    "longitude": -49.9988
+  },
+  {
+    "state": "SC",
+    "ibge": 4215356,
+    "city": "Saltinho",
+    "latitude": -26.6049,
+    "longitude": -53.0578
+  },
+  {
+    "state": "SC",
+    "ibge": 4215406,
+    "city": "Salto Veloso",
+    "latitude": -26.903,
+    "longitude": -51.4043
+  },
+  {
+    "state": "SC",
+    "ibge": 4215455,
+    "city": "Sangão",
+    "latitude": -28.6326,
+    "longitude": -49.1322
+  },
+  {
+    "state": "SC",
+    "ibge": 4215505,
+    "city": "Santa Cecília",
+    "latitude": -26.9592,
+    "longitude": -50.4252
+  },
+  {
+    "state": "SC",
+    "ibge": 4215554,
+    "city": "Santa Helena",
+    "latitude": -26.937,
+    "longitude": -53.6214
+  },
+  {
+    "state": "SC",
+    "ibge": 4215604,
+    "city": "Santa Rosa de Lima",
+    "latitude": -28.0331,
+    "longitude": -49.133
+  },
+  {
+    "state": "SC",
+    "ibge": 4215653,
+    "city": "Santa Rosa do Sul",
+    "latitude": -29.1313,
+    "longitude": -49.7109
+  },
+  {
+    "state": "SC",
+    "ibge": 4215679,
+    "city": "Santa Terezinha",
+    "latitude": -26.7813,
+    "longitude": -50.009
+  },
+  {
+    "state": "SC",
+    "ibge": 4215687,
+    "city": "Santa Terezinha do Progresso",
+    "latitude": -26.624,
+    "longitude": -53.1997
+  },
+  {
+    "state": "SC",
+    "ibge": 4215695,
+    "city": "Santiago do Sul",
+    "latitude": -26.6388,
+    "longitude": -52.6799
+  },
+  {
+    "state": "SC",
+    "ibge": 4215703,
+    "city": "Santo Amaro da Imperatriz",
+    "latitude": -27.6852,
+    "longitude": -48.7813
+  },
+  {
+    "state": "SC",
+    "ibge": 4215802,
+    "city": "São Bento do Sul",
+    "latitude": -26.2495,
+    "longitude": -49.3831
+  },
+  {
+    "state": "SC",
+    "ibge": 4215752,
+    "city": "São Bernardino",
+    "latitude": -26.4739,
+    "longitude": -52.9687
+  },
+  {
+    "state": "SC",
+    "ibge": 4215901,
+    "city": "São Bonifácio",
+    "latitude": -27.9009,
+    "longitude": -48.9326
+  },
+  {
+    "state": "SC",
+    "ibge": 4216008,
+    "city": "São Carlos",
+    "latitude": -27.0798,
+    "longitude": -53.0037
+  },
+  {
+    "state": "SC",
+    "ibge": 4216057,
+    "city": "São Cristovão do Sul",
+    "latitude": -27.2666,
+    "longitude": -50.4388
+  },
+  {
+    "state": "SC",
+    "ibge": 4216107,
+    "city": "São Domingos",
+    "latitude": -26.5548,
+    "longitude": -52.5313
+  },
+  {
+    "state": "SC",
+    "ibge": 4216206,
+    "city": "São Francisco do Sul",
+    "latitude": -26.2579,
+    "longitude": -48.6344
+  },
+  {
+    "state": "SC",
+    "ibge": 4216305,
+    "city": "São João Batista",
+    "latitude": -27.2772,
+    "longitude": -48.8474
+  },
+  {
+    "state": "SC",
+    "ibge": 4216354,
+    "city": "São João do Itaperiú",
+    "latitude": -26.6213,
+    "longitude": -48.7683
+  },
+  {
+    "state": "SC",
+    "ibge": 4216255,
+    "city": "São João do Oeste",
+    "latitude": -27.0984,
+    "longitude": -53.5977
+  },
+  {
+    "state": "SC",
+    "ibge": 4216404,
+    "city": "São João do Sul",
+    "latitude": -29.2154,
+    "longitude": -49.8094
+  },
+  {
+    "state": "SC",
+    "ibge": 4216503,
+    "city": "São Joaquim",
+    "latitude": -28.2887,
+    "longitude": -49.9457
+  },
+  {
+    "state": "SC",
+    "ibge": 4216602,
+    "city": "São José",
+    "latitude": -27.6136,
+    "longitude": -48.6366
+  },
+  {
+    "state": "SC",
+    "ibge": 4216701,
+    "city": "São José do Cedro",
+    "latitude": -26.4561,
+    "longitude": -53.4955
+  },
+  {
+    "state": "SC",
+    "ibge": 4216800,
+    "city": "São José do Cerrito",
+    "latitude": -27.6602,
+    "longitude": -50.5733
+  },
+  {
+    "state": "SC",
+    "ibge": 4216909,
+    "city": "São Lourenço do Oeste",
+    "latitude": -26.3557,
+    "longitude": -52.8498
+  },
+  {
+    "state": "SC",
+    "ibge": 4217006,
+    "city": "São Ludgero",
+    "latitude": -28.3144,
+    "longitude": -49.1806
+  },
+  {
+    "state": "SC",
+    "ibge": 4217105,
+    "city": "São Martinho",
+    "latitude": -28.1609,
+    "longitude": -48.9867
+  },
+  {
+    "state": "SC",
+    "ibge": 4217154,
+    "city": "São Miguel da Boa Vista",
+    "latitude": -26.687,
+    "longitude": -53.2511
+  },
+  {
+    "state": "SC",
+    "ibge": 4217204,
+    "city": "São Miguel do Oeste",
+    "latitude": -26.7242,
+    "longitude": -53.5163
+  },
+  {
+    "state": "SC",
+    "ibge": 4217253,
+    "city": "São Pedro de Alcântara",
+    "latitude": -27.5665,
+    "longitude": -48.8048
+  },
+  {
+    "state": "SC",
+    "ibge": 4217303,
+    "city": "Saudades",
+    "latitude": -26.9317,
+    "longitude": -53.0021
+  },
+  {
+    "state": "SC",
+    "ibge": 4217402,
+    "city": "Schroeder",
+    "latitude": -26.4116,
+    "longitude": -49.074
+  },
+  {
+    "state": "SC",
+    "ibge": 4217501,
+    "city": "Seara",
+    "latitude": -27.1564,
+    "longitude": -52.299
+  },
+  {
+    "state": "SC",
+    "ibge": 4217550,
+    "city": "Serra Alta",
+    "latitude": -26.7229,
+    "longitude": -53.0409
+  },
+  {
+    "state": "SC",
+    "ibge": 4217600,
+    "city": "Siderópolis",
+    "latitude": -28.5955,
+    "longitude": -49.4314
+  },
+  {
+    "state": "SC",
+    "ibge": 4217709,
+    "city": "Sombrio",
+    "latitude": -29.108,
+    "longitude": -49.6328
+  },
+  {
+    "state": "SC",
+    "ibge": 4217758,
+    "city": "Sul Brasil",
+    "latitude": -26.7351,
+    "longitude": -52.964
+  },
+  {
+    "state": "SC",
+    "ibge": 4217808,
+    "city": "Taió",
+    "latitude": -27.121,
+    "longitude": -49.9942
+  },
+  {
+    "state": "SC",
+    "ibge": 4217907,
+    "city": "Tangará",
+    "latitude": -27.0996,
+    "longitude": -51.2473
+  },
+  {
+    "state": "SC",
+    "ibge": 4217956,
+    "city": "Tigrinhos",
+    "latitude": -26.6876,
+    "longitude": -53.1545
+  },
+  {
+    "state": "SC",
+    "ibge": 4218004,
+    "city": "Tijucas",
+    "latitude": -27.2354,
+    "longitude": -48.6322
+  },
+  {
+    "state": "SC",
+    "ibge": 4218103,
+    "city": "Timbé do Sul",
+    "latitude": -28.8287,
+    "longitude": -49.842
+  },
+  {
+    "state": "SC",
+    "ibge": 4218202,
+    "city": "Timbó",
+    "latitude": -26.8246,
+    "longitude": -49.269
+  },
+  {
+    "state": "SC",
+    "ibge": 4218251,
+    "city": "Timbó Grande",
+    "latitude": -26.6127,
+    "longitude": -50.6607
+  },
+  {
+    "state": "SC",
+    "ibge": 4218301,
+    "city": "Três Barras",
+    "latitude": -26.1056,
+    "longitude": -50.3197
+  },
+  {
+    "state": "SC",
+    "ibge": 4218350,
+    "city": "Treviso",
+    "latitude": -28.5097,
+    "longitude": -49.4634
+  },
+  {
+    "state": "SC",
+    "ibge": 4218400,
+    "city": "Treze de Maio",
+    "latitude": -28.5537,
+    "longitude": -49.1565
+  },
+  {
+    "state": "SC",
+    "ibge": 4218509,
+    "city": "Treze Tílias",
+    "latitude": -27.0026,
+    "longitude": -51.4084
+  },
+  {
+    "state": "SC",
+    "ibge": 4218608,
+    "city": "Trombudo Central",
+    "latitude": -27.3033,
+    "longitude": -49.793
+  },
+  {
+    "state": "SC",
+    "ibge": 4218707,
+    "city": "Tubarão",
+    "latitude": -28.4713,
+    "longitude": -49.0144
+  },
+  {
+    "state": "SC",
+    "ibge": 4218756,
+    "city": "Tunápolis",
+    "latitude": -26.9681,
+    "longitude": -53.6417
+  },
+  {
+    "state": "SC",
+    "ibge": 4218806,
+    "city": "Turvo",
+    "latitude": -28.9272,
+    "longitude": -49.6831
+  },
+  {
+    "state": "SC",
+    "ibge": 4218855,
+    "city": "União do Oeste",
+    "latitude": -26.762,
+    "longitude": -52.8541
+  },
+  {
+    "state": "SC",
+    "ibge": 4218905,
+    "city": "Urubici",
+    "latitude": -28.0157,
+    "longitude": -49.5925
+  },
+  {
+    "state": "SC",
+    "ibge": 4218954,
+    "city": "Urupema",
+    "latitude": -27.9557,
+    "longitude": -49.8729
+  },
+  {
+    "state": "SC",
+    "ibge": 4219002,
+    "city": "Urussanga",
+    "latitude": -28.518,
+    "longitude": -49.3238
+  },
+  {
+    "state": "SC",
+    "ibge": 4219101,
+    "city": "Vargeão",
+    "latitude": -26.8621,
+    "longitude": -52.1549
+  },
+  {
+    "state": "SC",
+    "ibge": 4219150,
+    "city": "Vargem",
+    "latitude": -27.4867,
+    "longitude": -50.9724
+  },
+  {
+    "state": "SC",
+    "ibge": 4219176,
+    "city": "Vargem Bonita",
+    "latitude": -27.0055,
+    "longitude": -51.7402
+  },
+  {
+    "state": "SC",
+    "ibge": 4219200,
+    "city": "Vidal Ramos",
+    "latitude": -27.3886,
+    "longitude": -49.3593
+  },
+  {
+    "state": "SC",
+    "ibge": 4219309,
+    "city": "Videira",
+    "latitude": -27.0086,
+    "longitude": -51.1543
+  },
+  {
+    "state": "SC",
+    "ibge": 4219358,
+    "city": "Vitor Meireles",
+    "latitude": -26.8782,
+    "longitude": -49.8328
+  },
+  {
+    "state": "SC",
+    "ibge": 4219408,
+    "city": "Witmarsum",
+    "latitude": -26.9275,
+    "longitude": -49.7947
+  },
+  {
+    "state": "SC",
+    "ibge": 4219507,
+    "city": "Xanxerê",
+    "latitude": -26.8747,
+    "longitude": -52.4036
+  },
+  {
+    "state": "SC",
+    "ibge": 4219606,
+    "city": "Xavantina",
+    "latitude": -27.0667,
+    "longitude": -52.343
+  },
+  {
+    "state": "SC",
+    "ibge": 4219705,
+    "city": "Xaxim",
+    "latitude": -26.9596,
+    "longitude": -52.5374
+  },
+  {
+    "state": "SC",
+    "ibge": 4219853,
+    "city": "Zortéa",
+    "latitude": -27.4521,
+    "longitude": -51.552
+  }
+]

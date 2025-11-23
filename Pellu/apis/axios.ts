@@ -2,7 +2,7 @@ import axios from 'axios';
 import { UserStorage } from '../asyncStorage/user.storage';
 import { env } from '../env';
 // import RNRestart from 'react-native-restart';
-import { Alert } from 'react-native';
+import { showAlert } from '@/utils/Alert';
 
 const api = axios.create({
   baseURL: env.URL_SERVER,
@@ -48,7 +48,7 @@ api.interceptors.response.use(
     if (error.response && error.response.status === 401) {
       await UserStorage.clear();
       // RNRestart.restart();
-      Alert.alert("Sessão expirada", "Seu app foi reiniciado. Por favor, faça login novamente.");
+      showAlert("Sessão expirada", "Seu app foi reiniciado. Por favor, faça login novamente.");
     }
     return Promise.reject(error);
   },

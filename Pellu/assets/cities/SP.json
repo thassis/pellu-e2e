@@ -1,0 +1,4517 @@
+[
+  {
+    "state": "SP",
+    "ibge": 3500105,
+    "city": "Adamantina",
+    "latitude": -21.682,
+    "longitude": -51.0737
+  },
+  {
+    "state": "SP",
+    "ibge": 3500204,
+    "city": "Adolfo",
+    "latitude": -21.2325,
+    "longitude": -49.6451
+  },
+  {
+    "state": "SP",
+    "ibge": 3500303,
+    "city": "Aguaí",
+    "latitude": -22.0572,
+    "longitude": -46.9735
+  },
+  {
+    "state": "SP",
+    "ibge": 3500402,
+    "city": "Águas da Prata",
+    "latitude": -21.9319,
+    "longitude": -46.7176
+  },
+  {
+    "state": "SP",
+    "ibge": 3500501,
+    "city": "Águas de Lindóia",
+    "latitude": -22.4733,
+    "longitude": -46.6314
+  },
+  {
+    "state": "SP",
+    "ibge": 3500550,
+    "city": "Águas de Santa Bárbara",
+    "latitude": -22.8812,
+    "longitude": -49.2421
+  },
+  {
+    "state": "SP",
+    "ibge": 3500600,
+    "city": "Águas de São Pedro",
+    "latitude": -22.5977,
+    "longitude": -47.8734
+  },
+  {
+    "state": "SP",
+    "ibge": 3500709,
+    "city": "Agudos",
+    "latitude": -22.4694,
+    "longitude": -48.9863
+  },
+  {
+    "state": "SP",
+    "ibge": 3500758,
+    "city": "Alambari",
+    "latitude": -23.5503,
+    "longitude": -47.898
+  },
+  {
+    "state": "SP",
+    "ibge": 3500808,
+    "city": "Alfredo Marcondes",
+    "latitude": -21.9527,
+    "longitude": -51.414
+  },
+  {
+    "state": "SP",
+    "ibge": 3500907,
+    "city": "Altair",
+    "latitude": -20.5242,
+    "longitude": -49.0571
+  },
+  {
+    "state": "SP",
+    "ibge": 3501004,
+    "city": "Altinópolis",
+    "latitude": -21.0214,
+    "longitude": -47.3712
+  },
+  {
+    "state": "SP",
+    "ibge": 3501103,
+    "city": "Alto Alegre",
+    "latitude": -21.5811,
+    "longitude": -50.168
+  },
+  {
+    "state": "SP",
+    "ibge": 3501152,
+    "city": "Alumínio",
+    "latitude": -23.5306,
+    "longitude": -47.2546
+  },
+  {
+    "state": "SP",
+    "ibge": 3501202,
+    "city": "Álvares Florence",
+    "latitude": -20.3203,
+    "longitude": -49.9141
+  },
+  {
+    "state": "SP",
+    "ibge": 3501301,
+    "city": "Álvares Machado",
+    "latitude": -22.0764,
+    "longitude": -51.4722
+  },
+  {
+    "state": "SP",
+    "ibge": 3501400,
+    "city": "Álvaro de Carvalho",
+    "latitude": -22.0841,
+    "longitude": -49.719
+  },
+  {
+    "state": "SP",
+    "ibge": 3501509,
+    "city": "Alvinlândia",
+    "latitude": -22.4435,
+    "longitude": -49.7623
+  },
+  {
+    "state": "SP",
+    "ibge": 3501608,
+    "city": "Americana",
+    "latitude": -22.7374,
+    "longitude": -47.3331
+  },
+  {
+    "state": "SP",
+    "ibge": 3501707,
+    "city": "Américo Brasiliense",
+    "latitude": -21.7288,
+    "longitude": -48.1147
+  },
+  {
+    "state": "SP",
+    "ibge": 3501806,
+    "city": "Américo de Campos",
+    "latitude": -20.2985,
+    "longitude": -49.7359
+  },
+  {
+    "state": "SP",
+    "ibge": 3501905,
+    "city": "Amparo",
+    "latitude": -22.7088,
+    "longitude": -46.772
+  },
+  {
+    "state": "SP",
+    "ibge": 3502002,
+    "city": "Analândia",
+    "latitude": -22.1289,
+    "longitude": -47.6619
+  },
+  {
+    "state": "SP",
+    "ibge": 3502101,
+    "city": "Andradina",
+    "latitude": -20.8948,
+    "longitude": -51.3786
+  },
+  {
+    "state": "SP",
+    "ibge": 3502200,
+    "city": "Angatuba",
+    "latitude": -23.4917,
+    "longitude": -48.4139
+  },
+  {
+    "state": "SP",
+    "ibge": 3502309,
+    "city": "Anhembi",
+    "latitude": -22.793,
+    "longitude": -48.1336
+  },
+  {
+    "state": "SP",
+    "ibge": 3502408,
+    "city": "Anhumas",
+    "latitude": -22.2934,
+    "longitude": -51.3895
+  },
+  {
+    "state": "SP",
+    "ibge": 3502507,
+    "city": "Aparecida",
+    "latitude": -22.8495,
+    "longitude": -45.2325
+  },
+  {
+    "state": "SP",
+    "ibge": 3502606,
+    "city": "Aparecida d'Oeste",
+    "latitude": -20.4487,
+    "longitude": -50.8835
+  },
+  {
+    "state": "SP",
+    "ibge": 3502705,
+    "city": "Apiaí",
+    "latitude": -24.5108,
+    "longitude": -48.8443
+  },
+  {
+    "state": "SP",
+    "ibge": 3502754,
+    "city": "Araçariguama",
+    "latitude": -23.4366,
+    "longitude": -47.0608
+  },
+  {
+    "state": "SP",
+    "ibge": 3502804,
+    "city": "Araçatuba",
+    "latitude": -21.2076,
+    "longitude": -50.4401
+  },
+  {
+    "state": "SP",
+    "ibge": 3502903,
+    "city": "Araçoiaba da Serra",
+    "latitude": -23.5029,
+    "longitude": -47.6166
+  },
+  {
+    "state": "SP",
+    "ibge": 3503000,
+    "city": "Aramina",
+    "latitude": -20.0882,
+    "longitude": -47.7873
+  },
+  {
+    "state": "SP",
+    "ibge": 3503109,
+    "city": "Arandu",
+    "latitude": -23.1386,
+    "longitude": -49.0487
+  },
+  {
+    "state": "SP",
+    "ibge": 3503158,
+    "city": "Arapeí",
+    "latitude": -22.6717,
+    "longitude": -44.4441
+  },
+  {
+    "state": "SP",
+    "ibge": 3503208,
+    "city": "Araraquara",
+    "latitude": -21.7845,
+    "longitude": -48.178
+  },
+  {
+    "state": "SP",
+    "ibge": 3503307,
+    "city": "Araras",
+    "latitude": -22.3572,
+    "longitude": -47.3842
+  },
+  {
+    "state": "SP",
+    "ibge": 3503356,
+    "city": "Arco-Íris",
+    "latitude": -21.7728,
+    "longitude": -50.466
+  },
+  {
+    "state": "SP",
+    "ibge": 3503406,
+    "city": "Arealva",
+    "latitude": -22.031,
+    "longitude": -48.9135
+  },
+  {
+    "state": "SP",
+    "ibge": 3503505,
+    "city": "Areias",
+    "latitude": -22.5786,
+    "longitude": -44.6992
+  },
+  {
+    "state": "SP",
+    "ibge": 3503604,
+    "city": "Areiópolis",
+    "latitude": -22.6672,
+    "longitude": -48.6681
+  },
+  {
+    "state": "SP",
+    "ibge": 3503703,
+    "city": "Ariranha",
+    "latitude": -21.1872,
+    "longitude": -48.7904
+  },
+  {
+    "state": "SP",
+    "ibge": 3503802,
+    "city": "Artur Nogueira",
+    "latitude": -22.5727,
+    "longitude": -47.1727
+  },
+  {
+    "state": "SP",
+    "ibge": 3503901,
+    "city": "Arujá",
+    "latitude": -23.3965,
+    "longitude": -46.32
+  },
+  {
+    "state": "SP",
+    "ibge": 3503950,
+    "city": "Aspásia",
+    "latitude": -20.16,
+    "longitude": -50.728
+  },
+  {
+    "state": "SP",
+    "ibge": 3504008,
+    "city": "Assis",
+    "latitude": -22.66,
+    "longitude": -50.4183
+  },
+  {
+    "state": "SP",
+    "ibge": 3504107,
+    "city": "Atibaia",
+    "latitude": -23.1171,
+    "longitude": -46.5563
+  },
+  {
+    "state": "SP",
+    "ibge": 3504206,
+    "city": "Auriflama",
+    "latitude": -20.6836,
+    "longitude": -50.5572
+  },
+  {
+    "state": "SP",
+    "ibge": 3504305,
+    "city": "Avaí",
+    "latitude": -22.1514,
+    "longitude": -49.3356
+  },
+  {
+    "state": "SP",
+    "ibge": 3504404,
+    "city": "Avanhandava",
+    "latitude": -21.4584,
+    "longitude": -49.9509
+  },
+  {
+    "state": "SP",
+    "ibge": 3504503,
+    "city": "Avaré",
+    "latitude": -23.1067,
+    "longitude": -48.9251
+  },
+  {
+    "state": "SP",
+    "ibge": 3504602,
+    "city": "Bady Bassitt",
+    "latitude": -20.9197,
+    "longitude": -49.4385
+  },
+  {
+    "state": "SP",
+    "ibge": 3504701,
+    "city": "Balbinos",
+    "latitude": -21.8963,
+    "longitude": -49.3619
+  },
+  {
+    "state": "SP",
+    "ibge": 3504800,
+    "city": "Bálsamo",
+    "latitude": -20.7348,
+    "longitude": -49.5865
+  },
+  {
+    "state": "SP",
+    "ibge": 3504909,
+    "city": "Bananal",
+    "latitude": -22.6819,
+    "longitude": -44.3281
+  },
+  {
+    "state": "SP",
+    "ibge": 3505005,
+    "city": "Barão de Antonina",
+    "latitude": -23.6284,
+    "longitude": -49.5634
+  },
+  {
+    "state": "SP",
+    "ibge": 3505104,
+    "city": "Barbosa",
+    "latitude": -21.2657,
+    "longitude": -49.9518
+  },
+  {
+    "state": "SP",
+    "ibge": 3505203,
+    "city": "Bariri",
+    "latitude": -22.073,
+    "longitude": -48.7438
+  },
+  {
+    "state": "SP",
+    "ibge": 3505302,
+    "city": "Barra Bonita",
+    "latitude": -22.4909,
+    "longitude": -48.5583
+  },
+  {
+    "state": "SP",
+    "ibge": 3505351,
+    "city": "Barra do Chapéu",
+    "latitude": -24.4722,
+    "longitude": -49.0238
+  },
+  {
+    "state": "SP",
+    "ibge": 3505401,
+    "city": "Barra do Turvo",
+    "latitude": -24.759,
+    "longitude": -48.5013
+  },
+  {
+    "state": "SP",
+    "ibge": 3505500,
+    "city": "Barretos",
+    "latitude": -20.5531,
+    "longitude": -48.5698
+  },
+  {
+    "state": "SP",
+    "ibge": 3505609,
+    "city": "Barrinha",
+    "latitude": -21.1864,
+    "longitude": -48.1636
+  },
+  {
+    "state": "SP",
+    "ibge": 3505708,
+    "city": "Barueri",
+    "latitude": -23.5057,
+    "longitude": -46.879
+  },
+  {
+    "state": "SP",
+    "ibge": 3505807,
+    "city": "Bastos",
+    "latitude": -21.921,
+    "longitude": -50.7357
+  },
+  {
+    "state": "SP",
+    "ibge": 3505906,
+    "city": "Batatais",
+    "latitude": -20.8929,
+    "longitude": -47.5921
+  },
+  {
+    "state": "SP",
+    "ibge": 3506003,
+    "city": "Bauru",
+    "latitude": -22.3246,
+    "longitude": -49.0871
+  },
+  {
+    "state": "SP",
+    "ibge": 3506102,
+    "city": "Bebedouro",
+    "latitude": -20.9491,
+    "longitude": -48.4791
+  },
+  {
+    "state": "SP",
+    "ibge": 3506201,
+    "city": "Bento de Abreu",
+    "latitude": -21.2686,
+    "longitude": -50.814
+  },
+  {
+    "state": "SP",
+    "ibge": 3506300,
+    "city": "Bernardino de Campos",
+    "latitude": -23.0164,
+    "longitude": -49.4679
+  },
+  {
+    "state": "SP",
+    "ibge": 3506359,
+    "city": "Bertioga",
+    "latitude": -23.8486,
+    "longitude": -46.1396
+  },
+  {
+    "state": "SP",
+    "ibge": 3506409,
+    "city": "Bilac",
+    "latitude": -21.404,
+    "longitude": -50.4746
+  },
+  {
+    "state": "SP",
+    "ibge": 3506508,
+    "city": "Birigui",
+    "latitude": -21.291,
+    "longitude": -50.3432
+  },
+  {
+    "state": "SP",
+    "ibge": 3506607,
+    "city": "Biritiba-Mirim",
+    "latitude": -23.5698,
+    "longitude": -46.0407
+  },
+  {
+    "state": "SP",
+    "ibge": 3506706,
+    "city": "Boa Esperança do Sul",
+    "latitude": -21.9918,
+    "longitude": -48.3906
+  },
+  {
+    "state": "SP",
+    "ibge": 3506805,
+    "city": "Bocaina",
+    "latitude": -22.1365,
+    "longitude": -48.523
+  },
+  {
+    "state": "SP",
+    "ibge": 3506904,
+    "city": "Bofete",
+    "latitude": -23.1055,
+    "longitude": -48.2582
+  },
+  {
+    "state": "SP",
+    "ibge": 3507001,
+    "city": "Boituva",
+    "latitude": -23.2855,
+    "longitude": -47.6786
+  },
+  {
+    "state": "SP",
+    "ibge": 3507100,
+    "city": "Bom Jesus dos Perdões",
+    "latitude": -23.1356,
+    "longitude": -46.4675
+  },
+  {
+    "state": "SP",
+    "ibge": 3507159,
+    "city": "Bom Sucesso de Itararé",
+    "latitude": -24.3155,
+    "longitude": -49.1451
+  },
+  {
+    "state": "SP",
+    "ibge": 3507209,
+    "city": "Borá",
+    "latitude": -22.2696,
+    "longitude": -50.5409
+  },
+  {
+    "state": "SP",
+    "ibge": 3507308,
+    "city": "Boracéia",
+    "latitude": -22.1926,
+    "longitude": -48.7808
+  },
+  {
+    "state": "SP",
+    "ibge": 3507407,
+    "city": "Borborema",
+    "latitude": -21.6214,
+    "longitude": -49.0741
+  },
+  {
+    "state": "SP",
+    "ibge": 3507456,
+    "city": "Borebi",
+    "latitude": -22.5728,
+    "longitude": -48.9707
+  },
+  {
+    "state": "SP",
+    "ibge": 3507506,
+    "city": "Botucatu",
+    "latitude": -22.8837,
+    "longitude": -48.4437
+  },
+  {
+    "state": "SP",
+    "ibge": 3507605,
+    "city": "Bragança Paulista",
+    "latitude": -22.9527,
+    "longitude": -46.5419
+  },
+  {
+    "state": "SP",
+    "ibge": 3507704,
+    "city": "Braúna",
+    "latitude": -21.499,
+    "longitude": -50.3175
+  },
+  {
+    "state": "SP",
+    "ibge": 3507753,
+    "city": "Brejo Alegre",
+    "latitude": -21.1651,
+    "longitude": -50.1861
+  },
+  {
+    "state": "SP",
+    "ibge": 3507803,
+    "city": "Brodowski",
+    "latitude": -20.9845,
+    "longitude": -47.6572
+  },
+  {
+    "state": "SP",
+    "ibge": 3507902,
+    "city": "Brotas",
+    "latitude": -22.2795,
+    "longitude": -48.1251
+  },
+  {
+    "state": "SP",
+    "ibge": 3508009,
+    "city": "Buri",
+    "latitude": -23.7977,
+    "longitude": -48.5958
+  },
+  {
+    "state": "SP",
+    "ibge": 3508108,
+    "city": "Buritama",
+    "latitude": -21.0661,
+    "longitude": -50.1475
+  },
+  {
+    "state": "SP",
+    "ibge": 3508207,
+    "city": "Buritizal",
+    "latitude": -20.1911,
+    "longitude": -47.7096
+  },
+  {
+    "state": "SP",
+    "ibge": 3508306,
+    "city": "Cabrália Paulista",
+    "latitude": -22.4576,
+    "longitude": -49.3393
+  },
+  {
+    "state": "SP",
+    "ibge": 3508405,
+    "city": "Cabreúva",
+    "latitude": -23.3053,
+    "longitude": -47.1362
+  },
+  {
+    "state": "SP",
+    "ibge": 3508504,
+    "city": "Caçapava",
+    "latitude": -23.0992,
+    "longitude": -45.7076
+  },
+  {
+    "state": "SP",
+    "ibge": 3508603,
+    "city": "Cachoeira Paulista",
+    "latitude": -22.6665,
+    "longitude": -45.0154
+  },
+  {
+    "state": "SP",
+    "ibge": 3508702,
+    "city": "Caconde",
+    "latitude": -21.528,
+    "longitude": -46.6437
+  },
+  {
+    "state": "SP",
+    "ibge": 3508801,
+    "city": "Cafelândia",
+    "latitude": -21.8031,
+    "longitude": -49.6092
+  },
+  {
+    "state": "SP",
+    "ibge": 3508900,
+    "city": "Caiabu",
+    "latitude": -22.0127,
+    "longitude": -51.2394
+  },
+  {
+    "state": "SP",
+    "ibge": 3509007,
+    "city": "Caieiras",
+    "latitude": -23.3607,
+    "longitude": -46.7397
+  },
+  {
+    "state": "SP",
+    "ibge": 3509106,
+    "city": "Caiuá",
+    "latitude": -21.8322,
+    "longitude": -51.9969
+  },
+  {
+    "state": "SP",
+    "ibge": 3509205,
+    "city": "Cajamar",
+    "latitude": -23.355,
+    "longitude": -46.8781
+  },
+  {
+    "state": "SP",
+    "ibge": 3509254,
+    "city": "Cajati",
+    "latitude": -24.7324,
+    "longitude": -48.1223
+  },
+  {
+    "state": "SP",
+    "ibge": 3509304,
+    "city": "Cajobi",
+    "latitude": -20.8773,
+    "longitude": -48.8063
+  },
+  {
+    "state": "SP",
+    "ibge": 3509403,
+    "city": "Cajuru",
+    "latitude": -21.2749,
+    "longitude": -47.303
+  },
+  {
+    "state": "SP",
+    "ibge": 3509452,
+    "city": "Campina do Monte Alegre",
+    "latitude": -23.5895,
+    "longitude": -48.4758
+  },
+  {
+    "state": "SP",
+    "ibge": 3509502,
+    "city": "Campinas",
+    "latitude": -22.9053,
+    "longitude": -47.0659
+  },
+  {
+    "state": "SP",
+    "ibge": 3509601,
+    "city": "Campo Limpo Paulista",
+    "latitude": -23.2078,
+    "longitude": -46.7889
+  },
+  {
+    "state": "SP",
+    "ibge": 3509700,
+    "city": "Campos do Jordão",
+    "latitude": -22.7296,
+    "longitude": -45.5833
+  },
+  {
+    "state": "SP",
+    "ibge": 3509809,
+    "city": "Campos Novos Paulista",
+    "latitude": -22.602,
+    "longitude": -49.9987
+  },
+  {
+    "state": "SP",
+    "ibge": 3509908,
+    "city": "Cananéia",
+    "latitude": -25.0144,
+    "longitude": -47.9341
+  },
+  {
+    "state": "SP",
+    "ibge": 3509957,
+    "city": "Canas",
+    "latitude": -22.7003,
+    "longitude": -45.0521
+  },
+  {
+    "state": "SP",
+    "ibge": 3510005,
+    "city": "Cândido Mota",
+    "latitude": -22.7471,
+    "longitude": -50.3873
+  },
+  {
+    "state": "SP",
+    "ibge": 3510104,
+    "city": "Cândido Rodrigues",
+    "latitude": -21.3275,
+    "longitude": -48.6327
+  },
+  {
+    "state": "SP",
+    "ibge": 3510153,
+    "city": "Canitar",
+    "latitude": -23.004,
+    "longitude": -49.7839
+  },
+  {
+    "state": "SP",
+    "ibge": 3510203,
+    "city": "Capão Bonito",
+    "latitude": -24.0113,
+    "longitude": -48.3482
+  },
+  {
+    "state": "SP",
+    "ibge": 3510302,
+    "city": "Capela do Alto",
+    "latitude": -23.4685,
+    "longitude": -47.7388
+  },
+  {
+    "state": "SP",
+    "ibge": 3510401,
+    "city": "Capivari",
+    "latitude": -22.9951,
+    "longitude": -47.5071
+  },
+  {
+    "state": "SP",
+    "ibge": 3510500,
+    "city": "Caraguatatuba",
+    "latitude": -23.6125,
+    "longitude": -45.4125
+  },
+  {
+    "state": "SP",
+    "ibge": 3510609,
+    "city": "Carapicuíba",
+    "latitude": -23.5235,
+    "longitude": -46.8407
+  },
+  {
+    "state": "SP",
+    "ibge": 3510708,
+    "city": "Cardoso",
+    "latitude": -20.08,
+    "longitude": -49.9183
+  },
+  {
+    "state": "SP",
+    "ibge": 3510807,
+    "city": "Casa Branca",
+    "latitude": -21.7708,
+    "longitude": -47.0852
+  },
+  {
+    "state": "SP",
+    "ibge": 3510906,
+    "city": "Cássia dos Coqueiros",
+    "latitude": -21.2801,
+    "longitude": -47.1643
+  },
+  {
+    "state": "SP",
+    "ibge": 3511003,
+    "city": "Castilho",
+    "latitude": -20.8689,
+    "longitude": -51.4884
+  },
+  {
+    "state": "SP",
+    "ibge": 3511102,
+    "city": "Catanduva",
+    "latitude": -21.1314,
+    "longitude": -48.977
+  },
+  {
+    "state": "SP",
+    "ibge": 3511201,
+    "city": "Catiguá",
+    "latitude": -21.0519,
+    "longitude": -49.0616
+  },
+  {
+    "state": "SP",
+    "ibge": 3511300,
+    "city": "Cedral",
+    "latitude": -20.9009,
+    "longitude": -49.2664
+  },
+  {
+    "state": "SP",
+    "ibge": 3511409,
+    "city": "Cerqueira César",
+    "latitude": -23.038,
+    "longitude": -49.1655
+  },
+  {
+    "state": "SP",
+    "ibge": 3511508,
+    "city": "Cerquilho",
+    "latitude": -23.1665,
+    "longitude": -47.7459
+  },
+  {
+    "state": "SP",
+    "ibge": 3511607,
+    "city": "Cesário Lange",
+    "latitude": -23.226,
+    "longitude": -47.9545
+  },
+  {
+    "state": "SP",
+    "ibge": 3511706,
+    "city": "Charqueada",
+    "latitude": -22.5096,
+    "longitude": -47.7755
+  },
+  {
+    "state": "SP",
+    "ibge": 3557204,
+    "city": "Chavantes",
+    "latitude": -23.0366,
+    "longitude": -49.7096
+  },
+  {
+    "state": "SP",
+    "ibge": 3511904,
+    "city": "Clementina",
+    "latitude": -21.5604,
+    "longitude": -50.4525
+  },
+  {
+    "state": "SP",
+    "ibge": 3512001,
+    "city": "Colina",
+    "latitude": -20.7114,
+    "longitude": -48.5387
+  },
+  {
+    "state": "SP",
+    "ibge": 3512100,
+    "city": "Colômbia",
+    "latitude": -20.1768,
+    "longitude": -48.6865
+  },
+  {
+    "state": "SP",
+    "ibge": 3512209,
+    "city": "Conchal",
+    "latitude": -22.3375,
+    "longitude": -47.1729
+  },
+  {
+    "state": "SP",
+    "ibge": 3512308,
+    "city": "Conchas",
+    "latitude": -23.0154,
+    "longitude": -48.0134
+  },
+  {
+    "state": "SP",
+    "ibge": 3512407,
+    "city": "Cordeirópolis",
+    "latitude": -22.4778,
+    "longitude": -47.4519
+  },
+  {
+    "state": "SP",
+    "ibge": 3512506,
+    "city": "Coroados",
+    "latitude": -21.3521,
+    "longitude": -50.2859
+  },
+  {
+    "state": "SP",
+    "ibge": 3512605,
+    "city": "Coronel Macedo",
+    "latitude": -23.6261,
+    "longitude": -49.31
+  },
+  {
+    "state": "SP",
+    "ibge": 3512704,
+    "city": "Corumbataí",
+    "latitude": -22.2213,
+    "longitude": -47.6215
+  },
+  {
+    "state": "SP",
+    "ibge": 3512803,
+    "city": "Cosmópolis",
+    "latitude": -22.6419,
+    "longitude": -47.1926
+  },
+  {
+    "state": "SP",
+    "ibge": 3512902,
+    "city": "Cosmorama",
+    "latitude": -20.4755,
+    "longitude": -49.7827
+  },
+  {
+    "state": "SP",
+    "ibge": 3513009,
+    "city": "Cotia",
+    "latitude": -23.6022,
+    "longitude": -46.919
+  },
+  {
+    "state": "SP",
+    "ibge": 3513108,
+    "city": "Cravinhos",
+    "latitude": -21.338,
+    "longitude": -47.7324
+  },
+  {
+    "state": "SP",
+    "ibge": 3513207,
+    "city": "Cristais Paulista",
+    "latitude": -20.4036,
+    "longitude": -47.4209
+  },
+  {
+    "state": "SP",
+    "ibge": 3513306,
+    "city": "Cruzália",
+    "latitude": -22.7373,
+    "longitude": -50.7909
+  },
+  {
+    "state": "SP",
+    "ibge": 3513405,
+    "city": "Cruzeiro",
+    "latitude": -22.5728,
+    "longitude": -44.969
+  },
+  {
+    "state": "SP",
+    "ibge": 3513504,
+    "city": "Cubatão",
+    "latitude": -23.8911,
+    "longitude": -46.424
+  },
+  {
+    "state": "SP",
+    "ibge": 3513603,
+    "city": "Cunha",
+    "latitude": -23.0731,
+    "longitude": -44.9576
+  },
+  {
+    "state": "SP",
+    "ibge": 3513702,
+    "city": "Descalvado",
+    "latitude": -21.9002,
+    "longitude": -47.6181
+  },
+  {
+    "state": "SP",
+    "ibge": 3513801,
+    "city": "Diadema",
+    "latitude": -23.6813,
+    "longitude": -46.6205
+  },
+  {
+    "state": "SP",
+    "ibge": 3513850,
+    "city": "Dirce Reis",
+    "latitude": -20.4642,
+    "longitude": -50.6073
+  },
+  {
+    "state": "SP",
+    "ibge": 3513900,
+    "city": "Divinolândia",
+    "latitude": -21.6637,
+    "longitude": -46.7361
+  },
+  {
+    "state": "SP",
+    "ibge": 3514007,
+    "city": "Dobrada",
+    "latitude": -21.5155,
+    "longitude": -48.3935
+  },
+  {
+    "state": "SP",
+    "ibge": 3514106,
+    "city": "Dois Córregos",
+    "latitude": -22.3673,
+    "longitude": -48.3819
+  },
+  {
+    "state": "SP",
+    "ibge": 3514205,
+    "city": "Dolcinópolis",
+    "latitude": -20.124,
+    "longitude": -50.5149
+  },
+  {
+    "state": "SP",
+    "ibge": 3514304,
+    "city": "Dourado",
+    "latitude": -22.1044,
+    "longitude": -48.3178
+  },
+  {
+    "state": "SP",
+    "ibge": 3514403,
+    "city": "Dracena",
+    "latitude": -21.4843,
+    "longitude": -51.535
+  },
+  {
+    "state": "SP",
+    "ibge": 3514502,
+    "city": "Duartina",
+    "latitude": -22.4146,
+    "longitude": -49.4084
+  },
+  {
+    "state": "SP",
+    "ibge": 3514601,
+    "city": "Dumont",
+    "latitude": -21.2324,
+    "longitude": -47.9756
+  },
+  {
+    "state": "SP",
+    "ibge": 3514700,
+    "city": "Echaporã",
+    "latitude": -22.4326,
+    "longitude": -50.2038
+  },
+  {
+    "state": "SP",
+    "ibge": 3514809,
+    "city": "Eldorado",
+    "latitude": -24.5281,
+    "longitude": -48.1141
+  },
+  {
+    "state": "SP",
+    "ibge": 3514908,
+    "city": "Elias Fausto",
+    "latitude": -23.0428,
+    "longitude": -47.3682
+  },
+  {
+    "state": "SP",
+    "ibge": 3514924,
+    "city": "Elisiário",
+    "latitude": -21.1678,
+    "longitude": -49.1146
+  },
+  {
+    "state": "SP",
+    "ibge": 3514957,
+    "city": "Embaúba",
+    "latitude": -20.9796,
+    "longitude": -48.8325
+  },
+  {
+    "state": "SP",
+    "ibge": 3515004,
+    "city": "Embu das Artes",
+    "latitude": -23.6437,
+    "longitude": -46.8579
+  },
+  {
+    "state": "SP",
+    "ibge": 3515103,
+    "city": "Embu-Guaçu",
+    "latitude": -23.8297,
+    "longitude": -46.8136
+  },
+  {
+    "state": "SP",
+    "ibge": 3515129,
+    "city": "Emilianópolis",
+    "latitude": -21.8314,
+    "longitude": -51.4832
+  },
+  {
+    "state": "SP",
+    "ibge": 3515152,
+    "city": "Engenheiro Coelho",
+    "latitude": -22.4836,
+    "longitude": -47.211
+  },
+  {
+    "state": "SP",
+    "ibge": 3515186,
+    "city": "Espírito Santo do Pinhal",
+    "latitude": -22.1909,
+    "longitude": -46.7477
+  },
+  {
+    "state": "SP",
+    "ibge": 3515194,
+    "city": "Espírito Santo do Turvo",
+    "latitude": -22.6925,
+    "longitude": -49.4341
+  },
+  {
+    "state": "SP",
+    "ibge": 3557303,
+    "city": "Estiva Gerbi",
+    "latitude": -22.2713,
+    "longitude": -46.9481
+  },
+  {
+    "state": "SP",
+    "ibge": 3515202,
+    "city": "Estrela d'Oeste",
+    "latitude": -20.2875,
+    "longitude": -50.4049
+  },
+  {
+    "state": "SP",
+    "ibge": 3515301,
+    "city": "Estrela do Norte",
+    "latitude": -22.4859,
+    "longitude": -51.6632
+  },
+  {
+    "state": "SP",
+    "ibge": 3515350,
+    "city": "Euclides da Cunha Paulista",
+    "latitude": -22.5545,
+    "longitude": -52.5928
+  },
+  {
+    "state": "SP",
+    "ibge": 3515400,
+    "city": "Fartura",
+    "latitude": -23.3916,
+    "longitude": -49.5124
+  },
+  {
+    "state": "SP",
+    "ibge": 3515608,
+    "city": "Fernando Prestes",
+    "latitude": -21.2661,
+    "longitude": -48.6874
+  },
+  {
+    "state": "SP",
+    "ibge": 3515509,
+    "city": "Fernandópolis",
+    "latitude": -20.2806,
+    "longitude": -50.2471
+  },
+  {
+    "state": "SP",
+    "ibge": 3515657,
+    "city": "Fernão",
+    "latitude": -22.3607,
+    "longitude": -49.5187
+  },
+  {
+    "state": "SP",
+    "ibge": 3515707,
+    "city": "Ferraz de Vasconcelos",
+    "latitude": -23.5411,
+    "longitude": -46.371
+  },
+  {
+    "state": "SP",
+    "ibge": 3515806,
+    "city": "Flora Rica",
+    "latitude": -21.6727,
+    "longitude": -51.3821
+  },
+  {
+    "state": "SP",
+    "ibge": 3515905,
+    "city": "Floreal",
+    "latitude": -20.6752,
+    "longitude": -50.1513
+  },
+  {
+    "state": "SP",
+    "ibge": 3516002,
+    "city": "Flórida Paulista",
+    "latitude": -21.6127,
+    "longitude": -51.1724
+  },
+  {
+    "state": "SP",
+    "ibge": 3516101,
+    "city": "Florínia",
+    "latitude": -22.868,
+    "longitude": -50.6814
+  },
+  {
+    "state": "SP",
+    "ibge": 3516200,
+    "city": "Franca",
+    "latitude": -20.5352,
+    "longitude": -47.4039
+  },
+  {
+    "state": "SP",
+    "ibge": 3516309,
+    "city": "Francisco Morato",
+    "latitude": -23.2792,
+    "longitude": -46.7448
+  },
+  {
+    "state": "SP",
+    "ibge": 3516408,
+    "city": "Franco da Rocha",
+    "latitude": -23.3229,
+    "longitude": -46.729
+  },
+  {
+    "state": "SP",
+    "ibge": 3516507,
+    "city": "Gabriel Monteiro",
+    "latitude": -21.5294,
+    "longitude": -50.5573
+  },
+  {
+    "state": "SP",
+    "ibge": 3516606,
+    "city": "Gália",
+    "latitude": -22.2918,
+    "longitude": -49.5504
+  },
+  {
+    "state": "SP",
+    "ibge": 3516705,
+    "city": "Garça",
+    "latitude": -22.2125,
+    "longitude": -49.6546
+  },
+  {
+    "state": "SP",
+    "ibge": 3516804,
+    "city": "Gastão Vidigal",
+    "latitude": -20.7948,
+    "longitude": -50.1912
+  },
+  {
+    "state": "SP",
+    "ibge": 3516853,
+    "city": "Gavião Peixoto",
+    "latitude": -21.8367,
+    "longitude": -48.4957
+  },
+  {
+    "state": "SP",
+    "ibge": 3516903,
+    "city": "General Salgado",
+    "latitude": -20.6485,
+    "longitude": -50.364
+  },
+  {
+    "state": "SP",
+    "ibge": 3517000,
+    "city": "Getulina",
+    "latitude": -21.7961,
+    "longitude": -49.9312
+  },
+  {
+    "state": "SP",
+    "ibge": 3517109,
+    "city": "Glicério",
+    "latitude": -21.3812,
+    "longitude": -50.2123
+  },
+  {
+    "state": "SP",
+    "ibge": 3517208,
+    "city": "Guaiçara",
+    "latitude": -21.6195,
+    "longitude": -49.8013
+  },
+  {
+    "state": "SP",
+    "ibge": 3517307,
+    "city": "Guaimbê",
+    "latitude": -21.9091,
+    "longitude": -49.8986
+  },
+  {
+    "state": "SP",
+    "ibge": 3517406,
+    "city": "Guaíra",
+    "latitude": -20.3196,
+    "longitude": -48.312
+  },
+  {
+    "state": "SP",
+    "ibge": 3517505,
+    "city": "Guapiaçu",
+    "latitude": -20.7959,
+    "longitude": -49.2172
+  },
+  {
+    "state": "SP",
+    "ibge": 3517604,
+    "city": "Guapiara",
+    "latitude": -24.1892,
+    "longitude": -48.5295
+  },
+  {
+    "state": "SP",
+    "ibge": 3517703,
+    "city": "Guará",
+    "latitude": -20.4302,
+    "longitude": -47.8236
+  },
+  {
+    "state": "SP",
+    "ibge": 3517802,
+    "city": "Guaraçaí",
+    "latitude": -21.0292,
+    "longitude": -51.2119
+  },
+  {
+    "state": "SP",
+    "ibge": 3517901,
+    "city": "Guaraci",
+    "latitude": -20.4977,
+    "longitude": -48.9391
+  },
+  {
+    "state": "SP",
+    "ibge": 3518008,
+    "city": "Guarani d'Oeste",
+    "latitude": -20.0746,
+    "longitude": -50.3411
+  },
+  {
+    "state": "SP",
+    "ibge": 3518107,
+    "city": "Guarantã",
+    "latitude": -21.8942,
+    "longitude": -49.5914
+  },
+  {
+    "state": "SP",
+    "ibge": 3518206,
+    "city": "Guararapes",
+    "latitude": -21.2544,
+    "longitude": -50.6453
+  },
+  {
+    "state": "SP",
+    "ibge": 3518305,
+    "city": "Guararema",
+    "latitude": -23.4112,
+    "longitude": -46.0369
+  },
+  {
+    "state": "SP",
+    "ibge": 3518404,
+    "city": "Guaratinguetá",
+    "latitude": -22.8075,
+    "longitude": -45.1938
+  },
+  {
+    "state": "SP",
+    "ibge": 3518503,
+    "city": "Guareí",
+    "latitude": -23.3714,
+    "longitude": -48.1837
+  },
+  {
+    "state": "SP",
+    "ibge": 3518602,
+    "city": "Guariba",
+    "latitude": -21.3594,
+    "longitude": -48.2316
+  },
+  {
+    "state": "SP",
+    "ibge": 3518701,
+    "city": "Guarujá",
+    "latitude": -23.9888,
+    "longitude": -46.258
+  },
+  {
+    "state": "SP",
+    "ibge": 3518800,
+    "city": "Guarulhos",
+    "latitude": -23.4538,
+    "longitude": -46.5333
+  },
+  {
+    "state": "SP",
+    "ibge": 3518859,
+    "city": "Guatapará",
+    "latitude": -21.4944,
+    "longitude": -48.0356
+  },
+  {
+    "state": "SP",
+    "ibge": 3518909,
+    "city": "Guzolândia",
+    "latitude": -20.6467,
+    "longitude": -50.6645
+  },
+  {
+    "state": "SP",
+    "ibge": 3519006,
+    "city": "Herculândia",
+    "latitude": -22.0038,
+    "longitude": -50.3907
+  },
+  {
+    "state": "SP",
+    "ibge": 3519055,
+    "city": "Holambra",
+    "latitude": -22.6405,
+    "longitude": -47.0487
+  },
+  {
+    "state": "SP",
+    "ibge": 3519071,
+    "city": "Hortolândia",
+    "latitude": -22.8529,
+    "longitude": -47.2143
+  },
+  {
+    "state": "SP",
+    "ibge": 3519105,
+    "city": "Iacanga",
+    "latitude": -21.8896,
+    "longitude": -49.031
+  },
+  {
+    "state": "SP",
+    "ibge": 3519204,
+    "city": "Iacri",
+    "latitude": -21.8572,
+    "longitude": -50.6932
+  },
+  {
+    "state": "SP",
+    "ibge": 3519253,
+    "city": "Iaras",
+    "latitude": -22.8682,
+    "longitude": -49.1634
+  },
+  {
+    "state": "SP",
+    "ibge": 3519303,
+    "city": "Ibaté",
+    "latitude": -21.9584,
+    "longitude": -47.9882
+  },
+  {
+    "state": "SP",
+    "ibge": 3519402,
+    "city": "Ibirá",
+    "latitude": -21.083,
+    "longitude": -49.2448
+  },
+  {
+    "state": "SP",
+    "ibge": 3519501,
+    "city": "Ibirarema",
+    "latitude": -22.8185,
+    "longitude": -50.0739
+  },
+  {
+    "state": "SP",
+    "ibge": 3519600,
+    "city": "Ibitinga",
+    "latitude": -21.7562,
+    "longitude": -48.8319
+  },
+  {
+    "state": "SP",
+    "ibge": 3519709,
+    "city": "Ibiúna",
+    "latitude": -23.6596,
+    "longitude": -47.223
+  },
+  {
+    "state": "SP",
+    "ibge": 3519808,
+    "city": "Icém",
+    "latitude": -20.3391,
+    "longitude": -49.1915
+  },
+  {
+    "state": "SP",
+    "ibge": 3519907,
+    "city": "Iepê",
+    "latitude": -22.6602,
+    "longitude": -51.0779
+  },
+  {
+    "state": "SP",
+    "ibge": 3520004,
+    "city": "Igaraçu do Tietê",
+    "latitude": -22.509,
+    "longitude": -48.5597
+  },
+  {
+    "state": "SP",
+    "ibge": 3520103,
+    "city": "Igarapava",
+    "latitude": -20.0407,
+    "longitude": -47.7466
+  },
+  {
+    "state": "SP",
+    "ibge": 3520202,
+    "city": "Igaratá",
+    "latitude": -23.2037,
+    "longitude": -46.157
+  },
+  {
+    "state": "SP",
+    "ibge": 3520301,
+    "city": "Iguape",
+    "latitude": -24.699,
+    "longitude": -47.5537
+  },
+  {
+    "state": "SP",
+    "ibge": 3520426,
+    "city": "Ilha Comprida",
+    "latitude": -24.7307,
+    "longitude": -47.5383
+  },
+  {
+    "state": "SP",
+    "ibge": 3520442,
+    "city": "Ilha Solteira",
+    "latitude": -20.4326,
+    "longitude": -51.3426
+  },
+  {
+    "state": "SP",
+    "ibge": 3520400,
+    "city": "Ilhabela",
+    "latitude": -23.7785,
+    "longitude": -45.3552
+  },
+  {
+    "state": "SP",
+    "ibge": 3520509,
+    "city": "Indaiatuba",
+    "latitude": -23.0816,
+    "longitude": -47.2101
+  },
+  {
+    "state": "SP",
+    "ibge": 3520608,
+    "city": "Indiana",
+    "latitude": -22.1738,
+    "longitude": -51.2555
+  },
+  {
+    "state": "SP",
+    "ibge": 3520707,
+    "city": "Indiaporã",
+    "latitude": -19.979,
+    "longitude": -50.2909
+  },
+  {
+    "state": "SP",
+    "ibge": 3520806,
+    "city": "Inúbia Paulista",
+    "latitude": -21.7695,
+    "longitude": -50.9633
+  },
+  {
+    "state": "SP",
+    "ibge": 3520905,
+    "city": "Ipaussu",
+    "latitude": -23.0575,
+    "longitude": -49.6279
+  },
+  {
+    "state": "SP",
+    "ibge": 3521002,
+    "city": "Iperó",
+    "latitude": -23.3513,
+    "longitude": -47.6927
+  },
+  {
+    "state": "SP",
+    "ibge": 3521101,
+    "city": "Ipeúna",
+    "latitude": -22.4355,
+    "longitude": -47.7151
+  },
+  {
+    "state": "SP",
+    "ibge": 3521150,
+    "city": "Ipiguá",
+    "latitude": -20.6557,
+    "longitude": -49.3842
+  },
+  {
+    "state": "SP",
+    "ibge": 3521200,
+    "city": "Iporanga",
+    "latitude": -24.5847,
+    "longitude": -48.5971
+  },
+  {
+    "state": "SP",
+    "ibge": 3521309,
+    "city": "Ipuã",
+    "latitude": -20.4438,
+    "longitude": -48.0129
+  },
+  {
+    "state": "SP",
+    "ibge": 3521408,
+    "city": "Iracemápolis",
+    "latitude": -22.5832,
+    "longitude": -47.523
+  },
+  {
+    "state": "SP",
+    "ibge": 3521507,
+    "city": "Irapuã",
+    "latitude": -21.2768,
+    "longitude": -49.4164
+  },
+  {
+    "state": "SP",
+    "ibge": 3521606,
+    "city": "Irapuru",
+    "latitude": -21.5684,
+    "longitude": -51.3472
+  },
+  {
+    "state": "SP",
+    "ibge": 3521705,
+    "city": "Itaberá",
+    "latitude": -23.8638,
+    "longitude": -49.14
+  },
+  {
+    "state": "SP",
+    "ibge": 3521804,
+    "city": "Itaí",
+    "latitude": -23.4213,
+    "longitude": -49.092
+  },
+  {
+    "state": "SP",
+    "ibge": 3521903,
+    "city": "Itajobi",
+    "latitude": -21.3123,
+    "longitude": -49.0629
+  },
+  {
+    "state": "SP",
+    "ibge": 3522000,
+    "city": "Itaju",
+    "latitude": -21.9857,
+    "longitude": -48.8116
+  },
+  {
+    "state": "SP",
+    "ibge": 3522109,
+    "city": "Itanhaém",
+    "latitude": -24.1736,
+    "longitude": -46.788
+  },
+  {
+    "state": "SP",
+    "ibge": 3522158,
+    "city": "Itaóca",
+    "latitude": -24.6393,
+    "longitude": -48.8413
+  },
+  {
+    "state": "SP",
+    "ibge": 3522208,
+    "city": "Itapecerica da Serra",
+    "latitude": -23.7161,
+    "longitude": -46.8572
+  },
+  {
+    "state": "SP",
+    "ibge": 3522307,
+    "city": "Itapetininga",
+    "latitude": -23.5886,
+    "longitude": -48.0483
+  },
+  {
+    "state": "SP",
+    "ibge": 3522406,
+    "city": "Itapeva",
+    "latitude": -23.9788,
+    "longitude": -48.8764
+  },
+  {
+    "state": "SP",
+    "ibge": 3522505,
+    "city": "Itapevi",
+    "latitude": -23.5488,
+    "longitude": -46.9327
+  },
+  {
+    "state": "SP",
+    "ibge": 3522604,
+    "city": "Itapira",
+    "latitude": -22.4357,
+    "longitude": -46.8224
+  },
+  {
+    "state": "SP",
+    "ibge": 3522653,
+    "city": "Itapirapuã Paulista",
+    "latitude": -24.572,
+    "longitude": -49.1661
+  },
+  {
+    "state": "SP",
+    "ibge": 3522703,
+    "city": "Itápolis",
+    "latitude": -21.5942,
+    "longitude": -48.8149
+  },
+  {
+    "state": "SP",
+    "ibge": 3522802,
+    "city": "Itaporanga",
+    "latitude": -23.7043,
+    "longitude": -49.4819
+  },
+  {
+    "state": "SP",
+    "ibge": 3522901,
+    "city": "Itapuí",
+    "latitude": -22.2324,
+    "longitude": -48.7197
+  },
+  {
+    "state": "SP",
+    "ibge": 3523008,
+    "city": "Itapura",
+    "latitude": -20.6419,
+    "longitude": -51.5063
+  },
+  {
+    "state": "SP",
+    "ibge": 3523107,
+    "city": "Itaquaquecetuba",
+    "latitude": -23.4835,
+    "longitude": -46.3457
+  },
+  {
+    "state": "SP",
+    "ibge": 3523206,
+    "city": "Itararé",
+    "latitude": -24.1085,
+    "longitude": -49.3352
+  },
+  {
+    "state": "SP",
+    "ibge": 3523305,
+    "city": "Itariri",
+    "latitude": -24.2834,
+    "longitude": -47.1736
+  },
+  {
+    "state": "SP",
+    "ibge": 3523404,
+    "city": "Itatiba",
+    "latitude": -23.0035,
+    "longitude": -46.8464
+  },
+  {
+    "state": "SP",
+    "ibge": 3523503,
+    "city": "Itatinga",
+    "latitude": -23.1047,
+    "longitude": -48.6157
+  },
+  {
+    "state": "SP",
+    "ibge": 3523602,
+    "city": "Itirapina",
+    "latitude": -22.2562,
+    "longitude": -47.8166
+  },
+  {
+    "state": "SP",
+    "ibge": 3523701,
+    "city": "Itirapuã",
+    "latitude": -20.6416,
+    "longitude": -47.2194
+  },
+  {
+    "state": "SP",
+    "ibge": 3523800,
+    "city": "Itobi",
+    "latitude": -21.7309,
+    "longitude": -46.9743
+  },
+  {
+    "state": "SP",
+    "ibge": 3523909,
+    "city": "Itu",
+    "latitude": -23.2544,
+    "longitude": -47.2927
+  },
+  {
+    "state": "SP",
+    "ibge": 3524006,
+    "city": "Itupeva",
+    "latitude": -23.1526,
+    "longitude": -47.0593
+  },
+  {
+    "state": "SP",
+    "ibge": 3524105,
+    "city": "Ituverava",
+    "latitude": -20.3355,
+    "longitude": -47.7902
+  },
+  {
+    "state": "SP",
+    "ibge": 3524204,
+    "city": "Jaborandi",
+    "latitude": -20.6884,
+    "longitude": -48.4112
+  },
+  {
+    "state": "SP",
+    "ibge": 3524303,
+    "city": "Jaboticabal",
+    "latitude": -21.252,
+    "longitude": -48.3252
+  },
+  {
+    "state": "SP",
+    "ibge": 3524402,
+    "city": "Jacareí",
+    "latitude": -23.2983,
+    "longitude": -45.9658
+  },
+  {
+    "state": "SP",
+    "ibge": 3524501,
+    "city": "Jaci",
+    "latitude": -20.8805,
+    "longitude": -49.5797
+  },
+  {
+    "state": "SP",
+    "ibge": 3524600,
+    "city": "Jacupiranga",
+    "latitude": -24.6963,
+    "longitude": -48.0064
+  },
+  {
+    "state": "SP",
+    "ibge": 3524709,
+    "city": "Jaguariúna",
+    "latitude": -22.7037,
+    "longitude": -46.9851
+  },
+  {
+    "state": "SP",
+    "ibge": 3524808,
+    "city": "Jales",
+    "latitude": -20.2672,
+    "longitude": -50.5494
+  },
+  {
+    "state": "SP",
+    "ibge": 3524907,
+    "city": "Jambeiro",
+    "latitude": -23.2522,
+    "longitude": -45.6942
+  },
+  {
+    "state": "SP",
+    "ibge": 3525003,
+    "city": "Jandira",
+    "latitude": -23.5275,
+    "longitude": -46.9023
+  },
+  {
+    "state": "SP",
+    "ibge": 3525102,
+    "city": "Jardinópolis",
+    "latitude": -21.0176,
+    "longitude": -47.7606
+  },
+  {
+    "state": "SP",
+    "ibge": 3525201,
+    "city": "Jarinu",
+    "latitude": -23.1039,
+    "longitude": -46.728
+  },
+  {
+    "state": "SP",
+    "ibge": 3525300,
+    "city": "Jaú",
+    "latitude": -22.2936,
+    "longitude": -48.5592
+  },
+  {
+    "state": "SP",
+    "ibge": 3525409,
+    "city": "Jeriquara",
+    "latitude": -20.3116,
+    "longitude": -47.5918
+  },
+  {
+    "state": "SP",
+    "ibge": 3525508,
+    "city": "Joanópolis",
+    "latitude": -22.927,
+    "longitude": -46.2741
+  },
+  {
+    "state": "SP",
+    "ibge": 3525607,
+    "city": "João Ramalho",
+    "latitude": -22.2473,
+    "longitude": -50.7694
+  },
+  {
+    "state": "SP",
+    "ibge": 3525706,
+    "city": "José Bonifácio",
+    "latitude": -21.0551,
+    "longitude": -49.6892
+  },
+  {
+    "state": "SP",
+    "ibge": 3525805,
+    "city": "Júlio Mesquita",
+    "latitude": -22.0112,
+    "longitude": -49.7873
+  },
+  {
+    "state": "SP",
+    "ibge": 3525854,
+    "city": "Jumirim",
+    "latitude": -23.0884,
+    "longitude": -47.7868
+  },
+  {
+    "state": "SP",
+    "ibge": 3525904,
+    "city": "Jundiaí",
+    "latitude": -23.1852,
+    "longitude": -46.8974
+  },
+  {
+    "state": "SP",
+    "ibge": 3526001,
+    "city": "Junqueirópolis",
+    "latitude": -21.5103,
+    "longitude": -51.4342
+  },
+  {
+    "state": "SP",
+    "ibge": 3526100,
+    "city": "Juquiá",
+    "latitude": -24.3101,
+    "longitude": -47.6426
+  },
+  {
+    "state": "SP",
+    "ibge": 3526209,
+    "city": "Juquitiba",
+    "latitude": -23.9244,
+    "longitude": -47.0653
+  },
+  {
+    "state": "SP",
+    "ibge": 3526308,
+    "city": "Lagoinha",
+    "latitude": -23.0846,
+    "longitude": -45.1944
+  },
+  {
+    "state": "SP",
+    "ibge": 3526407,
+    "city": "Laranjal Paulista",
+    "latitude": -23.0506,
+    "longitude": -47.8375
+  },
+  {
+    "state": "SP",
+    "ibge": 3526506,
+    "city": "Lavínia",
+    "latitude": -21.1639,
+    "longitude": -51.0412
+  },
+  {
+    "state": "SP",
+    "ibge": 3526605,
+    "city": "Lavrinhas",
+    "latitude": -22.57,
+    "longitude": -44.9024
+  },
+  {
+    "state": "SP",
+    "ibge": 3526704,
+    "city": "Leme",
+    "latitude": -22.1809,
+    "longitude": -47.3841
+  },
+  {
+    "state": "SP",
+    "ibge": 3526803,
+    "city": "Lençóis Paulista",
+    "latitude": -22.6027,
+    "longitude": -48.8037
+  },
+  {
+    "state": "SP",
+    "ibge": 3526902,
+    "city": "Limeira",
+    "latitude": -22.566,
+    "longitude": -47.397
+  },
+  {
+    "state": "SP",
+    "ibge": 3527009,
+    "city": "Lindóia",
+    "latitude": -22.5226,
+    "longitude": -46.65
+  },
+  {
+    "state": "SP",
+    "ibge": 3527108,
+    "city": "Lins",
+    "latitude": -21.6718,
+    "longitude": -49.7526
+  },
+  {
+    "state": "SP",
+    "ibge": 3527207,
+    "city": "Lorena",
+    "latitude": -22.7334,
+    "longitude": -45.1197
+  },
+  {
+    "state": "SP",
+    "ibge": 3527256,
+    "city": "Lourdes",
+    "latitude": -20.966,
+    "longitude": -50.2263
+  },
+  {
+    "state": "SP",
+    "ibge": 3527306,
+    "city": "Louveira",
+    "latitude": -23.0856,
+    "longitude": -46.9484
+  },
+  {
+    "state": "SP",
+    "ibge": 3527405,
+    "city": "Lucélia",
+    "latitude": -21.7182,
+    "longitude": -51.0215
+  },
+  {
+    "state": "SP",
+    "ibge": 3527504,
+    "city": "Lucianópolis",
+    "latitude": -22.4294,
+    "longitude": -49.522
+  },
+  {
+    "state": "SP",
+    "ibge": 3527603,
+    "city": "Luís Antônio",
+    "latitude": -21.55,
+    "longitude": -47.7801
+  },
+  {
+    "state": "SP",
+    "ibge": 3527702,
+    "city": "Luiziânia",
+    "latitude": -21.6737,
+    "longitude": -50.3294
+  },
+  {
+    "state": "SP",
+    "ibge": 3527801,
+    "city": "Lupércio",
+    "latitude": -22.4146,
+    "longitude": -49.818
+  },
+  {
+    "state": "SP",
+    "ibge": 3527900,
+    "city": "Lutécia",
+    "latitude": -22.3384,
+    "longitude": -50.394
+  },
+  {
+    "state": "SP",
+    "ibge": 3528007,
+    "city": "Macatuba",
+    "latitude": -22.5002,
+    "longitude": -48.7102
+  },
+  {
+    "state": "SP",
+    "ibge": 3528106,
+    "city": "Macaubal",
+    "latitude": -20.8022,
+    "longitude": -49.9687
+  },
+  {
+    "state": "SP",
+    "ibge": 3528205,
+    "city": "Macedônia",
+    "latitude": -20.1444,
+    "longitude": -50.1973
+  },
+  {
+    "state": "SP",
+    "ibge": 3528304,
+    "city": "Magda",
+    "latitude": -20.6445,
+    "longitude": -50.2305
+  },
+  {
+    "state": "SP",
+    "ibge": 3528403,
+    "city": "Mairinque",
+    "latitude": -23.5398,
+    "longitude": -47.185
+  },
+  {
+    "state": "SP",
+    "ibge": 3528502,
+    "city": "Mairiporã",
+    "latitude": -23.3171,
+    "longitude": -46.5897
+  },
+  {
+    "state": "SP",
+    "ibge": 3528601,
+    "city": "Manduri",
+    "latitude": -23.0056,
+    "longitude": -49.3202
+  },
+  {
+    "state": "SP",
+    "ibge": 3528700,
+    "city": "Marabá Paulista",
+    "latitude": -22.1068,
+    "longitude": -51.9617
+  },
+  {
+    "state": "SP",
+    "ibge": 3528809,
+    "city": "Maracaí",
+    "latitude": -22.6149,
+    "longitude": -50.6713
+  },
+  {
+    "state": "SP",
+    "ibge": 3528858,
+    "city": "Marapoama",
+    "latitude": -21.2587,
+    "longitude": -49.13
+  },
+  {
+    "state": "SP",
+    "ibge": 3528908,
+    "city": "Mariápolis",
+    "latitude": -21.7959,
+    "longitude": -51.1824
+  },
+  {
+    "state": "SP",
+    "ibge": 3529005,
+    "city": "Marília",
+    "latitude": -22.2171,
+    "longitude": -49.9501
+  },
+  {
+    "state": "SP",
+    "ibge": 3529104,
+    "city": "Marinópolis",
+    "latitude": -20.4389,
+    "longitude": -50.8254
+  },
+  {
+    "state": "SP",
+    "ibge": 3529203,
+    "city": "Martinópolis",
+    "latitude": -22.1462,
+    "longitude": -51.1709
+  },
+  {
+    "state": "SP",
+    "ibge": 3529302,
+    "city": "Matão",
+    "latitude": -21.6025,
+    "longitude": -48.364
+  },
+  {
+    "state": "SP",
+    "ibge": 3529401,
+    "city": "Mauá",
+    "latitude": -23.6677,
+    "longitude": -46.4613
+  },
+  {
+    "state": "SP",
+    "ibge": 3529500,
+    "city": "Mendonça",
+    "latitude": -21.1757,
+    "longitude": -49.5791
+  },
+  {
+    "state": "SP",
+    "ibge": 3529609,
+    "city": "Meridiano",
+    "latitude": -20.3579,
+    "longitude": -50.1811
+  },
+  {
+    "state": "SP",
+    "ibge": 3529658,
+    "city": "Mesópolis",
+    "latitude": -19.9684,
+    "longitude": -50.6326
+  },
+  {
+    "state": "SP",
+    "ibge": 3529708,
+    "city": "Miguelópolis",
+    "latitude": -20.1796,
+    "longitude": -48.031
+  },
+  {
+    "state": "SP",
+    "ibge": 3529807,
+    "city": "Mineiros do Tietê",
+    "latitude": -22.412,
+    "longitude": -48.451
+  },
+  {
+    "state": "SP",
+    "ibge": 3530003,
+    "city": "Mira Estrela",
+    "latitude": -19.9789,
+    "longitude": -50.139
+  },
+  {
+    "state": "SP",
+    "ibge": 3529906,
+    "city": "Miracatu",
+    "latitude": -24.2766,
+    "longitude": -47.4625
+  },
+  {
+    "state": "SP",
+    "ibge": 3530102,
+    "city": "Mirandópolis",
+    "latitude": -21.1313,
+    "longitude": -51.1035
+  },
+  {
+    "state": "SP",
+    "ibge": 3530201,
+    "city": "Mirante do Paranapanema",
+    "latitude": -22.2904,
+    "longitude": -51.9084
+  },
+  {
+    "state": "SP",
+    "ibge": 3530300,
+    "city": "Mirassol",
+    "latitude": -20.8169,
+    "longitude": -49.5206
+  },
+  {
+    "state": "SP",
+    "ibge": 3530409,
+    "city": "Mirassolândia",
+    "latitude": -20.6179,
+    "longitude": -49.4617
+  },
+  {
+    "state": "SP",
+    "ibge": 3530508,
+    "city": "Mococa",
+    "latitude": -21.4647,
+    "longitude": -47.0024
+  },
+  {
+    "state": "SP",
+    "ibge": 3530607,
+    "city": "Mogi das Cruzes",
+    "latitude": -23.5208,
+    "longitude": -46.1854
+  },
+  {
+    "state": "SP",
+    "ibge": 3530706,
+    "city": "Mogi Guaçu",
+    "latitude": -22.3675,
+    "longitude": -46.9428
+  },
+  {
+    "state": "SP",
+    "ibge": 3530805,
+    "city": "Mogi Mirim",
+    "latitude": -22.4332,
+    "longitude": -46.9532
+  },
+  {
+    "state": "SP",
+    "ibge": 3530904,
+    "city": "Mombuca",
+    "latitude": -22.9285,
+    "longitude": -47.559
+  },
+  {
+    "state": "SP",
+    "ibge": 3531001,
+    "city": "Monções",
+    "latitude": -20.8509,
+    "longitude": -50.0975
+  },
+  {
+    "state": "SP",
+    "ibge": 3531100,
+    "city": "Mongaguá",
+    "latitude": -24.0809,
+    "longitude": -46.6265
+  },
+  {
+    "state": "SP",
+    "ibge": 3531209,
+    "city": "Monte Alegre do Sul",
+    "latitude": -22.6817,
+    "longitude": -46.681
+  },
+  {
+    "state": "SP",
+    "ibge": 3531308,
+    "city": "Monte Alto",
+    "latitude": -21.2655,
+    "longitude": -48.4971
+  },
+  {
+    "state": "SP",
+    "ibge": 3531407,
+    "city": "Monte Aprazível",
+    "latitude": -20.768,
+    "longitude": -49.7184
+  },
+  {
+    "state": "SP",
+    "ibge": 3531506,
+    "city": "Monte Azul Paulista",
+    "latitude": -20.9065,
+    "longitude": -48.6387
+  },
+  {
+    "state": "SP",
+    "ibge": 3531605,
+    "city": "Monte Castelo",
+    "latitude": -21.2981,
+    "longitude": -51.5679
+  },
+  {
+    "state": "SP",
+    "ibge": 3531803,
+    "city": "Monte Mor",
+    "latitude": -22.945,
+    "longitude": -47.3122
+  },
+  {
+    "state": "SP",
+    "ibge": 3531704,
+    "city": "Monteiro Lobato",
+    "latitude": -22.9544,
+    "longitude": -45.8407
+  },
+  {
+    "state": "SP",
+    "ibge": 3531902,
+    "city": "Morro Agudo",
+    "latitude": -20.7288,
+    "longitude": -48.0581
+  },
+  {
+    "state": "SP",
+    "ibge": 3532009,
+    "city": "Morungaba",
+    "latitude": -22.8811,
+    "longitude": -46.7896
+  },
+  {
+    "state": "SP",
+    "ibge": 3532058,
+    "city": "Motuca",
+    "latitude": -21.5103,
+    "longitude": -48.1538
+  },
+  {
+    "state": "SP",
+    "ibge": 3532108,
+    "city": "Murutinga do Sul",
+    "latitude": -20.9908,
+    "longitude": -51.2774
+  },
+  {
+    "state": "SP",
+    "ibge": 3532157,
+    "city": "Nantes",
+    "latitude": -22.6156,
+    "longitude": -51.24
+  },
+  {
+    "state": "SP",
+    "ibge": 3532207,
+    "city": "Narandiba",
+    "latitude": -22.4057,
+    "longitude": -51.5274
+  },
+  {
+    "state": "SP",
+    "ibge": 3532306,
+    "city": "Natividade da Serra",
+    "latitude": -23.3707,
+    "longitude": -45.4468
+  },
+  {
+    "state": "SP",
+    "ibge": 3532405,
+    "city": "Nazaré Paulista",
+    "latitude": -23.1747,
+    "longitude": -46.3983
+  },
+  {
+    "state": "SP",
+    "ibge": 3532504,
+    "city": "Neves Paulista",
+    "latitude": -20.843,
+    "longitude": -49.6358
+  },
+  {
+    "state": "SP",
+    "ibge": 3532603,
+    "city": "Nhandeara",
+    "latitude": -20.6945,
+    "longitude": -50.0436
+  },
+  {
+    "state": "SP",
+    "ibge": 3532702,
+    "city": "Nipoã",
+    "latitude": -20.9114,
+    "longitude": -49.7833
+  },
+  {
+    "state": "SP",
+    "ibge": 3532801,
+    "city": "Nova Aliança",
+    "latitude": -21.0156,
+    "longitude": -49.4986
+  },
+  {
+    "state": "SP",
+    "ibge": 3532827,
+    "city": "Nova Campina",
+    "latitude": -24.1224,
+    "longitude": -48.9022
+  },
+  {
+    "state": "SP",
+    "ibge": 3532843,
+    "city": "Nova Canaã Paulista",
+    "latitude": -20.3836,
+    "longitude": -50.9483
+  },
+  {
+    "state": "SP",
+    "ibge": 3532868,
+    "city": "Nova Castilho",
+    "latitude": -20.7615,
+    "longitude": -50.3477
+  },
+  {
+    "state": "SP",
+    "ibge": 3532900,
+    "city": "Nova Europa",
+    "latitude": -21.7765,
+    "longitude": -48.5705
+  },
+  {
+    "state": "SP",
+    "ibge": 3533007,
+    "city": "Nova Granada",
+    "latitude": -20.5321,
+    "longitude": -49.3123
+  },
+  {
+    "state": "SP",
+    "ibge": 3533106,
+    "city": "Nova Guataporanga",
+    "latitude": -21.332,
+    "longitude": -51.6447
+  },
+  {
+    "state": "SP",
+    "ibge": 3533205,
+    "city": "Nova Independência",
+    "latitude": -21.1026,
+    "longitude": -51.4905
+  },
+  {
+    "state": "SP",
+    "ibge": 3533304,
+    "city": "Nova Luzitânia",
+    "latitude": -20.856,
+    "longitude": -50.2617
+  },
+  {
+    "state": "SP",
+    "ibge": 3533403,
+    "city": "Nova Odessa",
+    "latitude": -22.7832,
+    "longitude": -47.2941
+  },
+  {
+    "state": "SP",
+    "ibge": 3533254,
+    "city": "Novais",
+    "latitude": -20.9893,
+    "longitude": -48.9141
+  },
+  {
+    "state": "SP",
+    "ibge": 3533502,
+    "city": "Novo Horizonte",
+    "latitude": -21.4651,
+    "longitude": -49.2234
+  },
+  {
+    "state": "SP",
+    "ibge": 3533601,
+    "city": "Nuporanga",
+    "latitude": -20.7296,
+    "longitude": -47.7429
+  },
+  {
+    "state": "SP",
+    "ibge": 3533700,
+    "city": "Ocauçu",
+    "latitude": -22.438,
+    "longitude": -49.922
+  },
+  {
+    "state": "SP",
+    "ibge": 3533809,
+    "city": "Óleo",
+    "latitude": -22.9435,
+    "longitude": -49.3419
+  },
+  {
+    "state": "SP",
+    "ibge": 3533908,
+    "city": "Olímpia",
+    "latitude": -20.7366,
+    "longitude": -48.9106
+  },
+  {
+    "state": "SP",
+    "ibge": 3534005,
+    "city": "Onda Verde",
+    "latitude": -20.6042,
+    "longitude": -49.2929
+  },
+  {
+    "state": "SP",
+    "ibge": 3534104,
+    "city": "Oriente",
+    "latitude": -22.1549,
+    "longitude": -50.0971
+  },
+  {
+    "state": "SP",
+    "ibge": 3534203,
+    "city": "Orindiúva",
+    "latitude": -20.1861,
+    "longitude": -49.3464
+  },
+  {
+    "state": "SP",
+    "ibge": 3534302,
+    "city": "Orlândia",
+    "latitude": -20.7169,
+    "longitude": -47.8852
+  },
+  {
+    "state": "SP",
+    "ibge": 3534401,
+    "city": "Osasco",
+    "latitude": -23.5324,
+    "longitude": -46.7916
+  },
+  {
+    "state": "SP",
+    "ibge": 3534500,
+    "city": "Oscar Bressane",
+    "latitude": -22.3149,
+    "longitude": -50.2811
+  },
+  {
+    "state": "SP",
+    "ibge": 3534609,
+    "city": "Osvaldo Cruz",
+    "latitude": -21.7968,
+    "longitude": -50.8793
+  },
+  {
+    "state": "SP",
+    "ibge": 3534708,
+    "city": "Ourinhos",
+    "latitude": -22.9797,
+    "longitude": -49.8697
+  },
+  {
+    "state": "SP",
+    "ibge": 3534807,
+    "city": "Ouro Verde",
+    "latitude": -21.4872,
+    "longitude": -51.7024
+  },
+  {
+    "state": "SP",
+    "ibge": 3534757,
+    "city": "Ouroeste",
+    "latitude": -20.0061,
+    "longitude": -50.3768
+  },
+  {
+    "state": "SP",
+    "ibge": 3534906,
+    "city": "Pacaembu",
+    "latitude": -21.5627,
+    "longitude": -51.2654
+  },
+  {
+    "state": "SP",
+    "ibge": 3535002,
+    "city": "Palestina",
+    "latitude": -20.39,
+    "longitude": -49.4309
+  },
+  {
+    "state": "SP",
+    "ibge": 3535101,
+    "city": "Palmares Paulista",
+    "latitude": -21.0854,
+    "longitude": -48.8037
+  },
+  {
+    "state": "SP",
+    "ibge": 3535200,
+    "city": "Palmeira d'Oeste",
+    "latitude": -20.4148,
+    "longitude": -50.7632
+  },
+  {
+    "state": "SP",
+    "ibge": 3535309,
+    "city": "Palmital",
+    "latitude": -22.7858,
+    "longitude": -50.218
+  },
+  {
+    "state": "SP",
+    "ibge": 3535408,
+    "city": "Panorama",
+    "latitude": -21.354,
+    "longitude": -51.8562
+  },
+  {
+    "state": "SP",
+    "ibge": 3535507,
+    "city": "Paraguaçu Paulista",
+    "latitude": -22.4114,
+    "longitude": -50.5732
+  },
+  {
+    "state": "SP",
+    "ibge": 3535606,
+    "city": "Paraibuna",
+    "latitude": -23.3872,
+    "longitude": -45.6639
+  },
+  {
+    "state": "SP",
+    "ibge": 3535705,
+    "city": "Paraíso",
+    "latitude": -21.0159,
+    "longitude": -48.7761
+  },
+  {
+    "state": "SP",
+    "ibge": 3535804,
+    "city": "Paranapanema",
+    "latitude": -23.3862,
+    "longitude": -48.7214
+  },
+  {
+    "state": "SP",
+    "ibge": 3535903,
+    "city": "Paranapuã",
+    "latitude": -20.1048,
+    "longitude": -50.5886
+  },
+  {
+    "state": "SP",
+    "ibge": 3536000,
+    "city": "Parapuã",
+    "latitude": -21.7792,
+    "longitude": -50.7949
+  },
+  {
+    "state": "SP",
+    "ibge": 3536109,
+    "city": "Pardinho",
+    "latitude": -23.0841,
+    "longitude": -48.3679
+  },
+  {
+    "state": "SP",
+    "ibge": 3536208,
+    "city": "Pariquera-Açu",
+    "latitude": -24.7147,
+    "longitude": -47.8742
+  },
+  {
+    "state": "SP",
+    "ibge": 3536257,
+    "city": "Parisi",
+    "latitude": -20.3034,
+    "longitude": -50.0163
+  },
+  {
+    "state": "SP",
+    "ibge": 3536307,
+    "city": "Patrocínio Paulista",
+    "latitude": -20.6384,
+    "longitude": -47.2801
+  },
+  {
+    "state": "SP",
+    "ibge": 3536406,
+    "city": "Paulicéia",
+    "latitude": -21.3153,
+    "longitude": -51.8321
+  },
+  {
+    "state": "SP",
+    "ibge": 3536505,
+    "city": "Paulínia",
+    "latitude": -22.7542,
+    "longitude": -47.1488
+  },
+  {
+    "state": "SP",
+    "ibge": 3536570,
+    "city": "Paulistânia",
+    "latitude": -22.5768,
+    "longitude": -49.4008
+  },
+  {
+    "state": "SP",
+    "ibge": 3536604,
+    "city": "Paulo de Faria",
+    "latitude": -20.0296,
+    "longitude": -49.4
+  },
+  {
+    "state": "SP",
+    "ibge": 3536703,
+    "city": "Pederneiras",
+    "latitude": -22.3511,
+    "longitude": -48.7781
+  },
+  {
+    "state": "SP",
+    "ibge": 3536802,
+    "city": "Pedra Bela",
+    "latitude": -22.7902,
+    "longitude": -46.4455
+  },
+  {
+    "state": "SP",
+    "ibge": 3536901,
+    "city": "Pedranópolis",
+    "latitude": -20.2474,
+    "longitude": -50.1129
+  },
+  {
+    "state": "SP",
+    "ibge": 3537008,
+    "city": "Pedregulho",
+    "latitude": -20.2535,
+    "longitude": -47.4775
+  },
+  {
+    "state": "SP",
+    "ibge": 3537107,
+    "city": "Pedreira",
+    "latitude": -22.7413,
+    "longitude": -46.8948
+  },
+  {
+    "state": "SP",
+    "ibge": 3537156,
+    "city": "Pedrinhas Paulista",
+    "latitude": -22.8174,
+    "longitude": -50.7933
+  },
+  {
+    "state": "SP",
+    "ibge": 3537206,
+    "city": "Pedro de Toledo",
+    "latitude": -24.2764,
+    "longitude": -47.2354
+  },
+  {
+    "state": "SP",
+    "ibge": 3537305,
+    "city": "Penápolis",
+    "latitude": -21.4148,
+    "longitude": -50.0769
+  },
+  {
+    "state": "SP",
+    "ibge": 3537404,
+    "city": "Pereira Barreto",
+    "latitude": -20.6368,
+    "longitude": -51.1123
+  },
+  {
+    "state": "SP",
+    "ibge": 3537503,
+    "city": "Pereiras",
+    "latitude": -23.0804,
+    "longitude": -47.972
+  },
+  {
+    "state": "SP",
+    "ibge": 3537602,
+    "city": "Peruíbe",
+    "latitude": -24.312,
+    "longitude": -47.0012
+  },
+  {
+    "state": "SP",
+    "ibge": 3537701,
+    "city": "Piacatu",
+    "latitude": -21.5921,
+    "longitude": -50.6003
+  },
+  {
+    "state": "SP",
+    "ibge": 3537800,
+    "city": "Piedade",
+    "latitude": -23.7139,
+    "longitude": -47.4256
+  },
+  {
+    "state": "SP",
+    "ibge": 3537909,
+    "city": "Pilar do Sul",
+    "latitude": -23.8077,
+    "longitude": -47.7222
+  },
+  {
+    "state": "SP",
+    "ibge": 3538006,
+    "city": "Pindamonhangaba",
+    "latitude": -22.9246,
+    "longitude": -45.4613
+  },
+  {
+    "state": "SP",
+    "ibge": 3538105,
+    "city": "Pindorama",
+    "latitude": -21.1853,
+    "longitude": -48.9086
+  },
+  {
+    "state": "SP",
+    "ibge": 3538204,
+    "city": "Pinhalzinho",
+    "latitude": -22.7811,
+    "longitude": -46.5897
+  },
+  {
+    "state": "SP",
+    "ibge": 3538303,
+    "city": "Piquerobi",
+    "latitude": -21.8747,
+    "longitude": -51.7282
+  },
+  {
+    "state": "SP",
+    "ibge": 3538501,
+    "city": "Piquete",
+    "latitude": -22.6069,
+    "longitude": -45.1869
+  },
+  {
+    "state": "SP",
+    "ibge": 3538600,
+    "city": "Piracaia",
+    "latitude": -23.0525,
+    "longitude": -46.3594
+  },
+  {
+    "state": "SP",
+    "ibge": 3538709,
+    "city": "Piracicaba",
+    "latitude": -22.7338,
+    "longitude": -47.6476
+  },
+  {
+    "state": "SP",
+    "ibge": 3538808,
+    "city": "Piraju",
+    "latitude": -23.1981,
+    "longitude": -49.3803
+  },
+  {
+    "state": "SP",
+    "ibge": 3538907,
+    "city": "Pirajuí",
+    "latitude": -21.999,
+    "longitude": -49.4608
+  },
+  {
+    "state": "SP",
+    "ibge": 3539004,
+    "city": "Pirangi",
+    "latitude": -21.0886,
+    "longitude": -48.6607
+  },
+  {
+    "state": "SP",
+    "ibge": 3539103,
+    "city": "Pirapora do Bom Jesus",
+    "latitude": -23.3965,
+    "longitude": -46.9991
+  },
+  {
+    "state": "SP",
+    "ibge": 3539202,
+    "city": "Pirapozinho",
+    "latitude": -22.2711,
+    "longitude": -51.4976
+  },
+  {
+    "state": "SP",
+    "ibge": 3539301,
+    "city": "Pirassununga",
+    "latitude": -21.996,
+    "longitude": -47.4257
+  },
+  {
+    "state": "SP",
+    "ibge": 3539400,
+    "city": "Piratininga",
+    "latitude": -22.4142,
+    "longitude": -49.1339
+  },
+  {
+    "state": "SP",
+    "ibge": 3539509,
+    "city": "Pitangueiras",
+    "latitude": -21.0132,
+    "longitude": -48.221
+  },
+  {
+    "state": "SP",
+    "ibge": 3539608,
+    "city": "Planalto",
+    "latitude": -21.0342,
+    "longitude": -49.933
+  },
+  {
+    "state": "SP",
+    "ibge": 3539707,
+    "city": "Platina",
+    "latitude": -22.6371,
+    "longitude": -50.2104
+  },
+  {
+    "state": "SP",
+    "ibge": 3539806,
+    "city": "Poá",
+    "latitude": -23.5333,
+    "longitude": -46.3473
+  },
+  {
+    "state": "SP",
+    "ibge": 3539905,
+    "city": "Poloni",
+    "latitude": -20.7829,
+    "longitude": -49.8258
+  },
+  {
+    "state": "SP",
+    "ibge": 3540002,
+    "city": "Pompéia",
+    "latitude": -22.107,
+    "longitude": -50.176
+  },
+  {
+    "state": "SP",
+    "ibge": 3540101,
+    "city": "Pongaí",
+    "latitude": -21.7396,
+    "longitude": -49.3604
+  },
+  {
+    "state": "SP",
+    "ibge": 3540200,
+    "city": "Pontal",
+    "latitude": -21.0216,
+    "longitude": -48.0423
+  },
+  {
+    "state": "SP",
+    "ibge": 3540259,
+    "city": "Pontalinda",
+    "latitude": -20.4396,
+    "longitude": -50.5258
+  },
+  {
+    "state": "SP",
+    "ibge": 3540309,
+    "city": "Pontes Gestal",
+    "latitude": -20.1727,
+    "longitude": -49.7064
+  },
+  {
+    "state": "SP",
+    "ibge": 3540408,
+    "city": "Populina",
+    "latitude": -19.9453,
+    "longitude": -50.538
+  },
+  {
+    "state": "SP",
+    "ibge": 3540507,
+    "city": "Porangaba",
+    "latitude": -23.1761,
+    "longitude": -48.1195
+  },
+  {
+    "state": "SP",
+    "ibge": 3540606,
+    "city": "Porto Feliz",
+    "latitude": -23.2093,
+    "longitude": -47.5251
+  },
+  {
+    "state": "SP",
+    "ibge": 3540705,
+    "city": "Porto Ferreira",
+    "latitude": -21.8498,
+    "longitude": -47.487
+  },
+  {
+    "state": "SP",
+    "ibge": 3540754,
+    "city": "Potim",
+    "latitude": -22.8343,
+    "longitude": -45.2552
+  },
+  {
+    "state": "SP",
+    "ibge": 3540804,
+    "city": "Potirendaba",
+    "latitude": -21.0428,
+    "longitude": -49.3815
+  },
+  {
+    "state": "SP",
+    "ibge": 3540853,
+    "city": "Pracinha",
+    "latitude": -21.8496,
+    "longitude": -51.0868
+  },
+  {
+    "state": "SP",
+    "ibge": 3540903,
+    "city": "Pradópolis",
+    "latitude": -21.3626,
+    "longitude": -48.0679
+  },
+  {
+    "state": "SP",
+    "ibge": 3541000,
+    "city": "Praia Grande",
+    "latitude": -24.0084,
+    "longitude": -46.4121
+  },
+  {
+    "state": "SP",
+    "ibge": 3541059,
+    "city": "Pratânia",
+    "latitude": -22.8112,
+    "longitude": -48.6636
+  },
+  {
+    "state": "SP",
+    "ibge": 3541109,
+    "city": "Presidente Alves",
+    "latitude": -22.0999,
+    "longitude": -49.4381
+  },
+  {
+    "state": "SP",
+    "ibge": 3541208,
+    "city": "Presidente Bernardes",
+    "latitude": -22.0082,
+    "longitude": -51.5565
+  },
+  {
+    "state": "SP",
+    "ibge": 3541307,
+    "city": "Presidente Epitácio",
+    "latitude": -21.7651,
+    "longitude": -52.1111
+  },
+  {
+    "state": "SP",
+    "ibge": 3541406,
+    "city": "Presidente Prudente",
+    "latitude": -22.1207,
+    "longitude": -51.3925
+  },
+  {
+    "state": "SP",
+    "ibge": 3541505,
+    "city": "Presidente Venceslau",
+    "latitude": -21.8732,
+    "longitude": -51.8447
+  },
+  {
+    "state": "SP",
+    "ibge": 3541604,
+    "city": "Promissão",
+    "latitude": -21.5356,
+    "longitude": -49.8599
+  },
+  {
+    "state": "SP",
+    "ibge": 3541653,
+    "city": "Quadra",
+    "latitude": -23.2993,
+    "longitude": -48.0547
+  },
+  {
+    "state": "SP",
+    "ibge": 3541703,
+    "city": "Quatá",
+    "latitude": -22.2456,
+    "longitude": -50.6966
+  },
+  {
+    "state": "SP",
+    "ibge": 3541802,
+    "city": "Queiroz",
+    "latitude": -21.7969,
+    "longitude": -50.2415
+  },
+  {
+    "state": "SP",
+    "ibge": 3541901,
+    "city": "Queluz",
+    "latitude": -22.5312,
+    "longitude": -44.7781
+  },
+  {
+    "state": "SP",
+    "ibge": 3542008,
+    "city": "Quintana",
+    "latitude": -22.0692,
+    "longitude": -50.307
+  },
+  {
+    "state": "SP",
+    "ibge": 3542107,
+    "city": "Rafard",
+    "latitude": -23.0105,
+    "longitude": -47.5318
+  },
+  {
+    "state": "SP",
+    "ibge": 3542206,
+    "city": "Rancharia",
+    "latitude": -22.2269,
+    "longitude": -50.893
+  },
+  {
+    "state": "SP",
+    "ibge": 3542305,
+    "city": "Redenção da Serra",
+    "latitude": -23.2638,
+    "longitude": -45.5422
+  },
+  {
+    "state": "SP",
+    "ibge": 3542404,
+    "city": "Regente Feijó",
+    "latitude": -22.2181,
+    "longitude": -51.3055
+  },
+  {
+    "state": "SP",
+    "ibge": 3542503,
+    "city": "Reginópolis",
+    "latitude": -21.8914,
+    "longitude": -49.2268
+  },
+  {
+    "state": "SP",
+    "ibge": 3542602,
+    "city": "Registro",
+    "latitude": -24.4979,
+    "longitude": -47.8449
+  },
+  {
+    "state": "SP",
+    "ibge": 3542701,
+    "city": "Restinga",
+    "latitude": -20.6056,
+    "longitude": -47.4833
+  },
+  {
+    "state": "SP",
+    "ibge": 3542800,
+    "city": "Ribeira",
+    "latitude": -24.6517,
+    "longitude": -49.0044
+  },
+  {
+    "state": "SP",
+    "ibge": 3542909,
+    "city": "Ribeirão Bonito",
+    "latitude": -22.0685,
+    "longitude": -48.182
+  },
+  {
+    "state": "SP",
+    "ibge": 3543006,
+    "city": "Ribeirão Branco",
+    "latitude": -24.2206,
+    "longitude": -48.7635
+  },
+  {
+    "state": "SP",
+    "ibge": 3543105,
+    "city": "Ribeirão Corrente",
+    "latitude": -20.4579,
+    "longitude": -47.5904
+  },
+  {
+    "state": "SP",
+    "ibge": 3543204,
+    "city": "Ribeirão do Sul",
+    "latitude": -22.789,
+    "longitude": -49.933
+  },
+  {
+    "state": "SP",
+    "ibge": 3543238,
+    "city": "Ribeirão dos Índios",
+    "latitude": -21.8382,
+    "longitude": -51.6103
+  },
+  {
+    "state": "SP",
+    "ibge": 3543253,
+    "city": "Ribeirão Grande",
+    "latitude": -24.1011,
+    "longitude": -48.3679
+  },
+  {
+    "state": "SP",
+    "ibge": 3543303,
+    "city": "Ribeirão Pires",
+    "latitude": -23.7067,
+    "longitude": -46.4058
+  },
+  {
+    "state": "SP",
+    "ibge": 3543402,
+    "city": "Ribeirão Preto",
+    "latitude": -21.1699,
+    "longitude": -47.8099
+  },
+  {
+    "state": "SP",
+    "ibge": 3543600,
+    "city": "Rifaina",
+    "latitude": -20.0803,
+    "longitude": -47.4291
+  },
+  {
+    "state": "SP",
+    "ibge": 3543709,
+    "city": "Rincão",
+    "latitude": -21.5894,
+    "longitude": -48.0728
+  },
+  {
+    "state": "SP",
+    "ibge": 3543808,
+    "city": "Rinópolis",
+    "latitude": -21.7284,
+    "longitude": -50.7239
+  },
+  {
+    "state": "SP",
+    "ibge": 3543907,
+    "city": "Rio Claro",
+    "latitude": -22.3984,
+    "longitude": -47.5546
+  },
+  {
+    "state": "SP",
+    "ibge": 3544004,
+    "city": "Rio das Pedras",
+    "latitude": -22.8417,
+    "longitude": -47.6047
+  },
+  {
+    "state": "SP",
+    "ibge": 3544103,
+    "city": "Rio Grande da Serra",
+    "latitude": -23.7437,
+    "longitude": -46.3971
+  },
+  {
+    "state": "SP",
+    "ibge": 3544202,
+    "city": "Riolândia",
+    "latitude": -19.9868,
+    "longitude": -49.6836
+  },
+  {
+    "state": "SP",
+    "ibge": 3543501,
+    "city": "Riversul",
+    "latitude": -23.829,
+    "longitude": -49.429
+  },
+  {
+    "state": "SP",
+    "ibge": 3544251,
+    "city": "Rosana",
+    "latitude": -22.5782,
+    "longitude": -53.0603
+  },
+  {
+    "state": "SP",
+    "ibge": 3544301,
+    "city": "Roseira",
+    "latitude": -22.8938,
+    "longitude": -45.307
+  },
+  {
+    "state": "SP",
+    "ibge": 3544400,
+    "city": "Rubiácea",
+    "latitude": -21.3006,
+    "longitude": -50.7296
+  },
+  {
+    "state": "SP",
+    "ibge": 3544509,
+    "city": "Rubinéia",
+    "latitude": -20.1759,
+    "longitude": -51.007
+  },
+  {
+    "state": "SP",
+    "ibge": 3544608,
+    "city": "Sabino",
+    "latitude": -21.4593,
+    "longitude": -49.5755
+  },
+  {
+    "state": "SP",
+    "ibge": 3544707,
+    "city": "Sagres",
+    "latitude": -21.8823,
+    "longitude": -50.9594
+  },
+  {
+    "state": "SP",
+    "ibge": 3544806,
+    "city": "Sales",
+    "latitude": -21.3427,
+    "longitude": -49.4897
+  },
+  {
+    "state": "SP",
+    "ibge": 3544905,
+    "city": "Sales Oliveira",
+    "latitude": -20.7696,
+    "longitude": -47.8369
+  },
+  {
+    "state": "SP",
+    "ibge": 3545001,
+    "city": "Salesópolis",
+    "latitude": -23.5288,
+    "longitude": -45.8465
+  },
+  {
+    "state": "SP",
+    "ibge": 3545100,
+    "city": "Salmourão",
+    "latitude": -21.6267,
+    "longitude": -50.8614
+  },
+  {
+    "state": "SP",
+    "ibge": 3545159,
+    "city": "Saltinho",
+    "latitude": -22.8442,
+    "longitude": -47.6754
+  },
+  {
+    "state": "SP",
+    "ibge": 3545209,
+    "city": "Salto",
+    "latitude": -23.1996,
+    "longitude": -47.2931
+  },
+  {
+    "state": "SP",
+    "ibge": 3545308,
+    "city": "Salto de Pirapora",
+    "latitude": -23.6474,
+    "longitude": -47.5743
+  },
+  {
+    "state": "SP",
+    "ibge": 3545407,
+    "city": "Salto Grande",
+    "latitude": -22.8894,
+    "longitude": -49.9831
+  },
+  {
+    "state": "SP",
+    "ibge": 3545506,
+    "city": "Sandovalina",
+    "latitude": -22.4551,
+    "longitude": -51.7648
+  },
+  {
+    "state": "SP",
+    "ibge": 3545605,
+    "city": "Santa Adélia",
+    "latitude": -21.2427,
+    "longitude": -48.8063
+  },
+  {
+    "state": "SP",
+    "ibge": 3545704,
+    "city": "Santa Albertina",
+    "latitude": -20.0311,
+    "longitude": -50.7297
+  },
+  {
+    "state": "SP",
+    "ibge": 3545803,
+    "city": "Santa Bárbara d'Oeste",
+    "latitude": -22.7553,
+    "longitude": -47.4143
+  },
+  {
+    "state": "SP",
+    "ibge": 3546009,
+    "city": "Santa Branca",
+    "latitude": -23.3933,
+    "longitude": -45.8875
+  },
+  {
+    "state": "SP",
+    "ibge": 3546108,
+    "city": "Santa Clara d'Oeste",
+    "latitude": -20.09,
+    "longitude": -50.9491
+  },
+  {
+    "state": "SP",
+    "ibge": 3546207,
+    "city": "Santa Cruz da Conceição",
+    "latitude": -22.1405,
+    "longitude": -47.4512
+  },
+  {
+    "state": "SP",
+    "ibge": 3546256,
+    "city": "Santa Cruz da Esperança",
+    "latitude": -21.2951,
+    "longitude": -47.4304
+  },
+  {
+    "state": "SP",
+    "ibge": 3546306,
+    "city": "Santa Cruz das Palmeiras",
+    "latitude": -21.8235,
+    "longitude": -47.248
+  },
+  {
+    "state": "SP",
+    "ibge": 3546405,
+    "city": "Santa Cruz do Rio Pardo",
+    "latitude": -22.8988,
+    "longitude": -49.6354
+  },
+  {
+    "state": "SP",
+    "ibge": 3546504,
+    "city": "Santa Ernestina",
+    "latitude": -21.4618,
+    "longitude": -48.3953
+  },
+  {
+    "state": "SP",
+    "ibge": 3546603,
+    "city": "Santa Fé do Sul",
+    "latitude": -20.2083,
+    "longitude": -50.932
+  },
+  {
+    "state": "SP",
+    "ibge": 3546702,
+    "city": "Santa Gertrudes",
+    "latitude": -22.4572,
+    "longitude": -47.5272
+  },
+  {
+    "state": "SP",
+    "ibge": 3546801,
+    "city": "Santa Isabel",
+    "latitude": -23.3172,
+    "longitude": -46.2237
+  },
+  {
+    "state": "SP",
+    "ibge": 3546900,
+    "city": "Santa Lúcia",
+    "latitude": -21.685,
+    "longitude": -48.0885
+  },
+  {
+    "state": "SP",
+    "ibge": 3547007,
+    "city": "Santa Maria da Serra",
+    "latitude": -22.5661,
+    "longitude": -48.1593
+  },
+  {
+    "state": "SP",
+    "ibge": 3547106,
+    "city": "Santa Mercedes",
+    "latitude": -21.3495,
+    "longitude": -51.7564
+  },
+  {
+    "state": "SP",
+    "ibge": 3547403,
+    "city": "Santa Rita d'Oeste",
+    "latitude": -20.1414,
+    "longitude": -50.8358
+  },
+  {
+    "state": "SP",
+    "ibge": 3547502,
+    "city": "Santa Rita do Passa Quatro",
+    "latitude": -21.7083,
+    "longitude": -47.478
+  },
+  {
+    "state": "SP",
+    "ibge": 3547601,
+    "city": "Santa Rosa de Viterbo",
+    "latitude": -21.4776,
+    "longitude": -47.3622
+  },
+  {
+    "state": "SP",
+    "ibge": 3547650,
+    "city": "Santa Salete",
+    "latitude": -20.2429,
+    "longitude": -50.6887
+  },
+  {
+    "state": "SP",
+    "ibge": 3547205,
+    "city": "Santana da Ponte Pensa",
+    "latitude": -20.2523,
+    "longitude": -50.8014
+  },
+  {
+    "state": "SP",
+    "ibge": 3547304,
+    "city": "Santana de Parnaíba",
+    "latitude": -23.4439,
+    "longitude": -46.9178
+  },
+  {
+    "state": "SP",
+    "ibge": 3547700,
+    "city": "Santo Anastácio",
+    "latitude": -21.9747,
+    "longitude": -51.6527
+  },
+  {
+    "state": "SP",
+    "ibge": 3547809,
+    "city": "Santo André",
+    "latitude": -23.6737,
+    "longitude": -46.5432
+  },
+  {
+    "state": "SP",
+    "ibge": 3547908,
+    "city": "Santo Antônio da Alegria",
+    "latitude": -21.0864,
+    "longitude": -47.1464
+  },
+  {
+    "state": "SP",
+    "ibge": 3548005,
+    "city": "Santo Antônio de Posse",
+    "latitude": -22.6029,
+    "longitude": -46.9192
+  },
+  {
+    "state": "SP",
+    "ibge": 3548054,
+    "city": "Santo Antônio do Aracanguá",
+    "latitude": -20.9331,
+    "longitude": -50.498
+  },
+  {
+    "state": "SP",
+    "ibge": 3548104,
+    "city": "Santo Antônio do Jardim",
+    "latitude": -22.1121,
+    "longitude": -46.6845
+  },
+  {
+    "state": "SP",
+    "ibge": 3548203,
+    "city": "Santo Antônio do Pinhal",
+    "latitude": -22.827,
+    "longitude": -45.663
+  },
+  {
+    "state": "SP",
+    "ibge": 3548302,
+    "city": "Santo Expedito",
+    "latitude": -21.8467,
+    "longitude": -51.3929
+  },
+  {
+    "state": "SP",
+    "ibge": 3548401,
+    "city": "Santópolis do Aguapeí",
+    "latitude": -21.6376,
+    "longitude": -50.5044
+  },
+  {
+    "state": "SP",
+    "ibge": 3548500,
+    "city": "Santos",
+    "latitude": -23.9535,
+    "longitude": -46.335
+  },
+  {
+    "state": "SP",
+    "ibge": 3548609,
+    "city": "São Bento do Sapucaí",
+    "latitude": -22.6837,
+    "longitude": -45.7287
+  },
+  {
+    "state": "SP",
+    "ibge": 3548708,
+    "city": "São Bernardo do Campo",
+    "latitude": -23.6914,
+    "longitude": -46.5646
+  },
+  {
+    "state": "SP",
+    "ibge": 3548807,
+    "city": "São Caetano do Sul",
+    "latitude": -23.6229,
+    "longitude": -46.5548
+  },
+  {
+    "state": "SP",
+    "ibge": 3548906,
+    "city": "São Carlos",
+    "latitude": -22.0174,
+    "longitude": -47.886
+  },
+  {
+    "state": "SP",
+    "ibge": 3549003,
+    "city": "São Francisco",
+    "latitude": -20.3623,
+    "longitude": -50.6952
+  },
+  {
+    "state": "SP",
+    "ibge": 3549102,
+    "city": "São João da Boa Vista",
+    "latitude": -21.9707,
+    "longitude": -46.7944
+  },
+  {
+    "state": "SP",
+    "ibge": 3549201,
+    "city": "São João das Duas Pontes",
+    "latitude": -20.3879,
+    "longitude": -50.3792
+  },
+  {
+    "state": "SP",
+    "ibge": 3549250,
+    "city": "São João de Iracema",
+    "latitude": -20.5111,
+    "longitude": -50.3561
+  },
+  {
+    "state": "SP",
+    "ibge": 3549300,
+    "city": "São João do Pau d'Alho",
+    "latitude": -21.2662,
+    "longitude": -51.6672
+  },
+  {
+    "state": "SP",
+    "ibge": 3549409,
+    "city": "São Joaquim da Barra",
+    "latitude": -20.5812,
+    "longitude": -47.8593
+  },
+  {
+    "state": "SP",
+    "ibge": 3549508,
+    "city": "São José da Bela Vista",
+    "latitude": -20.5935,
+    "longitude": -47.6424
+  },
+  {
+    "state": "SP",
+    "ibge": 3549607,
+    "city": "São José do Barreiro",
+    "latitude": -22.6414,
+    "longitude": -44.5774
+  },
+  {
+    "state": "SP",
+    "ibge": 3549706,
+    "city": "São José do Rio Pardo",
+    "latitude": -21.5953,
+    "longitude": -46.8873
+  },
+  {
+    "state": "SP",
+    "ibge": 3549805,
+    "city": "São José do Rio Preto",
+    "latitude": -20.8113,
+    "longitude": -49.3758
+  },
+  {
+    "state": "SP",
+    "ibge": 3549904,
+    "city": "São José dos Campos",
+    "latitude": -23.1896,
+    "longitude": -45.8841
+  },
+  {
+    "state": "SP",
+    "ibge": 3549953,
+    "city": "São Lourenço da Serra",
+    "latitude": -23.8491,
+    "longitude": -46.9432
+  },
+  {
+    "state": "SP",
+    "ibge": 3550001,
+    "city": "São Luiz do Paraitinga",
+    "latitude": -23.222,
+    "longitude": -45.3109
+  },
+  {
+    "state": "SP",
+    "ibge": 3550100,
+    "city": "São Manuel",
+    "latitude": -22.7321,
+    "longitude": -48.5723
+  },
+  {
+    "state": "SP",
+    "ibge": 3550209,
+    "city": "São Miguel Arcanjo",
+    "latitude": -23.8782,
+    "longitude": -47.9935
+  },
+  {
+    "state": "SP",
+    "ibge": 3550308,
+    "city": "São Paulo",
+    "latitude": -23.5329,
+    "longitude": -46.6395
+  },
+  {
+    "state": "SP",
+    "ibge": 3550407,
+    "city": "São Pedro",
+    "latitude": -22.5483,
+    "longitude": -47.9096
+  },
+  {
+    "state": "SP",
+    "ibge": 3550506,
+    "city": "São Pedro do Turvo",
+    "latitude": -22.7453,
+    "longitude": -49.7428
+  },
+  {
+    "state": "SP",
+    "ibge": 3550605,
+    "city": "São Roque",
+    "latitude": -23.5226,
+    "longitude": -47.1357
+  },
+  {
+    "state": "SP",
+    "ibge": 3550704,
+    "city": "São Sebastião",
+    "latitude": -23.7951,
+    "longitude": -45.4143
+  },
+  {
+    "state": "SP",
+    "ibge": 3550803,
+    "city": "São Sebastião da Grama",
+    "latitude": -21.7041,
+    "longitude": -46.8208
+  },
+  {
+    "state": "SP",
+    "ibge": 3550902,
+    "city": "São Simão",
+    "latitude": -21.4732,
+    "longitude": -47.5518
+  },
+  {
+    "state": "SP",
+    "ibge": 3551009,
+    "city": "São Vicente",
+    "latitude": -23.9574,
+    "longitude": -46.3883
+  },
+  {
+    "state": "SP",
+    "ibge": 3551108,
+    "city": "Sarapuí",
+    "latitude": -23.6397,
+    "longitude": -47.8249
+  },
+  {
+    "state": "SP",
+    "ibge": 3551207,
+    "city": "Sarutaiá",
+    "latitude": -23.2721,
+    "longitude": -49.4763
+  },
+  {
+    "state": "SP",
+    "ibge": 3551306,
+    "city": "Sebastianópolis do Sul",
+    "latitude": -20.6523,
+    "longitude": -49.925
+  },
+  {
+    "state": "SP",
+    "ibge": 3551405,
+    "city": "Serra Azul",
+    "latitude": -21.3074,
+    "longitude": -47.5602
+  },
+  {
+    "state": "SP",
+    "ibge": 3551603,
+    "city": "Serra Negra",
+    "latitude": -22.6139,
+    "longitude": -46.7033
+  },
+  {
+    "state": "SP",
+    "ibge": 3551504,
+    "city": "Serrana",
+    "latitude": -21.2043,
+    "longitude": -47.5952
+  },
+  {
+    "state": "SP",
+    "ibge": 3551702,
+    "city": "Sertãozinho",
+    "latitude": -21.1316,
+    "longitude": -47.9875
+  },
+  {
+    "state": "SP",
+    "ibge": 3551801,
+    "city": "Sete Barras",
+    "latitude": -24.382,
+    "longitude": -47.9279
+  },
+  {
+    "state": "SP",
+    "ibge": 3551900,
+    "city": "Severínia",
+    "latitude": -20.8108,
+    "longitude": -48.8054
+  },
+  {
+    "state": "SP",
+    "ibge": 3552007,
+    "city": "Silveiras",
+    "latitude": -22.6638,
+    "longitude": -44.8522
+  },
+  {
+    "state": "SP",
+    "ibge": 3552106,
+    "city": "Socorro",
+    "latitude": -22.5903,
+    "longitude": -46.5251
+  },
+  {
+    "state": "SP",
+    "ibge": 3552205,
+    "city": "Sorocaba",
+    "latitude": -23.4969,
+    "longitude": -47.4451
+  },
+  {
+    "state": "SP",
+    "ibge": 3552304,
+    "city": "Sud Mennucci",
+    "latitude": -20.6872,
+    "longitude": -50.9238
+  },
+  {
+    "state": "SP",
+    "ibge": 3552403,
+    "city": "Sumaré",
+    "latitude": -22.8204,
+    "longitude": -47.2728
+  },
+  {
+    "state": "SP",
+    "ibge": 3552551,
+    "city": "Suzanápolis",
+    "latitude": -20.4981,
+    "longitude": -51.0268
+  },
+  {
+    "state": "SP",
+    "ibge": 3552502,
+    "city": "Suzano",
+    "latitude": -23.5448,
+    "longitude": -46.3112
+  },
+  {
+    "state": "SP",
+    "ibge": 3552601,
+    "city": "Tabapuã",
+    "latitude": -20.9602,
+    "longitude": -49.0307
+  },
+  {
+    "state": "SP",
+    "ibge": 3552700,
+    "city": "Tabatinga",
+    "latitude": -21.7239,
+    "longitude": -48.6896
+  },
+  {
+    "state": "SP",
+    "ibge": 3552809,
+    "city": "Taboão da Serra",
+    "latitude": -23.6019,
+    "longitude": -46.7526
+  },
+  {
+    "state": "SP",
+    "ibge": 3552908,
+    "city": "Taciba",
+    "latitude": -22.3866,
+    "longitude": -51.2882
+  },
+  {
+    "state": "SP",
+    "ibge": 3553005,
+    "city": "Taguaí",
+    "latitude": -23.4452,
+    "longitude": -49.4024
+  },
+  {
+    "state": "SP",
+    "ibge": 3553104,
+    "city": "Taiaçu",
+    "latitude": -21.1431,
+    "longitude": -48.5112
+  },
+  {
+    "state": "SP",
+    "ibge": 3553203,
+    "city": "Taiúva",
+    "latitude": -21.1223,
+    "longitude": -48.4528
+  },
+  {
+    "state": "SP",
+    "ibge": 3553302,
+    "city": "Tambaú",
+    "latitude": -21.7029,
+    "longitude": -47.2703
+  },
+  {
+    "state": "SP",
+    "ibge": 3553401,
+    "city": "Tanabi",
+    "latitude": -20.6228,
+    "longitude": -49.6563
+  },
+  {
+    "state": "SP",
+    "ibge": 3553500,
+    "city": "Tapiraí",
+    "latitude": -23.9612,
+    "longitude": -47.5062
+  },
+  {
+    "state": "SP",
+    "ibge": 3553609,
+    "city": "Tapiratiba",
+    "latitude": -21.4713,
+    "longitude": -46.7448
+  },
+  {
+    "state": "SP",
+    "ibge": 3553658,
+    "city": "Taquaral",
+    "latitude": -21.0737,
+    "longitude": -48.4126
+  },
+  {
+    "state": "SP",
+    "ibge": 3553708,
+    "city": "Taquaritinga",
+    "latitude": -21.4049,
+    "longitude": -48.5103
+  },
+  {
+    "state": "SP",
+    "ibge": 3553807,
+    "city": "Taquarituba",
+    "latitude": -23.5307,
+    "longitude": -49.241
+  },
+  {
+    "state": "SP",
+    "ibge": 3553856,
+    "city": "Taquarivaí",
+    "latitude": -23.9211,
+    "longitude": -48.6948
+  },
+  {
+    "state": "SP",
+    "ibge": 3553906,
+    "city": "Tarabai",
+    "latitude": -22.3016,
+    "longitude": -51.5621
+  },
+  {
+    "state": "SP",
+    "ibge": 3553955,
+    "city": "Tarumã",
+    "latitude": -22.7429,
+    "longitude": -50.5786
+  },
+  {
+    "state": "SP",
+    "ibge": 3554003,
+    "city": "Tatuí",
+    "latitude": -23.3487,
+    "longitude": -47.8461
+  },
+  {
+    "state": "SP",
+    "ibge": 3554102,
+    "city": "Taubaté",
+    "latitude": -23.0104,
+    "longitude": -45.5593
+  },
+  {
+    "state": "SP",
+    "ibge": 3554201,
+    "city": "Tejupá",
+    "latitude": -23.3425,
+    "longitude": -49.3722
+  },
+  {
+    "state": "SP",
+    "ibge": 3554300,
+    "city": "Teodoro Sampaio",
+    "latitude": -22.5299,
+    "longitude": -52.1682
+  },
+  {
+    "state": "SP",
+    "ibge": 3554409,
+    "city": "Terra Roxa",
+    "latitude": -20.787,
+    "longitude": -48.3314
+  },
+  {
+    "state": "SP",
+    "ibge": 3554508,
+    "city": "Tietê",
+    "latitude": -23.1101,
+    "longitude": -47.7164
+  },
+  {
+    "state": "SP",
+    "ibge": 3554607,
+    "city": "Timburi",
+    "latitude": -23.2057,
+    "longitude": -49.6096
+  },
+  {
+    "state": "SP",
+    "ibge": 3554656,
+    "city": "Torre de Pedra",
+    "latitude": -23.2462,
+    "longitude": -48.1955
+  },
+  {
+    "state": "SP",
+    "ibge": 3554706,
+    "city": "Torrinha",
+    "latitude": -22.4237,
+    "longitude": -48.1731
+  },
+  {
+    "state": "SP",
+    "ibge": 3554755,
+    "city": "Trabiju",
+    "latitude": -22.0388,
+    "longitude": -48.3342
+  },
+  {
+    "state": "SP",
+    "ibge": 3554805,
+    "city": "Tremembé",
+    "latitude": -22.9571,
+    "longitude": -45.5475
+  },
+  {
+    "state": "SP",
+    "ibge": 3554904,
+    "city": "Três Fronteiras",
+    "latitude": -20.2344,
+    "longitude": -50.8905
+  },
+  {
+    "state": "SP",
+    "ibge": 3554953,
+    "city": "Tuiuti",
+    "latitude": -22.8193,
+    "longitude": -46.6937
+  },
+  {
+    "state": "SP",
+    "ibge": 3555000,
+    "city": "Tupã",
+    "latitude": -21.9335,
+    "longitude": -50.5191
+  },
+  {
+    "state": "SP",
+    "ibge": 3555109,
+    "city": "Tupi Paulista",
+    "latitude": -21.3825,
+    "longitude": -51.575
+  },
+  {
+    "state": "SP",
+    "ibge": 3555208,
+    "city": "Turiúba",
+    "latitude": -20.9428,
+    "longitude": -50.1135
+  },
+  {
+    "state": "SP",
+    "ibge": 3555307,
+    "city": "Turmalina",
+    "latitude": -20.0486,
+    "longitude": -50.4792
+  },
+  {
+    "state": "SP",
+    "ibge": 3555356,
+    "city": "Ubarana",
+    "latitude": -21.165,
+    "longitude": -49.7198
+  },
+  {
+    "state": "SP",
+    "ibge": 3555406,
+    "city": "Ubatuba",
+    "latitude": -23.4332,
+    "longitude": -45.0834
+  },
+  {
+    "state": "SP",
+    "ibge": 3555505,
+    "city": "Ubirajara",
+    "latitude": -22.5272,
+    "longitude": -49.6613
+  },
+  {
+    "state": "SP",
+    "ibge": 3555604,
+    "city": "Uchoa",
+    "latitude": -20.9511,
+    "longitude": -49.1713
+  },
+  {
+    "state": "SP",
+    "ibge": 3555703,
+    "city": "União Paulista",
+    "latitude": -20.8862,
+    "longitude": -49.9025
+  },
+  {
+    "state": "SP",
+    "ibge": 3555802,
+    "city": "Urânia",
+    "latitude": -20.2455,
+    "longitude": -50.6455
+  },
+  {
+    "state": "SP",
+    "ibge": 3555901,
+    "city": "Uru",
+    "latitude": -21.7866,
+    "longitude": -49.2848
+  },
+  {
+    "state": "SP",
+    "ibge": 3556008,
+    "city": "Urupês",
+    "latitude": -21.2032,
+    "longitude": -49.2931
+  },
+  {
+    "state": "SP",
+    "ibge": 3556107,
+    "city": "Valentim Gentil",
+    "latitude": -20.4217,
+    "longitude": -50.0889
+  },
+  {
+    "state": "SP",
+    "ibge": 3556206,
+    "city": "Valinhos",
+    "latitude": -22.9698,
+    "longitude": -46.9974
+  },
+  {
+    "state": "SP",
+    "ibge": 3556305,
+    "city": "Valparaíso",
+    "latitude": -21.2229,
+    "longitude": -50.8699
+  },
+  {
+    "state": "SP",
+    "ibge": 3556354,
+    "city": "Vargem",
+    "latitude": -22.887,
+    "longitude": -46.4124
+  },
+  {
+    "state": "SP",
+    "ibge": 3556404,
+    "city": "Vargem Grande do Sul",
+    "latitude": -21.8322,
+    "longitude": -46.8913
+  },
+  {
+    "state": "SP",
+    "ibge": 3556453,
+    "city": "Vargem Grande Paulista",
+    "latitude": -23.5993,
+    "longitude": -47.022
+  },
+  {
+    "state": "SP",
+    "ibge": 3556503,
+    "city": "Várzea Paulista",
+    "latitude": -23.2136,
+    "longitude": -46.8234
+  },
+  {
+    "state": "SP",
+    "ibge": 3556602,
+    "city": "Vera Cruz",
+    "latitude": -22.2183,
+    "longitude": -49.8207
+  },
+  {
+    "state": "SP",
+    "ibge": 3556701,
+    "city": "Vinhedo",
+    "latitude": -23.0302,
+    "longitude": -46.9833
+  },
+  {
+    "state": "SP",
+    "ibge": 3556800,
+    "city": "Viradouro",
+    "latitude": -20.8734,
+    "longitude": -48.293
+  },
+  {
+    "state": "SP",
+    "ibge": 3556909,
+    "city": "Vista Alegre do Alto",
+    "latitude": -21.1692,
+    "longitude": -48.6284
+  },
+  {
+    "state": "SP",
+    "ibge": 3556958,
+    "city": "Vitória Brasil",
+    "latitude": -20.1956,
+    "longitude": -50.4875
+  },
+  {
+    "state": "SP",
+    "ibge": 3557006,
+    "city": "Votorantim",
+    "latitude": -23.5446,
+    "longitude": -47.4388
+  },
+  {
+    "state": "SP",
+    "ibge": 3557105,
+    "city": "Votuporanga",
+    "latitude": -20.4237,
+    "longitude": -49.9781
+  },
+  {
+    "state": "SP",
+    "ibge": 3557154,
+    "city": "Zacarias",
+    "latitude": -21.0506,
+    "longitude": -50.0552
+  }
+]

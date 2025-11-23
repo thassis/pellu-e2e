@@ -1,6 +1,5 @@
 import React from 'react';
-import {Circle, G, Path, Svg, TSpan} from 'react-native-svg';
-import Text from '../../components/text/Text';
+import { G, Path, Svg } from 'react-native-svg';
 
 type LogoIconProps = {
   width?: number;
@@ -14,7 +13,7 @@ const LogoIcon = ({
   height = 37.5,
 }: LogoIconProps) => {
   return (
-    <Svg width={width} height={height} viewBox="0 0 100 50" id="svg1">
+    <Svg data-testid="logo-header-svg" width={width} height={height} viewBox="0 0 100 50" id="svg1">
       <G id="layer1">
         <Path
           fill={color}

@@ -1,31 +1,30 @@
 const ONBOARDING_KEY = 'onboardingCompleted';
 
-const cookieGet = (name: string): string => {
-  if (typeof document === 'undefined') return '';
-  const cookies = document.cookie ? document.cookie.split('; ') : [];
-  const match = cookies.find((row) => row.startsWith(name + '='));
-  if (!match) return '';
-  const value = match.split('=').slice(1).join('=');
+const storageGet = (key: string): string | null => {
+  if (typeof window === 'undefined' || !window.localStorage) return null;
   try {
-    return decodeURIComponent(value);
-  } catch {
-    return value;
+    return localStorage.getItem(key);
+  } catch (e) {
+    console.log('Error accessing localStorage:', e);
+    return null;
   }
 };
 
-const cookieSet = (name: string, value: string, days = 365) => {
-  if (typeof document === 'undefined') return;
-  const expires = new Date(Date.now() + days * 864e5).toUTCString();
-  const cookie = `${name}=${encodeURIComponent(value)}; expires=${expires}; path=/`;
-  document.cookie = cookie;
+const storageSet = (key: string, value: string) => {
+  if (typeof window === 'undefined' || !window.localStorage) return;
+  try {
+    localStorage.setItem(key, value);
+  } catch (e) {
+    console.log('Error writing to localStorage:', e);
+  }
 };
 
 export const OnboardingStorage = {
   get: async (): Promise<string> => {
-    return cookieGet(ONBOARDING_KEY) || '';
+    return storageGet(ONBOARDING_KEY) || '';
   },
   set: async (value = 'true') => {
-    cookieSet(ONBOARDING_KEY, value);
+    storageSet(ONBOARDING_KEY, value);
   },
   getWasShown: async (): Promise<boolean> => {
     const onboardingCompleted = await OnboardingStorage.get();

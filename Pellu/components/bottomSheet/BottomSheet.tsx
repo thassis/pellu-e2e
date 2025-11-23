@@ -76,7 +76,7 @@ const BottomSheet = () => {
             {title}
           </Text>
         </View>
-        {/* {renderContent()} */}
+        {renderContent()}
       </View>
     </BottomSheetG>
   );

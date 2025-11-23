@@ -2,7 +2,6 @@ import { expect, test } from '@playwright/test';
 
 test.describe('Onboarding Screen', () => {
   test.beforeEach(async ({ page, context }) => {
-    // Clear cookies to ensure we always see the onboarding
     await context.clearCookies();
     await page.goto('http://localhost:8081');
   });

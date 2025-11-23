@@ -1,0 +1,1724 @@
+[
+  {
+    "state": "GO",
+    "ibge": 5200050,
+    "city": "Abadia de Goiás",
+    "latitude": -16.7573,
+    "longitude": -49.4412
+  },
+  {
+    "state": "GO",
+    "ibge": 5200100,
+    "city": "Abadiânia",
+    "latitude": -16.197,
+    "longitude": -48.7057
+  },
+  {
+    "state": "GO",
+    "ibge": 5200134,
+    "city": "Acreúna",
+    "latitude": -17.396,
+    "longitude": -50.3749
+  },
+  {
+    "state": "GO",
+    "ibge": 5200159,
+    "city": "Adelândia",
+    "latitude": -16.4127,
+    "longitude": -50.1657
+  },
+  {
+    "state": "GO",
+    "ibge": 5200175,
+    "city": "Água Fria de Goiás",
+    "latitude": -14.9778,
+    "longitude": -47.7823
+  },
+  {
+    "state": "GO",
+    "ibge": 5200209,
+    "city": "Água Limpa",
+    "latitude": -18.0771,
+    "longitude": -48.7603
+  },
+  {
+    "state": "GO",
+    "ibge": 5200258,
+    "city": "Águas Lindas de Goiás",
+    "latitude": -15.7617,
+    "longitude": -48.2816
+  },
+  {
+    "state": "GO",
+    "ibge": 5200308,
+    "city": "Alexânia",
+    "latitude": -16.0834,
+    "longitude": -48.5076
+  },
+  {
+    "state": "GO",
+    "ibge": 5200506,
+    "city": "Aloândia",
+    "latitude": -17.7292,
+    "longitude": -49.4769
+  },
+  {
+    "state": "GO",
+    "ibge": 5200555,
+    "city": "Alto Horizonte",
+    "latitude": -14.1978,
+    "longitude": -49.3378
+  },
+  {
+    "state": "GO",
+    "ibge": 5200605,
+    "city": "Alto Paraíso de Goiás",
+    "latitude": -14.1305,
+    "longitude": -47.51
+  },
+  {
+    "state": "GO",
+    "ibge": 5200803,
+    "city": "Alvorada do Norte",
+    "latitude": -14.4797,
+    "longitude": -46.491
+  },
+  {
+    "state": "GO",
+    "ibge": 5200829,
+    "city": "Amaralina",
+    "latitude": -13.9236,
+    "longitude": -49.2962
+  },
+  {
+    "state": "GO",
+    "ibge": 5200852,
+    "city": "Americano do Brasil",
+    "latitude": -16.2514,
+    "longitude": -49.9831
+  },
+  {
+    "state": "GO",
+    "ibge": 5200902,
+    "city": "Amorinópolis",
+    "latitude": -16.6151,
+    "longitude": -51.0919
+  },
+  {
+    "state": "GO",
+    "ibge": 5201108,
+    "city": "Anápolis",
+    "latitude": -16.3281,
+    "longitude": -48.953
+  },
+  {
+    "state": "GO",
+    "ibge": 5201207,
+    "city": "Anhanguera",
+    "latitude": -18.3339,
+    "longitude": -48.2204
+  },
+  {
+    "state": "GO",
+    "ibge": 5201306,
+    "city": "Anicuns",
+    "latitude": -16.4642,
+    "longitude": -49.9617
+  },
+  {
+    "state": "GO",
+    "ibge": 5201405,
+    "city": "Aparecida de Goiânia",
+    "latitude": -16.8198,
+    "longitude": -49.2469
+  },
+  {
+    "state": "GO",
+    "ibge": 5201454,
+    "city": "Aparecida do Rio Doce",
+    "latitude": -18.2941,
+    "longitude": -51.1516
+  },
+  {
+    "state": "GO",
+    "ibge": 5201504,
+    "city": "Aporé",
+    "latitude": -18.9607,
+    "longitude": -51.9232
+  },
+  {
+    "state": "GO",
+    "ibge": 5201603,
+    "city": "Araçu",
+    "latitude": -16.3563,
+    "longitude": -49.6804
+  },
+  {
+    "state": "GO",
+    "ibge": 5201702,
+    "city": "Aragarças",
+    "latitude": -15.8955,
+    "longitude": -52.2372
+  },
+  {
+    "state": "GO",
+    "ibge": 5201801,
+    "city": "Aragoiânia",
+    "latitude": -16.9087,
+    "longitude": -49.4476
+  },
+  {
+    "state": "GO",
+    "ibge": 5202155,
+    "city": "Araguapaz",
+    "latitude": -15.0909,
+    "longitude": -50.6315
+  },
+  {
+    "state": "GO",
+    "ibge": 5202353,
+    "city": "Arenópolis",
+    "latitude": -16.3837,
+    "longitude": -51.5563
+  },
+  {
+    "state": "GO",
+    "ibge": 5202502,
+    "city": "Aruanã",
+    "latitude": -14.9166,
+    "longitude": -51.075
+  },
+  {
+    "state": "GO",
+    "ibge": 5202601,
+    "city": "Aurilândia",
+    "latitude": -16.6773,
+    "longitude": -50.4641
+  },
+  {
+    "state": "GO",
+    "ibge": 5202809,
+    "city": "Avelinópolis",
+    "latitude": -16.4672,
+    "longitude": -49.7579
+  },
+  {
+    "state": "GO",
+    "ibge": 5203104,
+    "city": "Baliza",
+    "latitude": -16.1966,
+    "longitude": -52.5393
+  },
+  {
+    "state": "GO",
+    "ibge": 5203203,
+    "city": "Barro Alto",
+    "latitude": -14.9658,
+    "longitude": -48.9086
+  },
+  {
+    "state": "GO",
+    "ibge": 5203302,
+    "city": "Bela Vista de Goiás",
+    "latitude": -16.9693,
+    "longitude": -48.9513
+  },
+  {
+    "state": "GO",
+    "ibge": 5203401,
+    "city": "Bom Jardim de Goiás",
+    "latitude": -16.2063,
+    "longitude": -52.1728
+  },
+  {
+    "state": "GO",
+    "ibge": 5203500,
+    "city": "Bom Jesus de Goiás",
+    "latitude": -18.2173,
+    "longitude": -49.74
+  },
+  {
+    "state": "GO",
+    "ibge": 5203559,
+    "city": "Bonfinópolis",
+    "latitude": -16.6173,
+    "longitude": -48.9616
+  },
+  {
+    "state": "GO",
+    "ibge": 5203575,
+    "city": "Bonópolis",
+    "latitude": -13.6329,
+    "longitude": -49.8106
+  },
+  {
+    "state": "GO",
+    "ibge": 5203609,
+    "city": "Brazabrantes",
+    "latitude": -16.4281,
+    "longitude": -49.3863
+  },
+  {
+    "state": "GO",
+    "ibge": 5203807,
+    "city": "Britânia",
+    "latitude": -15.2428,
+    "longitude": -51.1602
+  },
+  {
+    "state": "GO",
+    "ibge": 5203906,
+    "city": "Buriti Alegre",
+    "latitude": -18.1378,
+    "longitude": -49.0404
+  },
+  {
+    "state": "GO",
+    "ibge": 5203939,
+    "city": "Buriti de Goiás",
+    "latitude": -16.1792,
+    "longitude": -50.4302
+  },
+  {
+    "state": "GO",
+    "ibge": 5203962,
+    "city": "Buritinópolis",
+    "latitude": -14.4772,
+    "longitude": -46.4076
+  },
+  {
+    "state": "GO",
+    "ibge": 5204003,
+    "city": "Cabeceiras",
+    "latitude": -15.7995,
+    "longitude": -46.9265
+  },
+  {
+    "state": "GO",
+    "ibge": 5204102,
+    "city": "Cachoeira Alta",
+    "latitude": -18.7618,
+    "longitude": -50.9432
+  },
+  {
+    "state": "GO",
+    "ibge": 5204201,
+    "city": "Cachoeira de Goiás",
+    "latitude": -16.6635,
+    "longitude": -50.646
+  },
+  {
+    "state": "GO",
+    "ibge": 5204250,
+    "city": "Cachoeira Dourada",
+    "latitude": -18.4859,
+    "longitude": -49.4766
+  },
+  {
+    "state": "GO",
+    "ibge": 5204300,
+    "city": "Caçu",
+    "latitude": -18.5594,
+    "longitude": -51.1328
+  },
+  {
+    "state": "GO",
+    "ibge": 5204409,
+    "city": "Caiapônia",
+    "latitude": -16.9539,
+    "longitude": -51.8091
+  },
+  {
+    "state": "GO",
+    "ibge": 5204508,
+    "city": "Caldas Novas",
+    "latitude": -17.7441,
+    "longitude": -48.6246
+  },
+  {
+    "state": "GO",
+    "ibge": 5204557,
+    "city": "Caldazinha",
+    "latitude": -16.7117,
+    "longitude": -49.0013
+  },
+  {
+    "state": "GO",
+    "ibge": 5204607,
+    "city": "Campestre de Goiás",
+    "latitude": -16.7624,
+    "longitude": -49.695
+  },
+  {
+    "state": "GO",
+    "ibge": 5204656,
+    "city": "Campinaçu",
+    "latitude": -13.787,
+    "longitude": -48.5704
+  },
+  {
+    "state": "GO",
+    "ibge": 5204706,
+    "city": "Campinorte",
+    "latitude": -14.3137,
+    "longitude": -49.1511
+  },
+  {
+    "state": "GO",
+    "ibge": 5204805,
+    "city": "Campo Alegre de Goiás",
+    "latitude": -17.6363,
+    "longitude": -47.7768
+  },
+  {
+    "state": "GO",
+    "ibge": 5204854,
+    "city": "Campo Limpo de Goiás",
+    "latitude": -16.2971,
+    "longitude": -49.0895
+  },
+  {
+    "state": "GO",
+    "ibge": 5204904,
+    "city": "Campos Belos",
+    "latitude": -13.035,
+    "longitude": -46.7681
+  },
+  {
+    "state": "GO",
+    "ibge": 5204953,
+    "city": "Campos Verdes",
+    "latitude": -14.2442,
+    "longitude": -49.6528
+  },
+  {
+    "state": "GO",
+    "ibge": 5205000,
+    "city": "Carmo do Rio Verde",
+    "latitude": -15.3549,
+    "longitude": -49.708
+  },
+  {
+    "state": "GO",
+    "ibge": 5205059,
+    "city": "Castelândia",
+    "latitude": -18.0921,
+    "longitude": -50.203
+  },
+  {
+    "state": "GO",
+    "ibge": 5205109,
+    "city": "Catalão",
+    "latitude": -18.1656,
+    "longitude": -47.944
+  },
+  {
+    "state": "GO",
+    "ibge": 5205208,
+    "city": "Caturaí",
+    "latitude": -16.4447,
+    "longitude": -49.4936
+  },
+  {
+    "state": "GO",
+    "ibge": 5205307,
+    "city": "Cavalcante",
+    "latitude": -13.7976,
+    "longitude": -47.4566
+  },
+  {
+    "state": "GO",
+    "ibge": 5205406,
+    "city": "Ceres",
+    "latitude": -15.3061,
+    "longitude": -49.6
+  },
+  {
+    "state": "GO",
+    "ibge": 5205455,
+    "city": "Cezarina",
+    "latitude": -16.9718,
+    "longitude": -49.7758
+  },
+  {
+    "state": "GO",
+    "ibge": 5205471,
+    "city": "Chapadão do Céu",
+    "latitude": -18.4073,
+    "longitude": -52.549
+  },
+  {
+    "state": "GO",
+    "ibge": 5205497,
+    "city": "Cidade Ocidental",
+    "latitude": -16.0765,
+    "longitude": -47.9252
+  },
+  {
+    "state": "GO",
+    "ibge": 5205513,
+    "city": "Cocalzinho de Goiás",
+    "latitude": -15.7914,
+    "longitude": -48.7747
+  },
+  {
+    "state": "GO",
+    "ibge": 5205521,
+    "city": "Colinas do Sul",
+    "latitude": -14.1528,
+    "longitude": -48.076
+  },
+  {
+    "state": "GO",
+    "ibge": 5205703,
+    "city": "Córrego do Ouro",
+    "latitude": -16.2918,
+    "longitude": -50.5503
+  },
+  {
+    "state": "GO",
+    "ibge": 5205802,
+    "city": "Corumbá de Goiás",
+    "latitude": -15.9245,
+    "longitude": -48.8117
+  },
+  {
+    "state": "GO",
+    "ibge": 5205901,
+    "city": "Corumbaíba",
+    "latitude": -18.1415,
+    "longitude": -48.5626
+  },
+  {
+    "state": "GO",
+    "ibge": 5206206,
+    "city": "Cristalina",
+    "latitude": -16.7676,
+    "longitude": -47.6131
+  },
+  {
+    "state": "GO",
+    "ibge": 5206305,
+    "city": "Cristianópolis",
+    "latitude": -17.1987,
+    "longitude": -48.7034
+  },
+  {
+    "state": "GO",
+    "ibge": 5206404,
+    "city": "Crixás",
+    "latitude": -14.5412,
+    "longitude": -49.974
+  },
+  {
+    "state": "GO",
+    "ibge": 5206503,
+    "city": "Cromínia",
+    "latitude": -17.2883,
+    "longitude": -49.3798
+  },
+  {
+    "state": "GO",
+    "ibge": 5206602,
+    "city": "Cumari",
+    "latitude": -18.2644,
+    "longitude": -48.1511
+  },
+  {
+    "state": "GO",
+    "ibge": 5206701,
+    "city": "Damianópolis",
+    "latitude": -14.5604,
+    "longitude": -46.178
+  },
+  {
+    "state": "GO",
+    "ibge": 5206800,
+    "city": "Damolândia",
+    "latitude": -16.2544,
+    "longitude": -49.3631
+  },
+  {
+    "state": "GO",
+    "ibge": 5206909,
+    "city": "Davinópolis",
+    "latitude": -18.1501,
+    "longitude": -47.5568
+  },
+  {
+    "state": "GO",
+    "ibge": 5207105,
+    "city": "Diorama",
+    "latitude": -16.2329,
+    "longitude": -51.2543
+  },
+  {
+    "state": "GO",
+    "ibge": 5208301,
+    "city": "Divinópolis de Goiás",
+    "latitude": -13.2853,
+    "longitude": -46.3999
+  },
+  {
+    "state": "GO",
+    "ibge": 5207253,
+    "city": "Doverlândia",
+    "latitude": -16.7188,
+    "longitude": -52.3189
+  },
+  {
+    "state": "GO",
+    "ibge": 5207352,
+    "city": "Edealina",
+    "latitude": -17.4239,
+    "longitude": -49.6644
+  },
+  {
+    "state": "GO",
+    "ibge": 5207402,
+    "city": "Edéia",
+    "latitude": -17.3406,
+    "longitude": -49.9295
+  },
+  {
+    "state": "GO",
+    "ibge": 5207501,
+    "city": "Estrela do Norte",
+    "latitude": -13.8665,
+    "longitude": -49.0716
+  },
+  {
+    "state": "GO",
+    "ibge": 5207535,
+    "city": "Faina",
+    "latitude": -15.4473,
+    "longitude": -50.3622
+  },
+  {
+    "state": "GO",
+    "ibge": 5207600,
+    "city": "Fazenda Nova",
+    "latitude": -16.1834,
+    "longitude": -50.7781
+  },
+  {
+    "state": "GO",
+    "ibge": 5207808,
+    "city": "Firminópolis",
+    "latitude": -16.5778,
+    "longitude": -50.304
+  },
+  {
+    "state": "GO",
+    "ibge": 5207907,
+    "city": "Flores de Goiás",
+    "latitude": -14.4451,
+    "longitude": -47.0417
+  },
+  {
+    "state": "GO",
+    "ibge": 5208004,
+    "city": "Formosa",
+    "latitude": -15.54,
+    "longitude": -47.337
+  },
+  {
+    "state": "GO",
+    "ibge": 5208103,
+    "city": "Formoso",
+    "latitude": -13.6499,
+    "longitude": -48.8775
+  },
+  {
+    "state": "GO",
+    "ibge": 5208152,
+    "city": "Gameleira de Goiás",
+    "latitude": -16.4854,
+    "longitude": -48.6454
+  },
+  {
+    "state": "GO",
+    "ibge": 5208400,
+    "city": "Goianápolis",
+    "latitude": -16.5098,
+    "longitude": -49.0234
+  },
+  {
+    "state": "GO",
+    "ibge": 5208509,
+    "city": "Goiandira",
+    "latitude": -18.1352,
+    "longitude": -48.0875
+  },
+  {
+    "state": "GO",
+    "ibge": 5208608,
+    "city": "Goianésia",
+    "latitude": -15.3118,
+    "longitude": -49.1162
+  },
+  {
+    "state": "GO",
+    "ibge": 5208707,
+    "city": "Goiânia",
+    "latitude": -16.6864,
+    "longitude": -49.2643
+  },
+  {
+    "state": "GO",
+    "ibge": 5208806,
+    "city": "Goianira",
+    "latitude": -16.4947,
+    "longitude": -49.427
+  },
+  {
+    "state": "GO",
+    "ibge": 5208905,
+    "city": "Goiás",
+    "latitude": -15.9333,
+    "longitude": -50.14
+  },
+  {
+    "state": "GO",
+    "ibge": 5209101,
+    "city": "Goiatuba",
+    "latitude": -18.0105,
+    "longitude": -49.3658
+  },
+  {
+    "state": "GO",
+    "ibge": 5209150,
+    "city": "Gouvelândia",
+    "latitude": -18.6238,
+    "longitude": -50.0805
+  },
+  {
+    "state": "GO",
+    "ibge": 5209200,
+    "city": "Guapó",
+    "latitude": -16.8297,
+    "longitude": -49.5345
+  },
+  {
+    "state": "GO",
+    "ibge": 5209291,
+    "city": "Guaraíta",
+    "latitude": -15.6121,
+    "longitude": -50.0265
+  },
+  {
+    "state": "GO",
+    "ibge": 5209408,
+    "city": "Guarani de Goiás",
+    "latitude": -13.9421,
+    "longitude": -46.4868
+  },
+  {
+    "state": "GO",
+    "ibge": 5209457,
+    "city": "Guarinos",
+    "latitude": -14.7292,
+    "longitude": -49.7006
+  },
+  {
+    "state": "GO",
+    "ibge": 5209606,
+    "city": "Heitoraí",
+    "latitude": -15.719,
+    "longitude": -49.8268
+  },
+  {
+    "state": "GO",
+    "ibge": 5209705,
+    "city": "Hidrolândia",
+    "latitude": -16.9626,
+    "longitude": -49.2265
+  },
+  {
+    "state": "GO",
+    "ibge": 5209804,
+    "city": "Hidrolina",
+    "latitude": -14.7261,
+    "longitude": -49.4634
+  },
+  {
+    "state": "GO",
+    "ibge": 5209903,
+    "city": "Iaciara",
+    "latitude": -14.1011,
+    "longitude": -46.6335
+  },
+  {
+    "state": "GO",
+    "ibge": 5209937,
+    "city": "Inaciolândia",
+    "latitude": -18.4869,
+    "longitude": -49.9888
+  },
+  {
+    "state": "GO",
+    "ibge": 5209952,
+    "city": "Indiara",
+    "latitude": -17.1387,
+    "longitude": -49.9862
+  },
+  {
+    "state": "GO",
+    "ibge": 5210000,
+    "city": "Inhumas",
+    "latitude": -16.3611,
+    "longitude": -49.5001
+  },
+  {
+    "state": "GO",
+    "ibge": 5210109,
+    "city": "Ipameri",
+    "latitude": -17.7215,
+    "longitude": -48.1581
+  },
+  {
+    "state": "GO",
+    "ibge": 5210158,
+    "city": "Ipiranga de Goiás",
+    "latitude": -15.1689,
+    "longitude": -49.6695
+  },
+  {
+    "state": "GO",
+    "ibge": 5210208,
+    "city": "Iporá",
+    "latitude": -16.4398,
+    "longitude": -51.118
+  },
+  {
+    "state": "GO",
+    "ibge": 5210307,
+    "city": "Israelândia",
+    "latitude": -16.3144,
+    "longitude": -50.9087
+  },
+  {
+    "state": "GO",
+    "ibge": 5210406,
+    "city": "Itaberaí",
+    "latitude": -16.0206,
+    "longitude": -49.806
+  },
+  {
+    "state": "GO",
+    "ibge": 5210562,
+    "city": "Itaguari",
+    "latitude": -15.918,
+    "longitude": -49.6071
+  },
+  {
+    "state": "GO",
+    "ibge": 5210604,
+    "city": "Itaguaru",
+    "latitude": -15.7565,
+    "longitude": -49.6354
+  },
+  {
+    "state": "GO",
+    "ibge": 5210802,
+    "city": "Itajá",
+    "latitude": -19.0673,
+    "longitude": -51.5495
+  },
+  {
+    "state": "GO",
+    "ibge": 5210901,
+    "city": "Itapaci",
+    "latitude": -14.9522,
+    "longitude": -49.5511
+  },
+  {
+    "state": "GO",
+    "ibge": 5211008,
+    "city": "Itapirapuã",
+    "latitude": -15.8205,
+    "longitude": -50.6094
+  },
+  {
+    "state": "GO",
+    "ibge": 5211206,
+    "city": "Itapuranga",
+    "latitude": -15.5606,
+    "longitude": -49.949
+  },
+  {
+    "state": "GO",
+    "ibge": 5211305,
+    "city": "Itarumã",
+    "latitude": -18.7646,
+    "longitude": -51.3485
+  },
+  {
+    "state": "GO",
+    "ibge": 5211404,
+    "city": "Itauçu",
+    "latitude": -16.2029,
+    "longitude": -49.6109
+  },
+  {
+    "state": "GO",
+    "ibge": 5211503,
+    "city": "Itumbiara",
+    "latitude": -18.4093,
+    "longitude": -49.2158
+  },
+  {
+    "state": "GO",
+    "ibge": 5211602,
+    "city": "Ivolândia",
+    "latitude": -16.5995,
+    "longitude": -50.7921
+  },
+  {
+    "state": "GO",
+    "ibge": 5211701,
+    "city": "Jandaia",
+    "latitude": -17.0481,
+    "longitude": -50.1453
+  },
+  {
+    "state": "GO",
+    "ibge": 5211800,
+    "city": "Jaraguá",
+    "latitude": -15.7529,
+    "longitude": -49.3344
+  },
+  {
+    "state": "GO",
+    "ibge": 5211909,
+    "city": "Jataí",
+    "latitude": -17.8784,
+    "longitude": -51.7204
+  },
+  {
+    "state": "GO",
+    "ibge": 5212006,
+    "city": "Jaupaci",
+    "latitude": -16.1773,
+    "longitude": -50.9508
+  },
+  {
+    "state": "GO",
+    "ibge": 5212055,
+    "city": "Jesúpolis",
+    "latitude": -15.9484,
+    "longitude": -49.3739
+  },
+  {
+    "state": "GO",
+    "ibge": 5212105,
+    "city": "Joviânia",
+    "latitude": -17.802,
+    "longitude": -49.6197
+  },
+  {
+    "state": "GO",
+    "ibge": 5212204,
+    "city": "Jussara",
+    "latitude": -15.8659,
+    "longitude": -50.8668
+  },
+  {
+    "state": "GO",
+    "ibge": 5212253,
+    "city": "Lagoa Santa",
+    "latitude": -19.1832,
+    "longitude": -51.3998
+  },
+  {
+    "state": "GO",
+    "ibge": 5212303,
+    "city": "Leopoldo de Bulhões",
+    "latitude": -16.619,
+    "longitude": -48.7428
+  },
+  {
+    "state": "GO",
+    "ibge": 5212501,
+    "city": "Luziânia",
+    "latitude": -16.253,
+    "longitude": -47.95
+  },
+  {
+    "state": "GO",
+    "ibge": 5212600,
+    "city": "Mairipotaba",
+    "latitude": -17.2975,
+    "longitude": -49.4898
+  },
+  {
+    "state": "GO",
+    "ibge": 5212709,
+    "city": "Mambaí",
+    "latitude": -14.4823,
+    "longitude": -46.1165
+  },
+  {
+    "state": "GO",
+    "ibge": 5212808,
+    "city": "Mara Rosa",
+    "latitude": -14.0148,
+    "longitude": -49.1777
+  },
+  {
+    "state": "GO",
+    "ibge": 5212907,
+    "city": "Marzagão",
+    "latitude": -17.983,
+    "longitude": -48.6415
+  },
+  {
+    "state": "GO",
+    "ibge": 5212956,
+    "city": "Matrinchã",
+    "latitude": -15.4342,
+    "longitude": -50.7456
+  },
+  {
+    "state": "GO",
+    "ibge": 5213004,
+    "city": "Maurilândia",
+    "latitude": -17.9719,
+    "longitude": -50.3388
+  },
+  {
+    "state": "GO",
+    "ibge": 5213053,
+    "city": "Mimoso de Goiás",
+    "latitude": -15.0515,
+    "longitude": -48.1611
+  },
+  {
+    "state": "GO",
+    "ibge": 5213087,
+    "city": "Minaçu",
+    "latitude": -13.5304,
+    "longitude": -48.2206
+  },
+  {
+    "state": "GO",
+    "ibge": 5213103,
+    "city": "Mineiros",
+    "latitude": -17.5654,
+    "longitude": -52.5537
+  },
+  {
+    "state": "GO",
+    "ibge": 5213400,
+    "city": "Moiporá",
+    "latitude": -16.5434,
+    "longitude": -50.739
+  },
+  {
+    "state": "GO",
+    "ibge": 5213509,
+    "city": "Monte Alegre de Goiás",
+    "latitude": -13.2552,
+    "longitude": -46.8928
+  },
+  {
+    "state": "GO",
+    "ibge": 5213707,
+    "city": "Montes Claros de Goiás",
+    "latitude": -16.0059,
+    "longitude": -51.3979
+  },
+  {
+    "state": "GO",
+    "ibge": 5213756,
+    "city": "Montividiu",
+    "latitude": -17.4439,
+    "longitude": -51.1728
+  },
+  {
+    "state": "GO",
+    "ibge": 5213772,
+    "city": "Montividiu do Norte",
+    "latitude": -13.3485,
+    "longitude": -48.6853
+  },
+  {
+    "state": "GO",
+    "ibge": 5213806,
+    "city": "Morrinhos",
+    "latitude": -17.7334,
+    "longitude": -49.1059
+  },
+  {
+    "state": "GO",
+    "ibge": 5213855,
+    "city": "Morro Agudo de Goiás",
+    "latitude": -15.3184,
+    "longitude": -50.0553
+  },
+  {
+    "state": "GO",
+    "ibge": 5213905,
+    "city": "Mossâmedes",
+    "latitude": -16.124,
+    "longitude": -50.2136
+  },
+  {
+    "state": "GO",
+    "ibge": 5214002,
+    "city": "Mozarlândia",
+    "latitude": -14.7457,
+    "longitude": -50.5713
+  },
+  {
+    "state": "GO",
+    "ibge": 5214051,
+    "city": "Mundo Novo",
+    "latitude": -13.7729,
+    "longitude": -50.2814
+  },
+  {
+    "state": "GO",
+    "ibge": 5214101,
+    "city": "Mutunópolis",
+    "latitude": -13.7303,
+    "longitude": -49.2745
+  },
+  {
+    "state": "GO",
+    "ibge": 5214408,
+    "city": "Nazário",
+    "latitude": -16.5808,
+    "longitude": -49.8817
+  },
+  {
+    "state": "GO",
+    "ibge": 5214507,
+    "city": "Nerópolis",
+    "latitude": -16.4047,
+    "longitude": -49.2227
+  },
+  {
+    "state": "GO",
+    "ibge": 5214606,
+    "city": "Niquelândia",
+    "latitude": -14.4662,
+    "longitude": -48.4599
+  },
+  {
+    "state": "GO",
+    "ibge": 5214705,
+    "city": "Nova América",
+    "latitude": -15.0206,
+    "longitude": -49.8953
+  },
+  {
+    "state": "GO",
+    "ibge": 5214804,
+    "city": "Nova Aurora",
+    "latitude": -18.0597,
+    "longitude": -48.2552
+  },
+  {
+    "state": "GO",
+    "ibge": 5214838,
+    "city": "Nova Crixás",
+    "latitude": -14.0957,
+    "longitude": -50.33
+  },
+  {
+    "state": "GO",
+    "ibge": 5214861,
+    "city": "Nova Glória",
+    "latitude": -15.145,
+    "longitude": -49.5737
+  },
+  {
+    "state": "GO",
+    "ibge": 5214879,
+    "city": "Nova Iguaçu de Goiás",
+    "latitude": -14.2868,
+    "longitude": -49.3872
+  },
+  {
+    "state": "GO",
+    "ibge": 5214903,
+    "city": "Nova Roma",
+    "latitude": -13.7388,
+    "longitude": -46.8734
+  },
+  {
+    "state": "GO",
+    "ibge": 5215009,
+    "city": "Nova Veneza",
+    "latitude": -16.3695,
+    "longitude": -49.3168
+  },
+  {
+    "state": "GO",
+    "ibge": 5215207,
+    "city": "Novo Brasil",
+    "latitude": -16.0313,
+    "longitude": -50.7113
+  },
+  {
+    "state": "GO",
+    "ibge": 5215231,
+    "city": "Novo Gama",
+    "latitude": -16.0592,
+    "longitude": -48.0417
+  },
+  {
+    "state": "GO",
+    "ibge": 5215256,
+    "city": "Novo Planalto",
+    "latitude": -13.2424,
+    "longitude": -49.506
+  },
+  {
+    "state": "GO",
+    "ibge": 5215306,
+    "city": "Orizona",
+    "latitude": -17.0334,
+    "longitude": -48.2964
+  },
+  {
+    "state": "GO",
+    "ibge": 5215405,
+    "city": "Ouro Verde de Goiás",
+    "latitude": -16.2181,
+    "longitude": -49.1942
+  },
+  {
+    "state": "GO",
+    "ibge": 5215504,
+    "city": "Ouvidor",
+    "latitude": -18.2277,
+    "longitude": -47.8355
+  },
+  {
+    "state": "GO",
+    "ibge": 5215603,
+    "city": "Padre Bernardo",
+    "latitude": -15.1605,
+    "longitude": -48.2833
+  },
+  {
+    "state": "GO",
+    "ibge": 5215652,
+    "city": "Palestina de Goiás",
+    "latitude": -16.7392,
+    "longitude": -51.5309
+  },
+  {
+    "state": "GO",
+    "ibge": 5215702,
+    "city": "Palmeiras de Goiás",
+    "latitude": -16.8044,
+    "longitude": -49.924
+  },
+  {
+    "state": "GO",
+    "ibge": 5215801,
+    "city": "Palmelo",
+    "latitude": -17.3258,
+    "longitude": -48.426
+  },
+  {
+    "state": "GO",
+    "ibge": 5215900,
+    "city": "Palminópolis",
+    "latitude": -16.7924,
+    "longitude": -50.1652
+  },
+  {
+    "state": "GO",
+    "ibge": 5216007,
+    "city": "Panamá",
+    "latitude": -18.1783,
+    "longitude": -49.355
+  },
+  {
+    "state": "GO",
+    "ibge": 5216304,
+    "city": "Paranaiguara",
+    "latitude": -18.9141,
+    "longitude": -50.6539
+  },
+  {
+    "state": "GO",
+    "ibge": 5216403,
+    "city": "Paraúna",
+    "latitude": -16.9463,
+    "longitude": -50.4484
+  },
+  {
+    "state": "GO",
+    "ibge": 5216452,
+    "city": "Perolândia",
+    "latitude": -17.5258,
+    "longitude": -52.065
+  },
+  {
+    "state": "GO",
+    "ibge": 5216809,
+    "city": "Petrolina de Goiás",
+    "latitude": -16.0968,
+    "longitude": -49.3364
+  },
+  {
+    "state": "GO",
+    "ibge": 5216908,
+    "city": "Pilar de Goiás",
+    "latitude": -14.7608,
+    "longitude": -49.5784
+  },
+  {
+    "state": "GO",
+    "ibge": 5217104,
+    "city": "Piracanjuba",
+    "latitude": -17.302,
+    "longitude": -49.017
+  },
+  {
+    "state": "GO",
+    "ibge": 5217203,
+    "city": "Piranhas",
+    "latitude": -16.4258,
+    "longitude": -51.8235
+  },
+  {
+    "state": "GO",
+    "ibge": 5217302,
+    "city": "Pirenópolis",
+    "latitude": -15.8507,
+    "longitude": -48.9584
+  },
+  {
+    "state": "GO",
+    "ibge": 5217401,
+    "city": "Pires do Rio",
+    "latitude": -17.3019,
+    "longitude": -48.2768
+  },
+  {
+    "state": "GO",
+    "ibge": 5217609,
+    "city": "Planaltina",
+    "latitude": -15.452,
+    "longitude": -47.6089
+  },
+  {
+    "state": "GO",
+    "ibge": 5217708,
+    "city": "Pontalina",
+    "latitude": -17.5225,
+    "longitude": -49.4489
+  },
+  {
+    "state": "GO",
+    "ibge": 5218003,
+    "city": "Porangatu",
+    "latitude": -13.4391,
+    "longitude": -49.1503
+  },
+  {
+    "state": "GO",
+    "ibge": 5218052,
+    "city": "Porteirão",
+    "latitude": -17.8143,
+    "longitude": -50.1653
+  },
+  {
+    "state": "GO",
+    "ibge": 5218102,
+    "city": "Portelândia",
+    "latitude": -17.3554,
+    "longitude": -52.6799
+  },
+  {
+    "state": "GO",
+    "ibge": 5218300,
+    "city": "Posse",
+    "latitude": -14.0859,
+    "longitude": -46.3704
+  },
+  {
+    "state": "GO",
+    "ibge": 5218391,
+    "city": "Professor Jamil",
+    "latitude": -17.2497,
+    "longitude": -49.244
+  },
+  {
+    "state": "GO",
+    "ibge": 5218508,
+    "city": "Quirinópolis",
+    "latitude": -18.4472,
+    "longitude": -50.4547
+  },
+  {
+    "state": "GO",
+    "ibge": 5218607,
+    "city": "Rialma",
+    "latitude": -15.3145,
+    "longitude": -49.5814
+  },
+  {
+    "state": "GO",
+    "ibge": 5218706,
+    "city": "Rianápolis",
+    "latitude": -15.4456,
+    "longitude": -49.5114
+  },
+  {
+    "state": "GO",
+    "ibge": 5218789,
+    "city": "Rio Quente",
+    "latitude": -17.774,
+    "longitude": -48.7725
+  },
+  {
+    "state": "GO",
+    "ibge": 5218805,
+    "city": "Rio Verde",
+    "latitude": -17.7923,
+    "longitude": -50.9192
+  },
+  {
+    "state": "GO",
+    "ibge": 5218904,
+    "city": "Rubiataba",
+    "latitude": -15.1617,
+    "longitude": -49.8048
+  },
+  {
+    "state": "GO",
+    "ibge": 5219001,
+    "city": "Sanclerlândia",
+    "latitude": -16.197,
+    "longitude": -50.3124
+  },
+  {
+    "state": "GO",
+    "ibge": 5219100,
+    "city": "Santa Bárbara de Goiás",
+    "latitude": -16.5714,
+    "longitude": -49.6954
+  },
+  {
+    "state": "GO",
+    "ibge": 5219209,
+    "city": "Santa Cruz de Goiás",
+    "latitude": -17.3155,
+    "longitude": -48.4809
+  },
+  {
+    "state": "GO",
+    "ibge": 5219258,
+    "city": "Santa Fé de Goiás",
+    "latitude": -15.7664,
+    "longitude": -51.1037
+  },
+  {
+    "state": "GO",
+    "ibge": 5219308,
+    "city": "Santa Helena de Goiás",
+    "latitude": -17.8115,
+    "longitude": -50.5977
+  },
+  {
+    "state": "GO",
+    "ibge": 5219357,
+    "city": "Santa Isabel",
+    "latitude": -15.2958,
+    "longitude": -49.4259
+  },
+  {
+    "state": "GO",
+    "ibge": 5219407,
+    "city": "Santa Rita do Araguaia",
+    "latitude": -17.3269,
+    "longitude": -53.2012
+  },
+  {
+    "state": "GO",
+    "ibge": 5219456,
+    "city": "Santa Rita do Novo Destino",
+    "latitude": -15.1351,
+    "longitude": -49.1203
+  },
+  {
+    "state": "GO",
+    "ibge": 5219506,
+    "city": "Santa Rosa de Goiás",
+    "latitude": -16.084,
+    "longitude": -49.4953
+  },
+  {
+    "state": "GO",
+    "ibge": 5219605,
+    "city": "Santa Tereza de Goiás",
+    "latitude": -13.7138,
+    "longitude": -49.0144
+  },
+  {
+    "state": "GO",
+    "ibge": 5219704,
+    "city": "Santa Terezinha de Goiás",
+    "latitude": -14.4326,
+    "longitude": -49.7091
+  },
+  {
+    "state": "GO",
+    "ibge": 5219712,
+    "city": "Santo Antônio da Barra",
+    "latitude": -17.5585,
+    "longitude": -50.6345
+  },
+  {
+    "state": "GO",
+    "ibge": 5219738,
+    "city": "Santo Antônio de Goiás",
+    "latitude": -16.4815,
+    "longitude": -49.3096
+  },
+  {
+    "state": "GO",
+    "ibge": 5219753,
+    "city": "Santo Antônio do Descoberto",
+    "latitude": -15.9412,
+    "longitude": -48.2578
+  },
+  {
+    "state": "GO",
+    "ibge": 5219803,
+    "city": "São Domingos",
+    "latitude": -13.621,
+    "longitude": -46.7415
+  },
+  {
+    "state": "GO",
+    "ibge": 5219902,
+    "city": "São Francisco de Goiás",
+    "latitude": -15.9256,
+    "longitude": -49.2605
+  },
+  {
+    "state": "GO",
+    "ibge": 5220009,
+    "city": "São João d'Aliança",
+    "latitude": -14.7048,
+    "longitude": -47.5228
+  },
+  {
+    "state": "GO",
+    "ibge": 5220058,
+    "city": "São João da Paraúna",
+    "latitude": -16.8126,
+    "longitude": -50.4092
+  },
+  {
+    "state": "GO",
+    "ibge": 5220108,
+    "city": "São Luís de Montes Belos",
+    "latitude": -16.5211,
+    "longitude": -50.3726
+  },
+  {
+    "state": "GO",
+    "ibge": 5220157,
+    "city": "São Luiz do Norte",
+    "latitude": -14.8608,
+    "longitude": -49.3285
+  },
+  {
+    "state": "GO",
+    "ibge": 5220207,
+    "city": "São Miguel do Araguaia",
+    "latitude": -13.2731,
+    "longitude": -50.1634
+  },
+  {
+    "state": "GO",
+    "ibge": 5220264,
+    "city": "São Miguel do Passa Quatro",
+    "latitude": -17.0582,
+    "longitude": -48.662
+  },
+  {
+    "state": "GO",
+    "ibge": 5220280,
+    "city": "São Patrício",
+    "latitude": -15.35,
+    "longitude": -49.818
+  },
+  {
+    "state": "GO",
+    "ibge": 5220405,
+    "city": "São Simão",
+    "latitude": -18.996,
+    "longitude": -50.547
+  },
+  {
+    "state": "GO",
+    "ibge": 5220454,
+    "city": "Senador Canedo",
+    "latitude": -16.7084,
+    "longitude": -49.0914
+  },
+  {
+    "state": "GO",
+    "ibge": 5220504,
+    "city": "Serranópolis",
+    "latitude": -18.3067,
+    "longitude": -51.9586
+  },
+  {
+    "state": "GO",
+    "ibge": 5220603,
+    "city": "Silvânia",
+    "latitude": -16.66,
+    "longitude": -48.6083
+  },
+  {
+    "state": "GO",
+    "ibge": 5220686,
+    "city": "Simolândia",
+    "latitude": -14.4644,
+    "longitude": -46.4847
+  },
+  {
+    "state": "GO",
+    "ibge": 5220702,
+    "city": "Sítio d'Abadia",
+    "latitude": -14.7992,
+    "longitude": -46.2506
+  },
+  {
+    "state": "GO",
+    "ibge": 5221007,
+    "city": "Taquaral de Goiás",
+    "latitude": -16.0521,
+    "longitude": -49.6039
+  },
+  {
+    "state": "GO",
+    "ibge": 5221080,
+    "city": "Teresina de Goiás",
+    "latitude": -13.7801,
+    "longitude": -47.2659
+  },
+  {
+    "state": "GO",
+    "ibge": 5221197,
+    "city": "Terezópolis de Goiás",
+    "latitude": -16.3945,
+    "longitude": -49.0797
+  },
+  {
+    "state": "GO",
+    "ibge": 5221304,
+    "city": "Três Ranchos",
+    "latitude": -18.3539,
+    "longitude": -47.776
+  },
+  {
+    "state": "GO",
+    "ibge": 5221403,
+    "city": "Trindade",
+    "latitude": -16.6517,
+    "longitude": -49.4927
+  },
+  {
+    "state": "GO",
+    "ibge": 5221452,
+    "city": "Trombas",
+    "latitude": -13.5079,
+    "longitude": -48.7417
+  },
+  {
+    "state": "GO",
+    "ibge": 5221502,
+    "city": "Turvânia",
+    "latitude": -16.6125,
+    "longitude": -50.1369
+  },
+  {
+    "state": "GO",
+    "ibge": 5221551,
+    "city": "Turvelândia",
+    "latitude": -17.8502,
+    "longitude": -50.3024
+  },
+  {
+    "state": "GO",
+    "ibge": 5221577,
+    "city": "Uirapuru",
+    "latitude": -14.2835,
+    "longitude": -49.9201
+  },
+  {
+    "state": "GO",
+    "ibge": 5221601,
+    "city": "Uruaçu",
+    "latitude": -14.5238,
+    "longitude": -49.1396
+  },
+  {
+    "state": "GO",
+    "ibge": 5221700,
+    "city": "Uruana",
+    "latitude": -15.4993,
+    "longitude": -49.6861
+  },
+  {
+    "state": "GO",
+    "ibge": 5221809,
+    "city": "Urutaí",
+    "latitude": -17.4651,
+    "longitude": -48.2015
+  },
+  {
+    "state": "GO",
+    "ibge": 5221858,
+    "city": "Valparaíso de Goiás",
+    "latitude": -16.0651,
+    "longitude": -47.9757
+  },
+  {
+    "state": "GO",
+    "ibge": 5221908,
+    "city": "Varjão",
+    "latitude": -17.0471,
+    "longitude": -49.6312
+  },
+  {
+    "state": "GO",
+    "ibge": 5222005,
+    "city": "Vianópolis",
+    "latitude": -16.7405,
+    "longitude": -48.5159
+  },
+  {
+    "state": "GO",
+    "ibge": 5222054,
+    "city": "Vicentinópolis",
+    "latitude": -17.7322,
+    "longitude": -49.8047
+  },
+  {
+    "state": "GO",
+    "ibge": 5222203,
+    "city": "Vila Boa",
+    "latitude": -15.0387,
+    "longitude": -47.052
+  },
+  {
+    "state": "GO",
+    "ibge": 5222302,
+    "city": "Vila Propício",
+    "latitude": -15.4542,
+    "longitude": -48.8819
+  }
+]

@@ -1,0 +1,3481 @@
+[
+  {
+    "state": "RS",
+    "ibge": 4300034,
+    "city": "Aceguá",
+    "latitude": -31.8665,
+    "longitude": -54.1615
+  },
+  {
+    "state": "RS",
+    "ibge": 4300059,
+    "city": "Água Santa",
+    "latitude": -28.1672,
+    "longitude": -52.031
+  },
+  {
+    "state": "RS",
+    "ibge": 4300109,
+    "city": "Agudo",
+    "latitude": -29.6447,
+    "longitude": -53.2515
+  },
+  {
+    "state": "RS",
+    "ibge": 4300208,
+    "city": "Ajuricaba",
+    "latitude": -28.2342,
+    "longitude": -53.7757
+  },
+  {
+    "state": "RS",
+    "ibge": 4300307,
+    "city": "Alecrim",
+    "latitude": -27.6579,
+    "longitude": -54.7649
+  },
+  {
+    "state": "RS",
+    "ibge": 4300406,
+    "city": "Alegrete",
+    "latitude": -29.7902,
+    "longitude": -55.7949
+  },
+  {
+    "state": "RS",
+    "ibge": 4300455,
+    "city": "Alegria",
+    "latitude": -27.8345,
+    "longitude": -54.0557
+  },
+  {
+    "state": "RS",
+    "ibge": 4300471,
+    "city": "Almirante Tamandaré do Sul",
+    "latitude": -28.1149,
+    "longitude": -52.9142
+  },
+  {
+    "state": "RS",
+    "ibge": 4300505,
+    "city": "Alpestre",
+    "latitude": -27.2502,
+    "longitude": -53.0341
+  },
+  {
+    "state": "RS",
+    "ibge": 4300554,
+    "city": "Alto Alegre",
+    "latitude": -28.7769,
+    "longitude": -52.9893
+  },
+  {
+    "state": "RS",
+    "ibge": 4300570,
+    "city": "Alto Feliz",
+    "latitude": -29.3919,
+    "longitude": -51.3123
+  },
+  {
+    "state": "RS",
+    "ibge": 4300604,
+    "city": "Alvorada",
+    "latitude": -29.9914,
+    "longitude": -51.0809
+  },
+  {
+    "state": "RS",
+    "ibge": 4300638,
+    "city": "Amaral Ferrador",
+    "latitude": -30.8756,
+    "longitude": -52.2509
+  },
+  {
+    "state": "RS",
+    "ibge": 4300646,
+    "city": "Ametista do Sul",
+    "latitude": -27.3607,
+    "longitude": -53.183
+  },
+  {
+    "state": "RS",
+    "ibge": 4300661,
+    "city": "André da Rocha",
+    "latitude": -28.6283,
+    "longitude": -51.5797
+  },
+  {
+    "state": "RS",
+    "ibge": 4300703,
+    "city": "Anta Gorda",
+    "latitude": -28.9698,
+    "longitude": -52.0102
+  },
+  {
+    "state": "RS",
+    "ibge": 4300802,
+    "city": "Antônio Prado",
+    "latitude": -28.8565,
+    "longitude": -51.2883
+  },
+  {
+    "state": "RS",
+    "ibge": 4300851,
+    "city": "Arambaré",
+    "latitude": -30.9092,
+    "longitude": -51.5046
+  },
+  {
+    "state": "RS",
+    "ibge": 4300877,
+    "city": "Araricá",
+    "latitude": -29.6168,
+    "longitude": -50.9291
+  },
+  {
+    "state": "RS",
+    "ibge": 4300901,
+    "city": "Aratiba",
+    "latitude": -27.3978,
+    "longitude": -52.2975
+  },
+  {
+    "state": "RS",
+    "ibge": 4301008,
+    "city": "Arroio do Meio",
+    "latitude": -29.4014,
+    "longitude": -51.9557
+  },
+  {
+    "state": "RS",
+    "ibge": 4301073,
+    "city": "Arroio do Padre",
+    "latitude": -31.4389,
+    "longitude": -52.4246
+  },
+  {
+    "state": "RS",
+    "ibge": 4301057,
+    "city": "Arroio do Sal",
+    "latitude": -29.5439,
+    "longitude": -49.8895
+  },
+  {
+    "state": "RS",
+    "ibge": 4301206,
+    "city": "Arroio do Tigre",
+    "latitude": -29.3348,
+    "longitude": -53.0966
+  },
+  {
+    "state": "RS",
+    "ibge": 4301107,
+    "city": "Arroio dos Ratos",
+    "latitude": -30.0875,
+    "longitude": -51.7275
+  },
+  {
+    "state": "RS",
+    "ibge": 4301305,
+    "city": "Arroio Grande",
+    "latitude": -32.2327,
+    "longitude": -53.0862
+  },
+  {
+    "state": "RS",
+    "ibge": 4301404,
+    "city": "Arvorezinha",
+    "latitude": -28.8737,
+    "longitude": -52.1781
+  },
+  {
+    "state": "RS",
+    "ibge": 4301503,
+    "city": "Augusto Pestana",
+    "latitude": -28.5172,
+    "longitude": -53.9883
+  },
+  {
+    "state": "RS",
+    "ibge": 4301552,
+    "city": "Áurea",
+    "latitude": -27.6936,
+    "longitude": -52.0505
+  },
+  {
+    "state": "RS",
+    "ibge": 4301602,
+    "city": "Bagé",
+    "latitude": -31.3297,
+    "longitude": -54.0999
+  },
+  {
+    "state": "RS",
+    "ibge": 4301636,
+    "city": "Balneário Pinhal",
+    "latitude": -30.2419,
+    "longitude": -50.2337
+  },
+  {
+    "state": "RS",
+    "ibge": 4301651,
+    "city": "Barão",
+    "latitude": -29.3725,
+    "longitude": -51.4949
+  },
+  {
+    "state": "RS",
+    "ibge": 4301701,
+    "city": "Barão de Cotegipe",
+    "latitude": -27.6208,
+    "longitude": -52.3798
+  },
+  {
+    "state": "RS",
+    "ibge": 4301750,
+    "city": "Barão do Triunfo",
+    "latitude": -30.3891,
+    "longitude": -51.7384
+  },
+  {
+    "state": "RS",
+    "ibge": 4301859,
+    "city": "Barra do Guarita",
+    "latitude": -27.1927,
+    "longitude": -53.7109
+  },
+  {
+    "state": "RS",
+    "ibge": 4301875,
+    "city": "Barra do Quaraí",
+    "latitude": -30.2029,
+    "longitude": -57.5497
+  },
+  {
+    "state": "RS",
+    "ibge": 4301909,
+    "city": "Barra do Ribeiro",
+    "latitude": -30.2939,
+    "longitude": -51.3014
+  },
+  {
+    "state": "RS",
+    "ibge": 4301925,
+    "city": "Barra do Rio Azul",
+    "latitude": -27.4069,
+    "longitude": -52.4084
+  },
+  {
+    "state": "RS",
+    "ibge": 4301958,
+    "city": "Barra Funda",
+    "latitude": -27.9205,
+    "longitude": -53.0391
+  },
+  {
+    "state": "RS",
+    "ibge": 4301800,
+    "city": "Barracão",
+    "latitude": -27.6739,
+    "longitude": -51.4585
+  },
+  {
+    "state": "RS",
+    "ibge": 4302006,
+    "city": "Barros Cassal",
+    "latitude": -29.0947,
+    "longitude": -52.5836
+  },
+  {
+    "state": "RS",
+    "ibge": 4302055,
+    "city": "Benjamin Constant do Sul",
+    "latitude": -27.5086,
+    "longitude": -52.5995
+  },
+  {
+    "state": "RS",
+    "ibge": 4302105,
+    "city": "Bento Gonçalves",
+    "latitude": -29.1662,
+    "longitude": -51.5165
+  },
+  {
+    "state": "RS",
+    "ibge": 4302154,
+    "city": "Boa Vista das Missões",
+    "latitude": -27.6671,
+    "longitude": -53.3102
+  },
+  {
+    "state": "RS",
+    "ibge": 4302204,
+    "city": "Boa Vista do Buricá",
+    "latitude": -27.6693,
+    "longitude": -54.1082
+  },
+  {
+    "state": "RS",
+    "ibge": 4302220,
+    "city": "Boa Vista do Cadeado",
+    "latitude": -28.5791,
+    "longitude": -53.8108
+  },
+  {
+    "state": "RS",
+    "ibge": 4302238,
+    "city": "Boa Vista do Incra",
+    "latitude": -28.8185,
+    "longitude": -53.391
+  },
+  {
+    "state": "RS",
+    "ibge": 4302253,
+    "city": "Boa Vista do Sul",
+    "latitude": -29.3544,
+    "longitude": -51.6687
+  },
+  {
+    "state": "RS",
+    "ibge": 4302303,
+    "city": "Bom Jesus",
+    "latitude": -28.6697,
+    "longitude": -50.4295
+  },
+  {
+    "state": "RS",
+    "ibge": 4302352,
+    "city": "Bom Princípio",
+    "latitude": -29.4856,
+    "longitude": -51.3548
+  },
+  {
+    "state": "RS",
+    "ibge": 4302378,
+    "city": "Bom Progresso",
+    "latitude": -27.5399,
+    "longitude": -53.8716
+  },
+  {
+    "state": "RS",
+    "ibge": 4302402,
+    "city": "Bom Retiro do Sul",
+    "latitude": -29.6071,
+    "longitude": -51.9456
+  },
+  {
+    "state": "RS",
+    "ibge": 4302451,
+    "city": "Boqueirão do Leão",
+    "latitude": -29.3046,
+    "longitude": -52.4284
+  },
+  {
+    "state": "RS",
+    "ibge": 4302501,
+    "city": "Bossoroca",
+    "latitude": -28.7291,
+    "longitude": -54.9035
+  },
+  {
+    "state": "RS",
+    "ibge": 4302584,
+    "city": "Bozano",
+    "latitude": -28.3659,
+    "longitude": -53.772
+  },
+  {
+    "state": "RS",
+    "ibge": 4302600,
+    "city": "Braga",
+    "latitude": -27.6173,
+    "longitude": -53.7405
+  },
+  {
+    "state": "RS",
+    "ibge": 4302659,
+    "city": "Brochier",
+    "latitude": -29.5501,
+    "longitude": -51.5945
+  },
+  {
+    "state": "RS",
+    "ibge": 4302709,
+    "city": "Butiá",
+    "latitude": -30.1179,
+    "longitude": -51.9601
+  },
+  {
+    "state": "RS",
+    "ibge": 4302808,
+    "city": "Caçapava do Sul",
+    "latitude": -30.5144,
+    "longitude": -53.4827
+  },
+  {
+    "state": "RS",
+    "ibge": 4302907,
+    "city": "Cacequi",
+    "latitude": -29.8883,
+    "longitude": -54.822
+  },
+  {
+    "state": "RS",
+    "ibge": 4303004,
+    "city": "Cachoeira do Sul",
+    "latitude": -30.033,
+    "longitude": -52.8928
+  },
+  {
+    "state": "RS",
+    "ibge": 4303103,
+    "city": "Cachoeirinha",
+    "latitude": -29.9472,
+    "longitude": -51.1016
+  },
+  {
+    "state": "RS",
+    "ibge": 4303202,
+    "city": "Cacique Doble",
+    "latitude": -27.767,
+    "longitude": -51.6597
+  },
+  {
+    "state": "RS",
+    "ibge": 4303301,
+    "city": "Caibaté",
+    "latitude": -28.2905,
+    "longitude": -54.6454
+  },
+  {
+    "state": "RS",
+    "ibge": 4303400,
+    "city": "Caiçara",
+    "latitude": -27.2791,
+    "longitude": -53.4257
+  },
+  {
+    "state": "RS",
+    "ibge": 4303509,
+    "city": "Camaquã",
+    "latitude": -30.8489,
+    "longitude": -51.8043
+  },
+  {
+    "state": "RS",
+    "ibge": 4303558,
+    "city": "Camargo",
+    "latitude": -28.588,
+    "longitude": -52.2003
+  },
+  {
+    "state": "RS",
+    "ibge": 4303608,
+    "city": "Cambará do Sul",
+    "latitude": -29.0474,
+    "longitude": -50.1465
+  },
+  {
+    "state": "RS",
+    "ibge": 4303673,
+    "city": "Campestre da Serra",
+    "latitude": -28.7926,
+    "longitude": -51.0941
+  },
+  {
+    "state": "RS",
+    "ibge": 4303707,
+    "city": "Campina das Missões",
+    "latitude": -27.9888,
+    "longitude": -54.8416
+  },
+  {
+    "state": "RS",
+    "ibge": 4303806,
+    "city": "Campinas do Sul",
+    "latitude": -27.7174,
+    "longitude": -52.6248
+  },
+  {
+    "state": "RS",
+    "ibge": 4303905,
+    "city": "Campo Bom",
+    "latitude": -29.6747,
+    "longitude": -51.0606
+  },
+  {
+    "state": "RS",
+    "ibge": 4304002,
+    "city": "Campo Novo",
+    "latitude": -27.6792,
+    "longitude": -53.8052
+  },
+  {
+    "state": "RS",
+    "ibge": 4304101,
+    "city": "Campos Borges",
+    "latitude": -28.8871,
+    "longitude": -53.0008
+  },
+  {
+    "state": "RS",
+    "ibge": 4304200,
+    "city": "Candelária",
+    "latitude": -29.6684,
+    "longitude": -52.7895
+  },
+  {
+    "state": "RS",
+    "ibge": 4304309,
+    "city": "Cândido Godói",
+    "latitude": -27.9515,
+    "longitude": -54.7517
+  },
+  {
+    "state": "RS",
+    "ibge": 4304358,
+    "city": "Candiota",
+    "latitude": -31.5516,
+    "longitude": -53.6773
+  },
+  {
+    "state": "RS",
+    "ibge": 4304408,
+    "city": "Canela",
+    "latitude": -29.356,
+    "longitude": -50.8119
+  },
+  {
+    "state": "RS",
+    "ibge": 4304507,
+    "city": "Canguçu",
+    "latitude": -31.396,
+    "longitude": -52.6783
+  },
+  {
+    "state": "RS",
+    "ibge": 4304606,
+    "city": "Canoas",
+    "latitude": -29.9128,
+    "longitude": -51.1857
+  },
+  {
+    "state": "RS",
+    "ibge": 4304614,
+    "city": "Canudos do Vale",
+    "latitude": -29.3271,
+    "longitude": -52.2374
+  },
+  {
+    "state": "RS",
+    "ibge": 4304622,
+    "city": "Capão Bonito do Sul",
+    "latitude": -28.1254,
+    "longitude": -51.3961
+  },
+  {
+    "state": "RS",
+    "ibge": 4304630,
+    "city": "Capão da Canoa",
+    "latitude": -29.7642,
+    "longitude": -50.0282
+  },
+  {
+    "state": "RS",
+    "ibge": 4304655,
+    "city": "Capão do Cipó",
+    "latitude": -28.9312,
+    "longitude": -54.5558
+  },
+  {
+    "state": "RS",
+    "ibge": 4304663,
+    "city": "Capão do Leão",
+    "latitude": -31.7565,
+    "longitude": -52.4889
+  },
+  {
+    "state": "RS",
+    "ibge": 4304689,
+    "city": "Capela de Santana",
+    "latitude": -29.6961,
+    "longitude": -51.328
+  },
+  {
+    "state": "RS",
+    "ibge": 4304697,
+    "city": "Capitão",
+    "latitude": -29.2674,
+    "longitude": -51.9853
+  },
+  {
+    "state": "RS",
+    "ibge": 4304671,
+    "city": "Capivari do Sul",
+    "latitude": -30.1383,
+    "longitude": -50.5152
+  },
+  {
+    "state": "RS",
+    "ibge": 4304713,
+    "city": "Caraá",
+    "latitude": -29.7869,
+    "longitude": -50.4316
+  },
+  {
+    "state": "RS",
+    "ibge": 4304705,
+    "city": "Carazinho",
+    "latitude": -28.2958,
+    "longitude": -52.7933
+  },
+  {
+    "state": "RS",
+    "ibge": 4304804,
+    "city": "Carlos Barbosa",
+    "latitude": -29.2969,
+    "longitude": -51.5028
+  },
+  {
+    "state": "RS",
+    "ibge": 4304853,
+    "city": "Carlos Gomes",
+    "latitude": -27.7167,
+    "longitude": -51.9121
+  },
+  {
+    "state": "RS",
+    "ibge": 4304903,
+    "city": "Casca",
+    "latitude": -28.5605,
+    "longitude": -51.9815
+  },
+  {
+    "state": "RS",
+    "ibge": 4304952,
+    "city": "Caseiros",
+    "latitude": -28.2582,
+    "longitude": -51.6861
+  },
+  {
+    "state": "RS",
+    "ibge": 4305009,
+    "city": "Catuípe",
+    "latitude": -28.2554,
+    "longitude": -54.0132
+  },
+  {
+    "state": "RS",
+    "ibge": 4305108,
+    "city": "Caxias do Sul",
+    "latitude": -29.1629,
+    "longitude": -51.1792
+  },
+  {
+    "state": "RS",
+    "ibge": 4305116,
+    "city": "Centenário",
+    "latitude": -27.7615,
+    "longitude": -51.9984
+  },
+  {
+    "state": "RS",
+    "ibge": 4305124,
+    "city": "Cerrito",
+    "latitude": -31.8419,
+    "longitude": -52.8004
+  },
+  {
+    "state": "RS",
+    "ibge": 4305132,
+    "city": "Cerro Branco",
+    "latitude": -29.657,
+    "longitude": -52.9406
+  },
+  {
+    "state": "RS",
+    "ibge": 4305157,
+    "city": "Cerro Grande",
+    "latitude": -27.6106,
+    "longitude": -53.1672
+  },
+  {
+    "state": "RS",
+    "ibge": 4305173,
+    "city": "Cerro Grande do Sul",
+    "latitude": -30.5905,
+    "longitude": -51.7418
+  },
+  {
+    "state": "RS",
+    "ibge": 4305207,
+    "city": "Cerro Largo",
+    "latitude": -28.1463,
+    "longitude": -54.7428
+  },
+  {
+    "state": "RS",
+    "ibge": 4305306,
+    "city": "Chapada",
+    "latitude": -28.0559,
+    "longitude": -53.0665
+  },
+  {
+    "state": "RS",
+    "ibge": 4305355,
+    "city": "Charqueadas",
+    "latitude": -29.9625,
+    "longitude": -51.6289
+  },
+  {
+    "state": "RS",
+    "ibge": 4305371,
+    "city": "Charrua",
+    "latitude": -27.9493,
+    "longitude": -52.015
+  },
+  {
+    "state": "RS",
+    "ibge": 4305405,
+    "city": "Chiapetta",
+    "latitude": -27.923,
+    "longitude": -53.9419
+  },
+  {
+    "state": "RS",
+    "ibge": 4305439,
+    "city": "Chuí",
+    "latitude": -33.6866,
+    "longitude": -53.4594
+  },
+  {
+    "state": "RS",
+    "ibge": 4305447,
+    "city": "Chuvisca",
+    "latitude": -30.7504,
+    "longitude": -51.9737
+  },
+  {
+    "state": "RS",
+    "ibge": 4305454,
+    "city": "Cidreira",
+    "latitude": -30.1604,
+    "longitude": -50.2337
+  },
+  {
+    "state": "RS",
+    "ibge": 4305504,
+    "city": "Ciríaco",
+    "latitude": -28.3419,
+    "longitude": -51.8741
+  },
+  {
+    "state": "RS",
+    "ibge": 4305587,
+    "city": "Colinas",
+    "latitude": -29.3948,
+    "longitude": -51.8556
+  },
+  {
+    "state": "RS",
+    "ibge": 4305603,
+    "city": "Colorado",
+    "latitude": -28.5258,
+    "longitude": -52.9928
+  },
+  {
+    "state": "RS",
+    "ibge": 4305702,
+    "city": "Condor",
+    "latitude": -28.2075,
+    "longitude": -53.4905
+  },
+  {
+    "state": "RS",
+    "ibge": 4305801,
+    "city": "Constantina",
+    "latitude": -27.732,
+    "longitude": -52.9938
+  },
+  {
+    "state": "RS",
+    "ibge": 4305835,
+    "city": "Coqueiro Baixo",
+    "latitude": -29.1802,
+    "longitude": -52.0942
+  },
+  {
+    "state": "RS",
+    "ibge": 4305850,
+    "city": "Coqueiros do Sul",
+    "latitude": -28.1194,
+    "longitude": -52.7842
+  },
+  {
+    "state": "RS",
+    "ibge": 4305871,
+    "city": "Coronel Barros",
+    "latitude": -28.3921,
+    "longitude": -54.0686
+  },
+  {
+    "state": "RS",
+    "ibge": 4305900,
+    "city": "Coronel Bicaco",
+    "latitude": -27.7197,
+    "longitude": -53.7022
+  },
+  {
+    "state": "RS",
+    "ibge": 4305934,
+    "city": "Coronel Pilar",
+    "latitude": -29.2695,
+    "longitude": -51.6847
+  },
+  {
+    "state": "RS",
+    "ibge": 4305959,
+    "city": "Cotiporã",
+    "latitude": -28.9891,
+    "longitude": -51.6971
+  },
+  {
+    "state": "RS",
+    "ibge": 4305975,
+    "city": "Coxilha",
+    "latitude": -28.128,
+    "longitude": -52.3023
+  },
+  {
+    "state": "RS",
+    "ibge": 4306007,
+    "city": "Crissiumal",
+    "latitude": -27.4999,
+    "longitude": -54.0994
+  },
+  {
+    "state": "RS",
+    "ibge": 4306056,
+    "city": "Cristal",
+    "latitude": -31.0046,
+    "longitude": -52.0436
+  },
+  {
+    "state": "RS",
+    "ibge": 4306072,
+    "city": "Cristal do Sul",
+    "latitude": -27.452,
+    "longitude": -53.2422
+  },
+  {
+    "state": "RS",
+    "ibge": 4306106,
+    "city": "Cruz Alta",
+    "latitude": -28.645,
+    "longitude": -53.6048
+  },
+  {
+    "state": "RS",
+    "ibge": 4306130,
+    "city": "Cruzaltense",
+    "latitude": -27.6672,
+    "longitude": -52.6522
+  },
+  {
+    "state": "RS",
+    "ibge": 4306205,
+    "city": "Cruzeiro do Sul",
+    "latitude": -29.5148,
+    "longitude": -51.9928
+  },
+  {
+    "state": "RS",
+    "ibge": 4306304,
+    "city": "David Canabarro",
+    "latitude": -28.3849,
+    "longitude": -51.8482
+  },
+  {
+    "state": "RS",
+    "ibge": 4306320,
+    "city": "Derrubadas",
+    "latitude": -27.2642,
+    "longitude": -53.8645
+  },
+  {
+    "state": "RS",
+    "ibge": 4306353,
+    "city": "Dezesseis de Novembro",
+    "latitude": -28.219,
+    "longitude": -55.0617
+  },
+  {
+    "state": "RS",
+    "ibge": 4306379,
+    "city": "Dilermando de Aguiar",
+    "latitude": -29.7054,
+    "longitude": -54.2122
+  },
+  {
+    "state": "RS",
+    "ibge": 4306403,
+    "city": "Dois Irmãos",
+    "latitude": -29.5836,
+    "longitude": -51.0898
+  },
+  {
+    "state": "RS",
+    "ibge": 4306429,
+    "city": "Dois Irmãos das Missões",
+    "latitude": -27.6621,
+    "longitude": -53.5304
+  },
+  {
+    "state": "RS",
+    "ibge": 4306452,
+    "city": "Dois Lajeados",
+    "latitude": -28.983,
+    "longitude": -51.8396
+  },
+  {
+    "state": "RS",
+    "ibge": 4306502,
+    "city": "Dom Feliciano",
+    "latitude": -30.7004,
+    "longitude": -52.1026
+  },
+  {
+    "state": "RS",
+    "ibge": 4306601,
+    "city": "Dom Pedrito",
+    "latitude": -30.9756,
+    "longitude": -54.6694
+  },
+  {
+    "state": "RS",
+    "ibge": 4306551,
+    "city": "Dom Pedro de Alcântara",
+    "latitude": -29.3639,
+    "longitude": -49.853
+  },
+  {
+    "state": "RS",
+    "ibge": 4306700,
+    "city": "Dona Francisca",
+    "latitude": -29.6195,
+    "longitude": -53.3617
+  },
+  {
+    "state": "RS",
+    "ibge": 4306734,
+    "city": "Doutor Maurício Cardoso",
+    "latitude": -27.5103,
+    "longitude": -54.3577
+  },
+  {
+    "state": "RS",
+    "ibge": 4306759,
+    "city": "Doutor Ricardo",
+    "latitude": -29.084,
+    "longitude": -51.9972
+  },
+  {
+    "state": "RS",
+    "ibge": 4306767,
+    "city": "Eldorado do Sul",
+    "latitude": -30.0847,
+    "longitude": -51.6187
+  },
+  {
+    "state": "RS",
+    "ibge": 4306809,
+    "city": "Encantado",
+    "latitude": -29.2351,
+    "longitude": -51.8703
+  },
+  {
+    "state": "RS",
+    "ibge": 4306908,
+    "city": "Encruzilhada do Sul",
+    "latitude": -30.543,
+    "longitude": -52.5204
+  },
+  {
+    "state": "RS",
+    "ibge": 4306924,
+    "city": "Engenho Velho",
+    "latitude": -27.706,
+    "longitude": -52.9145
+  },
+  {
+    "state": "RS",
+    "ibge": 4306957,
+    "city": "Entre Rios do Sul",
+    "latitude": -27.5298,
+    "longitude": -52.7347
+  },
+  {
+    "state": "RS",
+    "ibge": 4306932,
+    "city": "Entre-Ijuís",
+    "latitude": -28.3686,
+    "longitude": -54.2686
+  },
+  {
+    "state": "RS",
+    "ibge": 4306973,
+    "city": "Erebango",
+    "latitude": -27.8544,
+    "longitude": -52.3005
+  },
+  {
+    "state": "RS",
+    "ibge": 4307005,
+    "city": "Erechim",
+    "latitude": -27.6364,
+    "longitude": -52.2697
+  },
+  {
+    "state": "RS",
+    "ibge": 4307054,
+    "city": "Ernestina",
+    "latitude": -28.4977,
+    "longitude": -52.5836
+  },
+  {
+    "state": "RS",
+    "ibge": 4307203,
+    "city": "Erval Grande",
+    "latitude": -27.3926,
+    "longitude": -52.574
+  },
+  {
+    "state": "RS",
+    "ibge": 4307302,
+    "city": "Erval Seco",
+    "latitude": -27.5443,
+    "longitude": -53.5005
+  },
+  {
+    "state": "RS",
+    "ibge": 4307401,
+    "city": "Esmeralda",
+    "latitude": -28.0518,
+    "longitude": -51.1933
+  },
+  {
+    "state": "RS",
+    "ibge": 4307450,
+    "city": "Esperança do Sul",
+    "latitude": -27.3603,
+    "longitude": -53.9891
+  },
+  {
+    "state": "RS",
+    "ibge": 4307500,
+    "city": "Espumoso",
+    "latitude": -28.7286,
+    "longitude": -52.8461
+  },
+  {
+    "state": "RS",
+    "ibge": 4307559,
+    "city": "Estação",
+    "latitude": -27.9135,
+    "longitude": -52.2635
+  },
+  {
+    "state": "RS",
+    "ibge": 4307609,
+    "city": "Estância Velha",
+    "latitude": -29.6535,
+    "longitude": -51.1843
+  },
+  {
+    "state": "RS",
+    "ibge": 4307708,
+    "city": "Esteio",
+    "latitude": -29.852,
+    "longitude": -51.1841
+  },
+  {
+    "state": "RS",
+    "ibge": 4307807,
+    "city": "Estrela",
+    "latitude": -29.5002,
+    "longitude": -51.9495
+  },
+  {
+    "state": "RS",
+    "ibge": 4307815,
+    "city": "Estrela Velha",
+    "latitude": -29.1713,
+    "longitude": -53.1639
+  },
+  {
+    "state": "RS",
+    "ibge": 4307831,
+    "city": "Eugênio de Castro",
+    "latitude": -28.5315,
+    "longitude": -54.1506
+  },
+  {
+    "state": "RS",
+    "ibge": 4307864,
+    "city": "Fagundes Varela",
+    "latitude": -28.8794,
+    "longitude": -51.7014
+  },
+  {
+    "state": "RS",
+    "ibge": 4307906,
+    "city": "Farroupilha",
+    "latitude": -29.2227,
+    "longitude": -51.3419
+  },
+  {
+    "state": "RS",
+    "ibge": 4308003,
+    "city": "Faxinal do Soturno",
+    "latitude": -29.5788,
+    "longitude": -53.4484
+  },
+  {
+    "state": "RS",
+    "ibge": 4308052,
+    "city": "Faxinalzinho",
+    "latitude": -27.4238,
+    "longitude": -52.6789
+  },
+  {
+    "state": "RS",
+    "ibge": 4308078,
+    "city": "Fazenda Vilanova",
+    "latitude": -29.5885,
+    "longitude": -51.8217
+  },
+  {
+    "state": "RS",
+    "ibge": 4308102,
+    "city": "Feliz",
+    "latitude": -29.4527,
+    "longitude": -51.3032
+  },
+  {
+    "state": "RS",
+    "ibge": 4308201,
+    "city": "Flores da Cunha",
+    "latitude": -29.0261,
+    "longitude": -51.1875
+  },
+  {
+    "state": "RS",
+    "ibge": 4308250,
+    "city": "Floriano Peixoto",
+    "latitude": -27.8614,
+    "longitude": -52.0838
+  },
+  {
+    "state": "RS",
+    "ibge": 4308300,
+    "city": "Fontoura Xavier",
+    "latitude": -28.9817,
+    "longitude": -52.3445
+  },
+  {
+    "state": "RS",
+    "ibge": 4308409,
+    "city": "Formigueiro",
+    "latitude": -30.0035,
+    "longitude": -53.4959
+  },
+  {
+    "state": "RS",
+    "ibge": 4308433,
+    "city": "Forquetinha",
+    "latitude": -29.3828,
+    "longitude": -52.0981
+  },
+  {
+    "state": "RS",
+    "ibge": 4308458,
+    "city": "Fortaleza dos Valos",
+    "latitude": -28.7986,
+    "longitude": -53.2249
+  },
+  {
+    "state": "RS",
+    "ibge": 4308508,
+    "city": "Frederico Westphalen",
+    "latitude": -27.3586,
+    "longitude": -53.3958
+  },
+  {
+    "state": "RS",
+    "ibge": 4308607,
+    "city": "Garibaldi",
+    "latitude": -29.259,
+    "longitude": -51.5352
+  },
+  {
+    "state": "RS",
+    "ibge": 4308656,
+    "city": "Garruchos",
+    "latitude": -28.1944,
+    "longitude": -55.6383
+  },
+  {
+    "state": "RS",
+    "ibge": 4308706,
+    "city": "Gaurama",
+    "latitude": -27.5856,
+    "longitude": -52.0915
+  },
+  {
+    "state": "RS",
+    "ibge": 4308805,
+    "city": "General Câmara",
+    "latitude": -29.9032,
+    "longitude": -51.7612
+  },
+  {
+    "state": "RS",
+    "ibge": 4308854,
+    "city": "Gentil",
+    "latitude": -28.4316,
+    "longitude": -52.0337
+  },
+  {
+    "state": "RS",
+    "ibge": 4308904,
+    "city": "Getúlio Vargas",
+    "latitude": -27.8911,
+    "longitude": -52.2294
+  },
+  {
+    "state": "RS",
+    "ibge": 4309001,
+    "city": "Giruá",
+    "latitude": -28.0297,
+    "longitude": -54.3517
+  },
+  {
+    "state": "RS",
+    "ibge": 4309050,
+    "city": "Glorinha",
+    "latitude": -29.8798,
+    "longitude": -50.7734
+  },
+  {
+    "state": "RS",
+    "ibge": 4309100,
+    "city": "Gramado",
+    "latitude": -29.3734,
+    "longitude": -50.8762
+  },
+  {
+    "state": "RS",
+    "ibge": 4309126,
+    "city": "Gramado dos Loureiros",
+    "latitude": -27.4429,
+    "longitude": -52.9149
+  },
+  {
+    "state": "RS",
+    "ibge": 4309159,
+    "city": "Gramado Xavier",
+    "latitude": -29.2706,
+    "longitude": -52.5795
+  },
+  {
+    "state": "RS",
+    "ibge": 4309209,
+    "city": "Gravataí",
+    "latitude": -29.9413,
+    "longitude": -50.9869
+  },
+  {
+    "state": "RS",
+    "ibge": 4309258,
+    "city": "Guabiju",
+    "latitude": -28.5421,
+    "longitude": -51.6948
+  },
+  {
+    "state": "RS",
+    "ibge": 4309308,
+    "city": "Guaíba",
+    "latitude": -30.1086,
+    "longitude": -51.3233
+  },
+  {
+    "state": "RS",
+    "ibge": 4309407,
+    "city": "Guaporé",
+    "latitude": -28.8399,
+    "longitude": -51.8895
+  },
+  {
+    "state": "RS",
+    "ibge": 4309506,
+    "city": "Guarani das Missões",
+    "latitude": -28.1491,
+    "longitude": -54.5629
+  },
+  {
+    "state": "RS",
+    "ibge": 4309555,
+    "city": "Harmonia",
+    "latitude": -29.5456,
+    "longitude": -51.4185
+  },
+  {
+    "state": "RS",
+    "ibge": 4307104,
+    "city": "Herval",
+    "latitude": -32.024,
+    "longitude": -53.3944
+  },
+  {
+    "state": "RS",
+    "ibge": 4309571,
+    "city": "Herveiras",
+    "latitude": -29.4552,
+    "longitude": -52.6553
+  },
+  {
+    "state": "RS",
+    "ibge": 4309605,
+    "city": "Horizontina",
+    "latitude": -27.6282,
+    "longitude": -54.3053
+  },
+  {
+    "state": "RS",
+    "ibge": 4309654,
+    "city": "Hulha Negra",
+    "latitude": -31.4067,
+    "longitude": -53.8667
+  },
+  {
+    "state": "RS",
+    "ibge": 4309704,
+    "city": "Humaitá",
+    "latitude": -27.5691,
+    "longitude": -53.9695
+  },
+  {
+    "state": "RS",
+    "ibge": 4309753,
+    "city": "Ibarama",
+    "latitude": -29.4203,
+    "longitude": -53.1295
+  },
+  {
+    "state": "RS",
+    "ibge": 4309803,
+    "city": "Ibiaçá",
+    "latitude": -28.0566,
+    "longitude": -51.8599
+  },
+  {
+    "state": "RS",
+    "ibge": 4309902,
+    "city": "Ibiraiaras",
+    "latitude": -28.3741,
+    "longitude": -51.6377
+  },
+  {
+    "state": "RS",
+    "ibge": 4309951,
+    "city": "Ibirapuitã",
+    "latitude": -28.6247,
+    "longitude": -52.5158
+  },
+  {
+    "state": "RS",
+    "ibge": 4310009,
+    "city": "Ibirubá",
+    "latitude": -28.6302,
+    "longitude": -53.0961
+  },
+  {
+    "state": "RS",
+    "ibge": 4310108,
+    "city": "Igrejinha",
+    "latitude": -29.5693,
+    "longitude": -50.7919
+  },
+  {
+    "state": "RS",
+    "ibge": 4310207,
+    "city": "Ijuí",
+    "latitude": -28.388,
+    "longitude": -53.92
+  },
+  {
+    "state": "RS",
+    "ibge": 4310306,
+    "city": "Ilópolis",
+    "latitude": -28.9282,
+    "longitude": -52.1258
+  },
+  {
+    "state": "RS",
+    "ibge": 4310330,
+    "city": "Imbé",
+    "latitude": -29.9753,
+    "longitude": -50.1281
+  },
+  {
+    "state": "RS",
+    "ibge": 4310363,
+    "city": "Imigrante",
+    "latitude": -29.3508,
+    "longitude": -51.7748
+  },
+  {
+    "state": "RS",
+    "ibge": 4310405,
+    "city": "Independência",
+    "latitude": -27.8354,
+    "longitude": -54.1886
+  },
+  {
+    "state": "RS",
+    "ibge": 4310413,
+    "city": "Inhacorá",
+    "latitude": -27.8752,
+    "longitude": -54.015
+  },
+  {
+    "state": "RS",
+    "ibge": 4310439,
+    "city": "Ipê",
+    "latitude": -28.8171,
+    "longitude": -51.2859
+  },
+  {
+    "state": "RS",
+    "ibge": 4310462,
+    "city": "Ipiranga do Sul",
+    "latitude": -27.9404,
+    "longitude": -52.4271
+  },
+  {
+    "state": "RS",
+    "ibge": 4310504,
+    "city": "Iraí",
+    "latitude": -27.1951,
+    "longitude": -53.2543
+  },
+  {
+    "state": "RS",
+    "ibge": 4310538,
+    "city": "Itaara",
+    "latitude": -29.6013,
+    "longitude": -53.7725
+  },
+  {
+    "state": "RS",
+    "ibge": 4310553,
+    "city": "Itacurubi",
+    "latitude": -28.7913,
+    "longitude": -55.2447
+  },
+  {
+    "state": "RS",
+    "ibge": 4310579,
+    "city": "Itapuca",
+    "latitude": -28.7768,
+    "longitude": -52.1693
+  },
+  {
+    "state": "RS",
+    "ibge": 4310603,
+    "city": "Itaqui",
+    "latitude": -29.1311,
+    "longitude": -56.5515
+  },
+  {
+    "state": "RS",
+    "ibge": 4310652,
+    "city": "Itati",
+    "latitude": -29.4974,
+    "longitude": -50.1016
+  },
+  {
+    "state": "RS",
+    "ibge": 4310702,
+    "city": "Itatiba do Sul",
+    "latitude": -27.3846,
+    "longitude": -52.4538
+  },
+  {
+    "state": "RS",
+    "ibge": 4310751,
+    "city": "Ivorá",
+    "latitude": -29.5232,
+    "longitude": -53.5842
+  },
+  {
+    "state": "RS",
+    "ibge": 4310801,
+    "city": "Ivoti",
+    "latitude": -29.5995,
+    "longitude": -51.1533
+  },
+  {
+    "state": "RS",
+    "ibge": 4310850,
+    "city": "Jaboticaba",
+    "latitude": -27.6347,
+    "longitude": -53.2762
+  },
+  {
+    "state": "RS",
+    "ibge": 4310876,
+    "city": "Jacuizinho",
+    "latitude": -29.0401,
+    "longitude": -53.0657
+  },
+  {
+    "state": "RS",
+    "ibge": 4310900,
+    "city": "Jacutinga",
+    "latitude": -27.7291,
+    "longitude": -52.5372
+  },
+  {
+    "state": "RS",
+    "ibge": 4311007,
+    "city": "Jaguarão",
+    "latitude": -32.5604,
+    "longitude": -53.377
+  },
+  {
+    "state": "RS",
+    "ibge": 4311106,
+    "city": "Jaguari",
+    "latitude": -29.4936,
+    "longitude": -54.703
+  },
+  {
+    "state": "RS",
+    "ibge": 4311122,
+    "city": "Jaquirana",
+    "latitude": -28.8811,
+    "longitude": -50.3637
+  },
+  {
+    "state": "RS",
+    "ibge": 4311130,
+    "city": "Jari",
+    "latitude": -29.2922,
+    "longitude": -54.2237
+  },
+  {
+    "state": "RS",
+    "ibge": 4311155,
+    "city": "Jóia",
+    "latitude": -28.6435,
+    "longitude": -54.1141
+  },
+  {
+    "state": "RS",
+    "ibge": 4311205,
+    "city": "Júlio de Castilhos",
+    "latitude": -29.2299,
+    "longitude": -53.6772
+  },
+  {
+    "state": "RS",
+    "ibge": 4311239,
+    "city": "Lagoa Bonita do Sul",
+    "latitude": -29.4939,
+    "longitude": -53.017
+  },
+  {
+    "state": "RS",
+    "ibge": 4311270,
+    "city": "Lagoa dos Três Cantos",
+    "latitude": -28.5676,
+    "longitude": -52.8618
+  },
+  {
+    "state": "RS",
+    "ibge": 4311304,
+    "city": "Lagoa Vermelha",
+    "latitude": -28.2093,
+    "longitude": -51.5248
+  },
+  {
+    "state": "RS",
+    "ibge": 4311254,
+    "city": "Lagoão",
+    "latitude": -29.2348,
+    "longitude": -52.7997
+  },
+  {
+    "state": "RS",
+    "ibge": 4311403,
+    "city": "Lajeado",
+    "latitude": -29.4591,
+    "longitude": -51.9644
+  },
+  {
+    "state": "RS",
+    "ibge": 4311429,
+    "city": "Lajeado do Bugre",
+    "latitude": -27.6913,
+    "longitude": -53.1818
+  },
+  {
+    "state": "RS",
+    "ibge": 4311502,
+    "city": "Lavras do Sul",
+    "latitude": -30.8071,
+    "longitude": -53.8931
+  },
+  {
+    "state": "RS",
+    "ibge": 4311601,
+    "city": "Liberato Salzano",
+    "latitude": -27.601,
+    "longitude": -53.0753
+  },
+  {
+    "state": "RS",
+    "ibge": 4311627,
+    "city": "Lindolfo Collor",
+    "latitude": -29.5859,
+    "longitude": -51.2141
+  },
+  {
+    "state": "RS",
+    "ibge": 4311643,
+    "city": "Linha Nova",
+    "latitude": -29.4679,
+    "longitude": -51.2003
+  },
+  {
+    "state": "RS",
+    "ibge": 4311718,
+    "city": "Maçambará",
+    "latitude": -29.1445,
+    "longitude": -56.0674
+  },
+  {
+    "state": "RS",
+    "ibge": 4311700,
+    "city": "Machadinho",
+    "latitude": -27.5667,
+    "longitude": -51.6668
+  },
+  {
+    "state": "RS",
+    "ibge": 4311734,
+    "city": "Mampituba",
+    "latitude": -29.2136,
+    "longitude": -49.9311
+  },
+  {
+    "state": "RS",
+    "ibge": 4311759,
+    "city": "Manoel Viana",
+    "latitude": -29.5859,
+    "longitude": -55.4841
+  },
+  {
+    "state": "RS",
+    "ibge": 4311775,
+    "city": "Maquiné",
+    "latitude": -29.6798,
+    "longitude": -50.2079
+  },
+  {
+    "state": "RS",
+    "ibge": 4311791,
+    "city": "Maratá",
+    "latitude": -29.5457,
+    "longitude": -51.5573
+  },
+  {
+    "state": "RS",
+    "ibge": 4311809,
+    "city": "Marau",
+    "latitude": -28.4498,
+    "longitude": -52.1986
+  },
+  {
+    "state": "RS",
+    "ibge": 4311908,
+    "city": "Marcelino Ramos",
+    "latitude": -27.4676,
+    "longitude": -51.9095
+  },
+  {
+    "state": "RS",
+    "ibge": 4311981,
+    "city": "Mariana Pimentel",
+    "latitude": -30.353,
+    "longitude": -51.5803
+  },
+  {
+    "state": "RS",
+    "ibge": 4312005,
+    "city": "Mariano Moro",
+    "latitude": -27.3568,
+    "longitude": -52.1467
+  },
+  {
+    "state": "RS",
+    "ibge": 4312054,
+    "city": "Marques de Souza",
+    "latitude": -29.3311,
+    "longitude": -52.0973
+  },
+  {
+    "state": "RS",
+    "ibge": 4312104,
+    "city": "Mata",
+    "latitude": -29.5649,
+    "longitude": -54.4641
+  },
+  {
+    "state": "RS",
+    "ibge": 4312138,
+    "city": "Mato Castelhano",
+    "latitude": -28.28,
+    "longitude": -52.1932
+  },
+  {
+    "state": "RS",
+    "ibge": 4312153,
+    "city": "Mato Leitão",
+    "latitude": -29.5285,
+    "longitude": -52.1278
+  },
+  {
+    "state": "RS",
+    "ibge": 4312179,
+    "city": "Mato Queimado",
+    "latitude": -28.252,
+    "longitude": -54.6159
+  },
+  {
+    "state": "RS",
+    "ibge": 4312203,
+    "city": "Maximiliano de Almeida",
+    "latitude": -27.6325,
+    "longitude": -51.802
+  },
+  {
+    "state": "RS",
+    "ibge": 4312252,
+    "city": "Minas do Leão",
+    "latitude": -30.1346,
+    "longitude": -52.0423
+  },
+  {
+    "state": "RS",
+    "ibge": 4312302,
+    "city": "Miraguaí",
+    "latitude": -27.497,
+    "longitude": -53.6891
+  },
+  {
+    "state": "RS",
+    "ibge": 4312351,
+    "city": "Montauri",
+    "latitude": -28.6462,
+    "longitude": -52.0767
+  },
+  {
+    "state": "RS",
+    "ibge": 4312377,
+    "city": "Monte Alegre dos Campos",
+    "latitude": -28.6805,
+    "longitude": -50.7834
+  },
+  {
+    "state": "RS",
+    "ibge": 4312385,
+    "city": "Monte Belo do Sul",
+    "latitude": -29.1607,
+    "longitude": -51.6333
+  },
+  {
+    "state": "RS",
+    "ibge": 4312401,
+    "city": "Montenegro",
+    "latitude": -29.6824,
+    "longitude": -51.4679
+  },
+  {
+    "state": "RS",
+    "ibge": 4312427,
+    "city": "Mormaço",
+    "latitude": -28.6968,
+    "longitude": -52.6999
+  },
+  {
+    "state": "RS",
+    "ibge": 4312443,
+    "city": "Morrinhos do Sul",
+    "latitude": -29.3578,
+    "longitude": -49.9328
+  },
+  {
+    "state": "RS",
+    "ibge": 4312450,
+    "city": "Morro Redondo",
+    "latitude": -31.5887,
+    "longitude": -52.6261
+  },
+  {
+    "state": "RS",
+    "ibge": 4312476,
+    "city": "Morro Reuter",
+    "latitude": -29.5379,
+    "longitude": -51.0811
+  },
+  {
+    "state": "RS",
+    "ibge": 4312500,
+    "city": "Mostardas",
+    "latitude": -31.1054,
+    "longitude": -50.9167
+  },
+  {
+    "state": "RS",
+    "ibge": 4312609,
+    "city": "Muçum",
+    "latitude": -29.163,
+    "longitude": -51.8714
+  },
+  {
+    "state": "RS",
+    "ibge": 4312617,
+    "city": "Muitos Capões",
+    "latitude": -28.3132,
+    "longitude": -51.1836
+  },
+  {
+    "state": "RS",
+    "ibge": 4312625,
+    "city": "Muliterno",
+    "latitude": -28.3253,
+    "longitude": -51.7697
+  },
+  {
+    "state": "RS",
+    "ibge": 4312658,
+    "city": "Não-Me-Toque",
+    "latitude": -28.4548,
+    "longitude": -52.8182
+  },
+  {
+    "state": "RS",
+    "ibge": 4312674,
+    "city": "Nicolau Vergueiro",
+    "latitude": -28.5298,
+    "longitude": -52.4676
+  },
+  {
+    "state": "RS",
+    "ibge": 4312708,
+    "city": "Nonoai",
+    "latitude": -27.3689,
+    "longitude": -52.7756
+  },
+  {
+    "state": "RS",
+    "ibge": 4312757,
+    "city": "Nova Alvorada",
+    "latitude": -28.6822,
+    "longitude": -52.1631
+  },
+  {
+    "state": "RS",
+    "ibge": 4312807,
+    "city": "Nova Araçá",
+    "latitude": -28.6537,
+    "longitude": -51.7458
+  },
+  {
+    "state": "RS",
+    "ibge": 4312906,
+    "city": "Nova Bassano",
+    "latitude": -28.7291,
+    "longitude": -51.7072
+  },
+  {
+    "state": "RS",
+    "ibge": 4312955,
+    "city": "Nova Boa Vista",
+    "latitude": -27.9926,
+    "longitude": -52.9784
+  },
+  {
+    "state": "RS",
+    "ibge": 4313003,
+    "city": "Nova Bréscia",
+    "latitude": -29.2182,
+    "longitude": -52.0319
+  },
+  {
+    "state": "RS",
+    "ibge": 4313011,
+    "city": "Nova Candelária",
+    "latitude": -27.6137,
+    "longitude": -54.1074
+  },
+  {
+    "state": "RS",
+    "ibge": 4313037,
+    "city": "Nova Esperança do Sul",
+    "latitude": -29.4066,
+    "longitude": -54.8293
+  },
+  {
+    "state": "RS",
+    "ibge": 4313060,
+    "city": "Nova Hartz",
+    "latitude": -29.5808,
+    "longitude": -50.9051
+  },
+  {
+    "state": "RS",
+    "ibge": 4313086,
+    "city": "Nova Pádua",
+    "latitude": -29.0275,
+    "longitude": -51.3098
+  },
+  {
+    "state": "RS",
+    "ibge": 4313102,
+    "city": "Nova Palma",
+    "latitude": -29.471,
+    "longitude": -53.4689
+  },
+  {
+    "state": "RS",
+    "ibge": 4313201,
+    "city": "Nova Petrópolis",
+    "latitude": -29.3741,
+    "longitude": -51.1136
+  },
+  {
+    "state": "RS",
+    "ibge": 4313300,
+    "city": "Nova Prata",
+    "latitude": -28.7799,
+    "longitude": -51.6113
+  },
+  {
+    "state": "RS",
+    "ibge": 4313334,
+    "city": "Nova Ramada",
+    "latitude": -28.0667,
+    "longitude": -53.6992
+  },
+  {
+    "state": "RS",
+    "ibge": 4313359,
+    "city": "Nova Roma do Sul",
+    "latitude": -28.9882,
+    "longitude": -51.4095
+  },
+  {
+    "state": "RS",
+    "ibge": 4313375,
+    "city": "Nova Santa Rita",
+    "latitude": -29.8525,
+    "longitude": -51.2837
+  },
+  {
+    "state": "RS",
+    "ibge": 4313490,
+    "city": "Novo Barreiro",
+    "latitude": -27.9077,
+    "longitude": -53.1103
+  },
+  {
+    "state": "RS",
+    "ibge": 4313391,
+    "city": "Novo Cabrais",
+    "latitude": -29.7338,
+    "longitude": -52.9489
+  },
+  {
+    "state": "RS",
+    "ibge": 4313409,
+    "city": "Novo Hamburgo",
+    "latitude": -29.6875,
+    "longitude": -51.1328
+  },
+  {
+    "state": "RS",
+    "ibge": 4313425,
+    "city": "Novo Machado",
+    "latitude": -27.5765,
+    "longitude": -54.5036
+  },
+  {
+    "state": "RS",
+    "ibge": 4313441,
+    "city": "Novo Tiradentes",
+    "latitude": -27.5649,
+    "longitude": -53.1837
+  },
+  {
+    "state": "RS",
+    "ibge": 4313466,
+    "city": "Novo Xingu",
+    "latitude": -27.749,
+    "longitude": -53.0639
+  },
+  {
+    "state": "RS",
+    "ibge": 4313508,
+    "city": "Osório",
+    "latitude": -29.8881,
+    "longitude": -50.2667
+  },
+  {
+    "state": "RS",
+    "ibge": 4313607,
+    "city": "Paim Filho",
+    "latitude": -27.7075,
+    "longitude": -51.763
+  },
+  {
+    "state": "RS",
+    "ibge": 4313656,
+    "city": "Palmares do Sul",
+    "latitude": -30.2535,
+    "longitude": -50.5103
+  },
+  {
+    "state": "RS",
+    "ibge": 4313706,
+    "city": "Palmeira das Missões",
+    "latitude": -27.9007,
+    "longitude": -53.3134
+  },
+  {
+    "state": "RS",
+    "ibge": 4313805,
+    "city": "Palmitinho",
+    "latitude": -27.3596,
+    "longitude": -53.558
+  },
+  {
+    "state": "RS",
+    "ibge": 4313904,
+    "city": "Panambi",
+    "latitude": -28.2833,
+    "longitude": -53.5023
+  },
+  {
+    "state": "RS",
+    "ibge": 4313953,
+    "city": "Pantano Grande",
+    "latitude": -30.1902,
+    "longitude": -52.3729
+  },
+  {
+    "state": "RS",
+    "ibge": 4314001,
+    "city": "Paraí",
+    "latitude": -28.5964,
+    "longitude": -51.7896
+  },
+  {
+    "state": "RS",
+    "ibge": 4314027,
+    "city": "Paraíso do Sul",
+    "latitude": -29.6717,
+    "longitude": -53.144
+  },
+  {
+    "state": "RS",
+    "ibge": 4314035,
+    "city": "Pareci Novo",
+    "latitude": -29.6365,
+    "longitude": -51.3974
+  },
+  {
+    "state": "RS",
+    "ibge": 4314050,
+    "city": "Parobé",
+    "latitude": -29.6243,
+    "longitude": -50.8312
+  },
+  {
+    "state": "RS",
+    "ibge": 4314068,
+    "city": "Passa Sete",
+    "latitude": -29.4577,
+    "longitude": -52.9599
+  },
+  {
+    "state": "RS",
+    "ibge": 4314076,
+    "city": "Passo do Sobrado",
+    "latitude": -29.748,
+    "longitude": -52.2748
+  },
+  {
+    "state": "RS",
+    "ibge": 4314100,
+    "city": "Passo Fundo",
+    "latitude": -28.2576,
+    "longitude": -52.4091
+  },
+  {
+    "state": "RS",
+    "ibge": 4314134,
+    "city": "Paulo Bento",
+    "latitude": -27.7051,
+    "longitude": -52.4169
+  },
+  {
+    "state": "RS",
+    "ibge": 4314159,
+    "city": "Paverama",
+    "latitude": -29.5486,
+    "longitude": -51.7339
+  },
+  {
+    "state": "RS",
+    "ibge": 4314175,
+    "city": "Pedras Altas",
+    "latitude": -31.7365,
+    "longitude": -53.5814
+  },
+  {
+    "state": "RS",
+    "ibge": 4314209,
+    "city": "Pedro Osório",
+    "latitude": -31.8642,
+    "longitude": -52.8184
+  },
+  {
+    "state": "RS",
+    "ibge": 4314308,
+    "city": "Pejuçara",
+    "latitude": -28.4283,
+    "longitude": -53.6579
+  },
+  {
+    "state": "RS",
+    "ibge": 4314407,
+    "city": "Pelotas",
+    "latitude": -31.7649,
+    "longitude": -52.3371
+  },
+  {
+    "state": "RS",
+    "ibge": 4314423,
+    "city": "Picada Café",
+    "latitude": -29.4464,
+    "longitude": -51.1367
+  },
+  {
+    "state": "RS",
+    "ibge": 4314456,
+    "city": "Pinhal",
+    "latitude": -27.508,
+    "longitude": -53.2082
+  },
+  {
+    "state": "RS",
+    "ibge": 4314464,
+    "city": "Pinhal da Serra",
+    "latitude": -27.8751,
+    "longitude": -51.1673
+  },
+  {
+    "state": "RS",
+    "ibge": 4314472,
+    "city": "Pinhal Grande",
+    "latitude": -29.345,
+    "longitude": -53.3206
+  },
+  {
+    "state": "RS",
+    "ibge": 4314498,
+    "city": "Pinheirinho do Vale",
+    "latitude": -27.2109,
+    "longitude": -53.608
+  },
+  {
+    "state": "RS",
+    "ibge": 4314506,
+    "city": "Pinheiro Machado",
+    "latitude": -31.5794,
+    "longitude": -53.3798
+  },
+  {
+    "state": "RS",
+    "ibge": 4314548,
+    "city": "Pinto Bandeira",
+    "latitude": -29.0975,
+    "longitude": -51.4503
+  },
+  {
+    "state": "RS",
+    "ibge": 4314555,
+    "city": "Pirapó",
+    "latitude": -28.0439,
+    "longitude": -55.2001
+  },
+  {
+    "state": "RS",
+    "ibge": 4314605,
+    "city": "Piratini",
+    "latitude": -31.4473,
+    "longitude": -53.0973
+  },
+  {
+    "state": "RS",
+    "ibge": 4314704,
+    "city": "Planalto",
+    "latitude": -27.3297,
+    "longitude": -53.0575
+  },
+  {
+    "state": "RS",
+    "ibge": 4314753,
+    "city": "Poço das Antas",
+    "latitude": -29.4481,
+    "longitude": -51.6719
+  },
+  {
+    "state": "RS",
+    "ibge": 4314779,
+    "city": "Pontão",
+    "latitude": -28.0585,
+    "longitude": -52.6791
+  },
+  {
+    "state": "RS",
+    "ibge": 4314787,
+    "city": "Ponte Preta",
+    "latitude": -27.6587,
+    "longitude": -52.4848
+  },
+  {
+    "state": "RS",
+    "ibge": 4314803,
+    "city": "Portão",
+    "latitude": -29.7015,
+    "longitude": -51.2429
+  },
+  {
+    "state": "RS",
+    "ibge": 4314902,
+    "city": "Porto Alegre",
+    "latitude": -30.0318,
+    "longitude": -51.2065
+  },
+  {
+    "state": "RS",
+    "ibge": 4315008,
+    "city": "Porto Lucena",
+    "latitude": -27.8569,
+    "longitude": -55.01
+  },
+  {
+    "state": "RS",
+    "ibge": 4315057,
+    "city": "Porto Mauá",
+    "latitude": -27.5796,
+    "longitude": -54.6657
+  },
+  {
+    "state": "RS",
+    "ibge": 4315073,
+    "city": "Porto Vera Cruz",
+    "latitude": -27.7405,
+    "longitude": -54.8994
+  },
+  {
+    "state": "RS",
+    "ibge": 4315107,
+    "city": "Porto Xavier",
+    "latitude": -27.9082,
+    "longitude": -55.1379
+  },
+  {
+    "state": "RS",
+    "ibge": 4315131,
+    "city": "Pouso Novo",
+    "latitude": -29.1738,
+    "longitude": -52.2136
+  },
+  {
+    "state": "RS",
+    "ibge": 4315149,
+    "city": "Presidente Lucena",
+    "latitude": -29.5175,
+    "longitude": -51.1798
+  },
+  {
+    "state": "RS",
+    "ibge": 4315156,
+    "city": "Progresso",
+    "latitude": -29.2441,
+    "longitude": -52.3197
+  },
+  {
+    "state": "RS",
+    "ibge": 4315172,
+    "city": "Protásio Alves",
+    "latitude": -28.7572,
+    "longitude": -51.4757
+  },
+  {
+    "state": "RS",
+    "ibge": 4315206,
+    "city": "Putinga",
+    "latitude": -29.0045,
+    "longitude": -52.1569
+  },
+  {
+    "state": "RS",
+    "ibge": 4315305,
+    "city": "Quaraí",
+    "latitude": -30.384,
+    "longitude": -56.4483
+  },
+  {
+    "state": "RS",
+    "ibge": 4315313,
+    "city": "Quatro Irmãos",
+    "latitude": -27.8257,
+    "longitude": -52.4424
+  },
+  {
+    "state": "RS",
+    "ibge": 4315321,
+    "city": "Quevedos",
+    "latitude": -29.3504,
+    "longitude": -54.0789
+  },
+  {
+    "state": "RS",
+    "ibge": 4315354,
+    "city": "Quinze de Novembro",
+    "latitude": -28.7466,
+    "longitude": -53.1011
+  },
+  {
+    "state": "RS",
+    "ibge": 4315404,
+    "city": "Redentora",
+    "latitude": -27.664,
+    "longitude": -53.6407
+  },
+  {
+    "state": "RS",
+    "ibge": 4315453,
+    "city": "Relvado",
+    "latitude": -29.1164,
+    "longitude": -52.0778
+  },
+  {
+    "state": "RS",
+    "ibge": 4315503,
+    "city": "Restinga Sêca",
+    "latitude": -29.8188,
+    "longitude": -53.3807
+  },
+  {
+    "state": "RS",
+    "ibge": 4315552,
+    "city": "Rio dos Índios",
+    "latitude": -27.2973,
+    "longitude": -52.8417
+  },
+  {
+    "state": "RS",
+    "ibge": 4315602,
+    "city": "Rio Grande",
+    "latitude": -32.0349,
+    "longitude": -52.1071
+  },
+  {
+    "state": "RS",
+    "ibge": 4315701,
+    "city": "Rio Pardo",
+    "latitude": -29.988,
+    "longitude": -52.3711
+  },
+  {
+    "state": "RS",
+    "ibge": 4315750,
+    "city": "Riozinho",
+    "latitude": -29.639,
+    "longitude": -50.4488
+  },
+  {
+    "state": "RS",
+    "ibge": 4315800,
+    "city": "Roca Sales",
+    "latitude": -29.2884,
+    "longitude": -51.8658
+  },
+  {
+    "state": "RS",
+    "ibge": 4315909,
+    "city": "Rodeio Bonito",
+    "latitude": -27.4742,
+    "longitude": -53.1706
+  },
+  {
+    "state": "RS",
+    "ibge": 4315958,
+    "city": "Rolador",
+    "latitude": -28.2566,
+    "longitude": -54.8186
+  },
+  {
+    "state": "RS",
+    "ibge": 4316006,
+    "city": "Rolante",
+    "latitude": -29.6462,
+    "longitude": -50.5819
+  },
+  {
+    "state": "RS",
+    "ibge": 4316105,
+    "city": "Ronda Alta",
+    "latitude": -27.7758,
+    "longitude": -52.8056
+  },
+  {
+    "state": "RS",
+    "ibge": 4316204,
+    "city": "Rondinha",
+    "latitude": -27.8315,
+    "longitude": -52.9081
+  },
+  {
+    "state": "RS",
+    "ibge": 4316303,
+    "city": "Roque Gonzales",
+    "latitude": -28.1297,
+    "longitude": -55.0266
+  },
+  {
+    "state": "RS",
+    "ibge": 4316402,
+    "city": "Rosário do Sul",
+    "latitude": -30.2515,
+    "longitude": -54.9221
+  },
+  {
+    "state": "RS",
+    "ibge": 4316428,
+    "city": "Sagrada Família",
+    "latitude": -27.7085,
+    "longitude": -53.1351
+  },
+  {
+    "state": "RS",
+    "ibge": 4316436,
+    "city": "Saldanha Marinho",
+    "latitude": -28.3941,
+    "longitude": -53.097
+  },
+  {
+    "state": "RS",
+    "ibge": 4316451,
+    "city": "Salto do Jacuí",
+    "latitude": -29.0951,
+    "longitude": -53.2133
+  },
+  {
+    "state": "RS",
+    "ibge": 4316477,
+    "city": "Salvador das Missões",
+    "latitude": -28.1233,
+    "longitude": -54.8373
+  },
+  {
+    "state": "RS",
+    "ibge": 4316501,
+    "city": "Salvador do Sul",
+    "latitude": -29.4386,
+    "longitude": -51.5077
+  },
+  {
+    "state": "RS",
+    "ibge": 4316600,
+    "city": "Sananduva",
+    "latitude": -27.947,
+    "longitude": -51.8079
+  },
+  {
+    "state": "RS",
+    "ibge": 4317103,
+    "city": "Sant'Ana do Livramento",
+    "latitude": -30.8773,
+    "longitude": -55.5392
+  },
+  {
+    "state": "RS",
+    "ibge": 4316709,
+    "city": "Santa Bárbara do Sul",
+    "latitude": -28.3653,
+    "longitude": -53.251
+  },
+  {
+    "state": "RS",
+    "ibge": 4316733,
+    "city": "Santa Cecília do Sul",
+    "latitude": -28.1609,
+    "longitude": -51.9279
+  },
+  {
+    "state": "RS",
+    "ibge": 4316758,
+    "city": "Santa Clara do Sul",
+    "latitude": -29.4747,
+    "longitude": -52.0843
+  },
+  {
+    "state": "RS",
+    "ibge": 4316808,
+    "city": "Santa Cruz do Sul",
+    "latitude": -29.722,
+    "longitude": -52.4343
+  },
+  {
+    "state": "RS",
+    "ibge": 4316972,
+    "city": "Santa Margarida do Sul",
+    "latitude": -30.3393,
+    "longitude": -54.0817
+  },
+  {
+    "state": "RS",
+    "ibge": 4316907,
+    "city": "Santa Maria",
+    "latitude": -29.6868,
+    "longitude": -53.8149
+  },
+  {
+    "state": "RS",
+    "ibge": 4316956,
+    "city": "Santa Maria do Herval",
+    "latitude": -29.4902,
+    "longitude": -50.9919
+  },
+  {
+    "state": "RS",
+    "ibge": 4317202,
+    "city": "Santa Rosa",
+    "latitude": -27.8702,
+    "longitude": -54.4796
+  },
+  {
+    "state": "RS",
+    "ibge": 4317251,
+    "city": "Santa Tereza",
+    "latitude": -29.1655,
+    "longitude": -51.7351
+  },
+  {
+    "state": "RS",
+    "ibge": 4317301,
+    "city": "Santa Vitória do Palmar",
+    "latitude": -33.525,
+    "longitude": -53.3717
+  },
+  {
+    "state": "RS",
+    "ibge": 4317004,
+    "city": "Santana da Boa Vista",
+    "latitude": -30.8697,
+    "longitude": -53.11
+  },
+  {
+    "state": "RS",
+    "ibge": 4317400,
+    "city": "Santiago",
+    "latitude": -29.1897,
+    "longitude": -54.8666
+  },
+  {
+    "state": "RS",
+    "ibge": 4317509,
+    "city": "Santo Ângelo",
+    "latitude": -28.3001,
+    "longitude": -54.2668
+  },
+  {
+    "state": "RS",
+    "ibge": 4317608,
+    "city": "Santo Antônio da Patrulha",
+    "latitude": -29.8268,
+    "longitude": -50.5175
+  },
+  {
+    "state": "RS",
+    "ibge": 4317707,
+    "city": "Santo Antônio das Missões",
+    "latitude": -28.514,
+    "longitude": -55.2251
+  },
+  {
+    "state": "RS",
+    "ibge": 4317558,
+    "city": "Santo Antônio do Palma",
+    "latitude": -28.4956,
+    "longitude": -52.0267
+  },
+  {
+    "state": "RS",
+    "ibge": 4317756,
+    "city": "Santo Antônio do Planalto",
+    "latitude": -28.403,
+    "longitude": -52.6992
+  },
+  {
+    "state": "RS",
+    "ibge": 4317806,
+    "city": "Santo Augusto",
+    "latitude": -27.8526,
+    "longitude": -53.7776
+  },
+  {
+    "state": "RS",
+    "ibge": 4317905,
+    "city": "Santo Cristo",
+    "latitude": -27.8263,
+    "longitude": -54.662
+  },
+  {
+    "state": "RS",
+    "ibge": 4317954,
+    "city": "Santo Expedito do Sul",
+    "latitude": -27.9074,
+    "longitude": -51.6434
+  },
+  {
+    "state": "RS",
+    "ibge": 4318002,
+    "city": "São Borja",
+    "latitude": -28.6578,
+    "longitude": -56.0036
+  },
+  {
+    "state": "RS",
+    "ibge": 4318051,
+    "city": "São Domingos do Sul",
+    "latitude": -28.5312,
+    "longitude": -51.886
+  },
+  {
+    "state": "RS",
+    "ibge": 4318101,
+    "city": "São Francisco de Assis",
+    "latitude": -29.5547,
+    "longitude": -55.1253
+  },
+  {
+    "state": "RS",
+    "ibge": 4318200,
+    "city": "São Francisco de Paula",
+    "latitude": -29.4404,
+    "longitude": -50.5828
+  },
+  {
+    "state": "RS",
+    "ibge": 4318309,
+    "city": "São Gabriel",
+    "latitude": -30.3337,
+    "longitude": -54.3217
+  },
+  {
+    "state": "RS",
+    "ibge": 4318408,
+    "city": "São Jerônimo",
+    "latitude": -29.9716,
+    "longitude": -51.7251
+  },
+  {
+    "state": "RS",
+    "ibge": 4318424,
+    "city": "São João da Urtiga",
+    "latitude": -27.8195,
+    "longitude": -51.8257
+  },
+  {
+    "state": "RS",
+    "ibge": 4318432,
+    "city": "São João do Polêsine",
+    "latitude": -29.6194,
+    "longitude": -53.4439
+  },
+  {
+    "state": "RS",
+    "ibge": 4318440,
+    "city": "São Jorge",
+    "latitude": -28.4984,
+    "longitude": -51.7064
+  },
+  {
+    "state": "RS",
+    "ibge": 4318457,
+    "city": "São José das Missões",
+    "latitude": -27.7789,
+    "longitude": -53.1226
+  },
+  {
+    "state": "RS",
+    "ibge": 4318465,
+    "city": "São José do Herval",
+    "latitude": -29.052,
+    "longitude": -52.295
+  },
+  {
+    "state": "RS",
+    "ibge": 4318481,
+    "city": "São José do Hortêncio",
+    "latitude": -29.528,
+    "longitude": -51.245
+  },
+  {
+    "state": "RS",
+    "ibge": 4318499,
+    "city": "São José do Inhacorá",
+    "latitude": -27.7251,
+    "longitude": -54.1275
+  },
+  {
+    "state": "RS",
+    "ibge": 4318507,
+    "city": "São José do Norte",
+    "latitude": -32.0151,
+    "longitude": -52.0331
+  },
+  {
+    "state": "RS",
+    "ibge": 4318606,
+    "city": "São José do Ouro",
+    "latitude": -27.7707,
+    "longitude": -51.5966
+  },
+  {
+    "state": "RS",
+    "ibge": 4318614,
+    "city": "São José do Sul",
+    "latitude": -29.5448,
+    "longitude": -51.4821
+  },
+  {
+    "state": "RS",
+    "ibge": 4318622,
+    "city": "São José dos Ausentes",
+    "latitude": -28.7476,
+    "longitude": -50.0677
+  },
+  {
+    "state": "RS",
+    "ibge": 4318705,
+    "city": "São Leopoldo",
+    "latitude": -29.7545,
+    "longitude": -51.1498
+  },
+  {
+    "state": "RS",
+    "ibge": 4318804,
+    "city": "São Lourenço do Sul",
+    "latitude": -31.3564,
+    "longitude": -51.9715
+  },
+  {
+    "state": "RS",
+    "ibge": 4318903,
+    "city": "São Luiz Gonzaga",
+    "latitude": -28.412,
+    "longitude": -54.9559
+  },
+  {
+    "state": "RS",
+    "ibge": 4319000,
+    "city": "São Marcos",
+    "latitude": -28.9677,
+    "longitude": -51.0696
+  },
+  {
+    "state": "RS",
+    "ibge": 4319109,
+    "city": "São Martinho",
+    "latitude": -27.7112,
+    "longitude": -53.9699
+  },
+  {
+    "state": "RS",
+    "ibge": 4319125,
+    "city": "São Martinho da Serra",
+    "latitude": -29.5397,
+    "longitude": -53.859
+  },
+  {
+    "state": "RS",
+    "ibge": 4319158,
+    "city": "São Miguel das Missões",
+    "latitude": -28.556,
+    "longitude": -54.5559
+  },
+  {
+    "state": "RS",
+    "ibge": 4319208,
+    "city": "São Nicolau",
+    "latitude": -28.1834,
+    "longitude": -55.2654
+  },
+  {
+    "state": "RS",
+    "ibge": 4319307,
+    "city": "São Paulo das Missões",
+    "latitude": -28.0195,
+    "longitude": -54.9404
+  },
+  {
+    "state": "RS",
+    "ibge": 4319356,
+    "city": "São Pedro da Serra",
+    "latitude": -29.4193,
+    "longitude": -51.5134
+  },
+  {
+    "state": "RS",
+    "ibge": 4319364,
+    "city": "São Pedro das Missões",
+    "latitude": -27.7706,
+    "longitude": -53.2513
+  },
+  {
+    "state": "RS",
+    "ibge": 4319372,
+    "city": "São Pedro do Butiá",
+    "latitude": -28.1243,
+    "longitude": -54.8926
+  },
+  {
+    "state": "RS",
+    "ibge": 4319406,
+    "city": "São Pedro do Sul",
+    "latitude": -29.6202,
+    "longitude": -54.1855
+  },
+  {
+    "state": "RS",
+    "ibge": 4319505,
+    "city": "São Sebastião do Caí",
+    "latitude": -29.5885,
+    "longitude": -51.3749
+  },
+  {
+    "state": "RS",
+    "ibge": 4319604,
+    "city": "São Sepé",
+    "latitude": -30.1643,
+    "longitude": -53.5603
+  },
+  {
+    "state": "RS",
+    "ibge": 4319703,
+    "city": "São Valentim",
+    "latitude": -27.5583,
+    "longitude": -52.5237
+  },
+  {
+    "state": "RS",
+    "ibge": 4319711,
+    "city": "São Valentim do Sul",
+    "latitude": -29.0451,
+    "longitude": -51.7684
+  },
+  {
+    "state": "RS",
+    "ibge": 4319737,
+    "city": "São Valério do Sul",
+    "latitude": -27.7906,
+    "longitude": -53.9368
+  },
+  {
+    "state": "RS",
+    "ibge": 4319752,
+    "city": "São Vendelino",
+    "latitude": -29.3729,
+    "longitude": -51.3675
+  },
+  {
+    "state": "RS",
+    "ibge": 4319802,
+    "city": "São Vicente do Sul",
+    "latitude": -29.6882,
+    "longitude": -54.6826
+  },
+  {
+    "state": "RS",
+    "ibge": 4319901,
+    "city": "Sapiranga",
+    "latitude": -29.6349,
+    "longitude": -51.0064
+  },
+  {
+    "state": "RS",
+    "ibge": 4320008,
+    "city": "Sapucaia do Sul",
+    "latitude": -29.8276,
+    "longitude": -51.145
+  },
+  {
+    "state": "RS",
+    "ibge": 4320107,
+    "city": "Sarandi",
+    "latitude": -27.942,
+    "longitude": -52.9231
+  },
+  {
+    "state": "RS",
+    "ibge": 4320206,
+    "city": "Seberi",
+    "latitude": -27.4829,
+    "longitude": -53.4026
+  },
+  {
+    "state": "RS",
+    "ibge": 4320230,
+    "city": "Sede Nova",
+    "latitude": -27.6367,
+    "longitude": -53.9493
+  },
+  {
+    "state": "RS",
+    "ibge": 4320263,
+    "city": "Segredo",
+    "latitude": -29.3523,
+    "longitude": -52.9767
+  },
+  {
+    "state": "RS",
+    "ibge": 4320305,
+    "city": "Selbach",
+    "latitude": -28.6294,
+    "longitude": -52.9498
+  },
+  {
+    "state": "RS",
+    "ibge": 4320321,
+    "city": "Senador Salgado Filho",
+    "latitude": -28.025,
+    "longitude": -54.5507
+  },
+  {
+    "state": "RS",
+    "ibge": 4320354,
+    "city": "Sentinela do Sul",
+    "latitude": -30.6107,
+    "longitude": -51.5862
+  },
+  {
+    "state": "RS",
+    "ibge": 4320404,
+    "city": "Serafina Corrêa",
+    "latitude": -28.7126,
+    "longitude": -51.9352
+  },
+  {
+    "state": "RS",
+    "ibge": 4320453,
+    "city": "Sério",
+    "latitude": -29.3904,
+    "longitude": -52.2685
+  },
+  {
+    "state": "RS",
+    "ibge": 4320503,
+    "city": "Sertão",
+    "latitude": -27.9798,
+    "longitude": -52.2588
+  },
+  {
+    "state": "RS",
+    "ibge": 4320552,
+    "city": "Sertão Santana",
+    "latitude": -30.4562,
+    "longitude": -51.6017
+  },
+  {
+    "state": "RS",
+    "ibge": 4320578,
+    "city": "Sete de Setembro",
+    "latitude": -28.1362,
+    "longitude": -54.4637
+  },
+  {
+    "state": "RS",
+    "ibge": 4320602,
+    "city": "Severiano de Almeida",
+    "latitude": -27.4362,
+    "longitude": -52.1217
+  },
+  {
+    "state": "RS",
+    "ibge": 4320651,
+    "city": "Silveira Martins",
+    "latitude": -29.6467,
+    "longitude": -53.591
+  },
+  {
+    "state": "RS",
+    "ibge": 4320677,
+    "city": "Sinimbu",
+    "latitude": -29.5357,
+    "longitude": -52.5304
+  },
+  {
+    "state": "RS",
+    "ibge": 4320701,
+    "city": "Sobradinho",
+    "latitude": -29.4194,
+    "longitude": -53.0326
+  },
+  {
+    "state": "RS",
+    "ibge": 4320800,
+    "city": "Soledade",
+    "latitude": -28.8306,
+    "longitude": -52.5131
+  },
+  {
+    "state": "RS",
+    "ibge": 4320859,
+    "city": "Tabaí",
+    "latitude": -29.643,
+    "longitude": -51.6823
+  },
+  {
+    "state": "RS",
+    "ibge": 4320909,
+    "city": "Tapejara",
+    "latitude": -28.0652,
+    "longitude": -52.0097
+  },
+  {
+    "state": "RS",
+    "ibge": 4321006,
+    "city": "Tapera",
+    "latitude": -28.6277,
+    "longitude": -52.8613
+  },
+  {
+    "state": "RS",
+    "ibge": 4321105,
+    "city": "Tapes",
+    "latitude": -30.6683,
+    "longitude": -51.3991
+  },
+  {
+    "state": "RS",
+    "ibge": 4321204,
+    "city": "Taquara",
+    "latitude": -29.6505,
+    "longitude": -50.7753
+  },
+  {
+    "state": "RS",
+    "ibge": 4321303,
+    "city": "Taquari",
+    "latitude": -29.7943,
+    "longitude": -51.8653
+  },
+  {
+    "state": "RS",
+    "ibge": 4321329,
+    "city": "Taquaruçu do Sul",
+    "latitude": -27.4005,
+    "longitude": -53.4702
+  },
+  {
+    "state": "RS",
+    "ibge": 4321352,
+    "city": "Tavares",
+    "latitude": -31.2843,
+    "longitude": -51.088
+  },
+  {
+    "state": "RS",
+    "ibge": 4321402,
+    "city": "Tenente Portela",
+    "latitude": -27.3711,
+    "longitude": -53.7585
+  },
+  {
+    "state": "RS",
+    "ibge": 4321436,
+    "city": "Terra de Areia",
+    "latitude": -29.5782,
+    "longitude": -50.0644
+  },
+  {
+    "state": "RS",
+    "ibge": 4321451,
+    "city": "Teutônia",
+    "latitude": -29.4482,
+    "longitude": -51.8044
+  },
+  {
+    "state": "RS",
+    "ibge": 4321469,
+    "city": "Tio Hugo",
+    "latitude": -28.5712,
+    "longitude": -52.5955
+  },
+  {
+    "state": "RS",
+    "ibge": 4321477,
+    "city": "Tiradentes do Sul",
+    "latitude": -27.4022,
+    "longitude": -54.0814
+  },
+  {
+    "state": "RS",
+    "ibge": 4321493,
+    "city": "Toropi",
+    "latitude": -29.4782,
+    "longitude": -54.2244
+  },
+  {
+    "state": "RS",
+    "ibge": 4321501,
+    "city": "Torres",
+    "latitude": -29.3334,
+    "longitude": -49.7333
+  },
+  {
+    "state": "RS",
+    "ibge": 4321600,
+    "city": "Tramandaí",
+    "latitude": -29.9841,
+    "longitude": -50.1322
+  },
+  {
+    "state": "RS",
+    "ibge": 4321626,
+    "city": "Travesseiro",
+    "latitude": -29.2977,
+    "longitude": -52.0532
+  },
+  {
+    "state": "RS",
+    "ibge": 4321634,
+    "city": "Três Arroios",
+    "latitude": -27.5003,
+    "longitude": -52.1448
+  },
+  {
+    "state": "RS",
+    "ibge": 4321667,
+    "city": "Três Cachoeiras",
+    "latitude": -29.4487,
+    "longitude": -49.9275
+  },
+  {
+    "state": "RS",
+    "ibge": 4321709,
+    "city": "Três Coroas",
+    "latitude": -29.5137,
+    "longitude": -50.7739
+  },
+  {
+    "state": "RS",
+    "ibge": 4321808,
+    "city": "Três de Maio",
+    "latitude": -27.78,
+    "longitude": -54.2357
+  },
+  {
+    "state": "RS",
+    "ibge": 4321832,
+    "city": "Três Forquilhas",
+    "latitude": -29.5384,
+    "longitude": -50.0708
+  },
+  {
+    "state": "RS",
+    "ibge": 4321857,
+    "city": "Três Palmeiras",
+    "latitude": -27.6139,
+    "longitude": -52.8437
+  },
+  {
+    "state": "RS",
+    "ibge": 4321907,
+    "city": "Três Passos",
+    "latitude": -27.4555,
+    "longitude": -53.9296
+  },
+  {
+    "state": "RS",
+    "ibge": 4321956,
+    "city": "Trindade do Sul",
+    "latitude": -27.5239,
+    "longitude": -52.8956
+  },
+  {
+    "state": "RS",
+    "ibge": 4322004,
+    "city": "Triunfo",
+    "latitude": -29.9291,
+    "longitude": -51.7075
+  },
+  {
+    "state": "RS",
+    "ibge": 4322103,
+    "city": "Tucunduva",
+    "latitude": -27.6573,
+    "longitude": -54.4439
+  },
+  {
+    "state": "RS",
+    "ibge": 4322152,
+    "city": "Tunas",
+    "latitude": -29.1039,
+    "longitude": -52.9538
+  },
+  {
+    "state": "RS",
+    "ibge": 4322186,
+    "city": "Tupanci do Sul",
+    "latitude": -27.9241,
+    "longitude": -51.5383
+  },
+  {
+    "state": "RS",
+    "ibge": 4322202,
+    "city": "Tupanciretã",
+    "latitude": -29.0858,
+    "longitude": -53.8445
+  },
+  {
+    "state": "RS",
+    "ibge": 4322251,
+    "city": "Tupandi",
+    "latitude": -29.4772,
+    "longitude": -51.4174
+  },
+  {
+    "state": "RS",
+    "ibge": 4322301,
+    "city": "Tuparendi",
+    "latitude": -27.7598,
+    "longitude": -54.4814
+  },
+  {
+    "state": "RS",
+    "ibge": 4322327,
+    "city": "Turuçu",
+    "latitude": -31.4173,
+    "longitude": -52.1706
+  },
+  {
+    "state": "RS",
+    "ibge": 4322343,
+    "city": "Ubiretama",
+    "latitude": -28.0404,
+    "longitude": -54.686
+  },
+  {
+    "state": "RS",
+    "ibge": 4322350,
+    "city": "União da Serra",
+    "latitude": -28.7833,
+    "longitude": -52.0238
+  },
+  {
+    "state": "RS",
+    "ibge": 4322376,
+    "city": "Unistalda",
+    "latitude": -29.04,
+    "longitude": -55.1517
+  },
+  {
+    "state": "RS",
+    "ibge": 4322400,
+    "city": "Uruguaiana",
+    "latitude": -29.7614,
+    "longitude": -57.0853
+  },
+  {
+    "state": "RS",
+    "ibge": 4322509,
+    "city": "Vacaria",
+    "latitude": -28.5079,
+    "longitude": -50.9418
+  },
+  {
+    "state": "RS",
+    "ibge": 4322533,
+    "city": "Vale do Sol",
+    "latitude": -29.5967,
+    "longitude": -52.6839
+  },
+  {
+    "state": "RS",
+    "ibge": 4322541,
+    "city": "Vale Real",
+    "latitude": -29.3919,
+    "longitude": -51.2559
+  },
+  {
+    "state": "RS",
+    "ibge": 4322525,
+    "city": "Vale Verde",
+    "latitude": -29.7864,
+    "longitude": -52.1857
+  },
+  {
+    "state": "RS",
+    "ibge": 4322558,
+    "city": "Vanini",
+    "latitude": -28.4758,
+    "longitude": -51.8447
+  },
+  {
+    "state": "RS",
+    "ibge": 4322608,
+    "city": "Venâncio Aires",
+    "latitude": -29.6143,
+    "longitude": -52.1932
+  },
+  {
+    "state": "RS",
+    "ibge": 4322707,
+    "city": "Vera Cruz",
+    "latitude": -29.7184,
+    "longitude": -52.5152
+  },
+  {
+    "state": "RS",
+    "ibge": 4322806,
+    "city": "Veranópolis",
+    "latitude": -28.9312,
+    "longitude": -51.5516
+  },
+  {
+    "state": "RS",
+    "ibge": 4322855,
+    "city": "Vespasiano Corrêa",
+    "latitude": -29.0655,
+    "longitude": -51.8625
+  },
+  {
+    "state": "RS",
+    "ibge": 4322905,
+    "city": "Viadutos",
+    "latitude": -27.5716,
+    "longitude": -52.0211
+  },
+  {
+    "state": "RS",
+    "ibge": 4323002,
+    "city": "Viamão",
+    "latitude": -30.0819,
+    "longitude": -51.0194
+  },
+  {
+    "state": "RS",
+    "ibge": 4323101,
+    "city": "Vicente Dutra",
+    "latitude": -27.1607,
+    "longitude": -53.4022
+  },
+  {
+    "state": "RS",
+    "ibge": 4323200,
+    "city": "Victor Graeff",
+    "latitude": -28.5632,
+    "longitude": -52.7495
+  },
+  {
+    "state": "RS",
+    "ibge": 4323309,
+    "city": "Vila Flores",
+    "latitude": -28.8598,
+    "longitude": -51.5504
+  },
+  {
+    "state": "RS",
+    "ibge": 4323358,
+    "city": "Vila Lângaro",
+    "latitude": -28.1062,
+    "longitude": -52.1438
+  },
+  {
+    "state": "RS",
+    "ibge": 4323408,
+    "city": "Vila Maria",
+    "latitude": -28.5359,
+    "longitude": -52.1486
+  },
+  {
+    "state": "RS",
+    "ibge": 4323457,
+    "city": "Vila Nova do Sul",
+    "latitude": -30.3461,
+    "longitude": -53.876
+  },
+  {
+    "state": "RS",
+    "ibge": 4323507,
+    "city": "Vista Alegre",
+    "latitude": -27.3686,
+    "longitude": -53.4919
+  },
+  {
+    "state": "RS",
+    "ibge": 4323606,
+    "city": "Vista Alegre do Prata",
+    "latitude": -28.8052,
+    "longitude": -51.7947
+  },
+  {
+    "state": "RS",
+    "ibge": 4323705,
+    "city": "Vista Gaúcha",
+    "latitude": -27.2902,
+    "longitude": -53.6974
+  },
+  {
+    "state": "RS",
+    "ibge": 4323754,
+    "city": "Vitória das Missões",
+    "latitude": -28.3516,
+    "longitude": -54.504
+  },
+  {
+    "state": "RS",
+    "ibge": 4323770,
+    "city": "Westfália",
+    "latitude": -29.4263,
+    "longitude": -51.7645
+  },
+  {
+    "state": "RS",
+    "ibge": 4323804,
+    "city": "Xangri-lá",
+    "latitude": -29.8065,
+    "longitude": -50.0519
+  }
+]

@@ -1,6 +1,6 @@
 import { LoginNextScreen } from "@/types/screen.type";
+import { showAlert } from "@/utils/Alert";
 import { useRouter } from "expo-router";
-import { Alert } from "react-native";
 import { cleanAxiosJwtToken } from "../apis/axios";
 import { UserStorage } from "../asyncStorage/user.storage";
 import { logEvent } from "../logs/analytics";
@@ -23,7 +23,7 @@ const useLogin = () => {
     nextScreen: LoginNextScreen = '/home'
   ) => {
     if (!isLoggedIn) {
-      Alert.alert(title, message, [
+      showAlert(title, message, [
         { text: 'Cancelar', style: 'cancel' },
         { text: 'Fazer login', onPress: () => navigate({ pathname: '/login', params: { nextScreen } }) },
       ]);
@@ -34,7 +34,7 @@ const useLogin = () => {
   }
 
   const handleLogout = async () => {
-    Alert.alert('Logout', 'Deseja realmente sair da sua conta?', [
+    showAlert('Logout', 'Deseja realmente sair da sua conta?', [
       {
         text: 'Cancelar',
         style: 'cancel',
@@ -55,7 +55,7 @@ const useLogin = () => {
     cleanAxiosJwtToken();
     cleanUser();
     cleanPosts();
-    Alert.alert('Logout', 'Você saiu da sua conta com sucesso!');
+    showAlert('Logout', 'Você saiu da sua conta com sucesso!');
     replace('/home');
   };
 

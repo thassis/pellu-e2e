@@ -1,5 +1,6 @@
+import { showAlert } from "@/utils/Alert";
 import React, { useState } from "react";
-import { Alert, StyleSheet, View } from "react-native";
+import { StyleSheet, View } from "react-native";
 import { KeyboardAwareScrollView } from "react-native-keyboard-aware-scroll-view";
 import { OngApi } from "../../apis/ong.api";
 import SearchBarView from "../../components/home/searchBarView/SearchBarView";
@@ -39,7 +40,7 @@ const BottomSheetPetFilter = ({ isVisible, close }: Props) => {
       const res = await OngApi.getAll(coords?.latitude, coords?.longitude, search);
       setOngs(res);
     }).catch(e => {
-      Alert.alert("Erro de localização", "Para buscar as ONGs próximas, precisamos da sua localização.");
+      showAlert("Erro de localização", "Para buscar as ONGs próximas, precisamos da sua localização.");
     }).finally(() => {
       setLoading(false);
     });

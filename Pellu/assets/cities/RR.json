@@ -1,0 +1,107 @@
+[
+  {
+    "state": "RR",
+    "ibge": 1400050,
+    "city": "Alto Alegre",
+    "latitude": 2.98858,
+    "longitude": -61.3072
+  },
+  {
+    "state": "RR",
+    "ibge": 1400027,
+    "city": "Amajari",
+    "latitude": 3.64571,
+    "longitude": -61.3692
+  },
+  {
+    "state": "RR",
+    "ibge": 1400100,
+    "city": "Boa Vista",
+    "latitude": 2.82384,
+    "longitude": -60.6753
+  },
+  {
+    "state": "RR",
+    "ibge": 1400159,
+    "city": "Bonfim",
+    "latitude": 3.36161,
+    "longitude": -59.8333
+  },
+  {
+    "state": "RR",
+    "ibge": 1400175,
+    "city": "Cantá",
+    "latitude": 2.60994,
+    "longitude": -60.6058
+  },
+  {
+    "state": "RR",
+    "ibge": 1400209,
+    "city": "Caracaraí",
+    "latitude": 1.82766,
+    "longitude": -61.1304
+  },
+  {
+    "state": "RR",
+    "ibge": 1400233,
+    "city": "Caroebe",
+    "latitude": 0.884203,
+    "longitude": -59.6959
+  },
+  {
+    "state": "RR",
+    "ibge": 1400282,
+    "city": "Iracema",
+    "latitude": 2.18305,
+    "longitude": -61.0415
+  },
+  {
+    "state": "RR",
+    "ibge": 1400308,
+    "city": "Mucajaí",
+    "latitude": 2.43998,
+    "longitude": -60.9096
+  },
+  {
+    "state": "RR",
+    "ibge": 1400407,
+    "city": "Normandia",
+    "latitude": 3.8853,
+    "longitude": -59.6204
+  },
+  {
+    "state": "RR",
+    "ibge": 1400456,
+    "city": "Pacaraima",
+    "latitude": 4.4799,
+    "longitude": -61.1477
+  },
+  {
+    "state": "RR",
+    "ibge": 1400472,
+    "city": "Rorainópolis",
+    "latitude": 0.939956,
+    "longitude": -60.4389
+  },
+  {
+    "state": "RR",
+    "ibge": 1400506,
+    "city": "São João da Baliza",
+    "latitude": 0.951659,
+    "longitude": -59.9133
+  },
+  {
+    "state": "RR",
+    "ibge": 1400605,
+    "city": "São Luiz",
+    "latitude": 1.01019,
+    "longitude": -60.0419
+  },
+  {
+    "state": "RR",
+    "ibge": 1400704,
+    "city": "Uiramutã",
+    "latitude": 4.60314,
+    "longitude": -60.1815
+  }
+]

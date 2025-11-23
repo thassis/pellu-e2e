@@ -1,0 +1,716 @@
+[
+  {
+    "state": "AL",
+    "ibge": 2700102,
+    "city": "Água Branca",
+    "latitude": -9.262,
+    "longitude": -37.938
+  },
+  {
+    "state": "AL",
+    "ibge": 2700201,
+    "city": "Anadia",
+    "latitude": -9.68489,
+    "longitude": -36.3078
+  },
+  {
+    "state": "AL",
+    "ibge": 2700300,
+    "city": "Arapiraca",
+    "latitude": -9.75487,
+    "longitude": -36.6615
+  },
+  {
+    "state": "AL",
+    "ibge": 2700409,
+    "city": "Atalaia",
+    "latitude": -9.5119,
+    "longitude": -36.0086
+  },
+  {
+    "state": "AL",
+    "ibge": 2700508,
+    "city": "Barra de Santo Antônio",
+    "latitude": -9.4023,
+    "longitude": -35.5101
+  },
+  {
+    "state": "AL",
+    "ibge": 2700607,
+    "city": "Barra de São Miguel",
+    "latitude": -9.83842,
+    "longitude": -35.9057
+  },
+  {
+    "state": "AL",
+    "ibge": 2700706,
+    "city": "Batalha",
+    "latitude": -9.6742,
+    "longitude": -37.133
+  },
+  {
+    "state": "AL",
+    "ibge": 2700805,
+    "city": "Belém",
+    "latitude": -9.57047,
+    "longitude": -36.4904
+  },
+  {
+    "state": "AL",
+    "ibge": 2700904,
+    "city": "Belo Monte",
+    "latitude": -9.82272,
+    "longitude": -37.277
+  },
+  {
+    "state": "AL",
+    "ibge": 2701001,
+    "city": "Boca da Mata",
+    "latitude": -9.64308,
+    "longitude": -36.2125
+  },
+  {
+    "state": "AL",
+    "ibge": 2701100,
+    "city": "Branquinha",
+    "latitude": -9.23342,
+    "longitude": -36.0162
+  },
+  {
+    "state": "AL",
+    "ibge": 2701209,
+    "city": "Cacimbinhas",
+    "latitude": -9.40121,
+    "longitude": -36.9911
+  },
+  {
+    "state": "AL",
+    "ibge": 2701308,
+    "city": "Cajueiro",
+    "latitude": -9.3994,
+    "longitude": -36.1559
+  },
+  {
+    "state": "AL",
+    "ibge": 2701357,
+    "city": "Campestre",
+    "latitude": -8.84723,
+    "longitude": -35.5685
+  },
+  {
+    "state": "AL",
+    "ibge": 2701407,
+    "city": "Campo Alegre",
+    "latitude": -9.78451,
+    "longitude": -36.3525
+  },
+  {
+    "state": "AL",
+    "ibge": 2701506,
+    "city": "Campo Grande",
+    "latitude": -9.95542,
+    "longitude": -36.7926
+  },
+  {
+    "state": "AL",
+    "ibge": 2701605,
+    "city": "Canapi",
+    "latitude": -9.11932,
+    "longitude": -37.5967
+  },
+  {
+    "state": "AL",
+    "ibge": 2701704,
+    "city": "Capela",
+    "latitude": -9.41504,
+    "longitude": -36.0826
+  },
+  {
+    "state": "AL",
+    "ibge": 2701803,
+    "city": "Carneiros",
+    "latitude": -9.48476,
+    "longitude": -37.3773
+  },
+  {
+    "state": "AL",
+    "ibge": 2701902,
+    "city": "Chã Preta",
+    "latitude": -9.2556,
+    "longitude": -36.2983
+  },
+  {
+    "state": "AL",
+    "ibge": 2702009,
+    "city": "Coité do Nóia",
+    "latitude": -9.63348,
+    "longitude": -36.5845
+  },
+  {
+    "state": "AL",
+    "ibge": 2702108,
+    "city": "Colônia Leopoldina",
+    "latitude": -8.91806,
+    "longitude": -35.7214
+  },
+  {
+    "state": "AL",
+    "ibge": 2702207,
+    "city": "Coqueiro Seco",
+    "latitude": -9.63715,
+    "longitude": -35.7994
+  },
+  {
+    "state": "AL",
+    "ibge": 2702306,
+    "city": "Coruripe",
+    "latitude": -10.1276,
+    "longitude": -36.1717
+  },
+  {
+    "state": "AL",
+    "ibge": 2702355,
+    "city": "Craíbas",
+    "latitude": -9.6178,
+    "longitude": -36.7697
+  },
+  {
+    "state": "AL",
+    "ibge": 2702405,
+    "city": "Delmiro Gouveia",
+    "latitude": -9.38534,
+    "longitude": -37.9987
+  },
+  {
+    "state": "AL",
+    "ibge": 2702504,
+    "city": "Dois Riachos",
+    "latitude": -9.38465,
+    "longitude": -37.0965
+  },
+  {
+    "state": "AL",
+    "ibge": 2702553,
+    "city": "Estrela de Alagoas",
+    "latitude": -9.39089,
+    "longitude": -36.7644
+  },
+  {
+    "state": "AL",
+    "ibge": 2702603,
+    "city": "Feira Grande",
+    "latitude": -9.89859,
+    "longitude": -36.6815
+  },
+  {
+    "state": "AL",
+    "ibge": 2702702,
+    "city": "Feliz Deserto",
+    "latitude": -10.2935,
+    "longitude": -36.3028
+  },
+  {
+    "state": "AL",
+    "ibge": 2702801,
+    "city": "Flexeiras",
+    "latitude": -9.27281,
+    "longitude": -35.7139
+  },
+  {
+    "state": "AL",
+    "ibge": 2702900,
+    "city": "Girau do Ponciano",
+    "latitude": -9.88404,
+    "longitude": -36.8316
+  },
+  {
+    "state": "AL",
+    "ibge": 2703007,
+    "city": "Ibateguara",
+    "latitude": -8.97823,
+    "longitude": -35.9373
+  },
+  {
+    "state": "AL",
+    "ibge": 2703106,
+    "city": "Igaci",
+    "latitude": -9.53768,
+    "longitude": -36.6372
+  },
+  {
+    "state": "AL",
+    "ibge": 2703205,
+    "city": "Igreja Nova",
+    "latitude": -10.1235,
+    "longitude": -36.6597
+  },
+  {
+    "state": "AL",
+    "ibge": 2703304,
+    "city": "Inhapi",
+    "latitude": -9.22594,
+    "longitude": -37.7509
+  },
+  {
+    "state": "AL",
+    "ibge": 2703403,
+    "city": "Jacaré dos Homens",
+    "latitude": -9.63545,
+    "longitude": -37.2076
+  },
+  {
+    "state": "AL",
+    "ibge": 2703502,
+    "city": "Jacuípe",
+    "latitude": -8.83951,
+    "longitude": -35.4591
+  },
+  {
+    "state": "AL",
+    "ibge": 2703601,
+    "city": "Japaratinga",
+    "latitude": -9.08746,
+    "longitude": -35.2634
+  },
+  {
+    "state": "AL",
+    "ibge": 2703700,
+    "city": "Jaramataia",
+    "latitude": -9.66224,
+    "longitude": -37.0046
+  },
+  {
+    "state": "AL",
+    "ibge": 2703759,
+    "city": "Jequiá da Praia",
+    "latitude": -10.0133,
+    "longitude": -36.0142
+  },
+  {
+    "state": "AL",
+    "ibge": 2703809,
+    "city": "Joaquim Gomes",
+    "latitude": -9.1328,
+    "longitude": -35.7474
+  },
+  {
+    "state": "AL",
+    "ibge": 2703908,
+    "city": "Jundiá",
+    "latitude": -8.93297,
+    "longitude": -35.5669
+  },
+  {
+    "state": "AL",
+    "ibge": 2704005,
+    "city": "Junqueiro",
+    "latitude": -9.90696,
+    "longitude": -36.4803
+  },
+  {
+    "state": "AL",
+    "ibge": 2704104,
+    "city": "Lagoa da Canoa",
+    "latitude": -9.83291,
+    "longitude": -36.7413
+  },
+  {
+    "state": "AL",
+    "ibge": 2704203,
+    "city": "Limoeiro de Anadia",
+    "latitude": -9.74098,
+    "longitude": -36.5121
+  },
+  {
+    "state": "AL",
+    "ibge": 2704302,
+    "city": "Maceió",
+    "latitude": -9.66599,
+    "longitude": -35.735
+  },
+  {
+    "state": "AL",
+    "ibge": 2704401,
+    "city": "Major Isidoro",
+    "latitude": -9.53009,
+    "longitude": -36.992
+  },
+  {
+    "state": "AL",
+    "ibge": 2704906,
+    "city": "Mar Vermelho",
+    "latitude": -9.44739,
+    "longitude": -36.3881
+  },
+  {
+    "state": "AL",
+    "ibge": 2704500,
+    "city": "Maragogi",
+    "latitude": -9.00744,
+    "longitude": -35.2267
+  },
+  {
+    "state": "AL",
+    "ibge": 2704609,
+    "city": "Maravilha",
+    "latitude": -9.23045,
+    "longitude": -37.3524
+  },
+  {
+    "state": "AL",
+    "ibge": 2704708,
+    "city": "Marechal Deodoro",
+    "latitude": -9.70971,
+    "longitude": -35.8967
+  },
+  {
+    "state": "AL",
+    "ibge": 2704807,
+    "city": "Maribondo",
+    "latitude": -9.58353,
+    "longitude": -36.3045
+  },
+  {
+    "state": "AL",
+    "ibge": 2705002,
+    "city": "Mata Grande",
+    "latitude": -9.11824,
+    "longitude": -37.7323
+  },
+  {
+    "state": "AL",
+    "ibge": 2705101,
+    "city": "Matriz de Camaragibe",
+    "latitude": -9.15437,
+    "longitude": -35.5243
+  },
+  {
+    "state": "AL",
+    "ibge": 2705200,
+    "city": "Messias",
+    "latitude": -9.39384,
+    "longitude": -35.8392
+  },
+  {
+    "state": "AL",
+    "ibge": 2705309,
+    "city": "Minador do Negrão",
+    "latitude": -9.31236,
+    "longitude": -36.8696
+  },
+  {
+    "state": "AL",
+    "ibge": 2705408,
+    "city": "Monteirópolis",
+    "latitude": -9.60357,
+    "longitude": -37.2505
+  },
+  {
+    "state": "AL",
+    "ibge": 2705507,
+    "city": "Murici",
+    "latitude": -9.30682,
+    "longitude": -35.9428
+  },
+  {
+    "state": "AL",
+    "ibge": 2705606,
+    "city": "Novo Lino",
+    "latitude": -8.94191,
+    "longitude": -35.664
+  },
+  {
+    "state": "AL",
+    "ibge": 2705705,
+    "city": "Olho d'Água das Flores",
+    "latitude": -9.53686,
+    "longitude": -37.2971
+  },
+  {
+    "state": "AL",
+    "ibge": 2705804,
+    "city": "Olho d'Água do Casado",
+    "latitude": -9.50357,
+    "longitude": -37.8301
+  },
+  {
+    "state": "AL",
+    "ibge": 2705903,
+    "city": "Olho d'Água Grande",
+    "latitude": -10.0572,
+    "longitude": -36.8101
+  },
+  {
+    "state": "AL",
+    "ibge": 2706000,
+    "city": "Olivença",
+    "latitude": -9.51954,
+    "longitude": -37.1954
+  },
+  {
+    "state": "AL",
+    "ibge": 2706109,
+    "city": "Ouro Branco",
+    "latitude": -9.15884,
+    "longitude": -37.3556
+  },
+  {
+    "state": "AL",
+    "ibge": 2706208,
+    "city": "Palestina",
+    "latitude": -9.67493,
+    "longitude": -37.339
+  },
+  {
+    "state": "AL",
+    "ibge": 2706307,
+    "city": "Palmeira dos Índios",
+    "latitude": -9.40568,
+    "longitude": -36.6328
+  },
+  {
+    "state": "AL",
+    "ibge": 2706406,
+    "city": "Pão de Açúcar",
+    "latitude": -9.74032,
+    "longitude": -37.4403
+  },
+  {
+    "state": "AL",
+    "ibge": 2706422,
+    "city": "Pariconha",
+    "latitude": -9.25634,
+    "longitude": -37.9988
+  },
+  {
+    "state": "AL",
+    "ibge": 2706448,
+    "city": "Paripueira",
+    "latitude": -9.46313,
+    "longitude": -35.552
+  },
+  {
+    "state": "AL",
+    "ibge": 2706505,
+    "city": "Passo de Camaragibe",
+    "latitude": -9.24511,
+    "longitude": -35.4745
+  },
+  {
+    "state": "AL",
+    "ibge": 2706604,
+    "city": "Paulo Jacinto",
+    "latitude": -9.36792,
+    "longitude": -36.3672
+  },
+  {
+    "state": "AL",
+    "ibge": 2706703,
+    "city": "Penedo",
+    "latitude": -10.2874,
+    "longitude": -36.5819
+  },
+  {
+    "state": "AL",
+    "ibge": 2706802,
+    "city": "Piaçabuçu",
+    "latitude": -10.406,
+    "longitude": -36.434
+  },
+  {
+    "state": "AL",
+    "ibge": 2706901,
+    "city": "Pilar",
+    "latitude": -9.60135,
+    "longitude": -35.9543
+  },
+  {
+    "state": "AL",
+    "ibge": 2707008,
+    "city": "Pindoba",
+    "latitude": -9.47382,
+    "longitude": -36.2918
+  },
+  {
+    "state": "AL",
+    "ibge": 2707107,
+    "city": "Piranhas",
+    "latitude": -9.624,
+    "longitude": -37.757
+  },
+  {
+    "state": "AL",
+    "ibge": 2707206,
+    "city": "Poço das Trincheiras",
+    "latitude": -9.30742,
+    "longitude": -37.2889
+  },
+  {
+    "state": "AL",
+    "ibge": 2707305,
+    "city": "Porto Calvo",
+    "latitude": -9.05195,
+    "longitude": -35.3987
+  },
+  {
+    "state": "AL",
+    "ibge": 2707404,
+    "city": "Porto de Pedras",
+    "latitude": -9.16006,
+    "longitude": -35.3049
+  },
+  {
+    "state": "AL",
+    "ibge": 2707503,
+    "city": "Porto Real do Colégio",
+    "latitude": -10.1849,
+    "longitude": -36.8376
+  },
+  {
+    "state": "AL",
+    "ibge": 2707602,
+    "city": "Quebrangulo",
+    "latitude": -9.32001,
+    "longitude": -36.4692
+  },
+  {
+    "state": "AL",
+    "ibge": 2707701,
+    "city": "Rio Largo",
+    "latitude": -9.47783,
+    "longitude": -35.8394
+  },
+  {
+    "state": "AL",
+    "ibge": 2707800,
+    "city": "Roteiro",
+    "latitude": -9.83503,
+    "longitude": -35.9782
+  },
+  {
+    "state": "AL",
+    "ibge": 2707909,
+    "city": "Santa Luzia do Norte",
+    "latitude": -9.6037,
+    "longitude": -35.8232
+  },
+  {
+    "state": "AL",
+    "ibge": 2708006,
+    "city": "Santana do Ipanema",
+    "latitude": -9.36999,
+    "longitude": -37.248
+  },
+  {
+    "state": "AL",
+    "ibge": 2708105,
+    "city": "Santana do Mundaú",
+    "latitude": -9.17141,
+    "longitude": -36.2176
+  },
+  {
+    "state": "AL",
+    "ibge": 2708204,
+    "city": "São Brás",
+    "latitude": -10.1141,
+    "longitude": -36.8522
+  },
+  {
+    "state": "AL",
+    "ibge": 2708303,
+    "city": "São José da Laje",
+    "latitude": -9.01278,
+    "longitude": -36.0515
+  },
+  {
+    "state": "AL",
+    "ibge": 2708402,
+    "city": "São José da Tapera",
+    "latitude": -9.55768,
+    "longitude": -37.3831
+  },
+  {
+    "state": "AL",
+    "ibge": 2708501,
+    "city": "São Luís do Quitunde",
+    "latitude": -9.31816,
+    "longitude": -35.5606
+  },
+  {
+    "state": "AL",
+    "ibge": 2708600,
+    "city": "São Miguel dos Campos",
+    "latitude": -9.78301,
+    "longitude": -36.0971
+  },
+  {
+    "state": "AL",
+    "ibge": 2708709,
+    "city": "São Miguel dos Milagres",
+    "latitude": -9.26493,
+    "longitude": -35.3763
+  },
+  {
+    "state": "AL",
+    "ibge": 2708808,
+    "city": "São Sebastião",
+    "latitude": -9.93043,
+    "longitude": -36.559
+  },
+  {
+    "state": "AL",
+    "ibge": 2708907,
+    "city": "Satuba",
+    "latitude": -9.56911,
+    "longitude": -35.8227
+  },
+  {
+    "state": "AL",
+    "ibge": 2708956,
+    "city": "Senador Rui Palmeira",
+    "latitude": -9.46986,
+    "longitude": -37.4576
+  },
+  {
+    "state": "AL",
+    "ibge": 2709004,
+    "city": "Tanque d'Arca",
+    "latitude": -9.53379,
+    "longitude": -36.4366
+  },
+  {
+    "state": "AL",
+    "ibge": 2709103,
+    "city": "Taquarana",
+    "latitude": -9.64529,
+    "longitude": -36.4928
+  },
+  {
+    "state": "AL",
+    "ibge": 2709152,
+    "city": "Teotônio Vilela",
+    "latitude": -9.91656,
+    "longitude": -36.3492
+  },
+  {
+    "state": "AL",
+    "ibge": 2709202,
+    "city": "Traipu",
+    "latitude": -9.96262,
+    "longitude": -37.0071
+  },
+  {
+    "state": "AL",
+    "ibge": 2709301,
+    "city": "União dos Palmares",
+    "latitude": -9.15921,
+    "longitude": -36.0223
+  },
+  {
+    "state": "AL",
+    "ibge": 2709400,
+    "city": "Viçosa",
+    "latitude": -9.36763,
+    "longitude": -36.2431
+  }
+]

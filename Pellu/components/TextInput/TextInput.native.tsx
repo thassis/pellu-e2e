@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { View } from 'react-native';
 import { TextInput as TextInputP, TextInputProps } from 'react-native-paper';
-import TextInputMask from 'react-native-text-input-mask';
+// import TextInputMask from 'react-native-text-input-mask';
 import Colors from '../../utils/Colors';
 import Text from '../text/Text';
 import styles from './styles';
@@ -34,7 +34,7 @@ const TextInput = ({
   }, [autoFocus]);
 
   return (
-    <View style={[styles.container, props.style]}>
+    <View style={[styles.container]}>
       <TextInputP
         ref={inputRef}
         mode="outlined"
@@ -49,18 +49,18 @@ const TextInput = ({
             onSurfaceVariant: Colors.lightGray,
           },
         }}
-        {...(!!mask && {
-          render: props_render => (
-            <TextInputMask
-              {...(props_render as any)}
-              style={{ paddingVertical: 12, paddingHorizontal: 16 }}
-              mask={mask}
-              onChangeText={(formatted, extracted) => {
-                props?.onChangeText?.(formatted, extracted || '');
-              }}
-            />
-          ),
-        })}
+        // {...(!!mask && {
+        //   render: props_render => (
+        //     <TextInputMask
+        //       {...(props_render as any)}
+        //       style={{ paddingVertical: 12, paddingHorizontal: 16 }}
+        //       mask={mask}
+        //       onChangeText={(formatted, extracted) => {
+        //         props?.onChangeText?.(formatted, extracted || '');
+        //       }}
+        //     />
+        //   ),
+        // })}
         style={[{ marginBottom: !!mask ? 16 : 0 }]}
         secureTextEntry={secureTextEntry && hideValue}
         left={props.left}

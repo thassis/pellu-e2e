@@ -1,9 +1,9 @@
 import React, { useEffect, useRef, useState } from 'react';
-import { TouchableOpacity, View, FlatList, Keyboard, TextInput as RNTextInput, ScrollView } from 'react-native';
-import cities from '../../../../assets/cities';
-import TextInput from '../../TextInput/TextInput';
-import Text from '../../text/Text';
+import { FlatList, Keyboard, TextInput as RNTextInput, ScrollView, TouchableOpacity, View } from 'react-native';
+import cities from '../../../assets/cities';
 import Colors from '../../../utils/Colors';
+import TextInput from '../../TextInput/TextInput.web';
+import Text from '../../text/Text';
 
 type Props = {
   state: keyof typeof cities;
@@ -91,7 +91,7 @@ const SelectCity = ({ inputValue, setInputValue, state, onSelect, scrollRef }: P
         }}
         label="Cidade"
         onBlur={handleBlur}
-        onFocus={() => {handleFocus()}}
+        onFocus={() => { handleFocus() }}
         onSubmitEditing={handleSubmit}
       />
       {error ? (

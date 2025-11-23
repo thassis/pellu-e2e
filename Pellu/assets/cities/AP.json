@@ -1,0 +1,114 @@
+[
+  {
+    "state": "AP",
+    "ibge": 1600105,
+    "city": "Amapá",
+    "latitude": 2.05267,
+    "longitude": -50.7957
+  },
+  {
+    "state": "AP",
+    "ibge": 1600204,
+    "city": "Calçoene",
+    "latitude": 2.50475,
+    "longitude": -50.9512
+  },
+  {
+    "state": "AP",
+    "ibge": 1600212,
+    "city": "Cutias",
+    "latitude": 0.970761,
+    "longitude": -50.8005
+  },
+  {
+    "state": "AP",
+    "ibge": 1600238,
+    "city": "Ferreira Gomes",
+    "latitude": 0.857256,
+    "longitude": -51.1795
+  },
+  {
+    "state": "AP",
+    "ibge": 1600253,
+    "city": "Itaubal",
+    "latitude": 0.602185,
+    "longitude": -50.6996
+  },
+  {
+    "state": "AP",
+    "ibge": 1600279,
+    "city": "Laranjal do Jari",
+    "latitude": -0.804911,
+    "longitude": -52.453
+  },
+  {
+    "state": "AP",
+    "ibge": 1600303,
+    "city": "Macapá",
+    "latitude": 0.034934,
+    "longitude": -51.0694
+  },
+  {
+    "state": "AP",
+    "ibge": 1600402,
+    "city": "Mazagão",
+    "latitude": -0.11336,
+    "longitude": -51.2891
+  },
+  {
+    "state": "AP",
+    "ibge": 1600501,
+    "city": "Oiapoque",
+    "latitude": 3.84074,
+    "longitude": -51.8331
+  },
+  {
+    "state": "AP",
+    "ibge": 1600154,
+    "city": "Pedra Branca do Amapari",
+    "latitude": 0.777424,
+    "longitude": -51.9503
+  },
+  {
+    "state": "AP",
+    "ibge": 1600535,
+    "city": "Porto Grande",
+    "latitude": 0.71243,
+    "longitude": -51.4155
+  },
+  {
+    "state": "AP",
+    "ibge": 1600550,
+    "city": "Pracuúba",
+    "latitude": 1.74543,
+    "longitude": -50.7892
+  },
+  {
+    "state": "AP",
+    "ibge": 1600600,
+    "city": "Santana",
+    "latitude": -0.045434,
+    "longitude": -51.1729
+  },
+  {
+    "state": "AP",
+    "ibge": 1600055,
+    "city": "Serra do Navio",
+    "latitude": 0.901357,
+    "longitude": -52.0036
+  },
+  {
+    "state": "AP",
+    "ibge": 1600709,
+    "city": "Tartarugalzinho",
+    "latitude": 1.50652,
+    "longitude": -50.9087
+  },
+  {
+    "state": "AP",
+    "ibge": 1600808,
+    "city": "Vitória do Jari",
+    "latitude": -0.938,
+    "longitude": -52.424
+  }
+]

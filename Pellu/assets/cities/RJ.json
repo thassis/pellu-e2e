@@ -1,0 +1,646 @@
+[
+  {
+    "state": "RJ",
+    "ibge": 3300100,
+    "city": "Angra dos Reis",
+    "latitude": -23.0011,
+    "longitude": -44.3196
+  },
+  {
+    "state": "RJ",
+    "ibge": 3300159,
+    "city": "Aperibé",
+    "latitude": -21.6252,
+    "longitude": -42.1017
+  },
+  {
+    "state": "RJ",
+    "ibge": 3300209,
+    "city": "Araruama",
+    "latitude": -22.8697,
+    "longitude": -42.3326
+  },
+  {
+    "state": "RJ",
+    "ibge": 3300225,
+    "city": "Areal",
+    "latitude": -22.2283,
+    "longitude": -43.1118
+  },
+  {
+    "state": "RJ",
+    "ibge": 3300233,
+    "city": "Armação dos Búzios",
+    "latitude": -22.7528,
+    "longitude": -41.8846
+  },
+  {
+    "state": "RJ",
+    "ibge": 3300258,
+    "city": "Arraial do Cabo",
+    "latitude": -22.9774,
+    "longitude": -42.0267
+  },
+  {
+    "state": "RJ",
+    "ibge": 3300308,
+    "city": "Barra do Piraí",
+    "latitude": -22.4715,
+    "longitude": -43.8269
+  },
+  {
+    "state": "RJ",
+    "ibge": 3300407,
+    "city": "Barra Mansa",
+    "latitude": -22.5481,
+    "longitude": -44.1752
+  },
+  {
+    "state": "RJ",
+    "ibge": 3300456,
+    "city": "Belford Roxo",
+    "latitude": -22.764,
+    "longitude": -43.3992
+  },
+  {
+    "state": "RJ",
+    "ibge": 3300506,
+    "city": "Bom Jardim",
+    "latitude": -22.1545,
+    "longitude": -42.4251
+  },
+  {
+    "state": "RJ",
+    "ibge": 3300605,
+    "city": "Bom Jesus do Itabapoana",
+    "latitude": -21.1449,
+    "longitude": -41.6822
+  },
+  {
+    "state": "RJ",
+    "ibge": 3300704,
+    "city": "Cabo Frio",
+    "latitude": -22.8894,
+    "longitude": -42.0286
+  },
+  {
+    "state": "RJ",
+    "ibge": 3300803,
+    "city": "Cachoeiras de Macacu",
+    "latitude": -22.4658,
+    "longitude": -42.6523
+  },
+  {
+    "state": "RJ",
+    "ibge": 3300902,
+    "city": "Cambuci",
+    "latitude": -21.5691,
+    "longitude": -41.9187
+  },
+  {
+    "state": "RJ",
+    "ibge": 3301009,
+    "city": "Campos dos Goytacazes",
+    "latitude": -21.7622,
+    "longitude": -41.3181
+  },
+  {
+    "state": "RJ",
+    "ibge": 3301108,
+    "city": "Cantagalo",
+    "latitude": -21.9797,
+    "longitude": -42.3664
+  },
+  {
+    "state": "RJ",
+    "ibge": 3300936,
+    "city": "Carapebus",
+    "latitude": -22.1821,
+    "longitude": -41.663
+  },
+  {
+    "state": "RJ",
+    "ibge": 3301157,
+    "city": "Cardoso Moreira",
+    "latitude": -21.4846,
+    "longitude": -41.6165
+  },
+  {
+    "state": "RJ",
+    "ibge": 3301207,
+    "city": "Carmo",
+    "latitude": -21.931,
+    "longitude": -42.6046
+  },
+  {
+    "state": "RJ",
+    "ibge": 3301306,
+    "city": "Casimiro de Abreu",
+    "latitude": -22.4812,
+    "longitude": -42.2066
+  },
+  {
+    "state": "RJ",
+    "ibge": 3300951,
+    "city": "Comendador Levy Gasparian",
+    "latitude": -22.0404,
+    "longitude": -43.214
+  },
+  {
+    "state": "RJ",
+    "ibge": 3301405,
+    "city": "Conceição de Macabu",
+    "latitude": -22.0834,
+    "longitude": -41.8719
+  },
+  {
+    "state": "RJ",
+    "ibge": 3301504,
+    "city": "Cordeiro",
+    "latitude": -22.0267,
+    "longitude": -42.3648
+  },
+  {
+    "state": "RJ",
+    "ibge": 3301603,
+    "city": "Duas Barras",
+    "latitude": -22.0536,
+    "longitude": -42.5232
+  },
+  {
+    "state": "RJ",
+    "ibge": 3301702,
+    "city": "Duque de Caxias",
+    "latitude": -22.7858,
+    "longitude": -43.3049
+  },
+  {
+    "state": "RJ",
+    "ibge": 3301801,
+    "city": "Engenheiro Paulo de Frontin",
+    "latitude": -22.5498,
+    "longitude": -43.6827
+  },
+  {
+    "state": "RJ",
+    "ibge": 3301850,
+    "city": "Guapimirim",
+    "latitude": -22.5347,
+    "longitude": -42.9895
+  },
+  {
+    "state": "RJ",
+    "ibge": 3301876,
+    "city": "Iguaba Grande",
+    "latitude": -22.8495,
+    "longitude": -42.2299
+  },
+  {
+    "state": "RJ",
+    "ibge": 3301900,
+    "city": "Itaboraí",
+    "latitude": -22.7565,
+    "longitude": -42.8639
+  },
+  {
+    "state": "RJ",
+    "ibge": 3302007,
+    "city": "Itaguaí",
+    "latitude": -22.8636,
+    "longitude": -43.7798
+  },
+  {
+    "state": "RJ",
+    "ibge": 3302056,
+    "city": "Italva",
+    "latitude": -21.4296,
+    "longitude": -41.7014
+  },
+  {
+    "state": "RJ",
+    "ibge": 3302106,
+    "city": "Itaocara",
+    "latitude": -21.6748,
+    "longitude": -42.0758
+  },
+  {
+    "state": "RJ",
+    "ibge": 3302205,
+    "city": "Itaperuna",
+    "latitude": -21.1997,
+    "longitude": -41.8799
+  },
+  {
+    "state": "RJ",
+    "ibge": 3302254,
+    "city": "Itatiaia",
+    "latitude": -22.4897,
+    "longitude": -44.5675
+  },
+  {
+    "state": "RJ",
+    "ibge": 3302270,
+    "city": "Japeri",
+    "latitude": -22.6435,
+    "longitude": -43.6602
+  },
+  {
+    "state": "RJ",
+    "ibge": 3302304,
+    "city": "Laje do Muriaé",
+    "latitude": -21.2091,
+    "longitude": -42.1271
+  },
+  {
+    "state": "RJ",
+    "ibge": 3302403,
+    "city": "Macaé",
+    "latitude": -22.3768,
+    "longitude": -41.7848
+  },
+  {
+    "state": "RJ",
+    "ibge": 3302452,
+    "city": "Macuco",
+    "latitude": -21.9813,
+    "longitude": -42.2533
+  },
+  {
+    "state": "RJ",
+    "ibge": 3302502,
+    "city": "Magé",
+    "latitude": -22.6632,
+    "longitude": -43.0315
+  },
+  {
+    "state": "RJ",
+    "ibge": 3302601,
+    "city": "Mangaratiba",
+    "latitude": -22.9594,
+    "longitude": -44.0409
+  },
+  {
+    "state": "RJ",
+    "ibge": 3302700,
+    "city": "Maricá",
+    "latitude": -22.9354,
+    "longitude": -42.8246
+  },
+  {
+    "state": "RJ",
+    "ibge": 3302809,
+    "city": "Mendes",
+    "latitude": -22.5245,
+    "longitude": -43.7312
+  },
+  {
+    "state": "RJ",
+    "ibge": 3302858,
+    "city": "Mesquita",
+    "latitude": -22.8028,
+    "longitude": -43.4601
+  },
+  {
+    "state": "RJ",
+    "ibge": 3302908,
+    "city": "Miguel Pereira",
+    "latitude": -22.4572,
+    "longitude": -43.4803
+  },
+  {
+    "state": "RJ",
+    "ibge": 3303005,
+    "city": "Miracema",
+    "latitude": -21.4148,
+    "longitude": -42.1938
+  },
+  {
+    "state": "RJ",
+    "ibge": 3303104,
+    "city": "Natividade",
+    "latitude": -21.039,
+    "longitude": -41.9697
+  },
+  {
+    "state": "RJ",
+    "ibge": 3303203,
+    "city": "Nilópolis",
+    "latitude": -22.8057,
+    "longitude": -43.4233
+  },
+  {
+    "state": "RJ",
+    "ibge": 3303302,
+    "city": "Niterói",
+    "latitude": -22.8832,
+    "longitude": -43.1034
+  },
+  {
+    "state": "RJ",
+    "ibge": 3303401,
+    "city": "Nova Friburgo",
+    "latitude": -22.2932,
+    "longitude": -42.5377
+  },
+  {
+    "state": "RJ",
+    "ibge": 3303500,
+    "city": "Nova Iguaçu",
+    "latitude": -22.7556,
+    "longitude": -43.4603
+  },
+  {
+    "state": "RJ",
+    "ibge": 3303609,
+    "city": "Paracambi",
+    "latitude": -22.6078,
+    "longitude": -43.7108
+  },
+  {
+    "state": "RJ",
+    "ibge": 3303708,
+    "city": "Paraíba do Sul",
+    "latitude": -22.1585,
+    "longitude": -43.304
+  },
+  {
+    "state": "RJ",
+    "ibge": 3303807,
+    "city": "Paraty",
+    "latitude": -23.2221,
+    "longitude": -44.7175
+  },
+  {
+    "state": "RJ",
+    "ibge": 3303856,
+    "city": "Paty do Alferes",
+    "latitude": -22.4309,
+    "longitude": -43.4285
+  },
+  {
+    "state": "RJ",
+    "ibge": 3303906,
+    "city": "Petrópolis",
+    "latitude": -22.52,
+    "longitude": -43.1926
+  },
+  {
+    "state": "RJ",
+    "ibge": 3303955,
+    "city": "Pinheiral",
+    "latitude": -22.5172,
+    "longitude": -44.0022
+  },
+  {
+    "state": "RJ",
+    "ibge": 3304003,
+    "city": "Piraí",
+    "latitude": -22.6215,
+    "longitude": -43.9081
+  },
+  {
+    "state": "RJ",
+    "ibge": 3304102,
+    "city": "Porciúncula",
+    "latitude": -20.9632,
+    "longitude": -42.0465
+  },
+  {
+    "state": "RJ",
+    "ibge": 3304110,
+    "city": "Porto Real",
+    "latitude": -22.4175,
+    "longitude": -44.2952
+  },
+  {
+    "state": "RJ",
+    "ibge": 3304128,
+    "city": "Quatis",
+    "latitude": -22.4045,
+    "longitude": -44.2597
+  },
+  {
+    "state": "RJ",
+    "ibge": 3304144,
+    "city": "Queimados",
+    "latitude": -22.7102,
+    "longitude": -43.5518
+  },
+  {
+    "state": "RJ",
+    "ibge": 3304151,
+    "city": "Quissamã",
+    "latitude": -22.1031,
+    "longitude": -41.4693
+  },
+  {
+    "state": "RJ",
+    "ibge": 3304201,
+    "city": "Resende",
+    "latitude": -22.4705,
+    "longitude": -44.4509
+  },
+  {
+    "state": "RJ",
+    "ibge": 3304300,
+    "city": "Rio Bonito",
+    "latitude": -22.7181,
+    "longitude": -42.6276
+  },
+  {
+    "state": "RJ",
+    "ibge": 3304409,
+    "city": "Rio Claro",
+    "latitude": -22.72,
+    "longitude": -44.1419
+  },
+  {
+    "state": "RJ",
+    "ibge": 3304508,
+    "city": "Rio das Flores",
+    "latitude": -22.1692,
+    "longitude": -43.5856
+  },
+  {
+    "state": "RJ",
+    "ibge": 3304524,
+    "city": "Rio das Ostras",
+    "latitude": -22.5174,
+    "longitude": -41.9475
+  },
+  {
+    "state": "RJ",
+    "ibge": 3304557,
+    "city": "Rio de Janeiro",
+    "latitude": -22.9129,
+    "longitude": -43.2003
+  },
+  {
+    "state": "RJ",
+    "ibge": 3304607,
+    "city": "Santa Maria Madalena",
+    "latitude": -21.9547,
+    "longitude": -42.0098
+  },
+  {
+    "state": "RJ",
+    "ibge": 3304706,
+    "city": "Santo Antônio de Pádua",
+    "latitude": -21.541,
+    "longitude": -42.1832
+  },
+  {
+    "state": "RJ",
+    "ibge": 3304805,
+    "city": "São Fidélis",
+    "latitude": -21.6551,
+    "longitude": -41.756
+  },
+  {
+    "state": "RJ",
+    "ibge": 3304755,
+    "city": "São Francisco de Itabapoana",
+    "latitude": -21.4702,
+    "longitude": -41.1091
+  },
+  {
+    "state": "RJ",
+    "ibge": 3304904,
+    "city": "São Gonçalo",
+    "latitude": -22.8268,
+    "longitude": -43.0634
+  },
+  {
+    "state": "RJ",
+    "ibge": 3305000,
+    "city": "São João da Barra",
+    "latitude": -21.638,
+    "longitude": -41.0446
+  },
+  {
+    "state": "RJ",
+    "ibge": 3305109,
+    "city": "São João de Meriti",
+    "latitude": -22.8058,
+    "longitude": -43.3729
+  },
+  {
+    "state": "RJ",
+    "ibge": 3305133,
+    "city": "São José de Ubá",
+    "latitude": -21.3661,
+    "longitude": -41.9511
+  },
+  {
+    "state": "RJ",
+    "ibge": 3305158,
+    "city": "São José do Vale do Rio Preto",
+    "latitude": -22.1525,
+    "longitude": -42.9327
+  },
+  {
+    "state": "RJ",
+    "ibge": 3305208,
+    "city": "São Pedro da Aldeia",
+    "latitude": -22.8429,
+    "longitude": -42.1026
+  },
+  {
+    "state": "RJ",
+    "ibge": 3305307,
+    "city": "São Sebastião do Alto",
+    "latitude": -21.9578,
+    "longitude": -42.1328
+  },
+  {
+    "state": "RJ",
+    "ibge": 3305406,
+    "city": "Sapucaia",
+    "latitude": -21.9949,
+    "longitude": -42.9142
+  },
+  {
+    "state": "RJ",
+    "ibge": 3305505,
+    "city": "Saquarema",
+    "latitude": -22.9292,
+    "longitude": -42.5099
+  },
+  {
+    "state": "RJ",
+    "ibge": 3305554,
+    "city": "Seropédica",
+    "latitude": -22.7526,
+    "longitude": -43.7155
+  },
+  {
+    "state": "RJ",
+    "ibge": 3305604,
+    "city": "Silva Jardim",
+    "latitude": -22.6574,
+    "longitude": -42.3961
+  },
+  {
+    "state": "RJ",
+    "ibge": 3305703,
+    "city": "Sumidouro",
+    "latitude": -22.0485,
+    "longitude": -42.6761
+  },
+  {
+    "state": "RJ",
+    "ibge": 3305752,
+    "city": "Tanguá",
+    "latitude": -22.7423,
+    "longitude": -42.7202
+  },
+  {
+    "state": "RJ",
+    "ibge": 3305802,
+    "city": "Teresópolis",
+    "latitude": -22.4165,
+    "longitude": -42.9752
+  },
+  {
+    "state": "RJ",
+    "ibge": 3305901,
+    "city": "Trajano de Moraes",
+    "latitude": -22.0638,
+    "longitude": -42.0643
+  },
+  {
+    "state": "RJ",
+    "ibge": 3306008,
+    "city": "Três Rios",
+    "latitude": -22.1165,
+    "longitude": -43.2185
+  },
+  {
+    "state": "RJ",
+    "ibge": 3306107,
+    "city": "Valença",
+    "latitude": -22.2445,
+    "longitude": -43.7129
+  },
+  {
+    "state": "RJ",
+    "ibge": 3306156,
+    "city": "Varre-Sai",
+    "latitude": -20.9276,
+    "longitude": -41.8701
+  },
+  {
+    "state": "RJ",
+    "ibge": 3306206,
+    "city": "Vassouras",
+    "latitude": -22.4059,
+    "longitude": -43.6686
+  },
+  {
+    "state": "RJ",
+    "ibge": 3306305,
+    "city": "Volta Redonda",
+    "latitude": -22.5202,
+    "longitude": -44.0996
+  }
+]

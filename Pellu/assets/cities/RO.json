@@ -1,0 +1,366 @@
+[
+  {
+    "state": "RO",
+    "ibge": 1100015,
+    "city": "Alta Floresta D'Oeste",
+    "latitude": -11.9283,
+    "longitude": -61.9953
+  },
+  {
+    "state": "RO",
+    "ibge": 1100379,
+    "city": "Alto Alegre dos Parecis",
+    "latitude": -12.132,
+    "longitude": -61.835
+  },
+  {
+    "state": "RO",
+    "ibge": 1100403,
+    "city": "Alto Paraíso",
+    "latitude": -9.71429,
+    "longitude": -63.3188
+  },
+  {
+    "state": "RO",
+    "ibge": 1100346,
+    "city": "Alvorada D'Oeste",
+    "latitude": -11.3463,
+    "longitude": -62.2847
+  },
+  {
+    "state": "RO",
+    "ibge": 1100023,
+    "city": "Ariquemes",
+    "latitude": -9.90571,
+    "longitude": -63.0325
+  },
+  {
+    "state": "RO",
+    "ibge": 1100452,
+    "city": "Buritis",
+    "latitude": -10.1943,
+    "longitude": -63.8324
+  },
+  {
+    "state": "RO",
+    "ibge": 1100031,
+    "city": "Cabixi",
+    "latitude": -13.4945,
+    "longitude": -60.552
+  },
+  {
+    "state": "RO",
+    "ibge": 1100601,
+    "city": "Cacaulândia",
+    "latitude": -10.349,
+    "longitude": -62.9043
+  },
+  {
+    "state": "RO",
+    "ibge": 1100049,
+    "city": "Cacoal",
+    "latitude": -11.4343,
+    "longitude": -61.4562
+  },
+  {
+    "state": "RO",
+    "ibge": 1100700,
+    "city": "Campo Novo de Rondônia",
+    "latitude": -10.5712,
+    "longitude": -63.6266
+  },
+  {
+    "state": "RO",
+    "ibge": 1100809,
+    "city": "Candeias do Jamari",
+    "latitude": -8.7907,
+    "longitude": -63.7005
+  },
+  {
+    "state": "RO",
+    "ibge": 1100908,
+    "city": "Castanheiras",
+    "latitude": -11.4253,
+    "longitude": -61.9482
+  },
+  {
+    "state": "RO",
+    "ibge": 1100056,
+    "city": "Cerejeiras",
+    "latitude": -13.187,
+    "longitude": -60.8168
+  },
+  {
+    "state": "RO",
+    "ibge": 1100924,
+    "city": "Chupinguaia",
+    "latitude": -12.5611,
+    "longitude": -60.8877
+  },
+  {
+    "state": "RO",
+    "ibge": 1100064,
+    "city": "Colorado do Oeste",
+    "latitude": -13.1174,
+    "longitude": -60.5454
+  },
+  {
+    "state": "RO",
+    "ibge": 1100072,
+    "city": "Corumbiara",
+    "latitude": -12.9551,
+    "longitude": -60.8947
+  },
+  {
+    "state": "RO",
+    "ibge": 1100080,
+    "city": "Costa Marques",
+    "latitude": -12.4367,
+    "longitude": -64.228
+  },
+  {
+    "state": "RO",
+    "ibge": 1100940,
+    "city": "Cujubim",
+    "latitude": -9.36065,
+    "longitude": -62.5846
+  },
+  {
+    "state": "RO",
+    "ibge": 1100098,
+    "city": "Espigão D'Oeste",
+    "latitude": -11.5266,
+    "longitude": -61.0252
+  },
+  {
+    "state": "RO",
+    "ibge": 1101005,
+    "city": "Governador Jorge Teixeira",
+    "latitude": -10.61,
+    "longitude": -62.7371
+  },
+  {
+    "state": "RO",
+    "ibge": 1100106,
+    "city": "Guajará-Mirim",
+    "latitude": -10.7889,
+    "longitude": -65.3296
+  },
+  {
+    "state": "RO",
+    "ibge": 1101104,
+    "city": "Itapuã do Oeste",
+    "latitude": -9.19687,
+    "longitude": -63.1809
+  },
+  {
+    "state": "RO",
+    "ibge": 1100114,
+    "city": "Jaru",
+    "latitude": -10.4318,
+    "longitude": -62.4788
+  },
+  {
+    "state": "RO",
+    "ibge": 1100122,
+    "city": "Ji-Paraná",
+    "latitude": -10.8777,
+    "longitude": -61.9322
+  },
+  {
+    "state": "RO",
+    "ibge": 1100130,
+    "city": "Machadinho D'Oeste",
+    "latitude": -9.44363,
+    "longitude": -61.9818
+  },
+  {
+    "state": "RO",
+    "ibge": 1101203,
+    "city": "Ministro Andreazza",
+    "latitude": -11.196,
+    "longitude": -61.5174
+  },
+  {
+    "state": "RO",
+    "ibge": 1101302,
+    "city": "Mirante da Serra",
+    "latitude": -11.029,
+    "longitude": -62.6696
+  },
+  {
+    "state": "RO",
+    "ibge": 1101401,
+    "city": "Monte Negro",
+    "latitude": -10.2458,
+    "longitude": -63.29
+  },
+  {
+    "state": "RO",
+    "ibge": 1100148,
+    "city": "Nova Brasilândia D'Oeste",
+    "latitude": -11.7247,
+    "longitude": -62.3127
+  },
+  {
+    "state": "RO",
+    "ibge": 1100338,
+    "city": "Nova Mamoré",
+    "latitude": -10.4077,
+    "longitude": -65.3346
+  },
+  {
+    "state": "RO",
+    "ibge": 1101435,
+    "city": "Nova União",
+    "latitude": -10.9068,
+    "longitude": -62.5564
+  },
+  {
+    "state": "RO",
+    "ibge": 1100502,
+    "city": "Novo Horizonte do Oeste",
+    "latitude": -11.6961,
+    "longitude": -61.9951
+  },
+  {
+    "state": "RO",
+    "ibge": 1100155,
+    "city": "Ouro Preto do Oeste",
+    "latitude": -10.7167,
+    "longitude": -62.2565
+  },
+  {
+    "state": "RO",
+    "ibge": 1101450,
+    "city": "Parecis",
+    "latitude": -12.1754,
+    "longitude": -61.6032
+  },
+  {
+    "state": "RO",
+    "ibge": 1100189,
+    "city": "Pimenta Bueno",
+    "latitude": -11.672,
+    "longitude": -61.198
+  },
+  {
+    "state": "RO",
+    "ibge": 1101468,
+    "city": "Pimenteiras do Oeste",
+    "latitude": -13.4823,
+    "longitude": -61.0471
+  },
+  {
+    "state": "RO",
+    "ibge": 1100205,
+    "city": "Porto Velho",
+    "latitude": -8.76077,
+    "longitude": -63.8999
+  },
+  {
+    "state": "RO",
+    "ibge": 1100254,
+    "city": "Presidente Médici",
+    "latitude": -11.169,
+    "longitude": -61.8986
+  },
+  {
+    "state": "RO",
+    "ibge": 1101476,
+    "city": "Primavera de Rondônia",
+    "latitude": -11.8295,
+    "longitude": -61.3153
+  },
+  {
+    "state": "RO",
+    "ibge": 1100262,
+    "city": "Rio Crespo",
+    "latitude": -9.69965,
+    "longitude": -62.9011
+  },
+  {
+    "state": "RO",
+    "ibge": 1100288,
+    "city": "Rolim de Moura",
+    "latitude": -11.7271,
+    "longitude": -61.7714
+  },
+  {
+    "state": "RO",
+    "ibge": 1100296,
+    "city": "Santa Luzia D'Oeste",
+    "latitude": -11.9074,
+    "longitude": -61.7777
+  },
+  {
+    "state": "RO",
+    "ibge": 1101484,
+    "city": "São Felipe D'Oeste",
+    "latitude": -11.9023,
+    "longitude": -61.5026
+  },
+  {
+    "state": "RO",
+    "ibge": 1101492,
+    "city": "São Francisco do Guaporé",
+    "latitude": -12.052,
+    "longitude": -63.568
+  },
+  {
+    "state": "RO",
+    "ibge": 1100320,
+    "city": "São Miguel do Guaporé",
+    "latitude": -11.6953,
+    "longitude": -62.7192
+  },
+  {
+    "state": "RO",
+    "ibge": 1101500,
+    "city": "Seringueiras",
+    "latitude": -11.8055,
+    "longitude": -63.0182
+  },
+  {
+    "state": "RO",
+    "ibge": 1101559,
+    "city": "Teixeirópolis",
+    "latitude": -10.9056,
+    "longitude": -62.242
+  },
+  {
+    "state": "RO",
+    "ibge": 1101609,
+    "city": "Theobroma",
+    "latitude": -10.2483,
+    "longitude": -62.3538
+  },
+  {
+    "state": "RO",
+    "ibge": 1101708,
+    "city": "Urupá",
+    "latitude": -11.1261,
+    "longitude": -62.3639
+  },
+  {
+    "state": "RO",
+    "ibge": 1101757,
+    "city": "Vale do Anari",
+    "latitude": -9.86215,
+    "longitude": -62.1876
+  },
+  {
+    "state": "RO",
+    "ibge": 1101807,
+    "city": "Vale do Paraíso",
+    "latitude": -10.4465,
+    "longitude": -62.1352
+  },
+  {
+    "state": "RO",
+    "ibge": 1100304,
+    "city": "Vilhena",
+    "latitude": -12.7502,
+    "longitude": -60.1488
+  }
+]

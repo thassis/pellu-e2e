@@ -1,0 +1,1563 @@
+[
+  {
+    "state": "PB",
+    "ibge": 2500106,
+    "city": "Água Branca",
+    "latitude": -7.51144,
+    "longitude": -37.6357
+  },
+  {
+    "state": "PB",
+    "ibge": 2500205,
+    "city": "Aguiar",
+    "latitude": -7.0918,
+    "longitude": -38.1681
+  },
+  {
+    "state": "PB",
+    "ibge": 2500304,
+    "city": "Alagoa Grande",
+    "latitude": -7.03943,
+    "longitude": -35.6206
+  },
+  {
+    "state": "PB",
+    "ibge": 2500403,
+    "city": "Alagoa Nova",
+    "latitude": -7.05377,
+    "longitude": -35.7591
+  },
+  {
+    "state": "PB",
+    "ibge": 2500502,
+    "city": "Alagoinha",
+    "latitude": -6.94657,
+    "longitude": -35.5332
+  },
+  {
+    "state": "PB",
+    "ibge": 2500536,
+    "city": "Alcantil",
+    "latitude": -7.73668,
+    "longitude": -36.0511
+  },
+  {
+    "state": "PB",
+    "ibge": 2500577,
+    "city": "Algodão de Jandaíra",
+    "latitude": -6.89292,
+    "longitude": -36.0129
+  },
+  {
+    "state": "PB",
+    "ibge": 2500601,
+    "city": "Alhandra",
+    "latitude": -7.42977,
+    "longitude": -34.9057
+  },
+  {
+    "state": "PB",
+    "ibge": 2500734,
+    "city": "Amparo",
+    "latitude": -7.55502,
+    "longitude": -37.0628
+  },
+  {
+    "state": "PB",
+    "ibge": 2500775,
+    "city": "Aparecida",
+    "latitude": -6.78466,
+    "longitude": -38.0803
+  },
+  {
+    "state": "PB",
+    "ibge": 2500809,
+    "city": "Araçagi",
+    "latitude": -6.84374,
+    "longitude": -35.3737
+  },
+  {
+    "state": "PB",
+    "ibge": 2500908,
+    "city": "Arara",
+    "latitude": -6.82813,
+    "longitude": -35.7552
+  },
+  {
+    "state": "PB",
+    "ibge": 2501005,
+    "city": "Araruna",
+    "latitude": -6.54848,
+    "longitude": -35.7498
+  },
+  {
+    "state": "PB",
+    "ibge": 2501104,
+    "city": "Areia",
+    "latitude": -6.96396,
+    "longitude": -35.6977
+  },
+  {
+    "state": "PB",
+    "ibge": 2501153,
+    "city": "Areia de Baraúnas",
+    "latitude": -7.11702,
+    "longitude": -36.9404
+  },
+  {
+    "state": "PB",
+    "ibge": 2501203,
+    "city": "Areial",
+    "latitude": -7.04789,
+    "longitude": -35.9313
+  },
+  {
+    "state": "PB",
+    "ibge": 2501302,
+    "city": "Aroeiras",
+    "latitude": -7.54473,
+    "longitude": -35.7066
+  },
+  {
+    "state": "PB",
+    "ibge": 2501351,
+    "city": "Assunção",
+    "latitude": -7.07231,
+    "longitude": -36.725
+  },
+  {
+    "state": "PB",
+    "ibge": 2501401,
+    "city": "Baía da Traição",
+    "latitude": -6.69209,
+    "longitude": -34.9381
+  },
+  {
+    "state": "PB",
+    "ibge": 2501500,
+    "city": "Bananeiras",
+    "latitude": -6.74775,
+    "longitude": -35.6246
+  },
+  {
+    "state": "PB",
+    "ibge": 2501534,
+    "city": "Baraúna",
+    "latitude": -6.63484,
+    "longitude": -36.2601
+  },
+  {
+    "state": "PB",
+    "ibge": 2501609,
+    "city": "Barra de Santa Rosa",
+    "latitude": -6.71816,
+    "longitude": -36.0671
+  },
+  {
+    "state": "PB",
+    "ibge": 2501575,
+    "city": "Barra de Santana",
+    "latitude": -7.51809,
+    "longitude": -35.9913
+  },
+  {
+    "state": "PB",
+    "ibge": 2501708,
+    "city": "Barra de São Miguel",
+    "latitude": -7.74603,
+    "longitude": -36.3209
+  },
+  {
+    "state": "PB",
+    "ibge": 2501807,
+    "city": "Bayeux",
+    "latitude": -7.1238,
+    "longitude": -34.9293
+  },
+  {
+    "state": "PB",
+    "ibge": 2501906,
+    "city": "Belém",
+    "latitude": -6.74261,
+    "longitude": -35.5166
+  },
+  {
+    "state": "PB",
+    "ibge": 2502003,
+    "city": "Belém do Brejo do Cruz",
+    "latitude": -6.18515,
+    "longitude": -37.5348
+  },
+  {
+    "state": "PB",
+    "ibge": 2502052,
+    "city": "Bernardino Batista",
+    "latitude": -6.44572,
+    "longitude": -38.5521
+  },
+  {
+    "state": "PB",
+    "ibge": 2502102,
+    "city": "Boa Ventura",
+    "latitude": -7.40982,
+    "longitude": -38.2113
+  },
+  {
+    "state": "PB",
+    "ibge": 2502151,
+    "city": "Boa Vista",
+    "latitude": -7.26365,
+    "longitude": -36.2357
+  },
+  {
+    "state": "PB",
+    "ibge": 2502201,
+    "city": "Bom Jesus",
+    "latitude": -6.81601,
+    "longitude": -38.6453
+  },
+  {
+    "state": "PB",
+    "ibge": 2502300,
+    "city": "Bom Sucesso",
+    "latitude": -6.44176,
+    "longitude": -37.9234
+  },
+  {
+    "state": "PB",
+    "ibge": 2502409,
+    "city": "Bonito de Santa Fé",
+    "latitude": -7.31341,
+    "longitude": -38.5133
+  },
+  {
+    "state": "PB",
+    "ibge": 2502508,
+    "city": "Boqueirão",
+    "latitude": -7.487,
+    "longitude": -36.1309
+  },
+  {
+    "state": "PB",
+    "ibge": 2502706,
+    "city": "Borborema",
+    "latitude": -6.80199,
+    "longitude": -35.6187
+  },
+  {
+    "state": "PB",
+    "ibge": 2502805,
+    "city": "Brejo do Cruz",
+    "latitude": -6.34185,
+    "longitude": -37.4943
+  },
+  {
+    "state": "PB",
+    "ibge": 2502904,
+    "city": "Brejo dos Santos",
+    "latitude": -6.37065,
+    "longitude": -37.8253
+  },
+  {
+    "state": "PB",
+    "ibge": 2503001,
+    "city": "Caaporã",
+    "latitude": -7.51351,
+    "longitude": -34.9055
+  },
+  {
+    "state": "PB",
+    "ibge": 2503100,
+    "city": "Cabaceiras",
+    "latitude": -7.48899,
+    "longitude": -36.287
+  },
+  {
+    "state": "PB",
+    "ibge": 2503209,
+    "city": "Cabedelo",
+    "latitude": -6.98731,
+    "longitude": -34.8284
+  },
+  {
+    "state": "PB",
+    "ibge": 2503308,
+    "city": "Cachoeira dos Índios",
+    "latitude": -6.91353,
+    "longitude": -38.676
+  },
+  {
+    "state": "PB",
+    "ibge": 2503407,
+    "city": "Cacimba de Areia",
+    "latitude": -7.12128,
+    "longitude": -37.1563
+  },
+  {
+    "state": "PB",
+    "ibge": 2503506,
+    "city": "Cacimba de Dentro",
+    "latitude": -6.6386,
+    "longitude": -35.7778
+  },
+  {
+    "state": "PB",
+    "ibge": 2503555,
+    "city": "Cacimbas",
+    "latitude": -7.20721,
+    "longitude": -37.0604
+  },
+  {
+    "state": "PB",
+    "ibge": 2503605,
+    "city": "Caiçara",
+    "latitude": -6.62115,
+    "longitude": -35.4581
+  },
+  {
+    "state": "PB",
+    "ibge": 2503704,
+    "city": "Cajazeiras",
+    "latitude": -6.88004,
+    "longitude": -38.5577
+  },
+  {
+    "state": "PB",
+    "ibge": 2503753,
+    "city": "Cajazeirinhas",
+    "latitude": -6.96016,
+    "longitude": -37.8009
+  },
+  {
+    "state": "PB",
+    "ibge": 2503803,
+    "city": "Caldas Brandão",
+    "latitude": -7.1025,
+    "longitude": -35.3272
+  },
+  {
+    "state": "PB",
+    "ibge": 2503902,
+    "city": "Camalaú",
+    "latitude": -7.88503,
+    "longitude": -36.8242
+  },
+  {
+    "state": "PB",
+    "ibge": 2504009,
+    "city": "Campina Grande",
+    "latitude": -7.22196,
+    "longitude": -35.8731
+  },
+  {
+    "state": "PB",
+    "ibge": 2504033,
+    "city": "Capim",
+    "latitude": -6.91624,
+    "longitude": -35.1673
+  },
+  {
+    "state": "PB",
+    "ibge": 2504074,
+    "city": "Caraúbas",
+    "latitude": -7.72049,
+    "longitude": -36.492
+  },
+  {
+    "state": "PB",
+    "ibge": 2504108,
+    "city": "Carrapateira",
+    "latitude": -7.03414,
+    "longitude": -38.3399
+  },
+  {
+    "state": "PB",
+    "ibge": 2504157,
+    "city": "Casserengue",
+    "latitude": -6.77954,
+    "longitude": -35.8179
+  },
+  {
+    "state": "PB",
+    "ibge": 2504207,
+    "city": "Catingueira",
+    "latitude": -7.12008,
+    "longitude": -37.6064
+  },
+  {
+    "state": "PB",
+    "ibge": 2504306,
+    "city": "Catolé do Rocha",
+    "latitude": -6.34062,
+    "longitude": -37.747
+  },
+  {
+    "state": "PB",
+    "ibge": 2504355,
+    "city": "Caturité",
+    "latitude": -7.41659,
+    "longitude": -36.0306
+  },
+  {
+    "state": "PB",
+    "ibge": 2504405,
+    "city": "Conceição",
+    "latitude": -7.55106,
+    "longitude": -38.5014
+  },
+  {
+    "state": "PB",
+    "ibge": 2504504,
+    "city": "Condado",
+    "latitude": -6.89831,
+    "longitude": -37.606
+  },
+  {
+    "state": "PB",
+    "ibge": 2504603,
+    "city": "Conde",
+    "latitude": -7.25746,
+    "longitude": -34.8999
+  },
+  {
+    "state": "PB",
+    "ibge": 2504702,
+    "city": "Congo",
+    "latitude": -7.79078,
+    "longitude": -36.6581
+  },
+  {
+    "state": "PB",
+    "ibge": 2504801,
+    "city": "Coremas",
+    "latitude": -7.00712,
+    "longitude": -37.9346
+  },
+  {
+    "state": "PB",
+    "ibge": 2504850,
+    "city": "Coxixola",
+    "latitude": -7.62365,
+    "longitude": -36.6064
+  },
+  {
+    "state": "PB",
+    "ibge": 2504900,
+    "city": "Cruz do Espírito Santo",
+    "latitude": -7.13902,
+    "longitude": -35.0857
+  },
+  {
+    "state": "PB",
+    "ibge": 2505006,
+    "city": "Cubati",
+    "latitude": -6.86686,
+    "longitude": -36.3619
+  },
+  {
+    "state": "PB",
+    "ibge": 2505105,
+    "city": "Cuité",
+    "latitude": -6.47647,
+    "longitude": -36.1515
+  },
+  {
+    "state": "PB",
+    "ibge": 2505238,
+    "city": "Cuité de Mamanguape",
+    "latitude": -6.91292,
+    "longitude": -35.2502
+  },
+  {
+    "state": "PB",
+    "ibge": 2505204,
+    "city": "Cuitegi",
+    "latitude": -6.89058,
+    "longitude": -35.5215
+  },
+  {
+    "state": "PB",
+    "ibge": 2505279,
+    "city": "Curral de Cima",
+    "latitude": -6.72325,
+    "longitude": -35.2639
+  },
+  {
+    "state": "PB",
+    "ibge": 2505303,
+    "city": "Curral Velho",
+    "latitude": -7.53075,
+    "longitude": -38.1962
+  },
+  {
+    "state": "PB",
+    "ibge": 2505352,
+    "city": "Damião",
+    "latitude": -6.63161,
+    "longitude": -35.9101
+  },
+  {
+    "state": "PB",
+    "ibge": 2505402,
+    "city": "Desterro",
+    "latitude": -7.287,
+    "longitude": -37.0925
+  },
+  {
+    "state": "PB",
+    "ibge": 2505600,
+    "city": "Diamante",
+    "latitude": -7.41738,
+    "longitude": -38.2615
+  },
+  {
+    "state": "PB",
+    "ibge": 2505709,
+    "city": "Dona Inês",
+    "latitude": -6.61566,
+    "longitude": -35.6205
+  },
+  {
+    "state": "PB",
+    "ibge": 2505808,
+    "city": "Duas Estradas",
+    "latitude": -6.68499,
+    "longitude": -35.418
+  },
+  {
+    "state": "PB",
+    "ibge": 2505907,
+    "city": "Emas",
+    "latitude": -7.09964,
+    "longitude": -37.7163
+  },
+  {
+    "state": "PB",
+    "ibge": 2506004,
+    "city": "Esperança",
+    "latitude": -7.02278,
+    "longitude": -35.8597
+  },
+  {
+    "state": "PB",
+    "ibge": 2506103,
+    "city": "Fagundes",
+    "latitude": -7.34454,
+    "longitude": -35.7931
+  },
+  {
+    "state": "PB",
+    "ibge": 2506202,
+    "city": "Frei Martinho",
+    "latitude": -6.39759,
+    "longitude": -36.4526
+  },
+  {
+    "state": "PB",
+    "ibge": 2506251,
+    "city": "Gado Bravo",
+    "latitude": -7.58279,
+    "longitude": -35.7899
+  },
+  {
+    "state": "PB",
+    "ibge": 2506301,
+    "city": "Guarabira",
+    "latitude": -6.85064,
+    "longitude": -35.485
+  },
+  {
+    "state": "PB",
+    "ibge": 2506400,
+    "city": "Gurinhém",
+    "latitude": -7.1233,
+    "longitude": -35.4222
+  },
+  {
+    "state": "PB",
+    "ibge": 2506509,
+    "city": "Gurjão",
+    "latitude": -7.24833,
+    "longitude": -36.4923
+  },
+  {
+    "state": "PB",
+    "ibge": 2506608,
+    "city": "Ibiara",
+    "latitude": -7.47957,
+    "longitude": -38.4059
+  },
+  {
+    "state": "PB",
+    "ibge": 2502607,
+    "city": "Igaracy",
+    "latitude": -7.17184,
+    "longitude": -38.1478
+  },
+  {
+    "state": "PB",
+    "ibge": 2506707,
+    "city": "Imaculada",
+    "latitude": -7.3889,
+    "longitude": -37.5079
+  },
+  {
+    "state": "PB",
+    "ibge": 2506806,
+    "city": "Ingá",
+    "latitude": -7.28144,
+    "longitude": -35.605
+  },
+  {
+    "state": "PB",
+    "ibge": 2506905,
+    "city": "Itabaiana",
+    "latitude": -7.33167,
+    "longitude": -35.3317
+  },
+  {
+    "state": "PB",
+    "ibge": 2507002,
+    "city": "Itaporanga",
+    "latitude": -7.30202,
+    "longitude": -38.1504
+  },
+  {
+    "state": "PB",
+    "ibge": 2507101,
+    "city": "Itapororoca",
+    "latitude": -6.82374,
+    "longitude": -35.2406
+  },
+  {
+    "state": "PB",
+    "ibge": 2507200,
+    "city": "Itatuba",
+    "latitude": -7.38115,
+    "longitude": -35.638
+  },
+  {
+    "state": "PB",
+    "ibge": 2507309,
+    "city": "Jacaraú",
+    "latitude": -6.61453,
+    "longitude": -35.289
+  },
+  {
+    "state": "PB",
+    "ibge": 2507408,
+    "city": "Jericó",
+    "latitude": -6.54577,
+    "longitude": -37.8036
+  },
+  {
+    "state": "PB",
+    "ibge": 2507507,
+    "city": "João Pessoa",
+    "latitude": -7.11509,
+    "longitude": -34.8641
+  },
+  {
+    "state": "PB",
+    "ibge": 2513653,
+    "city": "Joca Claudino",
+    "latitude": -6.48362,
+    "longitude": -38.4764
+  },
+  {
+    "state": "PB",
+    "ibge": 2507606,
+    "city": "Juarez Távora",
+    "latitude": -7.1713,
+    "longitude": -35.5686
+  },
+  {
+    "state": "PB",
+    "ibge": 2507705,
+    "city": "Juazeirinho",
+    "latitude": -7.06092,
+    "longitude": -36.5793
+  },
+  {
+    "state": "PB",
+    "ibge": 2507804,
+    "city": "Junco do Seridó",
+    "latitude": -6.99269,
+    "longitude": -36.7166
+  },
+  {
+    "state": "PB",
+    "ibge": 2507903,
+    "city": "Juripiranga",
+    "latitude": -7.36176,
+    "longitude": -35.2321
+  },
+  {
+    "state": "PB",
+    "ibge": 2508000,
+    "city": "Juru",
+    "latitude": -7.52983,
+    "longitude": -37.815
+  },
+  {
+    "state": "PB",
+    "ibge": 2508109,
+    "city": "Lagoa",
+    "latitude": -6.58572,
+    "longitude": -37.9127
+  },
+  {
+    "state": "PB",
+    "ibge": 2508208,
+    "city": "Lagoa de Dentro",
+    "latitude": -6.67213,
+    "longitude": -35.3706
+  },
+  {
+    "state": "PB",
+    "ibge": 2508307,
+    "city": "Lagoa Seca",
+    "latitude": -7.15535,
+    "longitude": -35.8491
+  },
+  {
+    "state": "PB",
+    "ibge": 2508406,
+    "city": "Lastro",
+    "latitude": -6.50603,
+    "longitude": -38.1742
+  },
+  {
+    "state": "PB",
+    "ibge": 2508505,
+    "city": "Livramento",
+    "latitude": -7.37113,
+    "longitude": -36.9491
+  },
+  {
+    "state": "PB",
+    "ibge": 2508554,
+    "city": "Logradouro",
+    "latitude": -6.61191,
+    "longitude": -35.4384
+  },
+  {
+    "state": "PB",
+    "ibge": 2508604,
+    "city": "Lucena",
+    "latitude": -6.90258,
+    "longitude": -34.8748
+  },
+  {
+    "state": "PB",
+    "ibge": 2508703,
+    "city": "Mãe d'Água",
+    "latitude": -7.25201,
+    "longitude": -37.4322
+  },
+  {
+    "state": "PB",
+    "ibge": 2508802,
+    "city": "Malta",
+    "latitude": -6.89719,
+    "longitude": -37.5221
+  },
+  {
+    "state": "PB",
+    "ibge": 2508901,
+    "city": "Mamanguape",
+    "latitude": -6.8337,
+    "longitude": -35.1213
+  },
+  {
+    "state": "PB",
+    "ibge": 2509008,
+    "city": "Manaíra",
+    "latitude": -7.70331,
+    "longitude": -38.1523
+  },
+  {
+    "state": "PB",
+    "ibge": 2509057,
+    "city": "Marcação",
+    "latitude": -6.76535,
+    "longitude": -35.0087
+  },
+  {
+    "state": "PB",
+    "ibge": 2509107,
+    "city": "Mari",
+    "latitude": -7.05942,
+    "longitude": -35.318
+  },
+  {
+    "state": "PB",
+    "ibge": 2509156,
+    "city": "Marizópolis",
+    "latitude": -6.82748,
+    "longitude": -38.3528
+  },
+  {
+    "state": "PB",
+    "ibge": 2509206,
+    "city": "Massaranduba",
+    "latitude": -7.18995,
+    "longitude": -35.7848
+  },
+  {
+    "state": "PB",
+    "ibge": 2509305,
+    "city": "Mataraca",
+    "latitude": -6.59673,
+    "longitude": -35.0531
+  },
+  {
+    "state": "PB",
+    "ibge": 2509339,
+    "city": "Matinhas",
+    "latitude": -7.12486,
+    "longitude": -35.7669
+  },
+  {
+    "state": "PB",
+    "ibge": 2509370,
+    "city": "Mato Grosso",
+    "latitude": -6.54018,
+    "longitude": -37.7279
+  },
+  {
+    "state": "PB",
+    "ibge": 2509396,
+    "city": "Maturéia",
+    "latitude": -7.26188,
+    "longitude": -37.351
+  },
+  {
+    "state": "PB",
+    "ibge": 2509404,
+    "city": "Mogeiro",
+    "latitude": -7.28517,
+    "longitude": -35.4832
+  },
+  {
+    "state": "PB",
+    "ibge": 2509503,
+    "city": "Montadas",
+    "latitude": -7.08848,
+    "longitude": -35.9592
+  },
+  {
+    "state": "PB",
+    "ibge": 2509602,
+    "city": "Monte Horebe",
+    "latitude": -7.20402,
+    "longitude": -38.5838
+  },
+  {
+    "state": "PB",
+    "ibge": 2509701,
+    "city": "Monteiro",
+    "latitude": -7.88363,
+    "longitude": -37.1184
+  },
+  {
+    "state": "PB",
+    "ibge": 2509800,
+    "city": "Mulungu",
+    "latitude": -7.02525,
+    "longitude": -35.46
+  },
+  {
+    "state": "PB",
+    "ibge": 2509909,
+    "city": "Natuba",
+    "latitude": -7.63514,
+    "longitude": -35.5586
+  },
+  {
+    "state": "PB",
+    "ibge": 2510006,
+    "city": "Nazarezinho",
+    "latitude": -6.9114,
+    "longitude": -38.322
+  },
+  {
+    "state": "PB",
+    "ibge": 2510105,
+    "city": "Nova Floresta",
+    "latitude": -6.45056,
+    "longitude": -36.2057
+  },
+  {
+    "state": "PB",
+    "ibge": 2510204,
+    "city": "Nova Olinda",
+    "latitude": -7.47232,
+    "longitude": -38.0382
+  },
+  {
+    "state": "PB",
+    "ibge": 2510303,
+    "city": "Nova Palmeira",
+    "latitude": -6.67122,
+    "longitude": -36.422
+  },
+  {
+    "state": "PB",
+    "ibge": 2510402,
+    "city": "Olho d'Água",
+    "latitude": -7.22118,
+    "longitude": -37.7406
+  },
+  {
+    "state": "PB",
+    "ibge": 2510501,
+    "city": "Olivedos",
+    "latitude": -6.98434,
+    "longitude": -36.241
+  },
+  {
+    "state": "PB",
+    "ibge": 2510600,
+    "city": "Ouro Velho",
+    "latitude": -7.61604,
+    "longitude": -37.1519
+  },
+  {
+    "state": "PB",
+    "ibge": 2510659,
+    "city": "Parari",
+    "latitude": -7.30975,
+    "longitude": -36.6522
+  },
+  {
+    "state": "PB",
+    "ibge": 2510709,
+    "city": "Passagem",
+    "latitude": -7.13467,
+    "longitude": -37.0433
+  },
+  {
+    "state": "PB",
+    "ibge": 2510808,
+    "city": "Patos",
+    "latitude": -7.01743,
+    "longitude": -37.2747
+  },
+  {
+    "state": "PB",
+    "ibge": 2510907,
+    "city": "Paulista",
+    "latitude": -6.59138,
+    "longitude": -37.6185
+  },
+  {
+    "state": "PB",
+    "ibge": 2511004,
+    "city": "Pedra Branca",
+    "latitude": -7.42169,
+    "longitude": -38.0689
+  },
+  {
+    "state": "PB",
+    "ibge": 2511103,
+    "city": "Pedra Lavrada",
+    "latitude": -6.74997,
+    "longitude": -36.4758
+  },
+  {
+    "state": "PB",
+    "ibge": 2511202,
+    "city": "Pedras de Fogo",
+    "latitude": -7.39107,
+    "longitude": -35.1065
+  },
+  {
+    "state": "PB",
+    "ibge": 2512721,
+    "city": "Pedro Régis",
+    "latitude": -6.63323,
+    "longitude": -35.2966
+  },
+  {
+    "state": "PB",
+    "ibge": 2511301,
+    "city": "Piancó",
+    "latitude": -7.19282,
+    "longitude": -37.9289
+  },
+  {
+    "state": "PB",
+    "ibge": 2511400,
+    "city": "Picuí",
+    "latitude": -6.50845,
+    "longitude": -36.3497
+  },
+  {
+    "state": "PB",
+    "ibge": 2511509,
+    "city": "Pilar",
+    "latitude": -7.26403,
+    "longitude": -35.2523
+  },
+  {
+    "state": "PB",
+    "ibge": 2511608,
+    "city": "Pilões",
+    "latitude": -6.86827,
+    "longitude": -35.613
+  },
+  {
+    "state": "PB",
+    "ibge": 2511707,
+    "city": "Pilõezinhos",
+    "latitude": -6.84277,
+    "longitude": -35.531
+  },
+  {
+    "state": "PB",
+    "ibge": 2511806,
+    "city": "Pirpirituba",
+    "latitude": -6.77922,
+    "longitude": -35.4906
+  },
+  {
+    "state": "PB",
+    "ibge": 2511905,
+    "city": "Pitimbu",
+    "latitude": -7.4664,
+    "longitude": -34.8151
+  },
+  {
+    "state": "PB",
+    "ibge": 2512002,
+    "city": "Pocinhos",
+    "latitude": -7.06658,
+    "longitude": -36.0668
+  },
+  {
+    "state": "PB",
+    "ibge": 2512036,
+    "city": "Poço Dantas",
+    "latitude": -6.39876,
+    "longitude": -38.4909
+  },
+  {
+    "state": "PB",
+    "ibge": 2512077,
+    "city": "Poço de José de Moura",
+    "latitude": -6.56401,
+    "longitude": -38.5111
+  },
+  {
+    "state": "PB",
+    "ibge": 2512101,
+    "city": "Pombal",
+    "latitude": -6.76606,
+    "longitude": -37.8003
+  },
+  {
+    "state": "PB",
+    "ibge": 2512200,
+    "city": "Prata",
+    "latitude": -7.68826,
+    "longitude": -37.0801
+  },
+  {
+    "state": "PB",
+    "ibge": 2512309,
+    "city": "Princesa Isabel",
+    "latitude": -7.73175,
+    "longitude": -37.9886
+  },
+  {
+    "state": "PB",
+    "ibge": 2512408,
+    "city": "Puxinanã",
+    "latitude": -7.15479,
+    "longitude": -35.9543
+  },
+  {
+    "state": "PB",
+    "ibge": 2512507,
+    "city": "Queimadas",
+    "latitude": -7.35029,
+    "longitude": -35.9031
+  },
+  {
+    "state": "PB",
+    "ibge": 2512606,
+    "city": "Quixabá",
+    "latitude": -7.0224,
+    "longitude": -37.1458
+  },
+  {
+    "state": "PB",
+    "ibge": 2512705,
+    "city": "Remígio",
+    "latitude": -6.94992,
+    "longitude": -35.8011
+  },
+  {
+    "state": "PB",
+    "ibge": 2512747,
+    "city": "Riachão",
+    "latitude": -6.54269,
+    "longitude": -35.661
+  },
+  {
+    "state": "PB",
+    "ibge": 2512754,
+    "city": "Riachão do Bacamarte",
+    "latitude": -7.25347,
+    "longitude": -35.6693
+  },
+  {
+    "state": "PB",
+    "ibge": 2512762,
+    "city": "Riachão do Poço",
+    "latitude": -7.14173,
+    "longitude": -35.2914
+  },
+  {
+    "state": "PB",
+    "ibge": 2512788,
+    "city": "Riacho de Santo Antônio",
+    "latitude": -7.68023,
+    "longitude": -36.157
+  },
+  {
+    "state": "PB",
+    "ibge": 2512804,
+    "city": "Riacho dos Cavalos",
+    "latitude": -6.44067,
+    "longitude": -37.6483
+  },
+  {
+    "state": "PB",
+    "ibge": 2512903,
+    "city": "Rio Tinto",
+    "latitude": -6.80383,
+    "longitude": -35.0776
+  },
+  {
+    "state": "PB",
+    "ibge": 2513000,
+    "city": "Salgadinho",
+    "latitude": -7.10098,
+    "longitude": -36.8458
+  },
+  {
+    "state": "PB",
+    "ibge": 2513109,
+    "city": "Salgado de São Félix",
+    "latitude": -7.35337,
+    "longitude": -35.4305
+  },
+  {
+    "state": "PB",
+    "ibge": 2513158,
+    "city": "Santa Cecília",
+    "latitude": -7.7389,
+    "longitude": -35.8764
+  },
+  {
+    "state": "PB",
+    "ibge": 2513208,
+    "city": "Santa Cruz",
+    "latitude": -6.5237,
+    "longitude": -38.0617
+  },
+  {
+    "state": "PB",
+    "ibge": 2513307,
+    "city": "Santa Helena",
+    "latitude": -6.7176,
+    "longitude": -38.6427
+  },
+  {
+    "state": "PB",
+    "ibge": 2513356,
+    "city": "Santa Inês",
+    "latitude": -7.621,
+    "longitude": -38.554
+  },
+  {
+    "state": "PB",
+    "ibge": 2513406,
+    "city": "Santa Luzia",
+    "latitude": -6.86092,
+    "longitude": -36.9178
+  },
+  {
+    "state": "PB",
+    "ibge": 2513703,
+    "city": "Santa Rita",
+    "latitude": -7.11724,
+    "longitude": -34.9753
+  },
+  {
+    "state": "PB",
+    "ibge": 2513802,
+    "city": "Santa Teresinha",
+    "latitude": -7.07964,
+    "longitude": -37.4435
+  },
+  {
+    "state": "PB",
+    "ibge": 2513505,
+    "city": "Santana de Mangueira",
+    "latitude": -7.54705,
+    "longitude": -38.3236
+  },
+  {
+    "state": "PB",
+    "ibge": 2513604,
+    "city": "Santana dos Garrotes",
+    "latitude": -7.38162,
+    "longitude": -37.9819
+  },
+  {
+    "state": "PB",
+    "ibge": 2513851,
+    "city": "Santo André",
+    "latitude": -7.22016,
+    "longitude": -36.6213
+  },
+  {
+    "state": "PB",
+    "ibge": 2513927,
+    "city": "São Bentinho",
+    "latitude": -6.88596,
+    "longitude": -37.7243
+  },
+  {
+    "state": "PB",
+    "ibge": 2513901,
+    "city": "São Bento",
+    "latitude": -6.48529,
+    "longitude": -37.4488
+  },
+  {
+    "state": "PB",
+    "ibge": 2513968,
+    "city": "São Domingos",
+    "latitude": -6.80313,
+    "longitude": -37.9488
+  },
+  {
+    "state": "PB",
+    "ibge": 2513943,
+    "city": "São Domingos do Cariri",
+    "latitude": -7.63273,
+    "longitude": -36.4374
+  },
+  {
+    "state": "PB",
+    "ibge": 2513984,
+    "city": "São Francisco",
+    "latitude": -6.60773,
+    "longitude": -38.0968
+  },
+  {
+    "state": "PB",
+    "ibge": 2514008,
+    "city": "São João do Cariri",
+    "latitude": -7.38168,
+    "longitude": -36.5345
+  },
+  {
+    "state": "PB",
+    "ibge": 2500700,
+    "city": "São João do Rio do Peixe",
+    "latitude": -6.72195,
+    "longitude": -38.4468
+  },
+  {
+    "state": "PB",
+    "ibge": 2514107,
+    "city": "São João do Tigre",
+    "latitude": -8.07703,
+    "longitude": -36.8547
+  },
+  {
+    "state": "PB",
+    "ibge": 2514206,
+    "city": "São José da Lagoa Tapada",
+    "latitude": -6.93646,
+    "longitude": -38.1622
+  },
+  {
+    "state": "PB",
+    "ibge": 2514305,
+    "city": "São José de Caiana",
+    "latitude": -7.24636,
+    "longitude": -38.2989
+  },
+  {
+    "state": "PB",
+    "ibge": 2514404,
+    "city": "São José de Espinharas",
+    "latitude": -6.83974,
+    "longitude": -37.3214
+  },
+  {
+    "state": "PB",
+    "ibge": 2514503,
+    "city": "São José de Piranhas",
+    "latitude": -7.1187,
+    "longitude": -38.502
+  },
+  {
+    "state": "PB",
+    "ibge": 2514552,
+    "city": "São José de Princesa",
+    "latitude": -7.73633,
+    "longitude": -38.0894
+  },
+  {
+    "state": "PB",
+    "ibge": 2514602,
+    "city": "São José do Bonfim",
+    "latitude": -7.1607,
+    "longitude": -37.3036
+  },
+  {
+    "state": "PB",
+    "ibge": 2514651,
+    "city": "São José do Brejo do Cruz",
+    "latitude": -6.21054,
+    "longitude": -37.3601
+  },
+  {
+    "state": "PB",
+    "ibge": 2514701,
+    "city": "São José do Sabugi",
+    "latitude": -6.76295,
+    "longitude": -36.7972
+  },
+  {
+    "state": "PB",
+    "ibge": 2514800,
+    "city": "São José dos Cordeiros",
+    "latitude": -7.38775,
+    "longitude": -36.8085
+  },
+  {
+    "state": "PB",
+    "ibge": 2514453,
+    "city": "São José dos Ramos",
+    "latitude": -7.25238,
+    "longitude": -35.3725
+  },
+  {
+    "state": "PB",
+    "ibge": 2514909,
+    "city": "São Mamede",
+    "latitude": -6.92386,
+    "longitude": -37.0954
+  },
+  {
+    "state": "PB",
+    "ibge": 2515005,
+    "city": "São Miguel de Taipu",
+    "latitude": -7.24764,
+    "longitude": -35.2016
+  },
+  {
+    "state": "PB",
+    "ibge": 2515104,
+    "city": "São Sebastião de Lagoa de Roça",
+    "latitude": -7.11034,
+    "longitude": -35.8678
+  },
+  {
+    "state": "PB",
+    "ibge": 2515203,
+    "city": "São Sebastião do Umbuzeiro",
+    "latitude": -8.15289,
+    "longitude": -37.0138
+  },
+  {
+    "state": "PB",
+    "ibge": 2515401,
+    "city": "São Vicente do Seridó",
+    "latitude": -6.85426,
+    "longitude": -36.4122
+  },
+  {
+    "state": "PB",
+    "ibge": 2515302,
+    "city": "Sapé",
+    "latitude": -7.09359,
+    "longitude": -35.228
+  },
+  {
+    "state": "PB",
+    "ibge": 2515500,
+    "city": "Serra Branca",
+    "latitude": -7.48034,
+    "longitude": -36.666
+  },
+  {
+    "state": "PB",
+    "ibge": 2515609,
+    "city": "Serra da Raiz",
+    "latitude": -6.68527,
+    "longitude": -35.4379
+  },
+  {
+    "state": "PB",
+    "ibge": 2515708,
+    "city": "Serra Grande",
+    "latitude": -7.20957,
+    "longitude": -38.3647
+  },
+  {
+    "state": "PB",
+    "ibge": 2515807,
+    "city": "Serra Redonda",
+    "latitude": -7.18622,
+    "longitude": -35.6842
+  },
+  {
+    "state": "PB",
+    "ibge": 2515906,
+    "city": "Serraria",
+    "latitude": -6.81569,
+    "longitude": -35.6282
+  },
+  {
+    "state": "PB",
+    "ibge": 2515930,
+    "city": "Sertãozinho",
+    "latitude": -6.75127,
+    "longitude": -35.4372
+  },
+  {
+    "state": "PB",
+    "ibge": 2515971,
+    "city": "Sobrado",
+    "latitude": -7.14429,
+    "longitude": -35.2357
+  },
+  {
+    "state": "PB",
+    "ibge": 2516003,
+    "city": "Solânea",
+    "latitude": -6.75161,
+    "longitude": -35.6636
+  },
+  {
+    "state": "PB",
+    "ibge": 2516102,
+    "city": "Soledade",
+    "latitude": -7.05829,
+    "longitude": -36.3668
+  },
+  {
+    "state": "PB",
+    "ibge": 2516151,
+    "city": "Sossêgo",
+    "latitude": -6.77067,
+    "longitude": -36.2538
+  },
+  {
+    "state": "PB",
+    "ibge": 2516201,
+    "city": "Sousa",
+    "latitude": -6.75148,
+    "longitude": -38.2311
+  },
+  {
+    "state": "PB",
+    "ibge": 2516300,
+    "city": "Sumé",
+    "latitude": -7.66206,
+    "longitude": -36.884
+  },
+  {
+    "state": "PB",
+    "ibge": 2516409,
+    "city": "Tacima",
+    "latitude": -6.48759,
+    "longitude": -35.6367
+  },
+  {
+    "state": "PB",
+    "ibge": 2516508,
+    "city": "Taperoá",
+    "latitude": -7.20629,
+    "longitude": -36.8245
+  },
+  {
+    "state": "PB",
+    "ibge": 2516607,
+    "city": "Tavares",
+    "latitude": -7.62697,
+    "longitude": -37.8712
+  },
+  {
+    "state": "PB",
+    "ibge": 2516706,
+    "city": "Teixeira",
+    "latitude": -7.22104,
+    "longitude": -37.2525
+  },
+  {
+    "state": "PB",
+    "ibge": 2516755,
+    "city": "Tenório",
+    "latitude": -6.93855,
+    "longitude": -36.6273
+  },
+  {
+    "state": "PB",
+    "ibge": 2516805,
+    "city": "Triunfo",
+    "latitude": -6.5713,
+    "longitude": -38.5986
+  },
+  {
+    "state": "PB",
+    "ibge": 2516904,
+    "city": "Uiraúna",
+    "latitude": -6.51504,
+    "longitude": -38.4128
+  },
+  {
+    "state": "PB",
+    "ibge": 2517001,
+    "city": "Umbuzeiro",
+    "latitude": -7.69199,
+    "longitude": -35.6582
+  },
+  {
+    "state": "PB",
+    "ibge": 2517100,
+    "city": "Várzea",
+    "latitude": -6.76189,
+    "longitude": -36.9913
+  },
+  {
+    "state": "PB",
+    "ibge": 2517209,
+    "city": "Vieirópolis",
+    "latitude": -6.50684,
+    "longitude": -38.2567
+  },
+  {
+    "state": "PB",
+    "ibge": 2505501,
+    "city": "Vista Serrana",
+    "latitude": -6.7303,
+    "longitude": -37.5704
+  },
+  {
+    "state": "PB",
+    "ibge": 2517407,
+    "city": "Zabelê",
+    "latitude": -8.07901,
+    "longitude": -37.1057
+  }
+]

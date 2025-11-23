@@ -172,7 +172,7 @@ const Post = ({ post, visiblePostId, showActions = true }: PostProps) => {
             onPress={() => {
               setPlaying((playing) => !playing);
             }}>
-            <View pointerEvents="none" style={{ height: videoHeight, backgroundColor: 'black' }}>
+            <View style={{ height: videoHeight, backgroundColor: 'black' }}>
               {/* <YoutubePlayer
                 play={playing && visiblePostId === post._id}
                 height={videoHeight}
@@ -252,6 +252,7 @@ const Post = ({ post, visiblePostId, showActions = true }: PostProps) => {
             style={styles.touchable}
             onPress={onChangeLike}>
             <Ionicons
+              data-testid={likedPost ? 'liked-post-icon' : 'unliked-post-icon'}
               name={likedPost ? 'heart' : 'heart-outline'}
               color={likedPost ? 'red' : 'black'}
               size={24}
@@ -269,12 +270,12 @@ const Post = ({ post, visiblePostId, showActions = true }: PostProps) => {
             <CommentIcon size={20} />
           </TouchableOpacity>
 
-          <TouchableOpacity
+          {/* <TouchableOpacity
             style={styles.touchable}
             onPress={shareApp}
           >
             <Ionicons name={'paper-plane-outline'} color={'black'} size={20} />
-          </TouchableOpacity>
+          </TouchableOpacity> */}
         </View>
       )}
 

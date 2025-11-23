@@ -1,0 +1,527 @@
+[
+  {
+    "state": "SE",
+    "ibge": 2800100,
+    "city": "Amparo de São Francisco",
+    "latitude": -10.1348,
+    "longitude": -36.935
+  },
+  {
+    "state": "SE",
+    "ibge": 2800209,
+    "city": "Aquidabã",
+    "latitude": -10.278,
+    "longitude": -37.0148
+  },
+  {
+    "state": "SE",
+    "ibge": 2800308,
+    "city": "Aracaju",
+    "latitude": -10.9091,
+    "longitude": -37.0677
+  },
+  {
+    "state": "SE",
+    "ibge": 2800407,
+    "city": "Arauá",
+    "latitude": -11.2614,
+    "longitude": -37.6201
+  },
+  {
+    "state": "SE",
+    "ibge": 2800506,
+    "city": "Areia Branca",
+    "latitude": -10.758,
+    "longitude": -37.3251
+  },
+  {
+    "state": "SE",
+    "ibge": 2800605,
+    "city": "Barra dos Coqueiros",
+    "latitude": -10.8996,
+    "longitude": -37.0323
+  },
+  {
+    "state": "SE",
+    "ibge": 2800670,
+    "city": "Boquim",
+    "latitude": -11.1397,
+    "longitude": -37.6195
+  },
+  {
+    "state": "SE",
+    "ibge": 2800704,
+    "city": "Brejo Grande",
+    "latitude": -10.4297,
+    "longitude": -36.4611
+  },
+  {
+    "state": "SE",
+    "ibge": 2801009,
+    "city": "Campo do Brito",
+    "latitude": -10.7392,
+    "longitude": -37.4954
+  },
+  {
+    "state": "SE",
+    "ibge": 2801108,
+    "city": "Canhoba",
+    "latitude": -10.1365,
+    "longitude": -36.9806
+  },
+  {
+    "state": "SE",
+    "ibge": 2801207,
+    "city": "Canindé de São Francisco",
+    "latitude": -9.64882,
+    "longitude": -37.7923
+  },
+  {
+    "state": "SE",
+    "ibge": 2801306,
+    "city": "Capela",
+    "latitude": -10.5069,
+    "longitude": -37.0628
+  },
+  {
+    "state": "SE",
+    "ibge": 2801405,
+    "city": "Carira",
+    "latitude": -10.3524,
+    "longitude": -37.7002
+  },
+  {
+    "state": "SE",
+    "ibge": 2801504,
+    "city": "Carmópolis",
+    "latitude": -10.6449,
+    "longitude": -36.9887
+  },
+  {
+    "state": "SE",
+    "ibge": 2801603,
+    "city": "Cedro de São João",
+    "latitude": -10.2534,
+    "longitude": -36.8856
+  },
+  {
+    "state": "SE",
+    "ibge": 2801702,
+    "city": "Cristinápolis",
+    "latitude": -11.4668,
+    "longitude": -37.7585
+  },
+  {
+    "state": "SE",
+    "ibge": 2801900,
+    "city": "Cumbe",
+    "latitude": -10.352,
+    "longitude": -37.1846
+  },
+  {
+    "state": "SE",
+    "ibge": 2802007,
+    "city": "Divina Pastora",
+    "latitude": -10.6782,
+    "longitude": -37.1506
+  },
+  {
+    "state": "SE",
+    "ibge": 2802106,
+    "city": "Estância",
+    "latitude": -11.2659,
+    "longitude": -37.4484
+  },
+  {
+    "state": "SE",
+    "ibge": 2802205,
+    "city": "Feira Nova",
+    "latitude": -10.2616,
+    "longitude": -37.3147
+  },
+  {
+    "state": "SE",
+    "ibge": 2802304,
+    "city": "Frei Paulo",
+    "latitude": -10.5513,
+    "longitude": -37.5279
+  },
+  {
+    "state": "SE",
+    "ibge": 2802403,
+    "city": "Gararu",
+    "latitude": -9.9722,
+    "longitude": -37.0869
+  },
+  {
+    "state": "SE",
+    "ibge": 2802502,
+    "city": "General Maynard",
+    "latitude": -10.6835,
+    "longitude": -36.9838
+  },
+  {
+    "state": "SE",
+    "ibge": 2802601,
+    "city": "Gracho Cardoso",
+    "latitude": -10.2252,
+    "longitude": -37.2006
+  },
+  {
+    "state": "SE",
+    "ibge": 2802700,
+    "city": "Ilha das Flores",
+    "latitude": -10.4425,
+    "longitude": -36.5479
+  },
+  {
+    "state": "SE",
+    "ibge": 2802809,
+    "city": "Indiaroba",
+    "latitude": -11.5157,
+    "longitude": -37.515
+  },
+  {
+    "state": "SE",
+    "ibge": 2802908,
+    "city": "Itabaiana",
+    "latitude": -10.6826,
+    "longitude": -37.4273
+  },
+  {
+    "state": "SE",
+    "ibge": 2803005,
+    "city": "Itabaianinha",
+    "latitude": -11.2693,
+    "longitude": -37.7875
+  },
+  {
+    "state": "SE",
+    "ibge": 2803104,
+    "city": "Itabi",
+    "latitude": -10.1248,
+    "longitude": -37.1056
+  },
+  {
+    "state": "SE",
+    "ibge": 2803203,
+    "city": "Itaporanga d'Ajuda",
+    "latitude": -10.99,
+    "longitude": -37.3078
+  },
+  {
+    "state": "SE",
+    "ibge": 2803302,
+    "city": "Japaratuba",
+    "latitude": -10.5849,
+    "longitude": -36.9418
+  },
+  {
+    "state": "SE",
+    "ibge": 2803401,
+    "city": "Japoatã",
+    "latitude": -10.3477,
+    "longitude": -36.8045
+  },
+  {
+    "state": "SE",
+    "ibge": 2803500,
+    "city": "Lagarto",
+    "latitude": -10.9136,
+    "longitude": -37.6689
+  },
+  {
+    "state": "SE",
+    "ibge": 2803609,
+    "city": "Laranjeiras",
+    "latitude": -10.7981,
+    "longitude": -37.1731
+  },
+  {
+    "state": "SE",
+    "ibge": 2803708,
+    "city": "Macambira",
+    "latitude": -10.6619,
+    "longitude": -37.5413
+  },
+  {
+    "state": "SE",
+    "ibge": 2803807,
+    "city": "Malhada dos Bois",
+    "latitude": -10.3418,
+    "longitude": -36.9252
+  },
+  {
+    "state": "SE",
+    "ibge": 2803906,
+    "city": "Malhador",
+    "latitude": -10.6649,
+    "longitude": -37.3004
+  },
+  {
+    "state": "SE",
+    "ibge": 2804003,
+    "city": "Maruim",
+    "latitude": -10.7308,
+    "longitude": -37.0856
+  },
+  {
+    "state": "SE",
+    "ibge": 2804102,
+    "city": "Moita Bonita",
+    "latitude": -10.5769,
+    "longitude": -37.3512
+  },
+  {
+    "state": "SE",
+    "ibge": 2804201,
+    "city": "Monte Alegre de Sergipe",
+    "latitude": -10.0256,
+    "longitude": -37.5616
+  },
+  {
+    "state": "SE",
+    "ibge": 2804300,
+    "city": "Muribeca",
+    "latitude": -10.4271,
+    "longitude": -36.9588
+  },
+  {
+    "state": "SE",
+    "ibge": 2804409,
+    "city": "Neópolis",
+    "latitude": -10.3215,
+    "longitude": -36.585
+  },
+  {
+    "state": "SE",
+    "ibge": 2804458,
+    "city": "Nossa Senhora Aparecida",
+    "latitude": -10.3944,
+    "longitude": -37.4517
+  },
+  {
+    "state": "SE",
+    "ibge": 2804508,
+    "city": "Nossa Senhora da Glória",
+    "latitude": -10.2158,
+    "longitude": -37.4211
+  },
+  {
+    "state": "SE",
+    "ibge": 2804607,
+    "city": "Nossa Senhora das Dores",
+    "latitude": -10.4854,
+    "longitude": -37.1963
+  },
+  {
+    "state": "SE",
+    "ibge": 2804706,
+    "city": "Nossa Senhora de Lourdes",
+    "latitude": -10.0772,
+    "longitude": -37.0615
+  },
+  {
+    "state": "SE",
+    "ibge": 2804805,
+    "city": "Nossa Senhora do Socorro",
+    "latitude": -10.8468,
+    "longitude": -37.1231
+  },
+  {
+    "state": "SE",
+    "ibge": 2804904,
+    "city": "Pacatuba",
+    "latitude": -10.4538,
+    "longitude": -36.6531
+  },
+  {
+    "state": "SE",
+    "ibge": 2805000,
+    "city": "Pedra Mole",
+    "latitude": -10.6134,
+    "longitude": -37.6922
+  },
+  {
+    "state": "SE",
+    "ibge": 2805109,
+    "city": "Pedrinhas",
+    "latitude": -11.1902,
+    "longitude": -37.6775
+  },
+  {
+    "state": "SE",
+    "ibge": 2805208,
+    "city": "Pinhão",
+    "latitude": -10.5677,
+    "longitude": -37.7242
+  },
+  {
+    "state": "SE",
+    "ibge": 2805307,
+    "city": "Pirambu",
+    "latitude": -10.7215,
+    "longitude": -36.8544
+  },
+  {
+    "state": "SE",
+    "ibge": 2805406,
+    "city": "Poço Redondo",
+    "latitude": -9.80616,
+    "longitude": -37.6833
+  },
+  {
+    "state": "SE",
+    "ibge": 2805505,
+    "city": "Poço Verde",
+    "latitude": -10.7151,
+    "longitude": -38.1813
+  },
+  {
+    "state": "SE",
+    "ibge": 2805604,
+    "city": "Porto da Folha",
+    "latitude": -9.91626,
+    "longitude": -37.2842
+  },
+  {
+    "state": "SE",
+    "ibge": 2805703,
+    "city": "Propriá",
+    "latitude": -10.2138,
+    "longitude": -36.8442
+  },
+  {
+    "state": "SE",
+    "ibge": 2805802,
+    "city": "Riachão do Dantas",
+    "latitude": -11.0729,
+    "longitude": -37.731
+  },
+  {
+    "state": "SE",
+    "ibge": 2805901,
+    "city": "Riachuelo",
+    "latitude": -10.735,
+    "longitude": -37.1966
+  },
+  {
+    "state": "SE",
+    "ibge": 2806008,
+    "city": "Ribeirópolis",
+    "latitude": -10.5357,
+    "longitude": -37.438
+  },
+  {
+    "state": "SE",
+    "ibge": 2806107,
+    "city": "Rosário do Catete",
+    "latitude": -10.6904,
+    "longitude": -37.0357
+  },
+  {
+    "state": "SE",
+    "ibge": 2806206,
+    "city": "Salgado",
+    "latitude": -11.0288,
+    "longitude": -37.4804
+  },
+  {
+    "state": "SE",
+    "ibge": 2806305,
+    "city": "Santa Luzia do Itanhy",
+    "latitude": -11.3536,
+    "longitude": -37.4586
+  },
+  {
+    "state": "SE",
+    "ibge": 2806503,
+    "city": "Santa Rosa de Lima",
+    "latitude": -10.6434,
+    "longitude": -37.1931
+  },
+  {
+    "state": "SE",
+    "ibge": 2806404,
+    "city": "Santana do São Francisco",
+    "latitude": -10.2922,
+    "longitude": -36.6105
+  },
+  {
+    "state": "SE",
+    "ibge": 2806602,
+    "city": "Santo Amaro das Brotas",
+    "latitude": -10.7892,
+    "longitude": -37.0564
+  },
+  {
+    "state": "SE",
+    "ibge": 2806701,
+    "city": "São Cristóvão",
+    "latitude": -11.0084,
+    "longitude": -37.2044
+  },
+  {
+    "state": "SE",
+    "ibge": 2806800,
+    "city": "São Domingos",
+    "latitude": -10.7916,
+    "longitude": -37.5685
+  },
+  {
+    "state": "SE",
+    "ibge": 2806909,
+    "city": "São Francisco",
+    "latitude": -10.3442,
+    "longitude": -36.8869
+  },
+  {
+    "state": "SE",
+    "ibge": 2807006,
+    "city": "São Miguel do Aleixo",
+    "latitude": -10.3847,
+    "longitude": -37.3836
+  },
+  {
+    "state": "SE",
+    "ibge": 2807105,
+    "city": "Simão Dias",
+    "latitude": -10.7387,
+    "longitude": -37.8097
+  },
+  {
+    "state": "SE",
+    "ibge": 2807204,
+    "city": "Siriri",
+    "latitude": -10.5965,
+    "longitude": -37.1131
+  },
+  {
+    "state": "SE",
+    "ibge": 2807303,
+    "city": "Telha",
+    "latitude": -10.2064,
+    "longitude": -36.8818
+  },
+  {
+    "state": "SE",
+    "ibge": 2807402,
+    "city": "Tobias Barreto",
+    "latitude": -11.1798,
+    "longitude": -37.9995
+  },
+  {
+    "state": "SE",
+    "ibge": 2807501,
+    "city": "Tomar do Geru",
+    "latitude": -11.3694,
+    "longitude": -37.8433
+  },
+  {
+    "state": "SE",
+    "ibge": 2807600,
+    "city": "Umbaúba",
+    "latitude": -11.3809,
+    "longitude": -37.6623
+  }
+]

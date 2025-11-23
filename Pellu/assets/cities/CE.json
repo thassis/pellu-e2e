@@ -1,0 +1,1290 @@
+[
+  {
+    "state": "CE",
+    "ibge": 2300101,
+    "city": "Abaiara",
+    "latitude": -7.34588,
+    "longitude": -39.0416
+  },
+  {
+    "state": "CE",
+    "ibge": 2300150,
+    "city": "Acarape",
+    "latitude": -4.22083,
+    "longitude": -38.7055
+  },
+  {
+    "state": "CE",
+    "ibge": 2300200,
+    "city": "Acaraú",
+    "latitude": -2.88769,
+    "longitude": -40.1183
+  },
+  {
+    "state": "CE",
+    "ibge": 2300309,
+    "city": "Acopiara",
+    "latitude": -6.08911,
+    "longitude": -39.448
+  },
+  {
+    "state": "CE",
+    "ibge": 2300408,
+    "city": "Aiuaba",
+    "latitude": -6.57122,
+    "longitude": -40.1178
+  },
+  {
+    "state": "CE",
+    "ibge": 2300507,
+    "city": "Alcântaras",
+    "latitude": -3.58537,
+    "longitude": -40.5479
+  },
+  {
+    "state": "CE",
+    "ibge": 2300606,
+    "city": "Altaneira",
+    "latitude": -6.99837,
+    "longitude": -39.7356
+  },
+  {
+    "state": "CE",
+    "ibge": 2300705,
+    "city": "Alto Santo",
+    "latitude": -5.50894,
+    "longitude": -38.2743
+  },
+  {
+    "state": "CE",
+    "ibge": 2300754,
+    "city": "Amontada",
+    "latitude": -3.36017,
+    "longitude": -39.8288
+  },
+  {
+    "state": "CE",
+    "ibge": 2300804,
+    "city": "Antonina do Norte",
+    "latitude": -6.76919,
+    "longitude": -39.987
+  },
+  {
+    "state": "CE",
+    "ibge": 2300903,
+    "city": "Apuiarés",
+    "latitude": -3.94506,
+    "longitude": -39.4359
+  },
+  {
+    "state": "CE",
+    "ibge": 2301000,
+    "city": "Aquiraz",
+    "latitude": -3.89929,
+    "longitude": -38.3896
+  },
+  {
+    "state": "CE",
+    "ibge": 2301109,
+    "city": "Aracati",
+    "latitude": -4.55826,
+    "longitude": -37.7679
+  },
+  {
+    "state": "CE",
+    "ibge": 2301208,
+    "city": "Aracoiaba",
+    "latitude": -4.36872,
+    "longitude": -38.8125
+  },
+  {
+    "state": "CE",
+    "ibge": 2301257,
+    "city": "Ararendá",
+    "latitude": -4.74567,
+    "longitude": -40.831
+  },
+  {
+    "state": "CE",
+    "ibge": 2301307,
+    "city": "Araripe",
+    "latitude": -7.21319,
+    "longitude": -40.1359
+  },
+  {
+    "state": "CE",
+    "ibge": 2301406,
+    "city": "Aratuba",
+    "latitude": -4.41229,
+    "longitude": -39.0471
+  },
+  {
+    "state": "CE",
+    "ibge": 2301505,
+    "city": "Arneiroz",
+    "latitude": -6.3165,
+    "longitude": -40.1653
+  },
+  {
+    "state": "CE",
+    "ibge": 2301604,
+    "city": "Assaré",
+    "latitude": -6.8669,
+    "longitude": -39.8689
+  },
+  {
+    "state": "CE",
+    "ibge": 2301703,
+    "city": "Aurora",
+    "latitude": -6.93349,
+    "longitude": -38.9742
+  },
+  {
+    "state": "CE",
+    "ibge": 2301802,
+    "city": "Baixio",
+    "latitude": -6.71945,
+    "longitude": -38.7134
+  },
+  {
+    "state": "CE",
+    "ibge": 2301851,
+    "city": "Banabuiú",
+    "latitude": -5.30454,
+    "longitude": -38.9132
+  },
+  {
+    "state": "CE",
+    "ibge": 2301901,
+    "city": "Barbalha",
+    "latitude": -7.2982,
+    "longitude": -39.3021
+  },
+  {
+    "state": "CE",
+    "ibge": 2301950,
+    "city": "Barreira",
+    "latitude": -4.28921,
+    "longitude": -38.6429
+  },
+  {
+    "state": "CE",
+    "ibge": 2302008,
+    "city": "Barro",
+    "latitude": -7.17188,
+    "longitude": -38.7741
+  },
+  {
+    "state": "CE",
+    "ibge": 2302057,
+    "city": "Barroquinha",
+    "latitude": -3.02051,
+    "longitude": -41.1358
+  },
+  {
+    "state": "CE",
+    "ibge": 2302107,
+    "city": "Baturité",
+    "latitude": -4.32598,
+    "longitude": -38.8812
+  },
+  {
+    "state": "CE",
+    "ibge": 2302206,
+    "city": "Beberibe",
+    "latitude": -4.17741,
+    "longitude": -38.1271
+  },
+  {
+    "state": "CE",
+    "ibge": 2302305,
+    "city": "Bela Cruz",
+    "latitude": -3.04996,
+    "longitude": -40.1671
+  },
+  {
+    "state": "CE",
+    "ibge": 2302404,
+    "city": "Boa Viagem",
+    "latitude": -5.11258,
+    "longitude": -39.7337
+  },
+  {
+    "state": "CE",
+    "ibge": 2302503,
+    "city": "Brejo Santo",
+    "latitude": -7.48469,
+    "longitude": -38.9799
+  },
+  {
+    "state": "CE",
+    "ibge": 2302602,
+    "city": "Camocim",
+    "latitude": -2.9005,
+    "longitude": -40.8544
+  },
+  {
+    "state": "CE",
+    "ibge": 2302701,
+    "city": "Campos Sales",
+    "latitude": -7.06761,
+    "longitude": -40.3687
+  },
+  {
+    "state": "CE",
+    "ibge": 2302800,
+    "city": "Canindé",
+    "latitude": -4.35162,
+    "longitude": -39.3155
+  },
+  {
+    "state": "CE",
+    "ibge": 2302909,
+    "city": "Capistrano",
+    "latitude": -4.45569,
+    "longitude": -38.9048
+  },
+  {
+    "state": "CE",
+    "ibge": 2303006,
+    "city": "Caridade",
+    "latitude": -4.22514,
+    "longitude": -39.1912
+  },
+  {
+    "state": "CE",
+    "ibge": 2303105,
+    "city": "Cariré",
+    "latitude": -3.94858,
+    "longitude": -40.476
+  },
+  {
+    "state": "CE",
+    "ibge": 2303204,
+    "city": "Caririaçu",
+    "latitude": -7.02808,
+    "longitude": -39.2828
+  },
+  {
+    "state": "CE",
+    "ibge": 2303303,
+    "city": "Cariús",
+    "latitude": -6.52428,
+    "longitude": -39.4916
+  },
+  {
+    "state": "CE",
+    "ibge": 2303402,
+    "city": "Carnaubal",
+    "latitude": -4.15985,
+    "longitude": -40.9413
+  },
+  {
+    "state": "CE",
+    "ibge": 2303501,
+    "city": "Cascavel",
+    "latitude": -4.12967,
+    "longitude": -38.2412
+  },
+  {
+    "state": "CE",
+    "ibge": 2303600,
+    "city": "Catarina",
+    "latitude": -6.12291,
+    "longitude": -39.8736
+  },
+  {
+    "state": "CE",
+    "ibge": 2303659,
+    "city": "Catunda",
+    "latitude": -4.64336,
+    "longitude": -40.2
+  },
+  {
+    "state": "CE",
+    "ibge": 2303709,
+    "city": "Caucaia",
+    "latitude": -3.72797,
+    "longitude": -38.6619
+  },
+  {
+    "state": "CE",
+    "ibge": 2303808,
+    "city": "Cedro",
+    "latitude": -6.60034,
+    "longitude": -39.0609
+  },
+  {
+    "state": "CE",
+    "ibge": 2303907,
+    "city": "Chaval",
+    "latitude": -3.03571,
+    "longitude": -41.2435
+  },
+  {
+    "state": "CE",
+    "ibge": 2303931,
+    "city": "Choró",
+    "latitude": -4.83906,
+    "longitude": -39.1344
+  },
+  {
+    "state": "CE",
+    "ibge": 2303956,
+    "city": "Chorozinho",
+    "latitude": -4.28873,
+    "longitude": -38.4986
+  },
+  {
+    "state": "CE",
+    "ibge": 2304004,
+    "city": "Coreaú",
+    "latitude": -3.5415,
+    "longitude": -40.6587
+  },
+  {
+    "state": "CE",
+    "ibge": 2304103,
+    "city": "Crateús",
+    "latitude": -5.16768,
+    "longitude": -40.6536
+  },
+  {
+    "state": "CE",
+    "ibge": 2304202,
+    "city": "Crato",
+    "latitude": -7.2153,
+    "longitude": -39.4103
+  },
+  {
+    "state": "CE",
+    "ibge": 2304236,
+    "city": "Croatá",
+    "latitude": -4.40481,
+    "longitude": -40.9022
+  },
+  {
+    "state": "CE",
+    "ibge": 2304251,
+    "city": "Cruz",
+    "latitude": -2.91813,
+    "longitude": -40.176
+  },
+  {
+    "state": "CE",
+    "ibge": 2304269,
+    "city": "Deputado Irapuan Pinheiro",
+    "latitude": -5.91485,
+    "longitude": -39.257
+  },
+  {
+    "state": "CE",
+    "ibge": 2304277,
+    "city": "Ererê",
+    "latitude": -6.02751,
+    "longitude": -38.3461
+  },
+  {
+    "state": "CE",
+    "ibge": 2304285,
+    "city": "Eusébio",
+    "latitude": -3.8925,
+    "longitude": -38.4559
+  },
+  {
+    "state": "CE",
+    "ibge": 2304301,
+    "city": "Farias Brito",
+    "latitude": -6.92146,
+    "longitude": -39.5651
+  },
+  {
+    "state": "CE",
+    "ibge": 2304350,
+    "city": "Forquilha",
+    "latitude": -3.79945,
+    "longitude": -40.2634
+  },
+  {
+    "state": "CE",
+    "ibge": 2304400,
+    "city": "Fortaleza",
+    "latitude": -3.71664,
+    "longitude": -38.5423
+  },
+  {
+    "state": "CE",
+    "ibge": 2304459,
+    "city": "Fortim",
+    "latitude": -4.45126,
+    "longitude": -37.7981
+  },
+  {
+    "state": "CE",
+    "ibge": 2304509,
+    "city": "Frecheirinha",
+    "latitude": -3.75557,
+    "longitude": -40.818
+  },
+  {
+    "state": "CE",
+    "ibge": 2304608,
+    "city": "General Sampaio",
+    "latitude": -4.04351,
+    "longitude": -39.454
+  },
+  {
+    "state": "CE",
+    "ibge": 2304657,
+    "city": "Graça",
+    "latitude": -4.04422,
+    "longitude": -40.749
+  },
+  {
+    "state": "CE",
+    "ibge": 2304707,
+    "city": "Granja",
+    "latitude": -3.12788,
+    "longitude": -40.8372
+  },
+  {
+    "state": "CE",
+    "ibge": 2304806,
+    "city": "Granjeiro",
+    "latitude": -6.88134,
+    "longitude": -39.2144
+  },
+  {
+    "state": "CE",
+    "ibge": 2304905,
+    "city": "Groaíras",
+    "latitude": -3.91787,
+    "longitude": -40.3852
+  },
+  {
+    "state": "CE",
+    "ibge": 2304954,
+    "city": "Guaiúba",
+    "latitude": -4.04057,
+    "longitude": -38.6404
+  },
+  {
+    "state": "CE",
+    "ibge": 2305001,
+    "city": "Guaraciaba do Norte",
+    "latitude": -4.15814,
+    "longitude": -40.7476
+  },
+  {
+    "state": "CE",
+    "ibge": 2305100,
+    "city": "Guaramiranga",
+    "latitude": -4.26248,
+    "longitude": -38.932
+  },
+  {
+    "state": "CE",
+    "ibge": 2305209,
+    "city": "Hidrolândia",
+    "latitude": -4.40958,
+    "longitude": -40.4056
+  },
+  {
+    "state": "CE",
+    "ibge": 2305233,
+    "city": "Horizonte",
+    "latitude": -4.1209,
+    "longitude": -38.4707
+  },
+  {
+    "state": "CE",
+    "ibge": 2305266,
+    "city": "Ibaretama",
+    "latitude": -4.80376,
+    "longitude": -38.7501
+  },
+  {
+    "state": "CE",
+    "ibge": 2305308,
+    "city": "Ibiapina",
+    "latitude": -3.92403,
+    "longitude": -40.8911
+  },
+  {
+    "state": "CE",
+    "ibge": 2305332,
+    "city": "Ibicuitinga",
+    "latitude": -4.96999,
+    "longitude": -38.6362
+  },
+  {
+    "state": "CE",
+    "ibge": 2305357,
+    "city": "Icapuí",
+    "latitude": -4.71206,
+    "longitude": -37.3531
+  },
+  {
+    "state": "CE",
+    "ibge": 2305407,
+    "city": "Icó",
+    "latitude": -6.39627,
+    "longitude": -38.8554
+  },
+  {
+    "state": "CE",
+    "ibge": 2305506,
+    "city": "Iguatu",
+    "latitude": -6.36281,
+    "longitude": -39.2892
+  },
+  {
+    "state": "CE",
+    "ibge": 2305605,
+    "city": "Independência",
+    "latitude": -5.38789,
+    "longitude": -40.3085
+  },
+  {
+    "state": "CE",
+    "ibge": 2305654,
+    "city": "Ipaporanga",
+    "latitude": -4.89764,
+    "longitude": -40.7537
+  },
+  {
+    "state": "CE",
+    "ibge": 2305704,
+    "city": "Ipaumirim",
+    "latitude": -6.78265,
+    "longitude": -38.7179
+  },
+  {
+    "state": "CE",
+    "ibge": 2305803,
+    "city": "Ipu",
+    "latitude": -4.31748,
+    "longitude": -40.7059
+  },
+  {
+    "state": "CE",
+    "ibge": 2305902,
+    "city": "Ipueiras",
+    "latitude": -4.53802,
+    "longitude": -40.7118
+  },
+  {
+    "state": "CE",
+    "ibge": 2306009,
+    "city": "Iracema",
+    "latitude": -5.8124,
+    "longitude": -38.2919
+  },
+  {
+    "state": "CE",
+    "ibge": 2306108,
+    "city": "Irauçuba",
+    "latitude": -3.74737,
+    "longitude": -39.7843
+  },
+  {
+    "state": "CE",
+    "ibge": 2306207,
+    "city": "Itaiçaba",
+    "latitude": -4.67146,
+    "longitude": -37.833
+  },
+  {
+    "state": "CE",
+    "ibge": 2306256,
+    "city": "Itaitinga",
+    "latitude": -3.96577,
+    "longitude": -38.5298
+  },
+  {
+    "state": "CE",
+    "ibge": 2306306,
+    "city": "Itapajé",
+    "latitude": -3.68314,
+    "longitude": -39.5855
+  },
+  {
+    "state": "CE",
+    "ibge": 2306405,
+    "city": "Itapipoca",
+    "latitude": -3.49933,
+    "longitude": -39.5836
+  },
+  {
+    "state": "CE",
+    "ibge": 2306504,
+    "city": "Itapiúna",
+    "latitude": -4.55516,
+    "longitude": -38.9281
+  },
+  {
+    "state": "CE",
+    "ibge": 2306553,
+    "city": "Itarema",
+    "latitude": -2.9248,
+    "longitude": -39.9167
+  },
+  {
+    "state": "CE",
+    "ibge": 2306603,
+    "city": "Itatira",
+    "latitude": -4.52608,
+    "longitude": -39.6202
+  },
+  {
+    "state": "CE",
+    "ibge": 2306702,
+    "city": "Jaguaretama",
+    "latitude": -5.6051,
+    "longitude": -38.7639
+  },
+  {
+    "state": "CE",
+    "ibge": 2306801,
+    "city": "Jaguaribara",
+    "latitude": -5.67765,
+    "longitude": -38.5359
+  },
+  {
+    "state": "CE",
+    "ibge": 2306900,
+    "city": "Jaguaribe",
+    "latitude": -5.90213,
+    "longitude": -38.6227
+  },
+  {
+    "state": "CE",
+    "ibge": 2307007,
+    "city": "Jaguaruana",
+    "latitude": -4.83151,
+    "longitude": -37.781
+  },
+  {
+    "state": "CE",
+    "ibge": 2307106,
+    "city": "Jardim",
+    "latitude": -7.57599,
+    "longitude": -39.2826
+  },
+  {
+    "state": "CE",
+    "ibge": 2307205,
+    "city": "Jati",
+    "latitude": -7.6797,
+    "longitude": -39.0029
+  },
+  {
+    "state": "CE",
+    "ibge": 2307254,
+    "city": "Jijoca de Jericoacoara",
+    "latitude": -2.79331,
+    "longitude": -40.5127
+  },
+  {
+    "state": "CE",
+    "ibge": 2307304,
+    "city": "Juazeiro do Norte",
+    "latitude": -7.19621,
+    "longitude": -39.3076
+  },
+  {
+    "state": "CE",
+    "ibge": 2307403,
+    "city": "Jucás",
+    "latitude": -6.51523,
+    "longitude": -39.5187
+  },
+  {
+    "state": "CE",
+    "ibge": 2307502,
+    "city": "Lavras da Mangabeira",
+    "latitude": -6.7448,
+    "longitude": -38.9706
+  },
+  {
+    "state": "CE",
+    "ibge": 2307601,
+    "city": "Limoeiro do Norte",
+    "latitude": -5.14392,
+    "longitude": -38.0847
+  },
+  {
+    "state": "CE",
+    "ibge": 2307635,
+    "city": "Madalena",
+    "latitude": -4.84601,
+    "longitude": -39.5725
+  },
+  {
+    "state": "CE",
+    "ibge": 2307650,
+    "city": "Maracanaú",
+    "latitude": -3.86699,
+    "longitude": -38.6259
+  },
+  {
+    "state": "CE",
+    "ibge": 2307700,
+    "city": "Maranguape",
+    "latitude": -3.89143,
+    "longitude": -38.6829
+  },
+  {
+    "state": "CE",
+    "ibge": 2307809,
+    "city": "Marco",
+    "latitude": -3.1285,
+    "longitude": -40.1582
+  },
+  {
+    "state": "CE",
+    "ibge": 2307908,
+    "city": "Martinópole",
+    "latitude": -3.2252,
+    "longitude": -40.6896
+  },
+  {
+    "state": "CE",
+    "ibge": 2308005,
+    "city": "Massapê",
+    "latitude": -3.52364,
+    "longitude": -40.3423
+  },
+  {
+    "state": "CE",
+    "ibge": 2308104,
+    "city": "Mauriti",
+    "latitude": -7.38597,
+    "longitude": -38.7708
+  },
+  {
+    "state": "CE",
+    "ibge": 2308203,
+    "city": "Meruoca",
+    "latitude": -3.53974,
+    "longitude": -40.4531
+  },
+  {
+    "state": "CE",
+    "ibge": 2308302,
+    "city": "Milagres",
+    "latitude": -7.29749,
+    "longitude": -38.9378
+  },
+  {
+    "state": "CE",
+    "ibge": 2308351,
+    "city": "Milhã",
+    "latitude": -5.67252,
+    "longitude": -39.1875
+  },
+  {
+    "state": "CE",
+    "ibge": 2308377,
+    "city": "Miraíma",
+    "latitude": -3.56867,
+    "longitude": -39.9663
+  },
+  {
+    "state": "CE",
+    "ibge": 2308401,
+    "city": "Missão Velha",
+    "latitude": -7.23522,
+    "longitude": -39.143
+  },
+  {
+    "state": "CE",
+    "ibge": 2308500,
+    "city": "Mombaça",
+    "latitude": -5.73844,
+    "longitude": -39.63
+  },
+  {
+    "state": "CE",
+    "ibge": 2308609,
+    "city": "Monsenhor Tabosa",
+    "latitude": -4.79102,
+    "longitude": -40.0646
+  },
+  {
+    "state": "CE",
+    "ibge": 2308708,
+    "city": "Morada Nova",
+    "latitude": -5.09736,
+    "longitude": -38.3702
+  },
+  {
+    "state": "CE",
+    "ibge": 2308807,
+    "city": "Moraújo",
+    "latitude": -3.46311,
+    "longitude": -40.6776
+  },
+  {
+    "state": "CE",
+    "ibge": 2308906,
+    "city": "Morrinhos",
+    "latitude": -3.23426,
+    "longitude": -40.1233
+  },
+  {
+    "state": "CE",
+    "ibge": 2309003,
+    "city": "Mucambo",
+    "latitude": -3.90271,
+    "longitude": -40.7452
+  },
+  {
+    "state": "CE",
+    "ibge": 2309102,
+    "city": "Mulungu",
+    "latitude": -4.30294,
+    "longitude": -38.9951
+  },
+  {
+    "state": "CE",
+    "ibge": 2309201,
+    "city": "Nova Olinda",
+    "latitude": -7.08415,
+    "longitude": -39.6713
+  },
+  {
+    "state": "CE",
+    "ibge": 2309300,
+    "city": "Nova Russas",
+    "latitude": -4.70581,
+    "longitude": -40.5621
+  },
+  {
+    "state": "CE",
+    "ibge": 2309409,
+    "city": "Novo Oriente",
+    "latitude": -5.52552,
+    "longitude": -40.7713
+  },
+  {
+    "state": "CE",
+    "ibge": 2309458,
+    "city": "Ocara",
+    "latitude": -4.48523,
+    "longitude": -38.5933
+  },
+  {
+    "state": "CE",
+    "ibge": 2309508,
+    "city": "Orós",
+    "latitude": -6.25182,
+    "longitude": -38.9053
+  },
+  {
+    "state": "CE",
+    "ibge": 2309607,
+    "city": "Pacajus",
+    "latitude": -4.17107,
+    "longitude": -38.465
+  },
+  {
+    "state": "CE",
+    "ibge": 2309706,
+    "city": "Pacatuba",
+    "latitude": -3.9784,
+    "longitude": -38.6183
+  },
+  {
+    "state": "CE",
+    "ibge": 2309805,
+    "city": "Pacoti",
+    "latitude": -4.22492,
+    "longitude": -38.922
+  },
+  {
+    "state": "CE",
+    "ibge": 2309904,
+    "city": "Pacujá",
+    "latitude": -3.98327,
+    "longitude": -40.6989
+  },
+  {
+    "state": "CE",
+    "ibge": 2310001,
+    "city": "Palhano",
+    "latitude": -4.73672,
+    "longitude": -37.9655
+  },
+  {
+    "state": "CE",
+    "ibge": 2310100,
+    "city": "Palmácia",
+    "latitude": -4.13831,
+    "longitude": -38.8446
+  },
+  {
+    "state": "CE",
+    "ibge": 2310209,
+    "city": "Paracuru",
+    "latitude": -3.41436,
+    "longitude": -39.03
+  },
+  {
+    "state": "CE",
+    "ibge": 2310258,
+    "city": "Paraipaba",
+    "latitude": -3.43799,
+    "longitude": -39.1479
+  },
+  {
+    "state": "CE",
+    "ibge": 2310308,
+    "city": "Parambu",
+    "latitude": -6.20768,
+    "longitude": -40.6905
+  },
+  {
+    "state": "CE",
+    "ibge": 2310407,
+    "city": "Paramoti",
+    "latitude": -4.08815,
+    "longitude": -39.2417
+  },
+  {
+    "state": "CE",
+    "ibge": 2310506,
+    "city": "Pedra Branca",
+    "latitude": -5.45341,
+    "longitude": -39.7078
+  },
+  {
+    "state": "CE",
+    "ibge": 2310605,
+    "city": "Penaforte",
+    "latitude": -7.82163,
+    "longitude": -39.0707
+  },
+  {
+    "state": "CE",
+    "ibge": 2310704,
+    "city": "Pentecoste",
+    "latitude": -3.79274,
+    "longitude": -39.2692
+  },
+  {
+    "state": "CE",
+    "ibge": 2310803,
+    "city": "Pereiro",
+    "latitude": -6.03576,
+    "longitude": -38.4624
+  },
+  {
+    "state": "CE",
+    "ibge": 2310852,
+    "city": "Pindoretama",
+    "latitude": -4.01584,
+    "longitude": -38.3061
+  },
+  {
+    "state": "CE",
+    "ibge": 2310902,
+    "city": "Piquet Carneiro",
+    "latitude": -5.80025,
+    "longitude": -39.417
+  },
+  {
+    "state": "CE",
+    "ibge": 2310951,
+    "city": "Pires Ferreira",
+    "latitude": -4.23922,
+    "longitude": -40.6442
+  },
+  {
+    "state": "CE",
+    "ibge": 2311009,
+    "city": "Poranga",
+    "latitude": -4.74672,
+    "longitude": -40.9205
+  },
+  {
+    "state": "CE",
+    "ibge": 2311108,
+    "city": "Porteiras",
+    "latitude": -7.52265,
+    "longitude": -39.114
+  },
+  {
+    "state": "CE",
+    "ibge": 2311207,
+    "city": "Potengi",
+    "latitude": -7.09154,
+    "longitude": -40.0233
+  },
+  {
+    "state": "CE",
+    "ibge": 2311231,
+    "city": "Potiretama",
+    "latitude": -5.71287,
+    "longitude": -38.1578
+  },
+  {
+    "state": "CE",
+    "ibge": 2311264,
+    "city": "Quiterianópolis",
+    "latitude": -5.8425,
+    "longitude": -40.7002
+  },
+  {
+    "state": "CE",
+    "ibge": 2311306,
+    "city": "Quixadá",
+    "latitude": -4.9663,
+    "longitude": -39.0155
+  },
+  {
+    "state": "CE",
+    "ibge": 2311355,
+    "city": "Quixelô",
+    "latitude": -6.24637,
+    "longitude": -39.2011
+  },
+  {
+    "state": "CE",
+    "ibge": 2311405,
+    "city": "Quixeramobim",
+    "latitude": -5.19067,
+    "longitude": -39.2889
+  },
+  {
+    "state": "CE",
+    "ibge": 2311504,
+    "city": "Quixeré",
+    "latitude": -5.07148,
+    "longitude": -37.9802
+  },
+  {
+    "state": "CE",
+    "ibge": 2311603,
+    "city": "Redenção",
+    "latitude": -4.21587,
+    "longitude": -38.7277
+  },
+  {
+    "state": "CE",
+    "ibge": 2311702,
+    "city": "Reriutaba",
+    "latitude": -4.14191,
+    "longitude": -40.5759
+  },
+  {
+    "state": "CE",
+    "ibge": 2311801,
+    "city": "Russas",
+    "latitude": -4.92673,
+    "longitude": -37.9721
+  },
+  {
+    "state": "CE",
+    "ibge": 2311900,
+    "city": "Saboeiro",
+    "latitude": -6.5346,
+    "longitude": -39.9017
+  },
+  {
+    "state": "CE",
+    "ibge": 2311959,
+    "city": "Salitre",
+    "latitude": -7.28398,
+    "longitude": -40.45
+  },
+  {
+    "state": "CE",
+    "ibge": 2312205,
+    "city": "Santa Quitéria",
+    "latitude": -4.32608,
+    "longitude": -40.1523
+  },
+  {
+    "state": "CE",
+    "ibge": 2312007,
+    "city": "Santana do Acaraú",
+    "latitude": -3.46144,
+    "longitude": -40.2118
+  },
+  {
+    "state": "CE",
+    "ibge": 2312106,
+    "city": "Santana do Cariri",
+    "latitude": -7.17613,
+    "longitude": -39.7302
+  },
+  {
+    "state": "CE",
+    "ibge": 2312304,
+    "city": "São Benedito",
+    "latitude": -4.04713,
+    "longitude": -40.8596
+  },
+  {
+    "state": "CE",
+    "ibge": 2312403,
+    "city": "São Gonçalo do Amarante",
+    "latitude": -3.60515,
+    "longitude": -38.9726
+  },
+  {
+    "state": "CE",
+    "ibge": 2312502,
+    "city": "São João do Jaguaribe",
+    "latitude": -5.27516,
+    "longitude": -38.2694
+  },
+  {
+    "state": "CE",
+    "ibge": 2312601,
+    "city": "São Luís do Curu",
+    "latitude": -3.66976,
+    "longitude": -39.2391
+  },
+  {
+    "state": "CE",
+    "ibge": 2312700,
+    "city": "Senador Pompeu",
+    "latitude": -5.58244,
+    "longitude": -39.3704
+  },
+  {
+    "state": "CE",
+    "ibge": 2312809,
+    "city": "Senador Sá",
+    "latitude": -3.35305,
+    "longitude": -40.4662
+  },
+  {
+    "state": "CE",
+    "ibge": 2312908,
+    "city": "Sobral",
+    "latitude": -3.68913,
+    "longitude": -40.3482
+  },
+  {
+    "state": "CE",
+    "ibge": 2313005,
+    "city": "Solonópole",
+    "latitude": -5.71894,
+    "longitude": -39.0107
+  },
+  {
+    "state": "CE",
+    "ibge": 2313104,
+    "city": "Tabuleiro do Norte",
+    "latitude": -5.24353,
+    "longitude": -38.1282
+  },
+  {
+    "state": "CE",
+    "ibge": 2313203,
+    "city": "Tamboril",
+    "latitude": -4.83136,
+    "longitude": -40.3196
+  },
+  {
+    "state": "CE",
+    "ibge": 2313252,
+    "city": "Tarrafas",
+    "latitude": -6.67838,
+    "longitude": -39.753
+  },
+  {
+    "state": "CE",
+    "ibge": 2313302,
+    "city": "Tauá",
+    "latitude": -5.98585,
+    "longitude": -40.2968
+  },
+  {
+    "state": "CE",
+    "ibge": 2313351,
+    "city": "Tejuçuoca",
+    "latitude": -3.98831,
+    "longitude": -39.5799
+  },
+  {
+    "state": "CE",
+    "ibge": 2313401,
+    "city": "Tianguá",
+    "latitude": -3.72965,
+    "longitude": -40.9923
+  },
+  {
+    "state": "CE",
+    "ibge": 2313500,
+    "city": "Trairi",
+    "latitude": -3.26932,
+    "longitude": -39.2681
+  },
+  {
+    "state": "CE",
+    "ibge": 2313559,
+    "city": "Tururu",
+    "latitude": -3.58413,
+    "longitude": -39.4297
+  },
+  {
+    "state": "CE",
+    "ibge": 2313609,
+    "city": "Ubajara",
+    "latitude": -3.85448,
+    "longitude": -40.9204
+  },
+  {
+    "state": "CE",
+    "ibge": 2313708,
+    "city": "Umari",
+    "latitude": -6.63893,
+    "longitude": -38.7008
+  },
+  {
+    "state": "CE",
+    "ibge": 2313757,
+    "city": "Umirim",
+    "latitude": -3.67654,
+    "longitude": -39.3465
+  },
+  {
+    "state": "CE",
+    "ibge": 2313807,
+    "city": "Uruburetama",
+    "latitude": -3.62316,
+    "longitude": -39.5107
+  },
+  {
+    "state": "CE",
+    "ibge": 2313906,
+    "city": "Uruoca",
+    "latitude": -3.30819,
+    "longitude": -40.5628
+  },
+  {
+    "state": "CE",
+    "ibge": 2313955,
+    "city": "Varjota",
+    "latitude": -4.19387,
+    "longitude": -40.4741
+  },
+  {
+    "state": "CE",
+    "ibge": 2314003,
+    "city": "Várzea Alegre",
+    "latitude": -6.78264,
+    "longitude": -39.2942
+  },
+  {
+    "state": "CE",
+    "ibge": 2314102,
+    "city": "Viçosa do Ceará",
+    "latitude": -3.5667,
+    "longitude": -41.0916
+  }
+]

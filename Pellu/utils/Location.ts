@@ -1,7 +1,7 @@
-import { Alert } from 'react-native';
+import { showAlert } from './Alert';
 
 const alertLocationIsRequired = (reason = 'Precisamos da sua localização para mostrar os pets mais próximos de você!\nPor favor, habilite a localização nas configurações do seu dispositivo.') => {
-  Alert.alert(
+  showAlert(
     'Habilitar localização',
     reason,
   );

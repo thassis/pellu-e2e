@@ -1,0 +1,1171 @@
+[
+  {
+    "state": "RN",
+    "ibge": 2400109,
+    "city": "Acari",
+    "latitude": -6.4282,
+    "longitude": -36.6347
+  },
+  {
+    "state": "RN",
+    "ibge": 2400208,
+    "city": "Açu",
+    "latitude": -5.58362,
+    "longitude": -36.914
+  },
+  {
+    "state": "RN",
+    "ibge": 2400307,
+    "city": "Afonso Bezerra",
+    "latitude": -5.49229,
+    "longitude": -36.5075
+  },
+  {
+    "state": "RN",
+    "ibge": 2400406,
+    "city": "Água Nova",
+    "latitude": -6.20351,
+    "longitude": -38.2941
+  },
+  {
+    "state": "RN",
+    "ibge": 2400505,
+    "city": "Alexandria",
+    "latitude": -6.40533,
+    "longitude": -38.0142
+  },
+  {
+    "state": "RN",
+    "ibge": 2400604,
+    "city": "Almino Afonso",
+    "latitude": -6.1475,
+    "longitude": -37.7636
+  },
+  {
+    "state": "RN",
+    "ibge": 2400703,
+    "city": "Alto do Rodrigues",
+    "latitude": -5.28186,
+    "longitude": -36.75
+  },
+  {
+    "state": "RN",
+    "ibge": 2400802,
+    "city": "Angicos",
+    "latitude": -5.65792,
+    "longitude": -36.6094
+  },
+  {
+    "state": "RN",
+    "ibge": 2400901,
+    "city": "Antônio Martins",
+    "latitude": -6.21367,
+    "longitude": -37.8834
+  },
+  {
+    "state": "RN",
+    "ibge": 2401008,
+    "city": "Apodi",
+    "latitude": -5.65349,
+    "longitude": -37.7946
+  },
+  {
+    "state": "RN",
+    "ibge": 2401107,
+    "city": "Areia Branca",
+    "latitude": -4.95254,
+    "longitude": -37.1252
+  },
+  {
+    "state": "RN",
+    "ibge": 2401206,
+    "city": "Arês",
+    "latitude": -6.18831,
+    "longitude": -35.1608
+  },
+  {
+    "state": "RN",
+    "ibge": 2401305,
+    "city": "Augusto Severo (Campo Grande)",
+    "latitude": -5.86206,
+    "longitude": -37.3135
+  },
+  {
+    "state": "RN",
+    "ibge": 2401404,
+    "city": "Baía Formosa",
+    "latitude": -6.37161,
+    "longitude": -35.0033
+  },
+  {
+    "state": "RN",
+    "ibge": 2401453,
+    "city": "Baraúna",
+    "latitude": -5.06977,
+    "longitude": -37.6129
+  },
+  {
+    "state": "RN",
+    "ibge": 2401503,
+    "city": "Barcelona",
+    "latitude": -5.94284,
+    "longitude": -35.9247
+  },
+  {
+    "state": "RN",
+    "ibge": 2401602,
+    "city": "Bento Fernandes",
+    "latitude": -5.69906,
+    "longitude": -35.813
+  },
+  {
+    "state": "RN",
+    "ibge": 2401651,
+    "city": "Bodó",
+    "latitude": -5.98027,
+    "longitude": -36.4167
+  },
+  {
+    "state": "RN",
+    "ibge": 2401701,
+    "city": "Bom Jesus",
+    "latitude": -5.98648,
+    "longitude": -35.5792
+  },
+  {
+    "state": "RN",
+    "ibge": 2401800,
+    "city": "Brejinho",
+    "latitude": -6.18566,
+    "longitude": -35.3591
+  },
+  {
+    "state": "RN",
+    "ibge": 2401859,
+    "city": "Caiçara do Norte",
+    "latitude": -5.07091,
+    "longitude": -36.0717
+  },
+  {
+    "state": "RN",
+    "ibge": 2401909,
+    "city": "Caiçara do Rio do Vento",
+    "latitude": -5.76541,
+    "longitude": -35.9938
+  },
+  {
+    "state": "RN",
+    "ibge": 2402006,
+    "city": "Caicó",
+    "latitude": -6.45441,
+    "longitude": -37.1067
+  },
+  {
+    "state": "RN",
+    "ibge": 2402105,
+    "city": "Campo Redondo",
+    "latitude": -6.23829,
+    "longitude": -36.1888
+  },
+  {
+    "state": "RN",
+    "ibge": 2402204,
+    "city": "Canguaretama",
+    "latitude": -6.37193,
+    "longitude": -35.1281
+  },
+  {
+    "state": "RN",
+    "ibge": 2402303,
+    "city": "Caraúbas",
+    "latitude": -5.78387,
+    "longitude": -37.5586
+  },
+  {
+    "state": "RN",
+    "ibge": 2402402,
+    "city": "Carnaúba dos Dantas",
+    "latitude": -6.55015,
+    "longitude": -36.5868
+  },
+  {
+    "state": "RN",
+    "ibge": 2402501,
+    "city": "Carnaubais",
+    "latitude": -5.34181,
+    "longitude": -36.8335
+  },
+  {
+    "state": "RN",
+    "ibge": 2402600,
+    "city": "Ceará-Mirim",
+    "latitude": -5.64323,
+    "longitude": -35.4247
+  },
+  {
+    "state": "RN",
+    "ibge": 2402709,
+    "city": "Cerro Corá",
+    "latitude": -6.03503,
+    "longitude": -36.3503
+  },
+  {
+    "state": "RN",
+    "ibge": 2402808,
+    "city": "Coronel Ezequiel",
+    "latitude": -6.3748,
+    "longitude": -36.2223
+  },
+  {
+    "state": "RN",
+    "ibge": 2402907,
+    "city": "Coronel João Pessoa",
+    "latitude": -6.24974,
+    "longitude": -38.4441
+  },
+  {
+    "state": "RN",
+    "ibge": 2403004,
+    "city": "Cruzeta",
+    "latitude": -6.40894,
+    "longitude": -36.7782
+  },
+  {
+    "state": "RN",
+    "ibge": 2403103,
+    "city": "Currais Novos",
+    "latitude": -6.25484,
+    "longitude": -36.5146
+  },
+  {
+    "state": "RN",
+    "ibge": 2403202,
+    "city": "Doutor Severiano",
+    "latitude": -6.08082,
+    "longitude": -38.3794
+  },
+  {
+    "state": "RN",
+    "ibge": 2403301,
+    "city": "Encanto",
+    "latitude": -6.10691,
+    "longitude": -38.3033
+  },
+  {
+    "state": "RN",
+    "ibge": 2403400,
+    "city": "Equador",
+    "latitude": -6.93835,
+    "longitude": -36.717
+  },
+  {
+    "state": "RN",
+    "ibge": 2403509,
+    "city": "Espírito Santo",
+    "latitude": -6.33563,
+    "longitude": -35.3052
+  },
+  {
+    "state": "RN",
+    "ibge": 2403608,
+    "city": "Extremoz",
+    "latitude": -5.70143,
+    "longitude": -35.3048
+  },
+  {
+    "state": "RN",
+    "ibge": 2403707,
+    "city": "Felipe Guerra",
+    "latitude": -5.59274,
+    "longitude": -37.6875
+  },
+  {
+    "state": "RN",
+    "ibge": 2403756,
+    "city": "Fernando Pedroza",
+    "latitude": -5.69096,
+    "longitude": -36.5282
+  },
+  {
+    "state": "RN",
+    "ibge": 2403806,
+    "city": "Florânia",
+    "latitude": -6.12264,
+    "longitude": -36.8226
+  },
+  {
+    "state": "RN",
+    "ibge": 2403905,
+    "city": "Francisco Dantas",
+    "latitude": -6.07234,
+    "longitude": -38.1212
+  },
+  {
+    "state": "RN",
+    "ibge": 2404002,
+    "city": "Frutuoso Gomes",
+    "latitude": -6.15669,
+    "longitude": -37.8375
+  },
+  {
+    "state": "RN",
+    "ibge": 2404101,
+    "city": "Galinhos",
+    "latitude": -5.0909,
+    "longitude": -36.2754
+  },
+  {
+    "state": "RN",
+    "ibge": 2404200,
+    "city": "Goianinha",
+    "latitude": -6.26486,
+    "longitude": -35.1943
+  },
+  {
+    "state": "RN",
+    "ibge": 2404309,
+    "city": "Governador Dix-Sept Rosado",
+    "latitude": -5.44887,
+    "longitude": -37.5183
+  },
+  {
+    "state": "RN",
+    "ibge": 2404408,
+    "city": "Grossos",
+    "latitude": -4.98068,
+    "longitude": -37.1621
+  },
+  {
+    "state": "RN",
+    "ibge": 2404507,
+    "city": "Guamaré",
+    "latitude": -5.10619,
+    "longitude": -36.3222
+  },
+  {
+    "state": "RN",
+    "ibge": 2404606,
+    "city": "Ielmo Marinho",
+    "latitude": -5.82447,
+    "longitude": -35.55
+  },
+  {
+    "state": "RN",
+    "ibge": 2404705,
+    "city": "Ipanguaçu",
+    "latitude": -5.48984,
+    "longitude": -36.8501
+  },
+  {
+    "state": "RN",
+    "ibge": 2404804,
+    "city": "Ipueira",
+    "latitude": -6.80596,
+    "longitude": -37.2045
+  },
+  {
+    "state": "RN",
+    "ibge": 2404853,
+    "city": "Itajá",
+    "latitude": -5.63894,
+    "longitude": -36.8712
+  },
+  {
+    "state": "RN",
+    "ibge": 2404903,
+    "city": "Itaú",
+    "latitude": -5.8363,
+    "longitude": -37.9912
+  },
+  {
+    "state": "RN",
+    "ibge": 2405009,
+    "city": "Jaçanã",
+    "latitude": -6.41856,
+    "longitude": -36.2031
+  },
+  {
+    "state": "RN",
+    "ibge": 2405108,
+    "city": "Jandaíra",
+    "latitude": -5.35211,
+    "longitude": -36.1278
+  },
+  {
+    "state": "RN",
+    "ibge": 2405207,
+    "city": "Janduís",
+    "latitude": -6.01474,
+    "longitude": -37.4048
+  },
+  {
+    "state": "RN",
+    "ibge": 2405306,
+    "city": "Januário Cicco (Boa Saúde)",
+    "latitude": -6.16566,
+    "longitude": -35.6219
+  },
+  {
+    "state": "RN",
+    "ibge": 2405405,
+    "city": "Japi",
+    "latitude": -6.46544,
+    "longitude": -35.9346
+  },
+  {
+    "state": "RN",
+    "ibge": 2405504,
+    "city": "Jardim de Angicos",
+    "latitude": -5.64999,
+    "longitude": -35.9713
+  },
+  {
+    "state": "RN",
+    "ibge": 2405603,
+    "city": "Jardim de Piranhas",
+    "latitude": -6.37665,
+    "longitude": -37.3496
+  },
+  {
+    "state": "RN",
+    "ibge": 2405702,
+    "city": "Jardim do Seridó",
+    "latitude": -6.58047,
+    "longitude": -36.7736
+  },
+  {
+    "state": "RN",
+    "ibge": 2405801,
+    "city": "João Câmara",
+    "latitude": -5.54094,
+    "longitude": -35.8122
+  },
+  {
+    "state": "RN",
+    "ibge": 2405900,
+    "city": "João Dias",
+    "latitude": -6.27215,
+    "longitude": -37.7885
+  },
+  {
+    "state": "RN",
+    "ibge": 2406007,
+    "city": "José da Penha",
+    "latitude": -6.31095,
+    "longitude": -38.2823
+  },
+  {
+    "state": "RN",
+    "ibge": 2406106,
+    "city": "Jucurutu",
+    "latitude": -6.0306,
+    "longitude": -37.009
+  },
+  {
+    "state": "RN",
+    "ibge": 2406155,
+    "city": "Jundiá",
+    "latitude": -6.26866,
+    "longitude": -35.3495
+  },
+  {
+    "state": "RN",
+    "ibge": 2406205,
+    "city": "Lagoa d'Anta",
+    "latitude": -6.39493,
+    "longitude": -35.5949
+  },
+  {
+    "state": "RN",
+    "ibge": 2406304,
+    "city": "Lagoa de Pedras",
+    "latitude": -6.15082,
+    "longitude": -35.4299
+  },
+  {
+    "state": "RN",
+    "ibge": 2406403,
+    "city": "Lagoa de Velhos",
+    "latitude": -6.0119,
+    "longitude": -35.8729
+  },
+  {
+    "state": "RN",
+    "ibge": 2406502,
+    "city": "Lagoa Nova",
+    "latitude": -6.09339,
+    "longitude": -36.4703
+  },
+  {
+    "state": "RN",
+    "ibge": 2406601,
+    "city": "Lagoa Salgada",
+    "latitude": -6.12295,
+    "longitude": -35.4724
+  },
+  {
+    "state": "RN",
+    "ibge": 2406700,
+    "city": "Lajes",
+    "latitude": -5.69322,
+    "longitude": -36.247
+  },
+  {
+    "state": "RN",
+    "ibge": 2406809,
+    "city": "Lajes Pintadas",
+    "latitude": -6.14943,
+    "longitude": -36.1171
+  },
+  {
+    "state": "RN",
+    "ibge": 2406908,
+    "city": "Lucrécia",
+    "latitude": -6.10525,
+    "longitude": -37.8134
+  },
+  {
+    "state": "RN",
+    "ibge": 2407005,
+    "city": "Luís Gomes",
+    "latitude": -6.40588,
+    "longitude": -38.3899
+  },
+  {
+    "state": "RN",
+    "ibge": 2407104,
+    "city": "Macaíba",
+    "latitude": -5.85229,
+    "longitude": -35.3552
+  },
+  {
+    "state": "RN",
+    "ibge": 2407203,
+    "city": "Macau",
+    "latitude": -5.10795,
+    "longitude": -36.6318
+  },
+  {
+    "state": "RN",
+    "ibge": 2407252,
+    "city": "Major Sales",
+    "latitude": -6.39949,
+    "longitude": -38.324
+  },
+  {
+    "state": "RN",
+    "ibge": 2407302,
+    "city": "Marcelino Vieira",
+    "latitude": -6.2846,
+    "longitude": -38.1642
+  },
+  {
+    "state": "RN",
+    "ibge": 2407401,
+    "city": "Martins",
+    "latitude": -6.08279,
+    "longitude": -37.908
+  },
+  {
+    "state": "RN",
+    "ibge": 2407500,
+    "city": "Maxaranguape",
+    "latitude": -5.52181,
+    "longitude": -35.2631
+  },
+  {
+    "state": "RN",
+    "ibge": 2407609,
+    "city": "Messias Targino",
+    "latitude": -6.07194,
+    "longitude": -37.5158
+  },
+  {
+    "state": "RN",
+    "ibge": 2407708,
+    "city": "Montanhas",
+    "latitude": -6.48522,
+    "longitude": -35.2842
+  },
+  {
+    "state": "RN",
+    "ibge": 2407807,
+    "city": "Monte Alegre",
+    "latitude": -6.07063,
+    "longitude": -35.3253
+  },
+  {
+    "state": "RN",
+    "ibge": 2407906,
+    "city": "Monte das Gameleiras",
+    "latitude": -6.43698,
+    "longitude": -35.7831
+  },
+  {
+    "state": "RN",
+    "ibge": 2408003,
+    "city": "Mossoró",
+    "latitude": -5.18374,
+    "longitude": -37.3474
+  },
+  {
+    "state": "RN",
+    "ibge": 2408102,
+    "city": "Natal",
+    "latitude": -5.79357,
+    "longitude": -35.1986
+  },
+  {
+    "state": "RN",
+    "ibge": 2408201,
+    "city": "Nísia Floresta",
+    "latitude": -6.09329,
+    "longitude": -35.1991
+  },
+  {
+    "state": "RN",
+    "ibge": 2408300,
+    "city": "Nova Cruz",
+    "latitude": -6.47511,
+    "longitude": -35.4286
+  },
+  {
+    "state": "RN",
+    "ibge": 2408409,
+    "city": "Olho-d'Água do Borges",
+    "latitude": -5.9486,
+    "longitude": -37.7047
+  },
+  {
+    "state": "RN",
+    "ibge": 2408508,
+    "city": "Ouro Branco",
+    "latitude": -6.6958,
+    "longitude": -36.9428
+  },
+  {
+    "state": "RN",
+    "ibge": 2408607,
+    "city": "Paraná",
+    "latitude": -6.47565,
+    "longitude": -38.3057
+  },
+  {
+    "state": "RN",
+    "ibge": 2408706,
+    "city": "Paraú",
+    "latitude": -5.76893,
+    "longitude": -37.1032
+  },
+  {
+    "state": "RN",
+    "ibge": 2408805,
+    "city": "Parazinho",
+    "latitude": -5.22276,
+    "longitude": -35.8398
+  },
+  {
+    "state": "RN",
+    "ibge": 2408904,
+    "city": "Parelhas",
+    "latitude": -6.68491,
+    "longitude": -36.6566
+  },
+  {
+    "state": "RN",
+    "ibge": 2403251,
+    "city": "Parnamirim",
+    "latitude": -5.91116,
+    "longitude": -35.271
+  },
+  {
+    "state": "RN",
+    "ibge": 2409100,
+    "city": "Passa e Fica",
+    "latitude": -6.43018,
+    "longitude": -35.6442
+  },
+  {
+    "state": "RN",
+    "ibge": 2409209,
+    "city": "Passagem",
+    "latitude": -6.27268,
+    "longitude": -35.37
+  },
+  {
+    "state": "RN",
+    "ibge": 2409308,
+    "city": "Patu",
+    "latitude": -6.10656,
+    "longitude": -37.6356
+  },
+  {
+    "state": "RN",
+    "ibge": 2409407,
+    "city": "Pau dos Ferros",
+    "latitude": -6.10498,
+    "longitude": -38.2077
+  },
+  {
+    "state": "RN",
+    "ibge": 2409506,
+    "city": "Pedra Grande",
+    "latitude": -5.14988,
+    "longitude": -35.876
+  },
+  {
+    "state": "RN",
+    "ibge": 2409605,
+    "city": "Pedra Preta",
+    "latitude": -5.57352,
+    "longitude": -36.1084
+  },
+  {
+    "state": "RN",
+    "ibge": 2409704,
+    "city": "Pedro Avelino",
+    "latitude": -5.5161,
+    "longitude": -36.3867
+  },
+  {
+    "state": "RN",
+    "ibge": 2409803,
+    "city": "Pedro Velho",
+    "latitude": -6.4356,
+    "longitude": -35.2195
+  },
+  {
+    "state": "RN",
+    "ibge": 2409902,
+    "city": "Pendências",
+    "latitude": -5.2564,
+    "longitude": -36.7095
+  },
+  {
+    "state": "RN",
+    "ibge": 2410009,
+    "city": "Pilões",
+    "latitude": -6.26364,
+    "longitude": -38.0461
+  },
+  {
+    "state": "RN",
+    "ibge": 2410108,
+    "city": "Poço Branco",
+    "latitude": -5.62233,
+    "longitude": -35.6635
+  },
+  {
+    "state": "RN",
+    "ibge": 2410207,
+    "city": "Portalegre",
+    "latitude": -6.02064,
+    "longitude": -37.9865
+  },
+  {
+    "state": "RN",
+    "ibge": 2410256,
+    "city": "Porto do Mangue",
+    "latitude": -5.05441,
+    "longitude": -36.7887
+  },
+  {
+    "state": "RN",
+    "ibge": 2410405,
+    "city": "Pureza",
+    "latitude": -5.46393,
+    "longitude": -35.5554
+  },
+  {
+    "state": "RN",
+    "ibge": 2410504,
+    "city": "Rafael Fernandes",
+    "latitude": -6.18987,
+    "longitude": -38.2211
+  },
+  {
+    "state": "RN",
+    "ibge": 2410603,
+    "city": "Rafael Godeiro",
+    "latitude": -6.07244,
+    "longitude": -37.716
+  },
+  {
+    "state": "RN",
+    "ibge": 2410702,
+    "city": "Riacho da Cruz",
+    "latitude": -5.92654,
+    "longitude": -37.949
+  },
+  {
+    "state": "RN",
+    "ibge": 2410801,
+    "city": "Riacho de Santana",
+    "latitude": -6.25139,
+    "longitude": -38.3116
+  },
+  {
+    "state": "RN",
+    "ibge": 2410900,
+    "city": "Riachuelo",
+    "latitude": -5.82156,
+    "longitude": -35.8215
+  },
+  {
+    "state": "RN",
+    "ibge": 2408953,
+    "city": "Rio do Fogo",
+    "latitude": -5.2765,
+    "longitude": -35.3794
+  },
+  {
+    "state": "RN",
+    "ibge": 2411007,
+    "city": "Rodolfo Fernandes",
+    "latitude": -5.78393,
+    "longitude": -38.0579
+  },
+  {
+    "state": "RN",
+    "ibge": 2411106,
+    "city": "Ruy Barbosa",
+    "latitude": -5.88745,
+    "longitude": -35.933
+  },
+  {
+    "state": "RN",
+    "ibge": 2411205,
+    "city": "Santa Cruz",
+    "latitude": -6.22475,
+    "longitude": -36.0193
+  },
+  {
+    "state": "RN",
+    "ibge": 2409332,
+    "city": "Santa Maria",
+    "latitude": -5.83802,
+    "longitude": -35.6914
+  },
+  {
+    "state": "RN",
+    "ibge": 2411403,
+    "city": "Santana do Matos",
+    "latitude": -5.94605,
+    "longitude": -36.6578
+  },
+  {
+    "state": "RN",
+    "ibge": 2411429,
+    "city": "Santana do Seridó",
+    "latitude": -6.76643,
+    "longitude": -36.7312
+  },
+  {
+    "state": "RN",
+    "ibge": 2411502,
+    "city": "Santo Antônio",
+    "latitude": -6.31195,
+    "longitude": -35.4739
+  },
+  {
+    "state": "RN",
+    "ibge": 2411601,
+    "city": "São Bento do Norte",
+    "latitude": -5.09259,
+    "longitude": -35.9587
+  },
+  {
+    "state": "RN",
+    "ibge": 2411700,
+    "city": "São Bento do Trairí",
+    "latitude": -6.33798,
+    "longitude": -36.0863
+  },
+  {
+    "state": "RN",
+    "ibge": 2411809,
+    "city": "São Fernando",
+    "latitude": -6.37975,
+    "longitude": -37.1864
+  },
+  {
+    "state": "RN",
+    "ibge": 2411908,
+    "city": "São Francisco do Oeste",
+    "latitude": -5.97472,
+    "longitude": -38.1519
+  },
+  {
+    "state": "RN",
+    "ibge": 2412005,
+    "city": "São Gonçalo do Amarante",
+    "latitude": -5.79068,
+    "longitude": -35.3257
+  },
+  {
+    "state": "RN",
+    "ibge": 2412104,
+    "city": "São João do Sabugi",
+    "latitude": -6.71387,
+    "longitude": -37.2027
+  },
+  {
+    "state": "RN",
+    "ibge": 2412203,
+    "city": "São José de Mipibu",
+    "latitude": -6.0773,
+    "longitude": -35.2417
+  },
+  {
+    "state": "RN",
+    "ibge": 2412302,
+    "city": "São José do Campestre",
+    "latitude": -6.31087,
+    "longitude": -35.7067
+  },
+  {
+    "state": "RN",
+    "ibge": 2412401,
+    "city": "São José do Seridó",
+    "latitude": -6.44002,
+    "longitude": -36.8746
+  },
+  {
+    "state": "RN",
+    "ibge": 2412500,
+    "city": "São Miguel",
+    "latitude": -6.20283,
+    "longitude": -38.4947
+  },
+  {
+    "state": "RN",
+    "ibge": 2412559,
+    "city": "São Miguel do Gostoso",
+    "latitude": -5.12302,
+    "longitude": -35.6354
+  },
+  {
+    "state": "RN",
+    "ibge": 2412609,
+    "city": "São Paulo do Potengi",
+    "latitude": -5.8994,
+    "longitude": -35.7642
+  },
+  {
+    "state": "RN",
+    "ibge": 2412708,
+    "city": "São Pedro",
+    "latitude": -5.90559,
+    "longitude": -35.6317
+  },
+  {
+    "state": "RN",
+    "ibge": 2412807,
+    "city": "São Rafael",
+    "latitude": -5.79791,
+    "longitude": -36.8778
+  },
+  {
+    "state": "RN",
+    "ibge": 2412906,
+    "city": "São Tomé",
+    "latitude": -5.96404,
+    "longitude": -36.0798
+  },
+  {
+    "state": "RN",
+    "ibge": 2413003,
+    "city": "São Vicente",
+    "latitude": -6.21893,
+    "longitude": -36.6827
+  },
+  {
+    "state": "RN",
+    "ibge": 2413102,
+    "city": "Senador Elói de Souza",
+    "latitude": -6.03334,
+    "longitude": -35.6978
+  },
+  {
+    "state": "RN",
+    "ibge": 2413201,
+    "city": "Senador Georgino Avelino",
+    "latitude": -6.1576,
+    "longitude": -35.1299
+  },
+  {
+    "state": "RN",
+    "ibge": 2410306,
+    "city": "Serra Caiada",
+    "latitude": -6.10478,
+    "longitude": -35.7113
+  },
+  {
+    "state": "RN",
+    "ibge": 2413300,
+    "city": "Serra de São Bento",
+    "latitude": -6.41762,
+    "longitude": -35.7033
+  },
+  {
+    "state": "RN",
+    "ibge": 2413359,
+    "city": "Serra do Mel",
+    "latitude": -5.17725,
+    "longitude": -37.0242
+  },
+  {
+    "state": "RN",
+    "ibge": 2413409,
+    "city": "Serra Negra do Norte",
+    "latitude": -6.66031,
+    "longitude": -37.3996
+  },
+  {
+    "state": "RN",
+    "ibge": 2413508,
+    "city": "Serrinha",
+    "latitude": -6.28181,
+    "longitude": -35.5
+  },
+  {
+    "state": "RN",
+    "ibge": 2413557,
+    "city": "Serrinha dos Pintos",
+    "latitude": -6.11087,
+    "longitude": -37.9548
+  },
+  {
+    "state": "RN",
+    "ibge": 2413607,
+    "city": "Severiano Melo",
+    "latitude": -5.77666,
+    "longitude": -37.957
+  },
+  {
+    "state": "RN",
+    "ibge": 2413706,
+    "city": "Sítio Novo",
+    "latitude": -6.11132,
+    "longitude": -35.909
+  },
+  {
+    "state": "RN",
+    "ibge": 2413805,
+    "city": "Taboleiro Grande",
+    "latitude": -5.91948,
+    "longitude": -38.0367
+  },
+  {
+    "state": "RN",
+    "ibge": 2413904,
+    "city": "Taipu",
+    "latitude": -5.63058,
+    "longitude": -35.5918
+  },
+  {
+    "state": "RN",
+    "ibge": 2414001,
+    "city": "Tangará",
+    "latitude": -6.19649,
+    "longitude": -35.7989
+  },
+  {
+    "state": "RN",
+    "ibge": 2414100,
+    "city": "Tenente Ananias",
+    "latitude": -6.45823,
+    "longitude": -38.182
+  },
+  {
+    "state": "RN",
+    "ibge": 2414159,
+    "city": "Tenente Laurentino Cruz",
+    "latitude": -6.1378,
+    "longitude": -36.7135
+  },
+  {
+    "state": "RN",
+    "ibge": 2411056,
+    "city": "Tibau",
+    "latitude": -4.83729,
+    "longitude": -37.2554
+  },
+  {
+    "state": "RN",
+    "ibge": 2414209,
+    "city": "Tibau do Sul",
+    "latitude": -6.19176,
+    "longitude": -35.0866
+  },
+  {
+    "state": "RN",
+    "ibge": 2414308,
+    "city": "Timbaúba dos Batistas",
+    "latitude": -6.45768,
+    "longitude": -37.2745
+  },
+  {
+    "state": "RN",
+    "ibge": 2414407,
+    "city": "Touros",
+    "latitude": -5.20182,
+    "longitude": -35.4621
+  },
+  {
+    "state": "RN",
+    "ibge": 2414456,
+    "city": "Triunfo Potiguar",
+    "latitude": -5.85408,
+    "longitude": -37.1786
+  },
+  {
+    "state": "RN",
+    "ibge": 2414506,
+    "city": "Umarizal",
+    "latitude": -5.98238,
+    "longitude": -37.818
+  },
+  {
+    "state": "RN",
+    "ibge": 2414605,
+    "city": "Upanema",
+    "latitude": -5.63761,
+    "longitude": -37.2635
+  },
+  {
+    "state": "RN",
+    "ibge": 2414704,
+    "city": "Várzea",
+    "latitude": -6.34641,
+    "longitude": -35.3732
+  },
+  {
+    "state": "RN",
+    "ibge": 2414753,
+    "city": "Venha-Ver",
+    "latitude": -6.32016,
+    "longitude": -38.4896
+  },
+  {
+    "state": "RN",
+    "ibge": 2414803,
+    "city": "Vera Cruz",
+    "latitude": -6.04399,
+    "longitude": -35.428
+  },
+  {
+    "state": "RN",
+    "ibge": 2414902,
+    "city": "Viçosa",
+    "latitude": -5.98253,
+    "longitude": -37.9462
+  },
+  {
+    "state": "RN",
+    "ibge": 2415008,
+    "city": "Vila Flor",
+    "latitude": -6.31287,
+    "longitude": -35.067
+  }
+]

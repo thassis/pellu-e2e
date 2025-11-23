@@ -1,0 +1,436 @@
+[
+  {
+    "state": "AM",
+    "ibge": 1300029,
+    "city": "Alvarães",
+    "latitude": -3.22727,
+    "longitude": -64.8007
+  },
+  {
+    "state": "AM",
+    "ibge": 1300060,
+    "city": "Amaturá",
+    "latitude": -3.37455,
+    "longitude": -68.2005
+  },
+  {
+    "state": "AM",
+    "ibge": 1300086,
+    "city": "Anamã",
+    "latitude": -3.56697,
+    "longitude": -61.3963
+  },
+  {
+    "state": "AM",
+    "ibge": 1300102,
+    "city": "Anori",
+    "latitude": -3.74603,
+    "longitude": -61.6575
+  },
+  {
+    "state": "AM",
+    "ibge": 1300144,
+    "city": "Apuí",
+    "latitude": -7.19409,
+    "longitude": -59.896
+  },
+  {
+    "state": "AM",
+    "ibge": 1300201,
+    "city": "Atalaia do Norte",
+    "latitude": -4.37055,
+    "longitude": -70.1967
+  },
+  {
+    "state": "AM",
+    "ibge": 1300300,
+    "city": "Autazes",
+    "latitude": -3.58574,
+    "longitude": -59.1256
+  },
+  {
+    "state": "AM",
+    "ibge": 1300409,
+    "city": "Barcelos",
+    "latitude": -0.983373,
+    "longitude": -62.9311
+  },
+  {
+    "state": "AM",
+    "ibge": 1300508,
+    "city": "Barreirinha",
+    "latitude": -2.79886,
+    "longitude": -57.0679
+  },
+  {
+    "state": "AM",
+    "ibge": 1300607,
+    "city": "Benjamin Constant",
+    "latitude": -4.37768,
+    "longitude": -70.0342
+  },
+  {
+    "state": "AM",
+    "ibge": 1300631,
+    "city": "Beruri",
+    "latitude": -3.89874,
+    "longitude": -61.3616
+  },
+  {
+    "state": "AM",
+    "ibge": 1300680,
+    "city": "Boa Vista do Ramos",
+    "latitude": -2.97409,
+    "longitude": -57.5873
+  },
+  {
+    "state": "AM",
+    "ibge": 1300706,
+    "city": "Boca do Acre",
+    "latitude": -8.74232,
+    "longitude": -67.3919
+  },
+  {
+    "state": "AM",
+    "ibge": 1300805,
+    "city": "Borba",
+    "latitude": -4.39154,
+    "longitude": -59.5874
+  },
+  {
+    "state": "AM",
+    "ibge": 1300839,
+    "city": "Caapiranga",
+    "latitude": -3.31537,
+    "longitude": -61.2206
+  },
+  {
+    "state": "AM",
+    "ibge": 1300904,
+    "city": "Canutama",
+    "latitude": -6.52582,
+    "longitude": -64.3953
+  },
+  {
+    "state": "AM",
+    "ibge": 1301001,
+    "city": "Carauari",
+    "latitude": -4.88161,
+    "longitude": -66.9086
+  },
+  {
+    "state": "AM",
+    "ibge": 1301100,
+    "city": "Careiro",
+    "latitude": -3.76803,
+    "longitude": -60.369
+  },
+  {
+    "state": "AM",
+    "ibge": 1301159,
+    "city": "Careiro da Várzea",
+    "latitude": -3.314,
+    "longitude": -59.5557
+  },
+  {
+    "state": "AM",
+    "ibge": 1301209,
+    "city": "Coari",
+    "latitude": -4.09412,
+    "longitude": -63.1441
+  },
+  {
+    "state": "AM",
+    "ibge": 1301308,
+    "city": "Codajás",
+    "latitude": -3.83053,
+    "longitude": -62.0658
+  },
+  {
+    "state": "AM",
+    "ibge": 1301407,
+    "city": "Eirunepé",
+    "latitude": -6.65677,
+    "longitude": -69.8662
+  },
+  {
+    "state": "AM",
+    "ibge": 1301506,
+    "city": "Envira",
+    "latitude": -7.43789,
+    "longitude": -70.0281
+  },
+  {
+    "state": "AM",
+    "ibge": 1301605,
+    "city": "Fonte Boa",
+    "latitude": -2.52342,
+    "longitude": -66.0942
+  },
+  {
+    "state": "AM",
+    "ibge": 1301654,
+    "city": "Guajará",
+    "latitude": -7.53797,
+    "longitude": -72.5907
+  },
+  {
+    "state": "AM",
+    "ibge": 1301704,
+    "city": "Humaitá",
+    "latitude": -7.51171,
+    "longitude": -63.0327
+  },
+  {
+    "state": "AM",
+    "ibge": 1301803,
+    "city": "Ipixuna",
+    "latitude": -7.04791,
+    "longitude": -71.6934
+  },
+  {
+    "state": "AM",
+    "ibge": 1301852,
+    "city": "Iranduba",
+    "latitude": -3.27479,
+    "longitude": -60.19
+  },
+  {
+    "state": "AM",
+    "ibge": 1301902,
+    "city": "Itacoatiara",
+    "latitude": -3.13861,
+    "longitude": -58.4449
+  },
+  {
+    "state": "AM",
+    "ibge": 1301951,
+    "city": "Itamarati",
+    "latitude": -6.43852,
+    "longitude": -68.2437
+  },
+  {
+    "state": "AM",
+    "ibge": 1302009,
+    "city": "Itapiranga",
+    "latitude": -2.74081,
+    "longitude": -58.0293
+  },
+  {
+    "state": "AM",
+    "ibge": 1302108,
+    "city": "Japurá",
+    "latitude": -1.88237,
+    "longitude": -66.9291
+  },
+  {
+    "state": "AM",
+    "ibge": 1302207,
+    "city": "Juruá",
+    "latitude": -3.48438,
+    "longitude": -66.0718
+  },
+  {
+    "state": "AM",
+    "ibge": 1302306,
+    "city": "Jutaí",
+    "latitude": -2.75814,
+    "longitude": -66.7595
+  },
+  {
+    "state": "AM",
+    "ibge": 1302405,
+    "city": "Lábrea",
+    "latitude": -7.26413,
+    "longitude": -64.7948
+  },
+  {
+    "state": "AM",
+    "ibge": 1302504,
+    "city": "Manacapuru",
+    "latitude": -3.29066,
+    "longitude": -60.6216
+  },
+  {
+    "state": "AM",
+    "ibge": 1302553,
+    "city": "Manaquiri",
+    "latitude": -3.44078,
+    "longitude": -60.4612
+  },
+  {
+    "state": "AM",
+    "ibge": 1302603,
+    "city": "Manaus",
+    "latitude": -3.11866,
+    "longitude": -60.0212
+  },
+  {
+    "state": "AM",
+    "ibge": 1302702,
+    "city": "Manicoré",
+    "latitude": -5.80462,
+    "longitude": -61.2895
+  },
+  {
+    "state": "AM",
+    "ibge": 1302801,
+    "city": "Maraã",
+    "latitude": -1.85313,
+    "longitude": -65.573
+  },
+  {
+    "state": "AM",
+    "ibge": 1302900,
+    "city": "Maués",
+    "latitude": -3.39289,
+    "longitude": -57.7067
+  },
+  {
+    "state": "AM",
+    "ibge": 1303007,
+    "city": "Nhamundá",
+    "latitude": -2.20793,
+    "longitude": -56.7112
+  },
+  {
+    "state": "AM",
+    "ibge": 1303106,
+    "city": "Nova Olinda do Norte",
+    "latitude": -3.90037,
+    "longitude": -59.094
+  },
+  {
+    "state": "AM",
+    "ibge": 1303205,
+    "city": "Novo Airão",
+    "latitude": -2.63637,
+    "longitude": -60.9434
+  },
+  {
+    "state": "AM",
+    "ibge": 1303304,
+    "city": "Novo Aripuanã",
+    "latitude": -5.12593,
+    "longitude": -60.3732
+  },
+  {
+    "state": "AM",
+    "ibge": 1303403,
+    "city": "Parintins",
+    "latitude": -2.63741,
+    "longitude": -56.729
+  },
+  {
+    "state": "AM",
+    "ibge": 1303502,
+    "city": "Pauini",
+    "latitude": -7.71311,
+    "longitude": -66.992
+  },
+  {
+    "state": "AM",
+    "ibge": 1303536,
+    "city": "Presidente Figueiredo",
+    "latitude": -2.02981,
+    "longitude": -60.0234
+  },
+  {
+    "state": "AM",
+    "ibge": 1303569,
+    "city": "Rio Preto da Eva",
+    "latitude": -2.7045,
+    "longitude": -59.6858
+  },
+  {
+    "state": "AM",
+    "ibge": 1303601,
+    "city": "Santa Isabel do Rio Negro",
+    "latitude": -0.410824,
+    "longitude": -65.0092
+  },
+  {
+    "state": "AM",
+    "ibge": 1303700,
+    "city": "Santo Antônio do Içá",
+    "latitude": -3.09544,
+    "longitude": -67.9463
+  },
+  {
+    "state": "AM",
+    "ibge": 1303809,
+    "city": "São Gabriel da Cachoeira",
+    "latitude": -0.11909,
+    "longitude": -67.084
+  },
+  {
+    "state": "AM",
+    "ibge": 1303908,
+    "city": "São Paulo de Olivença",
+    "latitude": -3.47292,
+    "longitude": -68.9646
+  },
+  {
+    "state": "AM",
+    "ibge": 1303957,
+    "city": "São Sebastião do Uatumã",
+    "latitude": -2.55915,
+    "longitude": -57.8731
+  },
+  {
+    "state": "AM",
+    "ibge": 1304005,
+    "city": "Silves",
+    "latitude": -2.81748,
+    "longitude": -58.248
+  },
+  {
+    "state": "AM",
+    "ibge": 1304062,
+    "city": "Tabatinga",
+    "latitude": -4.2416,
+    "longitude": -69.9383
+  },
+  {
+    "state": "AM",
+    "ibge": 1304104,
+    "city": "Tapauá",
+    "latitude": -5.62085,
+    "longitude": -63.1808
+  },
+  {
+    "state": "AM",
+    "ibge": 1304203,
+    "city": "Tefé",
+    "latitude": -3.36822,
+    "longitude": -64.7193
+  },
+  {
+    "state": "AM",
+    "ibge": 1304237,
+    "city": "Tonantins",
+    "latitude": -2.86582,
+    "longitude": -67.7919
+  },
+  {
+    "state": "AM",
+    "ibge": 1304260,
+    "city": "Uarini",
+    "latitude": -2.99609,
+    "longitude": -65.1133
+  },
+  {
+    "state": "AM",
+    "ibge": 1304302,
+    "city": "Urucará",
+    "latitude": -2.52936,
+    "longitude": -57.7538
+  },
+  {
+    "state": "AM",
+    "ibge": 1304401,
+    "city": "Urucurituba",
+    "latitude": -3.12841,
+    "longitude": -58.1496
+  }
+]

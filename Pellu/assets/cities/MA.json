@@ -1,0 +1,1521 @@
+[
+  {
+    "state": "MA",
+    "ibge": 2100055,
+    "city": "Açailândia",
+    "latitude": -4.94714,
+    "longitude": -47.5004
+  },
+  {
+    "state": "MA",
+    "ibge": 2100105,
+    "city": "Afonso Cunha",
+    "latitude": -4.13631,
+    "longitude": -43.3275
+  },
+  {
+    "state": "MA",
+    "ibge": 2100154,
+    "city": "Água Doce do Maranhão",
+    "latitude": -2.84048,
+    "longitude": -42.1189
+  },
+  {
+    "state": "MA",
+    "ibge": 2100204,
+    "city": "Alcântara",
+    "latitude": -2.39574,
+    "longitude": -44.4062
+  },
+  {
+    "state": "MA",
+    "ibge": 2100303,
+    "city": "Aldeias Altas",
+    "latitude": -4.62621,
+    "longitude": -43.4689
+  },
+  {
+    "state": "MA",
+    "ibge": 2100402,
+    "city": "Altamira do Maranhão",
+    "latitude": -4.16598,
+    "longitude": -45.4706
+  },
+  {
+    "state": "MA",
+    "ibge": 2100436,
+    "city": "Alto Alegre do Maranhão",
+    "latitude": -4.213,
+    "longitude": -44.446
+  },
+  {
+    "state": "MA",
+    "ibge": 2100477,
+    "city": "Alto Alegre do Pindaré",
+    "latitude": -3.66689,
+    "longitude": -45.8421
+  },
+  {
+    "state": "MA",
+    "ibge": 2100501,
+    "city": "Alto Parnaíba",
+    "latitude": -9.10273,
+    "longitude": -45.9303
+  },
+  {
+    "state": "MA",
+    "ibge": 2100550,
+    "city": "Amapá do Maranhão",
+    "latitude": -1.67524,
+    "longitude": -46.0024
+  },
+  {
+    "state": "MA",
+    "ibge": 2100600,
+    "city": "Amarante do Maranhão",
+    "latitude": -5.56913,
+    "longitude": -46.7473
+  },
+  {
+    "state": "MA",
+    "ibge": 2100709,
+    "city": "Anajatuba",
+    "latitude": -3.26269,
+    "longitude": -44.6126
+  },
+  {
+    "state": "MA",
+    "ibge": 2100808,
+    "city": "Anapurus",
+    "latitude": -3.67577,
+    "longitude": -43.1014
+  },
+  {
+    "state": "MA",
+    "ibge": 2100832,
+    "city": "Apicum-Açu",
+    "latitude": -1.45862,
+    "longitude": -45.0864
+  },
+  {
+    "state": "MA",
+    "ibge": 2100873,
+    "city": "Araguanã",
+    "latitude": -2.94644,
+    "longitude": -45.6589
+  },
+  {
+    "state": "MA",
+    "ibge": 2100907,
+    "city": "Araioses",
+    "latitude": -2.89091,
+    "longitude": -41.905
+  },
+  {
+    "state": "MA",
+    "ibge": 2100956,
+    "city": "Arame",
+    "latitude": -4.88347,
+    "longitude": -46.0032
+  },
+  {
+    "state": "MA",
+    "ibge": 2101004,
+    "city": "Arari",
+    "latitude": -3.45214,
+    "longitude": -44.7665
+  },
+  {
+    "state": "MA",
+    "ibge": 2101103,
+    "city": "Axixá",
+    "latitude": -2.83939,
+    "longitude": -44.062
+  },
+  {
+    "state": "MA",
+    "ibge": 2101202,
+    "city": "Bacabal",
+    "latitude": -4.22447,
+    "longitude": -44.7832
+  },
+  {
+    "state": "MA",
+    "ibge": 2101251,
+    "city": "Bacabeira",
+    "latitude": -2.96452,
+    "longitude": -44.3164
+  },
+  {
+    "state": "MA",
+    "ibge": 2101301,
+    "city": "Bacuri",
+    "latitude": -1.6965,
+    "longitude": -45.1328
+  },
+  {
+    "state": "MA",
+    "ibge": 2101350,
+    "city": "Bacurituba",
+    "latitude": -2.71,
+    "longitude": -44.7329
+  },
+  {
+    "state": "MA",
+    "ibge": 2101400,
+    "city": "Balsas",
+    "latitude": -7.53214,
+    "longitude": -46.0372
+  },
+  {
+    "state": "MA",
+    "ibge": 2101509,
+    "city": "Barão de Grajaú",
+    "latitude": -6.74463,
+    "longitude": -43.0261
+  },
+  {
+    "state": "MA",
+    "ibge": 2101608,
+    "city": "Barra do Corda",
+    "latitude": -5.49682,
+    "longitude": -45.2485
+  },
+  {
+    "state": "MA",
+    "ibge": 2101707,
+    "city": "Barreirinhas",
+    "latitude": -2.75863,
+    "longitude": -42.8232
+  },
+  {
+    "state": "MA",
+    "ibge": 2101772,
+    "city": "Bela Vista do Maranhão",
+    "latitude": -3.72618,
+    "longitude": -45.3075
+  },
+  {
+    "state": "MA",
+    "ibge": 2101731,
+    "city": "Belágua",
+    "latitude": -3.15485,
+    "longitude": -43.5122
+  },
+  {
+    "state": "MA",
+    "ibge": 2101806,
+    "city": "Benedito Leite",
+    "latitude": -7.21037,
+    "longitude": -44.5577
+  },
+  {
+    "state": "MA",
+    "ibge": 2101905,
+    "city": "Bequimão",
+    "latitude": -2.44162,
+    "longitude": -44.7842
+  },
+  {
+    "state": "MA",
+    "ibge": 2101939,
+    "city": "Bernardo do Mearim",
+    "latitude": -4.62666,
+    "longitude": -44.7608
+  },
+  {
+    "state": "MA",
+    "ibge": 2101970,
+    "city": "Boa Vista do Gurupi",
+    "latitude": -1.77614,
+    "longitude": -46.3002
+  },
+  {
+    "state": "MA",
+    "ibge": 2102002,
+    "city": "Bom Jardim",
+    "latitude": -3.54129,
+    "longitude": -45.606
+  },
+  {
+    "state": "MA",
+    "ibge": 2102036,
+    "city": "Bom Jesus das Selvas",
+    "latitude": -4.47638,
+    "longitude": -46.8641
+  },
+  {
+    "state": "MA",
+    "ibge": 2102077,
+    "city": "Bom Lugar",
+    "latitude": -4.37311,
+    "longitude": -45.0326
+  },
+  {
+    "state": "MA",
+    "ibge": 2102101,
+    "city": "Brejo",
+    "latitude": -3.67796,
+    "longitude": -42.7527
+  },
+  {
+    "state": "MA",
+    "ibge": 2102150,
+    "city": "Brejo de Areia",
+    "latitude": -4.334,
+    "longitude": -45.581
+  },
+  {
+    "state": "MA",
+    "ibge": 2102200,
+    "city": "Buriti",
+    "latitude": -3.94169,
+    "longitude": -42.9179
+  },
+  {
+    "state": "MA",
+    "ibge": 2102309,
+    "city": "Buriti Bravo",
+    "latitude": -5.83239,
+    "longitude": -43.8353
+  },
+  {
+    "state": "MA",
+    "ibge": 2102325,
+    "city": "Buriticupu",
+    "latitude": -4.32375,
+    "longitude": -46.4409
+  },
+  {
+    "state": "MA",
+    "ibge": 2102358,
+    "city": "Buritirana",
+    "latitude": -5.59823,
+    "longitude": -47.0131
+  },
+  {
+    "state": "MA",
+    "ibge": 2102374,
+    "city": "Cachoeira Grande",
+    "latitude": -2.93074,
+    "longitude": -44.0528
+  },
+  {
+    "state": "MA",
+    "ibge": 2102408,
+    "city": "Cajapió",
+    "latitude": -2.87326,
+    "longitude": -44.6741
+  },
+  {
+    "state": "MA",
+    "ibge": 2102507,
+    "city": "Cajari",
+    "latitude": -3.32742,
+    "longitude": -45.0145
+  },
+  {
+    "state": "MA",
+    "ibge": 2102556,
+    "city": "Campestre do Maranhão",
+    "latitude": -6.17075,
+    "longitude": -47.3625
+  },
+  {
+    "state": "MA",
+    "ibge": 2102606,
+    "city": "Cândido Mendes",
+    "latitude": -1.43265,
+    "longitude": -45.7161
+  },
+  {
+    "state": "MA",
+    "ibge": 2102705,
+    "city": "Cantanhede",
+    "latitude": -3.63757,
+    "longitude": -44.383
+  },
+  {
+    "state": "MA",
+    "ibge": 2102754,
+    "city": "Capinzal do Norte",
+    "latitude": -4.7236,
+    "longitude": -44.328
+  },
+  {
+    "state": "MA",
+    "ibge": 2102804,
+    "city": "Carolina",
+    "latitude": -7.33584,
+    "longitude": -47.4634
+  },
+  {
+    "state": "MA",
+    "ibge": 2102903,
+    "city": "Carutapera",
+    "latitude": -1.19696,
+    "longitude": -46.0085
+  },
+  {
+    "state": "MA",
+    "ibge": 2103000,
+    "city": "Caxias",
+    "latitude": -4.86505,
+    "longitude": -43.3617
+  },
+  {
+    "state": "MA",
+    "ibge": 2103109,
+    "city": "Cedral",
+    "latitude": -2.00027,
+    "longitude": -44.5281
+  },
+  {
+    "state": "MA",
+    "ibge": 2103125,
+    "city": "Central do Maranhão",
+    "latitude": -2.19831,
+    "longitude": -44.8254
+  },
+  {
+    "state": "MA",
+    "ibge": 2103158,
+    "city": "Centro do Guilherme",
+    "latitude": -2.44891,
+    "longitude": -46.0345
+  },
+  {
+    "state": "MA",
+    "ibge": 2103174,
+    "city": "Centro Novo do Maranhão",
+    "latitude": -2.12696,
+    "longitude": -46.1228
+  },
+  {
+    "state": "MA",
+    "ibge": 2103208,
+    "city": "Chapadinha",
+    "latitude": -3.73875,
+    "longitude": -43.3538
+  },
+  {
+    "state": "MA",
+    "ibge": 2103257,
+    "city": "Cidelândia",
+    "latitude": -5.17465,
+    "longitude": -47.7781
+  },
+  {
+    "state": "MA",
+    "ibge": 2103307,
+    "city": "Codó",
+    "latitude": -4.45562,
+    "longitude": -43.8924
+  },
+  {
+    "state": "MA",
+    "ibge": 2103406,
+    "city": "Coelho Neto",
+    "latitude": -4.25245,
+    "longitude": -43.0108
+  },
+  {
+    "state": "MA",
+    "ibge": 2103505,
+    "city": "Colinas",
+    "latitude": -6.03199,
+    "longitude": -44.2543
+  },
+  {
+    "state": "MA",
+    "ibge": 2103554,
+    "city": "Conceição do Lago-Açu",
+    "latitude": -3.85142,
+    "longitude": -44.8895
+  },
+  {
+    "state": "MA",
+    "ibge": 2103604,
+    "city": "Coroatá",
+    "latitude": -4.13442,
+    "longitude": -44.1244
+  },
+  {
+    "state": "MA",
+    "ibge": 2103703,
+    "city": "Cururupu",
+    "latitude": -1.81475,
+    "longitude": -44.8644
+  },
+  {
+    "state": "MA",
+    "ibge": 2103752,
+    "city": "Davinópolis",
+    "latitude": -5.54637,
+    "longitude": -47.4217
+  },
+  {
+    "state": "MA",
+    "ibge": 2103802,
+    "city": "Dom Pedro",
+    "latitude": -5.03518,
+    "longitude": -44.4409
+  },
+  {
+    "state": "MA",
+    "ibge": 2103901,
+    "city": "Duque Bacelar",
+    "latitude": -4.15002,
+    "longitude": -42.9477
+  },
+  {
+    "state": "MA",
+    "ibge": 2104008,
+    "city": "Esperantinópolis",
+    "latitude": -4.87938,
+    "longitude": -44.6926
+  },
+  {
+    "state": "MA",
+    "ibge": 2104057,
+    "city": "Estreito",
+    "latitude": -6.56077,
+    "longitude": -47.4431
+  },
+  {
+    "state": "MA",
+    "ibge": 2104073,
+    "city": "Feira Nova do Maranhão",
+    "latitude": -6.96508,
+    "longitude": -46.6786
+  },
+  {
+    "state": "MA",
+    "ibge": 2104081,
+    "city": "Fernando Falcão",
+    "latitude": -6.16207,
+    "longitude": -44.8979
+  },
+  {
+    "state": "MA",
+    "ibge": 2104099,
+    "city": "Formosa da Serra Negra",
+    "latitude": -6.44017,
+    "longitude": -46.1916
+  },
+  {
+    "state": "MA",
+    "ibge": 2104107,
+    "city": "Fortaleza dos Nogueiras",
+    "latitude": -6.95983,
+    "longitude": -46.1749
+  },
+  {
+    "state": "MA",
+    "ibge": 2104206,
+    "city": "Fortuna",
+    "latitude": -5.72792,
+    "longitude": -44.1565
+  },
+  {
+    "state": "MA",
+    "ibge": 2104305,
+    "city": "Godofredo Viana",
+    "latitude": -1.40259,
+    "longitude": -45.7795
+  },
+  {
+    "state": "MA",
+    "ibge": 2104404,
+    "city": "Gonçalves Dias",
+    "latitude": -5.1475,
+    "longitude": -44.3013
+  },
+  {
+    "state": "MA",
+    "ibge": 2104503,
+    "city": "Governador Archer",
+    "latitude": -5.02078,
+    "longitude": -44.2754
+  },
+  {
+    "state": "MA",
+    "ibge": 2104552,
+    "city": "Governador Edison Lobão",
+    "latitude": -5.74973,
+    "longitude": -47.3646
+  },
+  {
+    "state": "MA",
+    "ibge": 2104602,
+    "city": "Governador Eugênio Barros",
+    "latitude": -5.31897,
+    "longitude": -44.2469
+  },
+  {
+    "state": "MA",
+    "ibge": 2104628,
+    "city": "Governador Luiz Rocha",
+    "latitude": -5.47835,
+    "longitude": -44.0774
+  },
+  {
+    "state": "MA",
+    "ibge": 2104651,
+    "city": "Governador Newton Bello",
+    "latitude": -3.43245,
+    "longitude": -45.6619
+  },
+  {
+    "state": "MA",
+    "ibge": 2104677,
+    "city": "Governador Nunes Freire",
+    "latitude": -2.12899,
+    "longitude": -45.8777
+  },
+  {
+    "state": "MA",
+    "ibge": 2104701,
+    "city": "Graça Aranha",
+    "latitude": -5.40547,
+    "longitude": -44.3358
+  },
+  {
+    "state": "MA",
+    "ibge": 2104800,
+    "city": "Grajaú",
+    "latitude": -5.81367,
+    "longitude": -46.1462
+  },
+  {
+    "state": "MA",
+    "ibge": 2104909,
+    "city": "Guimarães",
+    "latitude": -2.12755,
+    "longitude": -44.602
+  },
+  {
+    "state": "MA",
+    "ibge": 2105005,
+    "city": "Humberto de Campos",
+    "latitude": -2.59828,
+    "longitude": -43.4649
+  },
+  {
+    "state": "MA",
+    "ibge": 2105104,
+    "city": "Icatu",
+    "latitude": -2.77206,
+    "longitude": -44.0501
+  },
+  {
+    "state": "MA",
+    "ibge": 2105153,
+    "city": "Igarapé do Meio",
+    "latitude": -3.65771,
+    "longitude": -45.2114
+  },
+  {
+    "state": "MA",
+    "ibge": 2105203,
+    "city": "Igarapé Grande",
+    "latitude": -4.6625,
+    "longitude": -44.8558
+  },
+  {
+    "state": "MA",
+    "ibge": 2105302,
+    "city": "Imperatriz",
+    "latitude": -5.51847,
+    "longitude": -47.4777
+  },
+  {
+    "state": "MA",
+    "ibge": 2105351,
+    "city": "Itaipava do Grajaú",
+    "latitude": -5.14252,
+    "longitude": -45.7877
+  },
+  {
+    "state": "MA",
+    "ibge": 2105401,
+    "city": "Itapecuru Mirim",
+    "latitude": -3.40202,
+    "longitude": -44.3508
+  },
+  {
+    "state": "MA",
+    "ibge": 2105427,
+    "city": "Itinga do Maranhão",
+    "latitude": -4.45293,
+    "longitude": -47.5235
+  },
+  {
+    "state": "MA",
+    "ibge": 2105450,
+    "city": "Jatobá",
+    "latitude": -5.82282,
+    "longitude": -44.2153
+  },
+  {
+    "state": "MA",
+    "ibge": 2105476,
+    "city": "Jenipapo dos Vieiras",
+    "latitude": -5.36237,
+    "longitude": -45.6356
+  },
+  {
+    "state": "MA",
+    "ibge": 2105500,
+    "city": "João Lisboa",
+    "latitude": -5.44363,
+    "longitude": -47.4064
+  },
+  {
+    "state": "MA",
+    "ibge": 2105609,
+    "city": "Joselândia",
+    "latitude": -4.98611,
+    "longitude": -44.6958
+  },
+  {
+    "state": "MA",
+    "ibge": 2105658,
+    "city": "Junco do Maranhão",
+    "latitude": -1.83888,
+    "longitude": -46.09
+  },
+  {
+    "state": "MA",
+    "ibge": 2105708,
+    "city": "Lago da Pedra",
+    "latitude": -4.56974,
+    "longitude": -45.1319
+  },
+  {
+    "state": "MA",
+    "ibge": 2105807,
+    "city": "Lago do Junco",
+    "latitude": -4.609,
+    "longitude": -45.049
+  },
+  {
+    "state": "MA",
+    "ibge": 2105948,
+    "city": "Lago dos Rodrigues",
+    "latitude": -4.61173,
+    "longitude": -44.9798
+  },
+  {
+    "state": "MA",
+    "ibge": 2105906,
+    "city": "Lago Verde",
+    "latitude": -3.94661,
+    "longitude": -44.826
+  },
+  {
+    "state": "MA",
+    "ibge": 2105922,
+    "city": "Lagoa do Mato",
+    "latitude": -6.05023,
+    "longitude": -43.5333
+  },
+  {
+    "state": "MA",
+    "ibge": 2105963,
+    "city": "Lagoa Grande do Maranhão",
+    "latitude": -4.98893,
+    "longitude": -45.3816
+  },
+  {
+    "state": "MA",
+    "ibge": 2105989,
+    "city": "Lajeado Novo",
+    "latitude": -6.18539,
+    "longitude": -47.0293
+  },
+  {
+    "state": "MA",
+    "ibge": 2106003,
+    "city": "Lima Campos",
+    "latitude": -4.51837,
+    "longitude": -44.4646
+  },
+  {
+    "state": "MA",
+    "ibge": 2106102,
+    "city": "Loreto",
+    "latitude": -7.08111,
+    "longitude": -45.1451
+  },
+  {
+    "state": "MA",
+    "ibge": 2106201,
+    "city": "Luís Domingues",
+    "latitude": -1.27492,
+    "longitude": -45.867
+  },
+  {
+    "state": "MA",
+    "ibge": 2106300,
+    "city": "Magalhães de Almeida",
+    "latitude": -3.39232,
+    "longitude": -42.2117
+  },
+  {
+    "state": "MA",
+    "ibge": 2106326,
+    "city": "Maracaçumé",
+    "latitude": -2.04918,
+    "longitude": -45.9587
+  },
+  {
+    "state": "MA",
+    "ibge": 2106359,
+    "city": "Marajá do Sena",
+    "latitude": -4.62806,
+    "longitude": -45.4531
+  },
+  {
+    "state": "MA",
+    "ibge": 2106375,
+    "city": "Maranhãozinho",
+    "latitude": -2.24078,
+    "longitude": -45.8507
+  },
+  {
+    "state": "MA",
+    "ibge": 2106409,
+    "city": "Mata Roma",
+    "latitude": -3.62035,
+    "longitude": -43.1112
+  },
+  {
+    "state": "MA",
+    "ibge": 2106508,
+    "city": "Matinha",
+    "latitude": -3.09849,
+    "longitude": -45.035
+  },
+  {
+    "state": "MA",
+    "ibge": 2106607,
+    "city": "Matões",
+    "latitude": -5.51359,
+    "longitude": -43.2018
+  },
+  {
+    "state": "MA",
+    "ibge": 2106631,
+    "city": "Matões do Norte",
+    "latitude": -3.6244,
+    "longitude": -44.5468
+  },
+  {
+    "state": "MA",
+    "ibge": 2106672,
+    "city": "Milagres do Maranhão",
+    "latitude": -3.57443,
+    "longitude": -42.6131
+  },
+  {
+    "state": "MA",
+    "ibge": 2106706,
+    "city": "Mirador",
+    "latitude": -6.37454,
+    "longitude": -44.3683
+  },
+  {
+    "state": "MA",
+    "ibge": 2106755,
+    "city": "Miranda do Norte",
+    "latitude": -3.56313,
+    "longitude": -44.5814
+  },
+  {
+    "state": "MA",
+    "ibge": 2106805,
+    "city": "Mirinzal",
+    "latitude": -2.07094,
+    "longitude": -44.7787
+  },
+  {
+    "state": "MA",
+    "ibge": 2106904,
+    "city": "Monção",
+    "latitude": -3.48125,
+    "longitude": -45.2496
+  },
+  {
+    "state": "MA",
+    "ibge": 2107001,
+    "city": "Montes Altos",
+    "latitude": -5.83067,
+    "longitude": -47.0673
+  },
+  {
+    "state": "MA",
+    "ibge": 2107100,
+    "city": "Morros",
+    "latitude": -2.85379,
+    "longitude": -44.0357
+  },
+  {
+    "state": "MA",
+    "ibge": 2107209,
+    "city": "Nina Rodrigues",
+    "latitude": -3.46788,
+    "longitude": -43.9134
+  },
+  {
+    "state": "MA",
+    "ibge": 2107258,
+    "city": "Nova Colinas",
+    "latitude": -7.12263,
+    "longitude": -46.2607
+  },
+  {
+    "state": "MA",
+    "ibge": 2107308,
+    "city": "Nova Iorque",
+    "latitude": -6.73047,
+    "longitude": -44.0471
+  },
+  {
+    "state": "MA",
+    "ibge": 2107357,
+    "city": "Nova Olinda do Maranhão",
+    "latitude": -2.84227,
+    "longitude": -45.6953
+  },
+  {
+    "state": "MA",
+    "ibge": 2107407,
+    "city": "Olho d'Água das Cunhãs",
+    "latitude": -4.13417,
+    "longitude": -45.1163
+  },
+  {
+    "state": "MA",
+    "ibge": 2107456,
+    "city": "Olinda Nova do Maranhão",
+    "latitude": -2.99295,
+    "longitude": -44.9897
+  },
+  {
+    "state": "MA",
+    "ibge": 2107506,
+    "city": "Paço do Lumiar",
+    "latitude": -2.51657,
+    "longitude": -44.1019
+  },
+  {
+    "state": "MA",
+    "ibge": 2107605,
+    "city": "Palmeirândia",
+    "latitude": -2.64433,
+    "longitude": -44.8933
+  },
+  {
+    "state": "MA",
+    "ibge": 2107704,
+    "city": "Paraibano",
+    "latitude": -6.4264,
+    "longitude": -43.9792
+  },
+  {
+    "state": "MA",
+    "ibge": 2107803,
+    "city": "Parnarama",
+    "latitude": -5.67365,
+    "longitude": -43.1011
+  },
+  {
+    "state": "MA",
+    "ibge": 2107902,
+    "city": "Passagem Franca",
+    "latitude": -6.17745,
+    "longitude": -43.7755
+  },
+  {
+    "state": "MA",
+    "ibge": 2108009,
+    "city": "Pastos Bons",
+    "latitude": -6.60296,
+    "longitude": -44.0745
+  },
+  {
+    "state": "MA",
+    "ibge": 2108058,
+    "city": "Paulino Neves",
+    "latitude": -2.72094,
+    "longitude": -42.5258
+  },
+  {
+    "state": "MA",
+    "ibge": 2108108,
+    "city": "Paulo Ramos",
+    "latitude": -4.44485,
+    "longitude": -45.2398
+  },
+  {
+    "state": "MA",
+    "ibge": 2108207,
+    "city": "Pedreiras",
+    "latitude": -4.56482,
+    "longitude": -44.6006
+  },
+  {
+    "state": "MA",
+    "ibge": 2108256,
+    "city": "Pedro do Rosário",
+    "latitude": -2.97272,
+    "longitude": -45.3493
+  },
+  {
+    "state": "MA",
+    "ibge": 2108306,
+    "city": "Penalva",
+    "latitude": -3.27674,
+    "longitude": -45.1768
+  },
+  {
+    "state": "MA",
+    "ibge": 2108405,
+    "city": "Peri Mirim",
+    "latitude": -2.57676,
+    "longitude": -44.8504
+  },
+  {
+    "state": "MA",
+    "ibge": 2108454,
+    "city": "Peritoró",
+    "latitude": -4.37459,
+    "longitude": -44.3369
+  },
+  {
+    "state": "MA",
+    "ibge": 2108504,
+    "city": "Pindaré-Mirim",
+    "latitude": -3.60985,
+    "longitude": -45.342
+  },
+  {
+    "state": "MA",
+    "ibge": 2108603,
+    "city": "Pinheiro",
+    "latitude": -2.52224,
+    "longitude": -45.0788
+  },
+  {
+    "state": "MA",
+    "ibge": 2108702,
+    "city": "Pio XII",
+    "latitude": -3.89315,
+    "longitude": -45.1759
+  },
+  {
+    "state": "MA",
+    "ibge": 2108801,
+    "city": "Pirapemas",
+    "latitude": -3.72041,
+    "longitude": -44.2216
+  },
+  {
+    "state": "MA",
+    "ibge": 2108900,
+    "city": "Poção de Pedras",
+    "latitude": -4.74626,
+    "longitude": -44.9432
+  },
+  {
+    "state": "MA",
+    "ibge": 2109007,
+    "city": "Porto Franco",
+    "latitude": -6.34149,
+    "longitude": -47.3962
+  },
+  {
+    "state": "MA",
+    "ibge": 2109056,
+    "city": "Porto Rico do Maranhão",
+    "latitude": -1.85925,
+    "longitude": -44.5842
+  },
+  {
+    "state": "MA",
+    "ibge": 2109106,
+    "city": "Presidente Dutra",
+    "latitude": -5.2898,
+    "longitude": -44.495
+  },
+  {
+    "state": "MA",
+    "ibge": 2109205,
+    "city": "Presidente Juscelino",
+    "latitude": -2.91872,
+    "longitude": -44.0715
+  },
+  {
+    "state": "MA",
+    "ibge": 2109239,
+    "city": "Presidente Médici",
+    "latitude": -2.38991,
+    "longitude": -45.82
+  },
+  {
+    "state": "MA",
+    "ibge": 2109270,
+    "city": "Presidente Sarney",
+    "latitude": -2.58799,
+    "longitude": -45.3595
+  },
+  {
+    "state": "MA",
+    "ibge": 2109304,
+    "city": "Presidente Vargas",
+    "latitude": -3.40787,
+    "longitude": -44.0234
+  },
+  {
+    "state": "MA",
+    "ibge": 2109403,
+    "city": "Primeira Cruz",
+    "latitude": -2.50568,
+    "longitude": -43.4232
+  },
+  {
+    "state": "MA",
+    "ibge": 2109452,
+    "city": "Raposa",
+    "latitude": -2.4254,
+    "longitude": -44.0973
+  },
+  {
+    "state": "MA",
+    "ibge": 2109502,
+    "city": "Riachão",
+    "latitude": -7.35819,
+    "longitude": -46.6225
+  },
+  {
+    "state": "MA",
+    "ibge": 2109551,
+    "city": "Ribamar Fiquene",
+    "latitude": -5.93067,
+    "longitude": -47.3888
+  },
+  {
+    "state": "MA",
+    "ibge": 2109601,
+    "city": "Rosário",
+    "latitude": -2.93444,
+    "longitude": -44.2531
+  },
+  {
+    "state": "MA",
+    "ibge": 2109700,
+    "city": "Sambaíba",
+    "latitude": -7.13447,
+    "longitude": -45.3515
+  },
+  {
+    "state": "MA",
+    "ibge": 2109759,
+    "city": "Santa Filomena do Maranhão",
+    "latitude": -5.49671,
+    "longitude": -44.5638
+  },
+  {
+    "state": "MA",
+    "ibge": 2109809,
+    "city": "Santa Helena",
+    "latitude": -2.24426,
+    "longitude": -45.29
+  },
+  {
+    "state": "MA",
+    "ibge": 2109908,
+    "city": "Santa Inês",
+    "latitude": -3.65112,
+    "longitude": -45.3774
+  },
+  {
+    "state": "MA",
+    "ibge": 2110005,
+    "city": "Santa Luzia",
+    "latitude": -4.06873,
+    "longitude": -45.69
+  },
+  {
+    "state": "MA",
+    "ibge": 2110039,
+    "city": "Santa Luzia do Paruá",
+    "latitude": -2.51123,
+    "longitude": -45.7801
+  },
+  {
+    "state": "MA",
+    "ibge": 2110104,
+    "city": "Santa Quitéria do Maranhão",
+    "latitude": -3.49308,
+    "longitude": -42.5688
+  },
+  {
+    "state": "MA",
+    "ibge": 2110203,
+    "city": "Santa Rita",
+    "latitude": -3.14241,
+    "longitude": -44.3211
+  },
+  {
+    "state": "MA",
+    "ibge": 2110237,
+    "city": "Santana do Maranhão",
+    "latitude": -3.109,
+    "longitude": -42.4064
+  },
+  {
+    "state": "MA",
+    "ibge": 2110278,
+    "city": "Santo Amaro do Maranhão",
+    "latitude": -2.50068,
+    "longitude": -43.238
+  },
+  {
+    "state": "MA",
+    "ibge": 2110302,
+    "city": "Santo Antônio dos Lopes",
+    "latitude": -4.86613,
+    "longitude": -44.3653
+  },
+  {
+    "state": "MA",
+    "ibge": 2110401,
+    "city": "São Benedito do Rio Preto",
+    "latitude": -3.33515,
+    "longitude": -43.5287
+  },
+  {
+    "state": "MA",
+    "ibge": 2110500,
+    "city": "São Bento",
+    "latitude": -2.69781,
+    "longitude": -44.8289
+  },
+  {
+    "state": "MA",
+    "ibge": 2110609,
+    "city": "São Bernardo",
+    "latitude": -3.37223,
+    "longitude": -42.4191
+  },
+  {
+    "state": "MA",
+    "ibge": 2110658,
+    "city": "São Domingos do Azeitão",
+    "latitude": -6.81471,
+    "longitude": -44.6509
+  },
+  {
+    "state": "MA",
+    "ibge": 2110708,
+    "city": "São Domingos do Maranhão",
+    "latitude": -5.58095,
+    "longitude": -44.3822
+  },
+  {
+    "state": "MA",
+    "ibge": 2110807,
+    "city": "São Félix de Balsas",
+    "latitude": -7.07535,
+    "longitude": -44.8092
+  },
+  {
+    "state": "MA",
+    "ibge": 2110856,
+    "city": "São Francisco do Brejão",
+    "latitude": -5.12584,
+    "longitude": -47.389
+  },
+  {
+    "state": "MA",
+    "ibge": 2110906,
+    "city": "São Francisco do Maranhão",
+    "latitude": -6.25159,
+    "longitude": -42.8668
+  },
+  {
+    "state": "MA",
+    "ibge": 2111003,
+    "city": "São João Batista",
+    "latitude": -2.95398,
+    "longitude": -44.7953
+  },
+  {
+    "state": "MA",
+    "ibge": 2111029,
+    "city": "São João do Carú",
+    "latitude": -3.5503,
+    "longitude": -46.2507
+  },
+  {
+    "state": "MA",
+    "ibge": 2111052,
+    "city": "São João do Paraíso",
+    "latitude": -6.45634,
+    "longitude": -47.0594
+  },
+  {
+    "state": "MA",
+    "ibge": 2111078,
+    "city": "São João do Soter",
+    "latitude": -5.10821,
+    "longitude": -43.8163
+  },
+  {
+    "state": "MA",
+    "ibge": 2111102,
+    "city": "São João dos Patos",
+    "latitude": -6.4934,
+    "longitude": -43.7036
+  },
+  {
+    "state": "MA",
+    "ibge": 2111201,
+    "city": "São José de Ribamar",
+    "latitude": -2.54704,
+    "longitude": -44.0597
+  },
+  {
+    "state": "MA",
+    "ibge": 2111250,
+    "city": "São José dos Basílios",
+    "latitude": -5.05493,
+    "longitude": -44.5809
+  },
+  {
+    "state": "MA",
+    "ibge": 2111300,
+    "city": "São Luís",
+    "latitude": -2.53874,
+    "longitude": -44.2825
+  },
+  {
+    "state": "MA",
+    "ibge": 2111409,
+    "city": "São Luís Gonzaga do Maranhão",
+    "latitude": -4.38541,
+    "longitude": -44.6654
+  },
+  {
+    "state": "MA",
+    "ibge": 2111508,
+    "city": "São Mateus do Maranhão",
+    "latitude": -4.03736,
+    "longitude": -44.4707
+  },
+  {
+    "state": "MA",
+    "ibge": 2111532,
+    "city": "São Pedro da Água Branca",
+    "latitude": -5.08472,
+    "longitude": -48.4291
+  },
+  {
+    "state": "MA",
+    "ibge": 2111573,
+    "city": "São Pedro dos Crentes",
+    "latitude": -6.82389,
+    "longitude": -46.5319
+  },
+  {
+    "state": "MA",
+    "ibge": 2111607,
+    "city": "São Raimundo das Mangabeiras",
+    "latitude": -7.02183,
+    "longitude": -45.4809
+  },
+  {
+    "state": "MA",
+    "ibge": 2111631,
+    "city": "São Raimundo do Doca Bezerra",
+    "latitude": -5.11053,
+    "longitude": -45.0696
+  },
+  {
+    "state": "MA",
+    "ibge": 2111672,
+    "city": "São Roberto",
+    "latitude": -5.0231,
+    "longitude": -45.001
+  },
+  {
+    "state": "MA",
+    "ibge": 2111706,
+    "city": "São Vicente Ferrer",
+    "latitude": -2.89487,
+    "longitude": -44.8681
+  },
+  {
+    "state": "MA",
+    "ibge": 2111722,
+    "city": "Satubinha",
+    "latitude": -4.04913,
+    "longitude": -45.2457
+  },
+  {
+    "state": "MA",
+    "ibge": 2111748,
+    "city": "Senador Alexandre Costa",
+    "latitude": -5.25096,
+    "longitude": -44.0533
+  },
+  {
+    "state": "MA",
+    "ibge": 2111763,
+    "city": "Senador La Rocque",
+    "latitude": -5.4461,
+    "longitude": -47.2959
+  },
+  {
+    "state": "MA",
+    "ibge": 2111789,
+    "city": "Serrano do Maranhão",
+    "latitude": -1.85229,
+    "longitude": -45.1207
+  },
+  {
+    "state": "MA",
+    "ibge": 2111805,
+    "city": "Sítio Novo",
+    "latitude": -5.87601,
+    "longitude": -46.7033
+  },
+  {
+    "state": "MA",
+    "ibge": 2111904,
+    "city": "Sucupira do Norte",
+    "latitude": -6.47839,
+    "longitude": -44.1919
+  },
+  {
+    "state": "MA",
+    "ibge": 2111953,
+    "city": "Sucupira do Riachão",
+    "latitude": -6.40858,
+    "longitude": -43.5455
+  },
+  {
+    "state": "MA",
+    "ibge": 2112001,
+    "city": "Tasso Fragoso",
+    "latitude": -8.4662,
+    "longitude": -45.7536
+  },
+  {
+    "state": "MA",
+    "ibge": 2112100,
+    "city": "Timbiras",
+    "latitude": -4.25597,
+    "longitude": -43.932
+  },
+  {
+    "state": "MA",
+    "ibge": 2112209,
+    "city": "Timon",
+    "latitude": -5.09769,
+    "longitude": -42.8329
+  },
+  {
+    "state": "MA",
+    "ibge": 2112233,
+    "city": "Trizidela do Vale",
+    "latitude": -4.538,
+    "longitude": -44.628
+  },
+  {
+    "state": "MA",
+    "ibge": 2112274,
+    "city": "Tufilândia",
+    "latitude": -3.67355,
+    "longitude": -45.6238
+  },
+  {
+    "state": "MA",
+    "ibge": 2112308,
+    "city": "Tuntum",
+    "latitude": -5.25476,
+    "longitude": -44.6444
+  },
+  {
+    "state": "MA",
+    "ibge": 2112407,
+    "city": "Turiaçu",
+    "latitude": -1.65893,
+    "longitude": -45.3798
+  },
+  {
+    "state": "MA",
+    "ibge": 2112456,
+    "city": "Turilândia",
+    "latitude": -2.21638,
+    "longitude": -45.3044
+  },
+  {
+    "state": "MA",
+    "ibge": 2112506,
+    "city": "Tutóia",
+    "latitude": -2.76141,
+    "longitude": -42.2755
+  },
+  {
+    "state": "MA",
+    "ibge": 2112605,
+    "city": "Urbano Santos",
+    "latitude": -3.20642,
+    "longitude": -43.3878
+  },
+  {
+    "state": "MA",
+    "ibge": 2112704,
+    "city": "Vargem Grande",
+    "latitude": -3.53639,
+    "longitude": -43.917
+  },
+  {
+    "state": "MA",
+    "ibge": 2112803,
+    "city": "Viana",
+    "latitude": -3.20451,
+    "longitude": -44.9912
+  },
+  {
+    "state": "MA",
+    "ibge": 2112852,
+    "city": "Vila Nova dos Martírios",
+    "latitude": -5.18889,
+    "longitude": -48.1336
+  },
+  {
+    "state": "MA",
+    "ibge": 2112902,
+    "city": "Vitória do Mearim",
+    "latitude": -3.45125,
+    "longitude": -44.8643
+  },
+  {
+    "state": "MA",
+    "ibge": 2113009,
+    "city": "Vitorino Freire",
+    "latitude": -4.28184,
+    "longitude": -45.2505
+  },
+  {
+    "state": "MA",
+    "ibge": 2114007,
+    "city": "Zé Doca",
+    "latitude": -3.27014,
+    "longitude": -45.6553
+  }
+]
