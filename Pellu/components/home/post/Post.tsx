@@ -251,12 +251,13 @@ const Post = ({ post, visiblePostId, showActions = true }: PostProps) => {
           <TouchableOpacity
             style={styles.touchable}
             onPress={onChangeLike}>
-            <Ionicons
-              data-testid={likedPost ? 'liked-post-icon' : 'unliked-post-icon'}
-              name={likedPost ? 'heart' : 'heart-outline'}
-              color={likedPost ? 'red' : 'black'}
-              size={24}
-            />
+              <div data-testid={'liked-post-icon'}>
+                <Ionicons
+                  name={likedPost ? 'heart' : 'heart-outline'}
+                  color={likedPost ? 'red' : 'black'}
+                  size={24}
+                />
+              </div>
           </TouchableOpacity>
 
           <TouchableOpacity
