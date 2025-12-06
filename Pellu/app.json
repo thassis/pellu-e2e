@@ -23,7 +23,9 @@
     },
     "web": {
       "output": "static",
-      "favicon": "./assets/images/favicon.png"
+      "favicon": "./dist/assets/images/favicon.png",
+      "publicPath": "/pellu-e2e/",
+      "bundler": "metro"
     },
     "plugins": [
       "expo-router",
