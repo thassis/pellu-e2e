@@ -198,7 +198,7 @@ const Post = ({ post, visiblePostId, showActions = true }: PostProps) => {
                   onPress={() => handleDoubleTap(image)}
                   style={{ width: defaultWidth, height: defaultHeight }}
                 >
-                  <View style={{ width: defaultWidth, height: defaultHeight }}>
+                  <div data-testid="post-image" style={{ width: defaultWidth, height: defaultHeight }}>
                     <ImageUri
                       size="large"
                       name={image}
@@ -221,7 +221,7 @@ const Post = ({ post, visiblePostId, showActions = true }: PostProps) => {
                         <MaterialDesignIcon name="heart" size={80} color="red" />
                       </Animated.View>
                     )}
-                  </View>
+                  </div>
                 </TouchableWithoutFeedback>
               );
             }}
@@ -268,7 +268,9 @@ const Post = ({ post, visiblePostId, showActions = true }: PostProps) => {
               type: 'comments',
             })}
           >
-            <CommentIcon size={20} />
+            <div data-testid={'comment-post-icon'}>
+              <CommentIcon size={20} />
+            </div>
           </TouchableOpacity>
 
           {/* <TouchableOpacity
