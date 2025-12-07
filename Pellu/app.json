@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Pellu",
-    "slug": "Pellu",
+    "slug": "pellu",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -23,10 +23,11 @@
     },
     "web": {
       "output": "static",
-      "favicon": "./dist/assets/images/favicon.png",
+      "favicon": "./assets/images/favicon.png",
       "publicPath": "/pellu-e2e/",
       "bundler": "metro"
     },
+    "homepage": "/pellu-e2e",
     "plugins": [
       "expo-router",
       [

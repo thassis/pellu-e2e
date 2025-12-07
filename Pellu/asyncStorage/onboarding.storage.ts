@@ -28,6 +28,7 @@ export const OnboardingStorage = {
   },
   getWasShown: async (): Promise<boolean> => {
     const onboardingCompleted = await OnboardingStorage.get();
+    console.log({ onboardingCompleted })
     return onboardingCompleted !== 'true';
   }
 };

@@ -49,5 +49,3 @@ app-example
 /playwright/.auth/
 
 .yarn/cache/
-
-env.js
